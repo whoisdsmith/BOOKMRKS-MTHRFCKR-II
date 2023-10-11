@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Open DB Directories, and Services Search
 
 ## Open DB Directories, and Services Search

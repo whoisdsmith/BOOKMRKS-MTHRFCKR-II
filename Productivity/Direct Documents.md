@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Direct Documents
 
 ## Direct Documents

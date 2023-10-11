@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Web Animation
 
 ## Web Animation

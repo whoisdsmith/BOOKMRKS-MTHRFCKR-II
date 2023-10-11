@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Glossaries and Dictionaries
 
 ## Glossaries and Dictionaries

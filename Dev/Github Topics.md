@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Github Topics
 
 ## GH Stars

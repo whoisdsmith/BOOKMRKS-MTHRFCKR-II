@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Google Custom Search
 
 ## Google Custom Search

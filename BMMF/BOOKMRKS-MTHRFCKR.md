@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # BOOKMRKS-MTHRFCKR
 
 ## BOOKMRKS-MTHRFCKR

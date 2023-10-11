@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Newspaper Sites
 
 ## Newspaper Sites

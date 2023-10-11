@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Dev-Sites
 
 ## Dev-Sites

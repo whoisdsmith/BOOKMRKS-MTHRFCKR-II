@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Open Directory Search
 
 ## Open Directory Search

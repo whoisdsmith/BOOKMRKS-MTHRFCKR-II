@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Premium Link Generaters
 
 ## Premium Link Generaters

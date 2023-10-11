@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Mockup's
 
 ## Mockup's

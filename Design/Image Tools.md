@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Image Tools
 
 ## Image Tools

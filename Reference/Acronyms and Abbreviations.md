@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Acronyms and Abbreviations
 
 ## Acronyms and Abbreviations

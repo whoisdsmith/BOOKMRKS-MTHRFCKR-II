@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Files and Downloads Search
 
 ## Files and Downloads Search

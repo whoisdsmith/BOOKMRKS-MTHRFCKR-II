@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # SEARCH PARTY MTHRFCKR
 
 ## SEARCH PARTY MTHRFCKR

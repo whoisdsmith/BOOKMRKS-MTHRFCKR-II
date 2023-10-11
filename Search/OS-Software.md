@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # OS-Software
 
 ## OS-Software

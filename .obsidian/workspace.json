@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "33a7fdf05c0bb1fd",
+        "id": "32a909c40c65d89e",
         "type": "tabs",
         "children": [
           {
-            "id": "b34b6dde9a1f5493",
+            "id": "cb79ff260c4e5a9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/GH Stars.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/GH Stars.md",
+                "file": "WebDev/Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/GH Stars.md",
+                "file": "WebDev/Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,16 +123,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/GH Stars.md"
+                "file": "WebDev/Website.md"
               }
+            }
+          },
+          {
+            "id": "b3dcce3b97a17313",
+            "type": "leaf",
+            "state": {
+              "type": "tags-overview-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
+    "width": 381.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -150,37 +154,40 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "bulk-exporter:Bulk Exporter Preview": false
+      "bulk-exporter:Bulk Exporter Preview": false,
+      "tags-overview:Tags overview": false,
+      "tag-page-md:Refresh tag page": false
     }
   },
-  "active": "b34b6dde9a1f5493",
+  "active": "cb79ff260c4e5a9d",
   "lastOpenFiles": [
-    "Dev/GH README.md",
-    "Dev/Gitbook.md",
-    "Dev/Github Topics.md",
-    "Dev/Github.md",
-    "Dev/GH Stars.md",
-    "README.md",
-    "Dev/GH Docs.md",
-    "Dev/GH Tools.md",
-    "Dev/GH Templates.md",
-    "Dev/GH Actions.md",
-    "BMMF/fmhy2.md",
-    "AI/AI.md",
-    "BMMF/BMMF.md",
-    "Browser/Browser.md",
-    "Design/Design.md",
-    "Dev/Dev.md",
-    "Media/Media.md",
-    "Piracy/Piracy.md",
-    "Productivity/Productivity.md",
-    "Programming/Programming.md",
-    "Reference/Reference.md",
-    "Search/Search.md",
-    "Social/Social.md",
-    "Tech/Tech.md",
-    "Tools/Tools.md",
-    "WebDev/WebDev.md",
+    "WebDev/Website-Host-Domains.md",
+    "WebDev/Website.md",
+    "WebDev/Website2.md",
+    "WebDev/Website-Wordpress-WP Resources.md",
+    "WebDev/Website-Wordpress.md",
+    "WebDev/Website-Website Monitoring.md",
+    "WebDev/Website-Status Page.md",
+    "WebDev/Website-Static Sites.md",
+    "WebDev/Website-Server.md",
+    "WebDev/Website-Self-Hosted.md",
+    "WebDev/Website-Landing Page.md",
+    "WebDev/Website-Host-Domains-Hosting.md",
+    "WebDev/Website-Host-Domains-Free Hosting.md",
+    "WebDev/Website-Host-Domains-Domains.md",
+    "WebDev/Website125.md",
+    "WebDev/Website124.md",
+    "WebDev/Website123.md",
+    "WebDev/Website122.md",
+    "WebDev/Website121.md",
+    "WebDev/Website120.md",
+    "WebDev/Website119.md",
+    "WebDev/Website118.md",
+    "WebDev/Website117.md",
+    "WebDev/Website116.md",
+    "WebDev/Website115.md",
+    "WebDev/Website114.md",
+    "Books",
     "Social",
     "WebDev",
     "Tools",
@@ -189,7 +196,6 @@
     "Reference",
     "Programming",
     "Productivity",
-    "Piracy",
-    "Media"
+    "Piracy"
   ]
 }

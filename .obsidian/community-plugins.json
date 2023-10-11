@@ -27,5 +27,11 @@
   "swiss-army-knife",
   "text-conversions",
   "theme-picker",
-  "vault-2-book"
+  "vault-2-book",
+  "dataview",
+  "metadata-menu",
+  "tags-overview",
+  "copy-metadata",
+  "tag-page-md",
+  "vox"
 ]

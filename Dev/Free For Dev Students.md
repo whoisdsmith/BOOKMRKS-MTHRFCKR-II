@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Free For Dev Students
 
 ## Free For Dev Students

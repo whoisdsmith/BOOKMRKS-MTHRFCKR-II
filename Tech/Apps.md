@@ -1,10 +1,5 @@
 ---
-dg-publish: true
----
-
-# Apps
-
-## Apps
+ Apps
 
 [Home - wikmd](https://linbreux.github.io/wikmd) - A file based wiki that uses markdown
 

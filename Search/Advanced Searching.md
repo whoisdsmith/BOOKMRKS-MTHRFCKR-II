@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Advanced Searching
 
 ## Advanced Searching

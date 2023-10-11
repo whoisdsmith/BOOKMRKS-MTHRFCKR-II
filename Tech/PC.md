@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # PC
 
 ## PC-Hardware-Hard Drives

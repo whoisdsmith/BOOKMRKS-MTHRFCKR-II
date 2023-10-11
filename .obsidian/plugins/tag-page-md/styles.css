@@ -1,0 +1,29 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+.create-page-modal {
+	/* add margin to all children */
+	& > * {
+		margin: 10px;
+	}
+
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+
+	& form {
+		display: flex;
+		flex-direction: column;
+
+		& > input {
+			text-align: center;
+		}
+	}
+}
+

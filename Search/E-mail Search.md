@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # E-mail Search
 
 ## E-mail Search

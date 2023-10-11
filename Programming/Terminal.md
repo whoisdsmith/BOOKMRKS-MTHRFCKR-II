@@ -1,9 +1,4 @@
 ---
-dg-publish: true
----
-
-# Terminal
-
 ## Terminal
 
 [localhost.run-localhost.run](http://localhost.run) - Connect web applications running on your computer to the internet instantly

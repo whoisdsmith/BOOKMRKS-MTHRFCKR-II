@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Similiar Sites
 
 ## Similiar Sites

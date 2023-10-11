@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Serials & Keygen
 
 ## Serials & Keygen

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Direct Download
 
 ## Direct Download

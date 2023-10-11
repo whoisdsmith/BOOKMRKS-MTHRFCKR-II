@@ -1,7 +1,7 @@
 {
-  "findText": "## GH Stars",
+  "findText": "^---\\n\\n---",
   "replaceText": "",
-  "useRegEx": false,
+  "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
   "processLineBreak": true,

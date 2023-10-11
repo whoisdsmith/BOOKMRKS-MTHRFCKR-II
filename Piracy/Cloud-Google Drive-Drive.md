@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Cloud-Google Drive-Drive
 
 ## Cloud-Google Drive-Drive

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Real Estate
 
 ## Real Estate

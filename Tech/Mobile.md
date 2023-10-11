@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Mobile
 
 ## Mobile-Jailbreak
@@ -64,53 +60,27 @@ dg-publish: true
 
 ![](https://share.redd.it/preview/post/6mgou6)
 [[Tutorial] Apt-get & Aptitude & dpkg](https://www.reddit.com/r/jailbreak/comments/6mgou6/tutorial_aptget_aptitude_dpkg) - Yea, another tutorial /r/jailbreak... 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
-
----
-
----
 
 ---
 

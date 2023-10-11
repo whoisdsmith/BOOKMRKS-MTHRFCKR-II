@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # CV and Resume Search
 
 ## CV and Resume Search

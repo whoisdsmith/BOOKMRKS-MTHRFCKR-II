@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Papers and Journals
 
 ## Papers and Journals

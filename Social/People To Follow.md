@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # People To Follow
 
 ## People To Follow

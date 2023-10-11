@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Code & Dev & Tech
 
 ## Code & Dev & Tech

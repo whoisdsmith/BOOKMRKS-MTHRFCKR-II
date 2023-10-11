@@ -1,6 +1,6 @@
 {
   "outputFolder": "Static",
-  "exportQuery": "blog",
+  "exportQuery": "",
   "emptyTargetFolder": false,
   "assetPath": "assets",
   "outputFormat": "${blog}/${slug}",

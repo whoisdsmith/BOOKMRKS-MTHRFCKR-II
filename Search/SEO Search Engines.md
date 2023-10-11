@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # SEO Search Engines
 
 ## SEO Search Engines

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # PDF Management
 
 ## PDF Management

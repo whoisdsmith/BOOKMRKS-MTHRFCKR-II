@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Annotation and Highlighting
 
 ## Annotation and Highlighting

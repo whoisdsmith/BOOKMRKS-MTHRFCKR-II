@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # FTP & File Search
 
 ## FTP & File Search
@@ -60,53 +56,25 @@ dg-publish: true
 
 ![](https://www.kali.org/images/kali-logo.svg)
 [goofile](https://tools.kali.org/information-gathering/goofile) - Video goofile Usage Example Search for files from a domain (-d kali.org) of the PDF filetype (-f pdf): root@kali:~# goofile -d kali.org -f pdf 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
-
----
-
----
 - |Goofile v1.5-|Coded by Thomas (G13) Richards-|www.g13net.com-|code.google.com/p/goofile-
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
-
----
-
----
 - Searching in kali.org for pdf ======================================== Files found: ==================== docs.kali.org/pdf/kali-book-fr.pdf docs.kali.org/pdf/kali-book-es.pdf docs.
 2022-10-03T05:06:16.000Z
 #search #ftp #file
@@ -189,53 +157,25 @@ dg-publish: true
 
 ![](https://www.kali.org/images/kali-logo.svg)
 [goofile](https://www.kali.org/tools/goofile) - Video goofile Usage Example Search for files from a domain (-d kali.org) of the PDF filetype (-f pdf): root@kali:~# goofile -d kali.org -f pdf 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
-
----
-
----
 - |Goofile v1.5-|Coded by Thomas (G13) Richards-|www.g13net.com-|code.google.com/p/goofile-
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
 
----
-
----
-
----
 - Searching in kali.org for pdf ======================================== Files found: ==================== docs.kali.org/pdf/kali-book-fr.pdf docs.kali.org/pdf/kali-book-es.pdf docs.
 2022-11-10T17:02:19.000Z
 #search

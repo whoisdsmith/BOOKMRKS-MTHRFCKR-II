@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # OSINT Search
 
 ## OSINT Search

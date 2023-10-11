@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # TOOLS-MTHRFCKR
 
 ## TOOLS-MTHRFCKR

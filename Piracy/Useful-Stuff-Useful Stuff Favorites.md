@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Useful-Stuff-Useful Stuff Favorites
 
 ## Useful-Stuff-Useful Stuff Favorites

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Custom-Search-Engines
 
 ## Custom-Search-Engines

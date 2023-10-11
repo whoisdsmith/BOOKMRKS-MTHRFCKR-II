@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Adblock-Paywalls
 
 ## Adblock-Paywalls

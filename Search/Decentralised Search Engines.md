@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Decentralised Search Engines
 
 ## Decentralised Search Engines

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Cata-List Storage
 
 ## Cata-List Storage

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # DEV-MTHRFCKR
 
 ## DEV-MTHRFCKR

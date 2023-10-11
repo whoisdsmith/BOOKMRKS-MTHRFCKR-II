@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Win10
 
 ## Win10

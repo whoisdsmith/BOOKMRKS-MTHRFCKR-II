@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Video Search
 
 ## Video Search

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Tech Search
 
 ## Tech Search

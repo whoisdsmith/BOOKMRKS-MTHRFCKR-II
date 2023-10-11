@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Dev.to
 
 ## Dev.to

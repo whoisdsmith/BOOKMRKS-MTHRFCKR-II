@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Archived Pages
 
 ## Archived Pages

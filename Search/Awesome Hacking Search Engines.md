@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Awesome Hacking Search Engines
 
 ## Awesome Hacking Search Engines

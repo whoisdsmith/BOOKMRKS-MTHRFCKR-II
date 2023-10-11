@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Social Media Search
 
 ## Social Media Search

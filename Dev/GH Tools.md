@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # GH Tools
 
 ## GH Tools

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # C0D3BL0CK Custom Search Engines
 
 ## C0D3BL0CK Custom Search Engines

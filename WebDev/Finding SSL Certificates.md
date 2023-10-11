@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Finding SSL Certificates
 
 ## Finding SSL Certificates

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # OSINT Blogs
 
 ## OSINT Blogs

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Site Mapping Tools
 
 ## Site Mapping Tools

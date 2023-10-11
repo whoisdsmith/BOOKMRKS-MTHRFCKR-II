@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Blog and CMS
 
 ## Blog and CMS

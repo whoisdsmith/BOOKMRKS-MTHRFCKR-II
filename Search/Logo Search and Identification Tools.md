@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Logo Search and Identification Tools
 
 ## Logo Search and Identification Tools

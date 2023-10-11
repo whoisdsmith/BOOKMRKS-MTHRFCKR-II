@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Placeholder
 
 ## Placeholder

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Medical Search Engines
 
 ## Medical Search Engines

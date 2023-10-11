@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Dev Tools
 
 ## Dev Tools

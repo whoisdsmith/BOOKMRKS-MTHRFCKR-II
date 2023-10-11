@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # ILLEGAL-SERVICES
 
 ## ILLEGAL-SERVICES

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Obsidian Plugs
 
 ## Obsidian Plugs

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Finding Data and Statistics
 
 ## Finding Data and Statistics

@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Expert Search
 
 ## Expert Search

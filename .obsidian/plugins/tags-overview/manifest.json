@@ -1,0 +1,10 @@
+{
+  "id": "tags-overview",
+  "name": "Tags Overview",
+  "version": "0.1.4",
+  "minAppVersion": "0.15.0",
+  "description": "Adds an extended tags panel where tagged files can be overviewed, filtered and accessed in an easy way.",
+  "author": "Christian Wannerstedt",
+  "authorUrl": "https://github.com/christianwannerstedt",
+  "isDesktopOnly": true
+}

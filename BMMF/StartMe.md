@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
-# StartMe
 
 ## Bookmarks-StartMe
 

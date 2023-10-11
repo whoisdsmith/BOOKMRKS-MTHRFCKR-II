@@ -1,0 +1,11 @@
+{
+  "filterAnd": true,
+  "displayType": "compact",
+  "sortTags": "name",
+  "sortFiles": "name",
+  "keepFilters": true,
+  "storedFilters": "",
+  "showRelatedTags": true,
+  "showCalendarDates": true,
+  "dateFormat": "YYYY-MM-DD"
+}

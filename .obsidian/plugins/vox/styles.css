@@ -1,0 +1,36 @@
+.st-cate-row-edit.st-hidden,
+.st-cate-row-cross.st-hidden,
+.st-cate-row-check.st-hidden,
+.st-cate-row-trash.st-hidden {
+  display: none;
+}
+
+.st-hidden {
+  display: none;
+}
+
+.st-cate-example {
+  margin-bottom: 1rem;
+  font-size: var(--font-ui-small, 14px);
+}
+
+.st-inline-code,
+.st-block-code {
+  border-radius: var(--input-radius);
+  font-size: var(--font-ui-small, 14px);
+  background-color: var(--background-secondary-alt);
+}
+
+.st-inline-code {
+  margin: 0 0.25rem;
+  padding: 0 0.5rem;
+}
+
+.st-block-code {
+  display: flex;
+  flex-direction: column;
+  gap: 0.125rem;
+  padding: 0.25rem 0.5rem;
+  white-space: pre-wrap;
+
+}

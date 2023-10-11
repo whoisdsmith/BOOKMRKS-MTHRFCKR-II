@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # SEO Tools
 
 ## SEO Tools

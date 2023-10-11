@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 # Video Resource Toolbox
 
 ## Video Resource Toolbox
