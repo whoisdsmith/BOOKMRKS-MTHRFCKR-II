@@ -1,0 +1,29 @@
+#content-linker-container p {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+  }
+
+.content-linker-settings {
+    margin: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.bi-link-toggle {
+    width: 20px;
+    height: 20px;
+}

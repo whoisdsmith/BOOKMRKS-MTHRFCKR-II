@@ -1,0 +1,10 @@
+{
+	"id": "text-conversions",
+	"name": "Text Conversions",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Perform various text conversions on the selected text",
+	"author": "Juan D Frias",
+	"authorUrl": "https://github.com/ironsigma",
+	"isDesktopOnly": false
+}

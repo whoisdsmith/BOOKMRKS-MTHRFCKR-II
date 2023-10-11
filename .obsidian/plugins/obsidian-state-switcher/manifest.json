@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-state-switcher",
+	"name": "Yaml Manager",
+	"version": "1.3.3",
+	"minAppVersion": "0.12.0",
+	"description": "Keep you away from directly operating of yaml front matter",
+	"author": "Lijyze",
+	"authorUrl": "https://github.com/lijyze",
+	"isDesktopOnly": false
+}

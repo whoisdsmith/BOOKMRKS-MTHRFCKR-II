@@ -1,0 +1,10 @@
+{
+    "id": "invio",
+    "name": "Invio",
+    "version": "0.6.5",
+    "minAppVersion": "0.13.21",
+    "description": "Export documents as static websites and deploy to AWS S3 or compatible COS. Streamlining Obsidian Sync and Publish, Invio lets you share notes online, retaining data control via self-hosting.",
+    "author": "frontend-engineering",
+    "authorUrl": "https://github.com/frontend-engineering",
+    "isDesktopOnly": true
+}

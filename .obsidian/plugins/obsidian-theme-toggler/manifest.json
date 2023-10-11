@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-theme-toggler",
+  "name": "Theme Toggler",
+  "description": "Toggle the theme in Obsidian's panels.",
+  "version": "1.0.1",
+  "minAppVersion": "1.0.0",
+  "isDesktopOnly": true,
+  "author": "larsmagnus",
+  "authorUrl": "https://larsmagnus.co"
+}

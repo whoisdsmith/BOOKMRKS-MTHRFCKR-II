@@ -1,0 +1,10 @@
+{
+	"id": "vault-2-book",
+	"name": "Vault 2 Book",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Converts your notes to a book creating a single file containing all the notes linked",
+	"author": "Mitra98t",
+	"authorUrl": "https://github.com/Mitra98t",
+	"isDesktopOnly": false
+}

@@ -1,0 +1,14 @@
+/**
+* v1.0.0 changed background and text color styling, so set them explicitly 
+*/
+.theme-light, .theme-dark {
+  --background-primary: var(--color-base-00);
+  --background-primary-alt: var(--color-base-10);
+  --background-secondary: var(--color-base-20);
+  --code-background: var(--background-primary-alt);
+  --text-normal: var(--color-base-100);
+}
+
+[class^="workspace-"]:is(.theme-light, .theme-dark) {
+  color: var(--text-normal);
+}

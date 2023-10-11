@@ -1,0 +1,10 @@
+{
+  "findText": "#Search #address and contact",
+  "replaceText": "#Search #addressandcontact",
+  "useRegEx": false,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": true
+}

@@ -1,0 +1,53 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": true,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "AI/AI.md",
+      "timestamp": 1697036216226
+    },
+    {
+      "filepath": "BMMF/BMMF.md",
+      "timestamp": 1697036212469
+    },
+    {
+      "filepath": "Browser/Browser.md",
+      "timestamp": 1697036211568
+    },
+    {
+      "filepath": "Design/Design.md",
+      "timestamp": 1697036208676
+    },
+    {
+      "filepath": "Dev/Dev.md",
+      "timestamp": 1697036206190
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": false
+}

@@ -1,0 +1,108 @@
+.url-display-item {
+	display: flex;
+	align-items: center;
+	padding: 6px 8px 6px 8px;
+	margin-bottom: 0;
+}
+
+.url-display-item img {
+	width: 20px;
+	height: 100%;
+	/* border-radius: 50%; */
+}
+
+.url-display-item span {
+	display: block;
+	padding-left: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.url-display-item svg {
+	flex-shrink: 0;
+	stroke-width: 1.5px;
+}
+
+.url-display-item:hover svg {
+	color: rgb(92, 92, 92);
+}
+
+.url-display-navigation {
+	visibility: hidden;
+}
+
+.url-display-item:hover .url-display-navigation {
+	visibility: visible;
+	/* width: 16px;
+	height: 16px; */
+	margin-left: auto;
+	margin-right: 3px;
+	color: var(--nav-item-color);
+	cursor: pointer;
+}
+
+
+.lucide-navigation polygon, 
+.lucide-search circle, 
+.lucide-search line,
+.lucide-copy rect, 
+.lucide-copy path{
+    transition: stroke 0.3s ease;
+}
+
+.lucide-navigation:hover polygon,
+.lucide-search:hover circle, 
+.lucide-search:hover line,
+.lucide-copy:hover rect, 
+.lucide-copy:hover path{
+    stroke: var(--interactive-accent);
+}
+
+
+.skeleton {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+
+.skeleton-square {
+	/* flex: 1; */
+	width: 20px;
+	height: 20px;
+	border-radius: 5px;
+	margin-right: 8px;
+	background: linear-gradient(to right, rgba(130, 130, 130, 0.2) 8%, rgba(130, 130, 130, 0.3) 18%, rgba(130, 130, 130, 0.2) 33%);
+	background-size: 800px 100px;
+	animation: wave-squares 2s infinite ease-out;
+}
+
+.skeleton-line {
+	flex: 10;
+	height: 20px;
+	border-radius: 2px;
+	background: linear-gradient(to right, rgba(130, 130, 130, 0.2) 8%, rgba(130, 130, 130, 0.3) 18%, rgba(130, 130, 130, 0.2) 33%);
+	background-size: 800px 100px;
+	animation: wave-lines 2s infinite ease-out;
+}
+
+@keyframes wave-lines {
+	0% {
+		background-position: -468px 0;
+	}
+
+	100% {
+		background-position: 468px 0;
+	}
+}
+
+@keyframes wave-squares {
+	0% {
+		background-position: -468px 0;
+	}
+
+	100% {
+		background-position: 468px 0;
+	}
+}
