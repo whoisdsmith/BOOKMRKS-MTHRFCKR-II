@@ -1,5 +1,3 @@
----
-
 ## Bookmarks-StartMe
 
 ![](https://zoom.earth/assets/images/icon-400.8.jpg)
