@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a45a3ee880cd2aa",
+        "id": "33a7fdf05c0bb1fd",
         "type": "tabs",
         "children": [
           {
-            "id": "512b3fedf742b965",
+            "id": "b34b6dde9a1f5493",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/AI.md",
+                "file": "Dev/GH Stars.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/AI.md",
+                "file": "Dev/GH Stars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/AI.md",
+                "file": "Dev/GH Stars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/AI.md"
+                "file": "Dev/GH Stars.md"
               }
             }
           }
@@ -141,17 +141,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "webpage-html-export:Export Vault to HTML": false,
-      "bulk-exporter:Bulk Exporter Preview": false,
+      "obisidian-note-linker:Note Linker": false,
+      "obsidian42-brat:BRAT": false,
+      "vault-2-book:Obsidian 2 Book: Generate a book from a specified folder": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "bulk-exporter:Bulk Exporter Preview": false
     }
   },
-  "active": "512b3fedf742b965",
+  "active": "b34b6dde9a1f5493",
   "lastOpenFiles": [
+    "Dev/GH README.md",
+    "Dev/Gitbook.md",
+    "Dev/Github Topics.md",
+    "Dev/Github.md",
+    "Dev/GH Stars.md",
+    "README.md",
+    "Dev/GH Docs.md",
+    "Dev/GH Tools.md",
+    "Dev/GH Templates.md",
+    "Dev/GH Actions.md",
+    "BMMF/fmhy2.md",
+    "AI/AI.md",
     "BMMF/BMMF.md",
     "Browser/Browser.md",
     "Design/Design.md",
@@ -166,18 +181,6 @@
     "Tech/Tech.md",
     "Tools/Tools.md",
     "WebDev/WebDev.md",
-    "Search/SEARCH PARTY MTHRFCKR.md",
-    "Piracy/soda.md",
-    "Piracy/PIRACY-MTHRFCKR.md",
-    "Piracy/ILLEGAL-SERVICES.md",
-    "Piracy/Direct Download.md",
-    "Piracy/CRACKS.md",
-    "Piracy/Cloud-Google Drive-Drive.md",
-    "Piracy/Cata-List Storage.md",
-    "Dev/Github.md",
-    "BMMF/fmhy2.md",
-    "BMMF/fmhy3.md",
-    "BMMF/X Bookmarks.md",
     "Social",
     "WebDev",
     "Tools",

@@ -211,12 +211,12 @@ function removeLinksFromHeadings(text) {
   });
   return result;
 }
-var textWithLinksRegEx = /(?:(\[(.*?)\]\((.*?)\))|(\[\[([^\[\]|\r\n]+)(?:\|([^\[\]]+))?\]\])|(<a\s[^>]*href="([^"]*)"[^>]*>(.*?)<\/a>))/gm;
+var textWithLinksRegEx = /(?:(\[(.*?)\]\((.*?)\))|(\[\[([^\n\[\]|]+)(?:\|([^\[\]]+))?\]\])|(<a\s[^>]*href="([^"]*)"[^>]*>(.*?)<\/a>))/gm;
 function HasLinks(text) {
-  return textWithLinksRegEx.test(text);
+  return new RegExp(textWithLinksRegEx.source, "gm").test(text);
 }
 function removeLinks(text) {
-  const result = text.replace(textWithLinksRegEx, (match, rawMdLink, mdText, mdUrl, rawWikiLink, wkLink, wkText, rawHtmlLink, htmlUrl, htmlText, offset2) => {
+  const result = text.replace(new RegExp(textWithLinksRegEx.source, "gm"), (match, rawMdLink, mdText, mdUrl, rawWikiLink, wkLink, wkText, rawHtmlLink, htmlUrl, htmlText, offset2) => {
     let linkText;
     if (rawMdLink) {
       linkText = mdText ? mdText : "";
@@ -2265,6 +2265,78 @@ var ReplaceLinkModal = class extends import_obsidian3.Modal {
   }
 };
 
+// commands/UnlinkLinkCommand.ts
+var UnlinkLinkCommand = class {
+  constructor() {
+    this.id = "editor-unlink-link";
+    this.displayNameCommand = "Unlink";
+    this.displayNameContextMenu = "Unlink";
+    this.icon = "unlink";
+  }
+  handler(editor, checking) {
+    const selection = editor.getSelection();
+    if (selection) {
+      if (checking) {
+        return HasLinks(selection);
+      }
+      this.removeLinksFromSelection(editor, selection);
+    } else {
+      const text = editor.getValue();
+      const cursorOffset = editor.posToOffset(editor.getCursor("from"));
+      const linkData = findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 4 /* Html */ | 1 /* Markdown */);
+      if (checking) {
+        return !!linkData;
+      }
+      if (linkData) {
+        this.unlinkLink(linkData, editor);
+      }
+    }
+  }
+  removeLinksFromSelection(editor, selection) {
+    const unlinkedText = removeLinks(selection);
+    editor.replaceSelection(unlinkedText);
+  }
+  unlinkLink(linkData, editor) {
+    let text = linkData.text ? linkData.text.content : "";
+    if (linkData.type === 2 /* Wiki */ && !text) {
+      text = linkData.link ? linkData.link.content : "";
+    }
+    editor.replaceRange(
+      text,
+      editor.offsetToPos(linkData.position.start),
+      editor.offsetToPos(linkData.position.end)
+    );
+  }
+};
+
+// commands/DeleteLinkCommand.ts
+var DeleteLinkCommand = class {
+  constructor() {
+    this.id = "editor-delete-link";
+    this.displayNameCommand = "Delete link";
+    this.displayNameContextMenu = "Delete";
+    this.icon = "trash-2";
+  }
+  handler(editor, checking) {
+    const text = editor.getValue();
+    const cursorOffset = editor.posToOffset(editor.getCursor("from"));
+    const linkData = findLink(text, cursorOffset, cursorOffset);
+    if (checking) {
+      return !!linkData;
+    }
+    if (linkData) {
+      this.deleteLink(linkData, editor);
+    }
+  }
+  deleteLink(linkData, editor) {
+    editor.replaceRange(
+      "",
+      editor.offsetToPos(linkData.position.start),
+      editor.offsetToPos(linkData.position.end)
+    );
+  }
+};
+
 // main.ts
 var DEFAULT_SETTINGS = {
   linkReplacements: [],
@@ -2332,17 +2404,19 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
     await this.loadSettings();
     this.addSettingTab(new ObsidianLinksSettingTab(this.app, this));
     this.registerEditorSuggest(new LinkTextSuggest(this.linkTextSuggestContext));
+    const unlinkCommand = new UnlinkLinkCommand();
     this.addCommand({
-      id: "editor-unlink-link",
-      name: "Unlink",
-      icon: "unlink",
-      editorCheckCallback: (checking, editor, ctx) => this.unlinkLinkOrSelectionHandler(editor, checking)
+      id: unlinkCommand.id,
+      name: unlinkCommand.displayNameCommand,
+      icon: unlinkCommand.icon,
+      editorCheckCallback: (checking, editor, ctx) => unlinkCommand.handler(editor, checking)
     });
+    const deleteLinkCommand = new DeleteLinkCommand();
     this.addCommand({
-      id: "editor-delete-link",
-      name: "Delete link",
-      icon: "trash-2",
-      editorCheckCallback: (checking, editor, ctx) => this.deleteLinkUnderCursorHandler(editor, checking)
+      id: deleteLinkCommand.id,
+      name: deleteLinkCommand.displayNameCommand,
+      icon: deleteLinkCommand.icon,
+      editorCheckCallback: (checking, editor, ctx) => deleteLinkCommand.handler(editor, checking)
     });
     this.addCommand({
       id: "editor-convert-link-to-mdlink",
@@ -2493,15 +2567,11 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
             });
           }
         }
-        if (this.settings.contexMenu.unlink && (linkData && (linkData.type & 8 /* Autolink */) == 0 || selection && HasLinks(selection))) {
+        if (this.settings.contexMenu.unlink && unlinkCommand.handler(editor, true)) {
           addTopSeparator();
           menu.addItem((item) => {
-            item.setTitle("Unlink").setIcon("unlink").onClick(() => {
-              if (selection && HasLinks(selection)) {
-                this.removeLinksFromSelection(editor, selection);
-              } else if (linkData) {
-                this.unlinkLink(linkData, editor);
-              }
+            item.setTitle(unlinkCommand.displayNameContextMenu).setIcon(unlinkCommand.icon).onClick(() => {
+              unlinkCommand.handler(editor, false);
             });
           });
         }
@@ -2552,10 +2622,10 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
               });
             });
           }
-          if (this.settings.contexMenu.deleteLink) {
+          if (this.settings.contexMenu.deleteLink && deleteLinkCommand.handler(editor, true)) {
             menu.addItem((item) => {
-              item.setTitle("Delete").setIcon("trash-2").onClick(async () => {
-                this.deleteLink(linkData, editor);
+              item.setTitle(deleteLinkCommand.displayNameContextMenu).setIcon(deleteLinkCommand.icon).onClick(async () => {
+                deleteLinkCommand.handler(editor, false);
               });
             });
           }
@@ -2593,58 +2663,6 @@ var ObsidianLinksPlugin = class extends import_obsidian4.Plugin {
     const text = editor.getValue();
     const cursorOffset = editor.posToOffset(editor.getCursor("from"));
     return findLink(text, cursorOffset, cursorOffset);
-  }
-  unlinkLinkOrSelectionHandler(editor, checking) {
-    const selection = editor.getSelection();
-    if (selection) {
-      if (checking) {
-        return HasLinks(selection);
-      }
-      this.removeLinksFromSelection(editor, selection);
-    } else {
-      const text = editor.getValue();
-      const cursorOffset = editor.posToOffset(editor.getCursor("from"));
-      const linkData = findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 4 /* Html */ | 1 /* Markdown */);
-      if (checking) {
-        return !!linkData;
-      }
-      if (linkData) {
-        this.unlinkLink(linkData, editor);
-      }
-    }
-  }
-  removeLinksFromSelection(editor, selection) {
-    const unlinkedText = removeLinks(selection);
-    editor.replaceSelection(unlinkedText);
-  }
-  unlinkLink(linkData, editor) {
-    let text = linkData.text ? linkData.text.content : "";
-    if (linkData.type === 2 /* Wiki */ && !text) {
-      text = linkData.link ? linkData.link.content : "";
-    }
-    editor.replaceRange(
-      text,
-      editor.offsetToPos(linkData.position.start),
-      editor.offsetToPos(linkData.position.end)
-    );
-  }
-  deleteLinkUnderCursorHandler(editor, checking) {
-    const text = editor.getValue();
-    const cursorOffset = editor.posToOffset(editor.getCursor("from"));
-    const linkData = findLink(text, cursorOffset, cursorOffset, 2 /* Wiki */ | 1 /* Markdown */ | 4 /* Html */);
-    if (checking) {
-      return !!linkData;
-    }
-    if (linkData) {
-      this.deleteLink(linkData, editor);
-    }
-  }
-  deleteLink(linkData, editor) {
-    editor.replaceRange(
-      "",
-      editor.offsetToPos(linkData.position.start),
-      editor.offsetToPos(linkData.position.end)
-    );
   }
   convertLinkUnderCursorToMarkdownLinkHandler(editor, checking) {
     const text = editor.getValue();

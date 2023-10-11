@@ -1,6 +1,6 @@
 {
-  "findText": "#Search #address and contact",
-  "replaceText": "#Search #addressandcontact",
+  "findText": "## GH Stars",
+  "replaceText": "",
   "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,
