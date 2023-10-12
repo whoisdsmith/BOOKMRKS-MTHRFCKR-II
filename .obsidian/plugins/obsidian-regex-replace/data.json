@@ -1,7 +1,7 @@
 {
-  "findText": "^---\\n\\n---",
+  "findText": "## BOOKMRKS-MTHRFCKR",
   "replaceText": "",
-  "useRegEx": true,
+  "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,
   "processLineBreak": true,

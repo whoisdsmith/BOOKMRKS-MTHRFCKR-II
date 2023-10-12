@@ -11,8 +11,12 @@
             "id": "cb79ff260c4e5a9d",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Cloud Dev.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/Website.md",
+                "file": "Dev/Cloud Dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/Website.md",
+                "file": "Dev/Cloud Dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/Website.md"
+                "file": "Dev/Cloud Dev.md"
               }
             }
           },
@@ -161,32 +165,32 @@
   },
   "active": "cb79ff260c4e5a9d",
   "lastOpenFiles": [
-    "WebDev/Website-Host-Domains.md",
-    "WebDev/Website.md",
-    "WebDev/Website2.md",
-    "WebDev/Website-Wordpress-WP Resources.md",
-    "WebDev/Website-Wordpress.md",
-    "WebDev/Website-Website Monitoring.md",
-    "WebDev/Website-Status Page.md",
-    "WebDev/Website-Static Sites.md",
-    "WebDev/Website-Server.md",
-    "WebDev/Website-Self-Hosted.md",
-    "WebDev/Website-Landing Page.md",
-    "WebDev/Website-Host-Domains-Hosting.md",
-    "WebDev/Website-Host-Domains-Free Hosting.md",
-    "WebDev/Website-Host-Domains-Domains.md",
-    "WebDev/Website125.md",
-    "WebDev/Website124.md",
-    "WebDev/Website123.md",
-    "WebDev/Website122.md",
-    "WebDev/Website121.md",
-    "WebDev/Website120.md",
-    "WebDev/Website119.md",
-    "WebDev/Website118.md",
-    "WebDev/Website117.md",
-    "WebDev/Website116.md",
-    "WebDev/Website115.md",
-    "WebDev/Website114.md",
+    "Dev/Blog and CMS.md",
+    "Dev/Bitbucket.md",
+    "Dev/API Tools.md",
+    "Design/Vectors.md",
+    "Design/Templates.md",
+    "Design/SVG.md",
+    "Design/Stock Photos.md",
+    "Design/PNGs.md",
+    "Design/Placeholder.md",
+    "Design/Photoshop.md",
+    "Design/Patterns.md",
+    "Design/Pallets.md",
+    "Design/Mockup's.md",
+    "Design/Logos.md",
+    "Design/Images.md",
+    "Design/Image Tools.md",
+    "Design/Icons.md",
+    "Design/Fonts.md",
+    "AI/Law.md",
+    "BMMF/Win10.md",
+    "BMMF/X Bookmarks.md",
+    "BMMF/StartMe.md",
+    "BMMF/OSX.md",
+    "BMMF/Profiles.md",
+    "BMMF/OSINT.md",
+    "BMMF/OGs.md",
     "Books",
     "Social",
     "WebDev",

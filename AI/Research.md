@@ -1,10 +1,7 @@
 # Research
-
-## Research
+## Learning
 
 ### Learning
-
-#### Learning
 
 ![](https://ai.flashcardx.com/opengraph-image?1b580836740a20eb)
 
@@ -16,7 +13,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://aimafia.club/wp-content/uploads/2023/07/ai-mafia-ia-noticias-comunidad.jpeg)
 
@@ -28,7 +25,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://basmo.app/wp-content/uploads/2023/04/01-ai-chatbook-473x1024.webp)
 
@@ -40,7 +37,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://brain-buddy.com/wp-content/uploads/2023/04/grabOn-featured-logo.png)
 
@@ -52,7 +49,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [Chatprep AI](https://chatprep.net) - Chatprep: Your Personal Exam Coach - The App that Guides You to Success
 
@@ -62,7 +59,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://checkforai.com/static/public/linkpreview.png)
 
@@ -74,7 +71,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://lh3.googleusercontent.com/vSb231f-b9mU7R9W--_IXu4pzVEHWa9aNeT7QEaQ8Ho12sOfqwYG2WAV-n2RiJoTvRzHaRb6U5Q_x6ibzRXWWl6Vv-k=w128-h128-e365-rj-sc0x00ffffff)
 
@@ -86,7 +83,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://communitydata.uuki.live/social_cover/308/Xb8W8LoITvlX7g7RbbZTExilLWbuVP0I.png)
 
@@ -98,7 +95,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://courseai.co/courseai-co-logo-square.png)
 
@@ -110,7 +107,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [DeAP Learning Labs](https://deaplearning.com) - Boost AP US & World History skills with free AI-powered tutor chatbots.
 
@@ -120,7 +117,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://www.educatorlab.org/educator-lab-cover.jpg)
 
@@ -132,7 +129,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://explainlikeimfive.io/wp-content/uploads/2023/02/airjor_dan_an_orange_colored_forest_aerial_shot_white_backgroun_4508cd69-5a3c-41c8-aa87-cafd240af2df.png)
 
@@ -144,7 +141,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [GAJIX](https://gajix.com) - Personal AI Learning Assistant for all your educational needs
 
@@ -154,7 +151,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://imaginaition.ai/wp-content/uploads/2023/05/developer-header-for-google-scaled.jpg)
 
@@ -166,7 +163,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://languate.com/og.png)
 
@@ -178,7 +175,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://ik.imagekit.io/wjn5o3agi/litgradestextloog_FuVgt8Zxm?updatedAt=1692978341758)
 
@@ -190,7 +187,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [Mathly](https://mathly.webflow.io) - Smart Math Homework Helper with Customized Explanations
 
@@ -200,7 +197,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://cdn.openai.com/API/images/opengraph.png)
 
@@ -212,7 +209,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [Poe](https://poe.com) - Ask questions and get responses from Quora
 
@@ -222,7 +219,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://b5n4c7q6.rocketcdn.me/wp-content/uploads/2023/05/seo-thumb-fb.png)
 
@@ -234,7 +231,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://imagedelivery.net/1wpWmoOF0K-Y_NxLJO3e2w/ea661bee-c9db-4276-0455-75c36a8b9500/w=1680)
 
@@ -246,7 +243,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [Q-Chat](https://quizlet.com/labs/qchat) - Q-Chat is Quizlet's AI used to help make learning fun and easy with more than just flashcards.
 
@@ -256,7 +253,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [TreeMind](https://shutu.cn) - Enhance your learning and work efficiency with AI-generated mind maps
 
@@ -266,7 +263,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fa117f7b6393a1c79e27de25e2692c431.cdn.bubble.io%2Ff1666869695045x385019343109326700%2Ficonsoofy.png?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -278,7 +275,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [Speakable](https://speakableapp.com) - AI assistant for World Language & ESL teachers
 
@@ -288,7 +285,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [Studyable](https://studyable.app) - Study with an AI tutor
 
@@ -298,7 +295,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://teachermatic.com/wp-content/uploads/2023/03/logo-without-text-blue.png)
 
@@ -310,7 +307,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [The GodChat](https://thegodchat.com) - Your personal God AI assistant on WhatsApp
 
@@ -320,7 +317,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://framerusercontent.com/images/axmYj1LfikneppknRXlceJPOOEI.jpg)
 
@@ -332,7 +329,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [EVITA.ai](https://www.evita.ai) - EVITA is your personal singing teacher, voice nerd, and thespian, powered by AI
 
@@ -342,7 +339,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [QuizWizardGPT](https://www.quizwizardgpt.com) - Create perfect quizzes & lesson plans with AI
 
@@ -352,7 +349,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [Quriosity](https://www.quriosity.world/#/coursereq) - The first-ever AI-powered course creator for personalized learning
 
@@ -362,7 +359,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [Talkme.ai](https://www.talkme.ai) - Say goodbye to social anxiety and build your confidence. Practice your spoken English with ease and fun - TalkMe.ai
 
@@ -372,7 +369,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://tandem-gpt.vercel.app/meta.png)
 
@@ -384,7 +381,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://www.teachology.ai/teachology-social-header.png)
 
@@ -396,7 +393,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://www.trinka.ai/assets/images/Trinka.jpg)
 
@@ -408,7 +405,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://www.turnitin.com/img/themes/turnitin/img/default-turnitin-image.png?s=ea83de6244b33b609b2c7232765c38b3)
 
@@ -420,7 +417,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://tutorai.me//share/home.jpg)
 
@@ -432,7 +429,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://images.prismic.io/heydayxyz/bcbfbd5a-5d9f-4f8d-be25-5d7ef831b3dc_SocialShareImage.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50)
 
@@ -444,7 +441,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [fast.ai](https://keras.io) - Making neural nets uncool again
 
@@ -454,7 +451,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](http://static1.squarespace.com/static/62d695e96497c259aec5ce6c/t/62d695ed6497c259aec5cf54/1657019134497/color.png?format=1500w)
 
@@ -466,7 +463,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [Quazel](https://baseplate.ai) - Learn a language through natural conversation
 
@@ -476,7 +473,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 [Knewton](https://century.tech) - Achievement Within Reach
 
@@ -486,7 +483,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://cookaifood.com/bundles/project/images/cover.png)
 
@@ -498,7 +495,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://ivy.ai/logo_ivyai_vertical.png)
 
@@ -510,7 +507,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://kore-wordpress.s3.us-east-2.amazonaws.com/wp-content/uploads/2023/03/05000047/Kore-ai-Social-Share-Featured.jpg)
 
@@ -522,7 +519,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://beta.monic.ai/static/media/monic-original.a05c3c3e22b9792a6068.png)
 
@@ -534,7 +531,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://postwise.ai/img/header.png)
 
@@ -546,7 +543,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://talkpal.ai/wp-content/uploads/2023/03/TalkPal-AI-logos-1.jpeg)
 
@@ -558,7 +555,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://framerusercontent.com/images/9OzKOVfbBI6f83y2byA45d7xVGI.png)
 
@@ -570,7 +567,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://b5n4c7q6.rocketcdn.me/wp-content/uploads/2023/05/seo-thumb-fb.png)
 
@@ -582,7 +579,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 ![](https://collegegrantwizard.com/src/client/static/image.png)
 
@@ -593,6 +590,8 @@
 #ai #learning
 
 ---
+
+## Research
 
 ### Research
 

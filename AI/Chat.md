@@ -1,10 +1,179 @@
 # Chat
+## AutoGPT
 
-## Chat
+### AutoGPT
+
+[Aomni](https://www.aomni.com) - Aomni is an information retrieval AI agent that is able to find, extract, and process any data for you on the internet.
+
+2023-04-22T16:01:00.000Z
+
+#ai #autogpt
+
+---
+
+### AutoGPT
+
+![](https://ph-files.imgix.net/1827de1f-999a-4cbf-94a7-e7ac41abff50.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=451&h=220&fit=max&dpr=2)
+
+[CamelAGI : Role playing of autonomous AI agents to solve a given task](https://camelagi.thesamur.ai) - With CAMEL, you get two agents, and you assign them special roles. After that, just  watch them  collaborate and work together to solve your task like AutoGPT and BabyAGI
+
+2023-05-04T20:38:05.946Z
+
+#ai #autogpt
+
+---
+
+### AutoGPT
+
+![](https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/aliabid94/AutoGPT.png)
+
+[AutoGPT - a Hugging Face Space](https://huggingface.co/spaces/aliabid94/AutoGPT) - Discover amazing ML apps made by the community
+
+2023-04-25T03:49:15.000Z
+
+#ai #autogpt
+
+---
+
+### AutoGPT
+
+![](https://framerusercontent.com/images/uLF36STbYeZTcwIImj4UQsGJ8I.png)
+
+[Cognosys](https://www.cognosys.ai) - Cognosys - Web based AI Agent
+
+2023-04-17T02:21:30.000Z
+
+#ai #chat #autogpt
+
+---
+
+### AutoGPT
+
+![](https://github.githubassets.com/images/modules/open_graph/github-logo.png)
+
+[autogpt](https://github.com/topics/autogpt) - GitHub is where people build software. More than 100 million people use GitHub to discover, fork, and contribute to over 330 million projects.
+
+2023-04-27T02:01:16.000Z
+
+#ai #mf #pkm
+
+---
+
+### AutoGPT
+
+[Godmode.space](https://godmode.space) - Explore the Power of Generative Agents
+
+2023-04-17T02:14:21.000Z
+
+#ai #chat
+
+---
+
+### AutoGPT
+
+[GoalGPT by Nando.AI](https://beta.nando.ai/goalgpt.php) - Achieve Your Goals with Goalgpt: Automatically Create an Action Plan for Success!
+
+2023-04-19T17:48:11.842Z
+
+#ai #autogpt
+
+---
+
+### AutoGPT
+
+![](https://ph-files.imgix.net/9b4c843d-9fd4-4775-b40f-0d12d7d45720.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=2)
+
+[AutoGPT](https://autogpt.thesamur.ai/agi) - We are building a free frontend for ChatGPT api with prompt library and chat history support
+
+2023-04-17T23:42:56.000Z
+
+#ai #chat
+
+---
+
+### AutoGPT
+
+![](https://aiagent.app/images/cover-image.png)
+
+[AI Agent](https://aiagent.app) - AI Agents: Tools of tomorrow, today.
+
+2023-04-19T17:48:11.758Z
+
+#ai #autogpt
+
+---
+
+### AutoGPT
+
+![](https://agentgpt.reworkd.ai/banner.png)
+
+[AgentGPT](https://agentgpt.reworkd.ai) - Assemble, configure, and deploy autonomous AI Agents in your browser.
+
+2023-04-17T02:21:30.000Z
+
+#ai #chat #autogpt
+
+---
+
+### AutoGPT
+
+![](https://www.agentrunner.ai/images/agentrunner/logo.png)
+
+[AgentRunner.ai](https://www.agentrunner.ai) - Create autonomous AI agents. Leverage the power of GPT-4. Set goals, and let your agents decide how to achieve them.
+
+2023-05-05T15:05:23.469Z
+
+#ai #autogpt
+
+---
+
+### AutoGPT
+
+[DevGPT - An autonomous developer that reads backlog work and completes it.](https://www.devgpt.com/?ref=producthunt) - DevGPT is the autonomous developer created by February Labs. With advanced machine learning capabilities, Avery-1 reads backlog work and completes it efficiently, freeing up time for your team to focus on higher-level tasks. Discover how DevGPT can revolutionize your development process and accelerate your project timelines.
+
+2023-07-29T19:02:41.432Z
+
+#ai #autogpt
+
+---
+
+### AutoGPT
+
+![](https://www.agent.so/opengraph-image.png?0d4059dd6a8004cf)
+
+[Agent.so](https://www.agent.so) - YourOwn Personal AIIs Here, Trainable in Seconds
+
+2023-09-19T13:26:41.461Z
+
+#ai #agent
+
+---
+
+### AutoGPT
+
+![](https://superagi.com/wp-content/uploads/2023/08/SuperAGI-Opensource_infra-1024x576.png)
+
+[SuperAGI](https://superagi.com) - Opensource AGI Infrastructure. Building infrastructure components, tools, frameworks and models to enable opensource AGI
+
+2023-09-19T13:26:41.476Z
+
+#ai #agent #agi
+
+---
+
+### AutoGPT
+
+[HelperAI](https://helperai.ai) - Create AI Agents to automate any online work you spent countless human hours on!
+
+2023-09-25T21:49:08.207Z
+
+#ai #agent
+
+---
+
+## Bots
 
 ### Bots
-
-#### Bots
 
 ![](https://aista.com/assets/images/landing-page/website-chatgpt-chatbot-og.png)
 
@@ -16,7 +185,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [Aeona](https://aeona.xyz) - nan
 
@@ -26,7 +195,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://uploads-ssl.webflow.com/64f07712546aaa18788b03ed/64f73c1109193614cb32a6f2_Banner.png)
 
@@ -38,7 +207,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://static.wixstatic.com/media/113eda_cd272d216d3b41f2a787b9db3100ac94%7Emv2.png/v1/fit/w_2500,h_1330,al_c/113eda_cd272d216d3b41f2a787b9db3100ac94%7Emv2.png)
 
@@ -50,7 +219,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://cdn.machaao.com/static/bots/wheely_v2.jpg)
 
@@ -62,7 +231,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [Chat Jini](https://chatjini.com) - ChatJini is a service which would allow you to build a Chatbot using ChatGPT in 2 minutes
 
@@ -72,7 +241,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://images.ctfassets.net/w6r2i5d8q73s/49Gy23NRmO7BRuWS9ewuIk/c786ff574fe59f91b0a054ec531769b3/miro.png)
 
@@ -84,7 +253,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://assets.website-files.com/63b9c43cf803b0007440fa38/65022f12cb0e9069e0aba33e_castmagic-web.png)
 
@@ -96,7 +265,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://www.radaar.io/free-tools/social-post-generator/assets/images/opengraph.png)
 
@@ -108,7 +277,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://assets-global.website-files.com/5c97e8c9de94e8a3480419a5/5fc61b35ce2996b2983474da_opengraph-home.png)
 
@@ -120,7 +289,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [Ask Poppy](https://clevr.ai) - Your bestie that actually texts back.
 
@@ -130,7 +299,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://q7d9z9e6.rocketcdn.me/wp-content/uploads/2023/04/video_thumbnail-brand-ai-model.png)
 
@@ -142,7 +311,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [ConversAI](https://hopper.com) - Your Personal AI Chat Assistant
 
@@ -152,7 +321,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://i.ytimg.com/vi/iNY6BQflgIE/maxresdefault.jpg)
 
@@ -164,7 +333,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://images.ctfassets.net/yze1aysi0225/1Pn0orFuPGpHBoOotXoJSD/83e0bfba2663f2cd796b9eeb20b3a1b7/Speechmatics_Social_Logo.jpg)
 
@@ -176,7 +345,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://tuteaiuserstorage.blob.core.windows.net/branding/next_seo_graphic.png)
 
@@ -188,7 +357,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F44d4e23936dac3a4434d68ca4d7e45f9.cdn.bubble.io%2Ff1653988967731x767719176094675300%2FScreenshot%25202022-05-31%2520at%252010.22.34.png?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -200,7 +369,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://seowind.io/wp-content/uploads/2023/07/Home2-header-2.png)
 
@@ -212,7 +381,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://www.bing.com/sa/simg/facebook_sharing_5.png)
 
@@ -224,7 +393,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [Brainfish](https://acrolinx.com) - Harness the power of AI to automate your help desk.
 
@@ -234,7 +403,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://languagetool.org/images/social/og_image.jpg)
 
@@ -246,7 +415,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://supares.com/assets/images/social/promo.jpg)
 
@@ -258,7 +427,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://venturusai.com/opengraph-image.png?5875b10068aeb17f)
 
@@ -270,7 +439,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fb6f5fdc28db146b41a7825e0c1dcd329.cdn.bubble.io%2Ff1685042715280x233240046531900000%2FScreenshot%25202023-05-26%2520at%252012.55.01%2520AM.png?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -282,7 +451,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F98140679eebb3ee250e544ae3cf0ef28.cdn.bubble.io%2Ff1673609379908x706951975014431100%2FUntitled%2520design%2520-%25202023-01-13T112907.775.png?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -294,7 +463,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [AiBERT](https://orbofi.com) - Generate ChatGPT & MidJourney images directly via WhatsApp
 
@@ -304,7 +473,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://www.alpha-sense.com/wp-content/uploads/2023/02/Homepage-testing-1.png)
 
@@ -316,7 +485,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://d1yei2z3i6k35z.cloudfront.net/2398854/641721add5f81_social-media.jpg)
 
@@ -328,7 +497,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://avtrs.ai/og-cover.jpg)
 
@@ -340,7 +509,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://site-assets.plasmic.app/b19812b3e8d9f5f00373300d9050724b.png)
 
@@ -352,7 +521,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [CustomGPT](https://chatgpt-phantom.vercel.app) - Build Your Own ChatBOT
 
@@ -362,7 +531,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://www.darrow.ai/wp-content/uploads/2023/09/darrow-share-home.jpg)
 
@@ -374,7 +543,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [blubi.ai](https://edaly.co) - Transform the way you showcase your content.
 
@@ -384,7 +553,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://exemplary.ai/img/cover/index.png)
 
@@ -396,7 +565,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://www.genesys.com/media/1280x720-PR-Meta-Image.jpg)
 
@@ -408,7 +577,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://cdn.cmsfly.com/63a81c57ef3b1c00ff054a0e/1-t9S1hR.png)
 
@@ -420,7 +589,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://res.cloudinary.com/cabane/image/upload/q_auto,f_auto/v1670420508/Looti/promotional%20assets/general.jpg)
 
@@ -432,7 +601,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://uploads-ssl.webflow.com/6356fb231def01cc0f2d4060/63a3e5240bd706447a842580_Jounce%20social%20graph.png)
 
@@ -444,7 +613,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://viso.ai/wp-content/uploads/2021/08/Viso-Suite-the-no-code-computer-vision-platform.png)
 
@@ -456,7 +625,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [GPT Hotline](https://voiceful.io) - Connect with the world's smartest AI on WhatsApp!
 
@@ -466,7 +635,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://writeseed.com/assets/pre.png)
 
@@ -478,7 +647,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://global-uploads.webflow.com/627a1044a798e6627445c8d1/639720e7931167324a4cb118_Chatsonic%20OG%20image.webp)
 
@@ -490,7 +659,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://static.wixstatic.com/media/853c44_056cf0f5f58e47488a7fdf9c9d397d29~mv2.jpg/v1/fill/w_1280,h_960,al_c/853c44_056cf0f5f58e47488a7fdf9c9d397d29~mv2.jpg)
 
@@ -502,7 +671,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [swiftGPT](https://amblr.xyz) - The native macOS app for ChatGPT
 
@@ -512,7 +681,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](http://www.chatworm.com/assets/chatworm.png)
 
@@ -524,7 +693,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://dbsensei.com/build/assets/og.c9967ea1.png)
 
@@ -536,7 +705,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [Poe](https://elevenlabs.io) - Fast, Helpful AI Chat
 
@@ -546,7 +715,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://uploads-ssl.webflow.com/63ea090e1efdbfd894c3939e/63ea090e1efdbf48fbc395a0_EmailMagic%20AI%20(2).png)
 
@@ -558,7 +727,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://cdn.dorik.com/6373b99baf41a300113d6380/638e1f8e8c1aac0011546ece/images/New-Summary_0l5htser.png)
 
@@ -570,7 +739,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://uploads-ssl.webflow.com/63c16f36e24659639995a02f/645fa0f2f2ae787ad92f087a_Open%20Graph%20Warmest.png)
 
@@ -582,7 +751,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://images.ctfassets.net/xny2w179f4ki/1L0626Fx8qaOdF9g1RejIo/57e6d7d5c9164edf8be09ebe858405f2/FINAL_-_Fin_LP_Share_image__2_.jpg)
 
@@ -594,7 +763,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [Chat Worm](https://dubb.media) - Advanced ChatGPT API Client
 
@@ -604,7 +773,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://www.stampli.com/wp-content/uploads/2023/03/Stampli-Home-Page.png)
 
@@ -616,7 +785,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/09/og-image-artifical-intelligence-trust-layer-1-1.png?w=1024)
 
@@ -628,7 +797,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [OpenSight](https://yippity.io) - Automate your customer support questions, and actions
 
@@ -638,7 +807,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [GPTionary](https://algalon.ai) - Automate Thesaurus with AI
 
@@ -648,7 +817,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://gradescope-static-assets.s3.amazonaws.com/images/gradescope_grading.png)
 
@@ -660,7 +829,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://storage.googleapis.com/picturize/preview_land.png)
 
@@ -672,7 +841,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://kafkai.com/static/images/social/kafkai.png)
 
@@ -684,7 +853,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [Empy](https://emmersion.ai) - Non-Violent Communication Slack Bot
 
@@ -694,7 +863,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [Pionex](https://uptrain.ai) - Exchange with Built-in Crypto Trading Bot
 
@@ -704,7 +873,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://textio.com/_/cache/images/brandassets/textio-logo-1200x630.png)
 
@@ -716,7 +885,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://media.user.com/uploads/1t1nnm-user-com-support/ai-chat_zy9gHFT.png)
 
@@ -728,7 +897,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [AskCyph](https://askcyph.cypherchat.app) - AskCyph LITE is a lightweight AI chatbot that runs an AI Model natively on browser. In simple words you are able to run what other providers like ChatGPT, Bard, Bing on your own device privately. Once the Model is downloaded and loaded you are doing everything locally with no information about what questions you are asking is sent to the internet. Currently this is in the experimental stage and may occasionally generate incorrect response, we are working towards improving.
 
@@ -738,7 +907,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [Instabot](https://www.instabot.us/sites/new) - We'll create an assistant bot that answers questions using the contents of your website.
 
@@ -748,7 +917,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://api.typedream.com/v0/document/public/269bceda-81c9-4f4b-800f-4e313bcea9b3/2LSR0ELyJMjfJxzJSVFzRbudE8N_Logo_Square_8_.png)
 
@@ -760,7 +929,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 [FreeUnlimitedChatBot](https://freeunlimitedchatbot.netlify.app) - FreeUnlimitedChatBot - Unlimited free chatbot for image creation and answering questions.
 
@@ -770,7 +939,7 @@
 
 ---
 
-#### Bots
+### Bots
 
 ![](https://customgpt.ai/wp-content/uploads/2023/05/CustomGPT-Create-ChatGPT-ChatBOT-min.png)
 
@@ -781,6 +950,9 @@
 #ai #Bot
 
 ---
+
+## Chat
+
 
 ### Chat
 
@@ -1524,9 +1696,9 @@
 
 ---
 
-### ChatGPT
+## ChatGPT
 
-#### ChatGPT
+### ChatGPT
 
 [Perplexity AI](https://www.perplexity.ai) - nan
 
@@ -1536,7 +1708,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://opengraph.githubassets.com/afb77a0082ddfed550eaa41ae4f0a8fafe7af40eeb7f8c113035ebdd8d3d69e5/diciaup/assistant-cli)
 
@@ -1548,7 +1720,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://opengraph.githubassets.com/d8022e9721511302cc8d2fa67984a9d27c76d1f8183e88da863d9981ca013abb/f/awesome-chatgpt-prompts)
 
@@ -1560,7 +1732,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://opengraph.githubassets.com/d8d571b2d7b583e3504e77252888c0fcee270cfb497769ef34889d4d300dace5/progrmoiz/awesome-chatgpt)
 
@@ -1572,7 +1744,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://bloony.ai/thumbnail.png)
 
@@ -1584,7 +1756,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://framerusercontent.com/modules/qd51VlHF33IBHRjH7VHD/dz7Q1DCcs8Nflu05QM1e/assets/0Fjyp6X6WqOQOgCGDcprp6XiVW8.jpg)
 
@@ -1596,7 +1768,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://entreresource.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F322f334b-21fe-49bf-bd28-5f45fa5672e3%2FUntitled_design.gif?table=block&id=91a2343b-03f3-428c-b7b2-f4298f938733&spaceId=33064e49-e700-4c4a-acf9-f3bdf337c018&userId=&cache=v2)
 
@@ -1608,7 +1780,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Enhanced ChatGPT 2.0](https://enhanced-chatgpt-zeta.vercel.app) - nan
 
@@ -1618,7 +1790,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [michelle huang on Twitter](https://twitter.com/michellehuang42/status/1597702974889144320?s=12&t=tOqpLhXJQCs4blrDuGoRPw) - i've received a lot of requests on how to replicate my AI experiment so here goes --[tutorial] how to create your own "inner child" chatbot using GPT-3https://t.co/lsWcUK7RYA michelle huang (@michellehuang42) November 29, 2022
 
@@ -1628,7 +1800,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [My Sprites - Water](https://drinkwater.ai/#/sprites) - nan
 
@@ -1638,7 +1810,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Playground - Ethio Tech](https://gpt3.ethio-tech.com/playground.html) - nan
 
@@ -1648,7 +1820,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://www.cdnjustlearn.com/image/learn-with-friends.jpg)
 
@@ -1660,7 +1832,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://www.chai-research.com/images/chai-mascot.png)
 
@@ -1672,7 +1844,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Anima: AI Friend](http://myanima.ai) - AI companion that cares. Have a friendly chat, roleplay, grow your communication and relationship skills.
 
@@ -1682,7 +1854,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://opengraph.githubassets.com/517f0678102db3ff971da8527821af50e00bac6764e7d27e6fd1a0719a22d2ad/PopDaddyGames/ChatGPT-Terminal)
 
@@ -1694,7 +1866,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://opengraph.githubassets.com/e24f7d0a941741469c44f637915f8d6617bdb4172baccbe458720d1a6dd823c0/motianjun4/ChatGPT_Chatbot)
 
@@ -1706,7 +1878,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://opengraph.githubassets.com/093791a69911841a317a9edaf3d3afe64cef647f2b7fe9b48dcc15210814f634/lencx/ChatGPT)
 
@@ -1718,7 +1890,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://opengraph.githubassets.com/846fc499905e1f54992ee3b227e22cfefab27184f346d576b1cc1237182f656a/Kamigami55/awesome-chatgpt)
 
@@ -1730,7 +1902,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://eightify.app/static/og-image.png)
 
@@ -1742,7 +1914,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://ebi.ai/wp-content/uploads/2021/09/featured-05.jpg)
 
@@ -1754,7 +1926,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://woebothealth.com/wp-content/uploads/2021/12/D1-scaled.jpg)
 
@@ -1766,7 +1938,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://ddux7jl4k2xkx.cloudfront.net/assets/missive-image-6fdb6d78ac31674d0646cef4cb98a20054aa869e957defe68785e7cb8c2c2bfc.png)
 
@@ -1778,7 +1950,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://firebasestorage.googleapis.com/v0/b/foyer-work.appspot.com/o/merlin-website%2F1200x627.png?alt=media&token=385a0571-a77c-454d-8ac9-d6956ee32495)
 
@@ -1790,7 +1962,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://gimmesummary.ai/og.jpg)
 
@@ -1802,7 +1974,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Get Dost - AI assistant for Inclusive Communication](https://getdost.com) - Get Dost is an AI-powered in-chat assistant that manages inclusive communication and secures a diverse business culture within chatbots.
 
@@ -1812,7 +1984,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://tiledesk.com/wp-content/uploads/2023/03/tiledesk_live_chat.jpg)
 
@@ -1824,7 +1996,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://explainthis.ai/images/social.png)
 
@@ -1836,7 +2008,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://uploads-ssl.webflow.com/637dce3e19775b286a7aa437/63c97f53ef0c3b507e897ec2_GPTAgent%20Twitter%20Header.png)
 
@@ -1848,7 +2020,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://chatgptwriter.ai/og.jpg)
 
@@ -1860,7 +2032,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://image.thum.io/get/maxAge/1/width/1024/https://chatbotkit.com/index?v=8279)
 
@@ -1872,7 +2044,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://d1pnnwteuly8z3.cloudfront.net/images/87828974-c7b9-4ba7-b0d4-916f20a03f81/91ec8fd0-5037-4793-9fad-25a8d55d4c19.png)
 
@@ -1884,7 +2056,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [VoiceGPT: AI Tools for ChatGPT - Apps on Google Play](https://play.google.com/store/apps/details?id=com.aichatsystems.voicegpt) - VoiceGPT: AI Assistant for ChatGPT & GPT with Audio and Image input support
 
@@ -1894,7 +2066,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](http://assets.libsyn.com/content/53027654?height=250&width=250)
 
@@ -1906,7 +2078,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://halist.ai/static/og.jpg)
 
@@ -1918,7 +2090,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Chat-Powered By SnipIn](https://cuilchat.com/chat/interact) - Your companion for a simpler life
 
@@ -1928,7 +2100,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Pickmyline](https://www.pickmyline.online) - Got a match! we've got you covered
 
@@ -1938,7 +2110,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Chatpad AI](https://chatpad.ai) - A free, open-source, and slick UI for ChatGPT
 
@@ -1948,7 +2120,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://saasgpters.com/storage/2023/06/saasgpters_og_new-1024x538.png)
 
@@ -1960,7 +2132,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://quickref.me/assets/image/chatgpt-preview.png?v=007a1i)
 
@@ -1972,7 +2144,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [GPTForMe](https://gptfor.me) - nan
 
@@ -1982,7 +2154,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://www.getvoila.ai/voila-ai-assistant.png)
 
@@ -1994,7 +2166,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://res.cloudinary.com/apideck/image/upload/v1614087764/marketplaces/tydpjcahbncuqfqwepxe.png)
 
@@ -2006,7 +2178,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [SlickGPT](https://slickgpt.vercel.app) - SlickGPT is a light-weight "use-your-own-API-key" ChatGPT client written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
 
@@ -2016,7 +2188,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Punya.AI](https://punya.ai) - Punya.AI is an AI-powered platform that enables business and consumer users to customize their own version of a chatbot. With Punya.AI, users can add their data with a simple API call, and integrate Chat GPT into their applications in minutes.
 
@@ -2026,7 +2198,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Zenox](https://zenox.vercel.app) - nan
 
@@ -2036,7 +2208,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [WebAPI](http://webapi.ai) - nan
 
@@ -2046,7 +2218,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://rentry.co/static/icons/512.png)
 
@@ -2058,7 +2230,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [showGPT](https://showgpt.co) - The ultimate guide to unlocking the power of ChatGPT
 
@@ -2068,7 +2240,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://sharegpt.com/thumbnail.png)
 
@@ -2080,7 +2252,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [re:tune](https://retune.so) - Re:tune is a frontend for OpenAI's GPT-3 fine-tuning API. Use it to build your own AI powered apps. No coding required.
 
@@ -2090,7 +2262,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Prompt Toolkit](https://www.prompttoolkit.com/chatgpt-gpt3) - Community sourced prompts for ChatGPT and GPT3 to speed up your workflow.
 
@@ -2100,7 +2272,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://open-gpt-app.vercel.app/og-image.png)
 
@@ -2112,7 +2284,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://mottle.com/og-image.png)
 
@@ -2124,7 +2296,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://cdn.machaao.com/prod/web/img/apple-touch-icon.png)
 
@@ -2136,7 +2308,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Magic Mate](http://www.getmagicmate.com) - Smart AI assistant for WhatsApp - Chat GPT, Dalle, Instruct Pix2Pix and more
 
@@ -2146,7 +2318,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Jailbreak Chat](https://www.jailbreakchat.com) - Collection of ChatGPT jailbreak prompts
 
@@ -2156,7 +2328,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://hotconvo.art/images/logo.png)
 
@@ -2168,7 +2340,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://higpt.wiki/thumbnail.png)
 
@@ -2180,7 +2352,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://uploads-ssl.webflow.com/63a038d8b78efe9dc39e5268/63b8c772d61fc84471a7b4ea_HelloHistoryCover.jpg)
 
@@ -2192,7 +2364,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [gpt-List](https://www.gpt-list.com) - nan
 
@@ -2202,7 +2374,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://lh3.googleusercontent.com/iaHPuRKNLyYrity5PqJ6yh2iOm2A9jzbdMiWmPNXRVv4fhYDhYXuNzsP5gry-sOHtsp3k15YCwPHZmHuCojVncIx4g=w128-h128-e365-rj-sc0x00ffffff)
 
@@ -2214,7 +2386,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Dreamily-beta](https://dreamily.ai/editor?nid=createid) - Multiverse, written by you and AI
 
@@ -2224,7 +2396,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Diffusion Chat](https://diffusion.chat) - Talk directly to latent space
 
@@ -2234,7 +2406,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://ogen.ai/api/og?url=https%3A%2F%2Fogen.ai)
 
@@ -2246,7 +2418,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://plugins.jetbrains.com/files/20085/334822/icon/pluginIcon.png)
 
@@ -2258,7 +2430,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://repository-images.githubusercontent.com/575024003/cb85de75-5843-4fa2-9f1e-30f8ccdf8348)
 
@@ -2270,7 +2442,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://opengraph.githubassets.com/c8bf4d10367c03b5b77a97fc5dd8f50ffcf11d208a6e2dbacd28d53e79ef5edb/transitive-bullshit/chatgpt-api)
 
@@ -2282,7 +2454,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://assets.website-files.com/5eda9dd581168bac18890269/63591adbe2bb240f24364eb0_OpenGraph%20Image%20-%20v1.jpg)
 
@@ -2294,7 +2466,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://lh3.googleusercontent.com/AjPl7fOH2h7C3_GcyDluSuy6SD7FACw3V6zTR3rofXlshjBZ1QZj0U0GFB3aOOVSvcfNvMmVTn_qJnJB6E2rgnolXw=w128-h128-e365-rj-sc0x00ffffff)
 
@@ -2306,7 +2478,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [ChatBridge.ai](https://www.chatbridge.ai) - The super simple way to connect your apps to ChatGPT.
 
@@ -2316,7 +2488,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://i.imgur.com/zoRf1rU.png)
 
@@ -2328,7 +2500,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://i.imgur.com/zoRf1rU.png)
 
@@ -2340,7 +2512,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://firebasestorage.googleapis.com/v0/b/exh-b2c.appspot.com/o/sharing-2.jpg?alt=media&token=af172d89-691c-4aad-8eb4-c98e92bf0325)
 
@@ -2352,7 +2524,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://areyoutheasshole.com/images/card.png)
 
@@ -2364,7 +2536,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [AnsyAI](http://ansy.ai) - Automate your community FAQs under 5 mins with Ansy, a GPT3 powered AI discord bot that answers community's questions based on chat history. Try Ansy for free!
 
@@ -2374,7 +2546,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://rentry.co/static/icons/512.png)
 
@@ -2386,7 +2558,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [YakGPT](https://yakgpt.vercel.app) - A new ChatGPT UI
 
@@ -2396,7 +2568,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [chatgpt Prompt Apps](https://chatgpt-prompt-apps.com) - User interface-based Apps from Prompt.
 
@@ -2406,7 +2578,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://cdn.mighil.com/wp-content/uploads/2023/07/601216.jpg)
 
@@ -2418,7 +2590,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [YourGPT](https://yourgpt.ai) - YourGPT enables you to seamlessly build and integrate GPT for personalized needs. Leverage the power of LLMs & GPT to transform your business
 
@@ -2428,7 +2600,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://iili.io/HXLGZTF.png)
 
@@ -2440,7 +2612,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://lh3.googleusercontent.com/KAZWyMNHsPl60SntCsvMhuomePSPw_TkHTZ4aWYAx4hFuewop9FXQup3XfsU9SLiXudRRzoGmBJpTSM_mhd868XiWg=w128-h128-e365-rj-sc0x00ffffff)
 
@@ -2452,7 +2624,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://lh3.googleusercontent.com/9Kj4zx7uFUnG7ogki8baV6p8r-A-boQ_HuBytZy-VOGVDqwuQZZUKCXAsssExzkUv32q4Q1uEMHF3gjSa6ojumplzA=w128-h128-e365-rj-sc0x00ffffff)
 
@@ -2464,7 +2636,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Pigro for OpenAI](https://openai.pigro.ai) - nan
 
@@ -2474,7 +2646,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Perpend](https://perpend.in) - Perpend is a FREE AI playground that lets you experiment with Open AI GPT models. Theres aPLUSversion made for users who want direct access.
 
@@ -2484,7 +2656,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [GptAutoBOT](https://gptautobot.com) - Extension to automatically write status, tweet using ChatGPT's data is a browser extension that allows users to create automatic posts on social networks such as Facebook, Twitter, using data provided by ChatGPT.
 
@@ -2494,7 +2666,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [ChatGPT Online](https://chatgptbay.com) - nan
 
@@ -2504,7 +2676,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [plugpt](https://nathsou.github.io/plugpt) - nan
 
@@ -2514,7 +2686,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://gptpro.sh/cover-photo.png)
 
@@ -2526,7 +2698,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [DapperGPT](https://dappergpt.com/chat) - DapperGPT is a better UI for ChatGPT with Note and Chrome Extension
 
@@ -2536,7 +2708,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [ChatGPT.Sex](https://chat.chatbot.sex/chat) - nan
 
@@ -2546,7 +2718,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://files.mymap.ai/public/icon/mymap-og.png)
 
@@ -2558,7 +2730,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://opengraph.githubassets.com/b7d1935a77e1217083338e1ce06355de5026df7f91957eb9839bef86e8af1dfc/Jeadie/awesome-chatgpt-plugins)
 
@@ -2570,7 +2742,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://opengraph.githubassets.com/65570c354cd2bd36f191dbc5933f75eec72be5ccb94b8c54020fc2c244d93b54/pythops/tenere)
 
@@ -2582,7 +2754,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://uploads-ssl.webflow.com/6446ea87f99b6dc7c2e8c9cb/644c36f708e9487084dba39f_Open%20Graph.jpg)
 
@@ -2594,7 +2766,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://storage.googleapis.com/tally-block-assets/85026670-97c1-4b5f-b096-d9e246ef8064/og-image.png)
 
@@ -2606,7 +2778,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://raw.githubusercontent.com/KudoAI/chatgpt.js/main/media/images/screenshots/landing-cover-stars.png)
 
@@ -2618,7 +2790,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [ChatGPT Plugin Hub](https://www.hubgpt.top/#/) - nan
 
@@ -2628,7 +2800,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://lh3.googleusercontent.com/kUTqb_bsYWfUixpd0w3R3WKS9pAev0_lqdQ5w24KdJwggjnyW3GIjaeucUVvC8zPdWoynhr9_43AjtDHPfz7GNBIao9n_zckQ2QEG-_Dq9rld0APzTTSAlfND1tIugrkKA=w1280)
 
@@ -2640,7 +2812,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F913152f718f9bf72618857728286c9f4.cdn.bubble.io%2Ff1682867267846x949498250300660000%2FCleanShot%25202023-04-30%2520at%252016.07.25%25402x.png?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -2652,7 +2824,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://ph-files.imgix.net/1827de1f-999a-4cbf-94a7-e7ac41abff50.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=451&h=220&fit=max&dpr=2)
 
@@ -2664,7 +2836,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://osschat.io/og-image.png)
 
@@ -2676,7 +2848,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 ![](https://faraday.dev/og-image2.png)
 
@@ -2688,7 +2860,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [Profile - DocGPT](https://docgpt.io/profile.html) - Use our Online PDF Editor to customize documents your way with our easy-to-use editing tools and the help of Generative AI. Modify the page, layout and content of your PDF online.
 
@@ -2698,7 +2870,7 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [AI Test Kitchen](https://aitestkitchen.withgoogle.com/experiments/music-lm) - nan
 
@@ -2708,12 +2880,340 @@
 
 ---
 
-#### ChatGPT
+### ChatGPT
 
 [AI Story Chat](https://www.aistorychat.com) - AI generated stories
 
 2023-04-24T10:49:12.000Z
 
 #ai
+
+---
+
+## GPT
+
+### GPT
+
+![](https://lh3.googleusercontent.com/UtNI-gSGoj51Rr6voeVfyaTzpQb9Sh9_zqiY8Aqe-L2evouiX7TjokChfDn3TX1AFeCES9M_q2sAMA4er-MZSDML=w128-h128-e365-rj-sc0x00ffffff)
+
+[Scribe GPT - Chrome Web Store](https://chrome.google.com/webstore/detail/scribe-gpt/pifeejniebebphajjamdjjbmikfdgccb?hl=en) - Download ChatGPT conversations as text files.
+
+2023-03-29T19:02:28.000Z
+
+#ai
+
+---
+
+### GPT
+
+![](https://lh3.googleusercontent.com/1v3ET_Uli84mPG57MyZH7suXPfaREy8ijunaL5kzJH0t7vnzyWvAvSFLiX0aeXmFR8GpyKd60A4bo_9dqJYj1RYgOCQ=w128-h128-e365-rj-sc0x00ffffff)
+
+[Save ChatGPT to Notion - Chrome Web Store](https://chrome.google.com/webstore/detail/save-chatgpt-to-notion/bknieejaaomeegoflpgcckagimnbbgdp?hl=en-US) - Save ChatGPT conversations to Notion with one click. How to save ChatGPT conversations
+
+2023-03-29T19:10:06.000Z
+
+#ai
+
+---
+
+### GPT
+
+[OpenPlayground](https://nat.dev) - Open source playground to test LLMs
+
+2023-03-29T16:24:38.000Z
+
+#ai
+
+---
+
+### GPT
+
+![](https://lh3.googleusercontent.com/LPtNq7m_ec2FgVj5DbKdMWbrhjpCVYGcQ9KWDvdXtLglqf152atZEP3geMTuiBOhazBSmiCN2OJ2cqy4o-7kKO6Kcw=w128-h128-e365-rj-sc0x00ffffff)
+
+[messenger-gpt - Chrome Web Store](https://chrome.google.com/webstore/detail/messenger-gpt/pfggffgolodggkhmejbeoghfpcfpkieb) - Generate replies for messenger.com using ChatGPT
+
+2023-03-29T19:02:56.000Z
+
+#ai
+
+---
+
+### GPT
+
+![](https://lh3.googleusercontent.com/0QWyOxBuxVFFDRvAa99iUfweBdyu-vXstcwGZyMdi0tl8HW5JZuyc2kul360ordO6wOdId8RenznDh62wt1KOqrTNXw=w128-h128-e365-rj-sc0x00ffffff)
+
+[Luna - Chrome Web Store](https://chrome.google.com/webstore/detail/luna-chatgpt-for-your-bro/bignkmclhhmhagjojehblmmaifljphfe) - ChatGPT from Search and context-menu on any site.
+
+2023-03-29T19:02:35.000Z
+
+#ai
+
+---
+
+### GPT
+
+![](https://enchanting-trader-463.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5bcd5b3c-66a5-4163-96d6-55f38a6d4b1a%2Fmy_line_breaker.png?table=block&id=ee7c48ed-78d9-4351-85aa-fd95ddffc064&width=2000&userId=&cache=v2)
+
+[GPT-4 + AI](https://enchanting-trader-463.notion.site/GPT-4-AI-f917ca2e609b45478fe7bc2c8d544877) - AI Guide
+
+2023-03-29T16:22:14.000Z
+
+#ai
+
+---
+
+### GPT
+
+![](https://lh3.googleusercontent.com/xNFDG_zt9war6s8J5bcSQW-3sELPbURWB5153iSpMMCbHR_IEhASUOZmmR4KxCpyYp3BQc9GvaTcwZ-3zzKIh4C3zw=w128-h128-e365-rj-sc0x00ffffff)
+
+[Checkget AI - Smart Assistant for GPT-4 - Chrome Web Store](https://chrome.google.com/webstore/detail/checkget-ai-smart-assista/flekfdobikapenebblekbdjbgbhlhbni) - Use GPT-4 on any website by just clicking Cmd/Alt+K. Works on all websites or software.
+
+2023-03-30T12:15:20.000Z
+
+#ai
+
+---
+
+### GPT
+
+![](https://lh3.googleusercontent.com/3B1wAAbbk2SpvjrJ7FxJ5Il7cWnff6pvSHpLI6yT6qUjUHepRmIvjkXEWBKVWJTqD1thWZxshbNxl72aYSzzBYtD9g=w128-h128-e365-rj-sc0x00ffffff)
+
+[ChatGPT to Notion - Chrome Web Store](https://chrome.google.com/webstore/detail/chatgpt-to-notion/oojndninaelbpllebamcojkdecjjhcle) - Save your discussions with ChatGPT directly into Notion!
+
+2023-03-29T19:10:49.000Z
+
+#ai
+
+---
+
+### GPT
+
+![](https://lh3.googleusercontent.com/L8BfxfNoLfUHKyjVbZ40pCs1d4f63PoHqAoXBVdbtE4yr_J6omN-zLBwAsIFiWt2eEub1RtmIR-jI5UrNI0Bs8olDw=w128-h128-e365-rj-sc0x00ffffff)
+
+[ChatGPT for Twitter - Chrome Web Store](https://chrome.google.com/webstore/detail/chatgpt-for-twitter/ihabhmefjiipbmppmjoleclimdeompdc) - AI Generated Tweets (that you can customize)!
+
+2023-03-29T19:10:25.000Z
+
+#ai
+
+---
+
+### GPT
+
+![](https://opengraph.githubassets.com/6bd68459b376829523c2d5cd12c82a698ebe1bdced776eb9b53ea285aa9b38ce/nomic-ai/gpt4all)
+
+[gpt4all](https://github.com/nomic-ai/gpt4all?ref=producthunt) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue - nomic-ai/gpt4all at producthunt
+
+2023-04-03T13:41:12.883Z
+
+#ai #chatgpt #local
+
+---
+
+### GPT
+
+[WindowAI](https://windowai.io) - nan
+
+2023-04-12T14:29:51.000Z
+
+#ai #gpt
+
+---
+
+### GPT
+
+[Translations:-BabyAGI](https://babyagi.org) - BabyAGI is an AI-powered task management system that uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks.
+
+2023-04-18T19:01:07.000Z
+
+#ai #gpt
+
+---
+
+### GPT
+
+![](https://opengraph.githubassets.com/441c4118c634b516091a45b621d712d3e3ede3b70e76cce1ccd73b741afc6360/jina-ai/thinkgpt)
+
+[ThinkGPT](https://github.com/alaeddine-13/thinkgpt) - Agent techniques to augment your LLM and push it beyong its limits
+
+2023-04-18T17:07:10.000Z
+
+#ai #gpt
+
+---
+
+### GPT
+
+[GPT-3 Jailbreak Status](http://www.jamessawyer.co.uk/pub/gpt_jb.html) - nan
+
+2023-04-17T14:26:24.000Z
+
+#ai #gpt
+
+---
+
+### GPT
+
+![](https://opengraph.githubassets.com/e817b056dde5130d80a3a5d44aafa07a9cb391242df8ab547e6e59ef34f77423/tg12/gpt_jailbreak_status)
+
+[gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model. - GitHub - tg12/gpt_jailbreak_status: This is a repository that aims to provide update...
+
+2023-04-17T14:27:03.000Z
+
+#ai #gpt
+
+---
+
+### GPT
+
+![](https://gpt.censys.io/static/card.png)
+
+[CensysGPT Beta](https://gpt.censys.io) - CensysGPT - Generate Censys Search Queries
+
+2023-04-18T19:30:03.000Z
+
+#ai #gpt
+
+---
+
+### GPT
+
+[AGIExpress](https://agi.express) - Assemble, configure, and deploy autonomous AI Agents in your browser.
+
+2023-04-18T21:51:06.000Z
+
+#ai #GPT
+
+---
+
+### GPT
+
+![](https://opengraph.githubassets.com/a6edc8637b43099bc07c2d3e8ac7188ed4643bae5ee77b25865e9904a0178381/muellerberndt/mini-agi)
+
+[Micro-GPT](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, and order pizza. - GitHub - muellerberndt/micro-gpt: A minimal generic autonomous age...
+
+2023-04-20T18:58:55.000Z
+
+#ai #gpt
+
+---
+
+### GPT
+
+[Gptify](https://gptify.io) - nan
+
+2023-04-18T23:22:37.000Z
+
+#ai #gpt
+
+---
+
+### GPT
+
+[Minigpt-4](https://minigpt-4.github.io) - nan
+
+2023-04-21T15:24:51.000Z
+
+#ai
+
+---
+
+### GPT
+
+![](https://opengraph.githubassets.com/28c9b3cbcae38f958c1e64da8505e7f769f9ccae68e8f768576ab2ca1564b752/victorb/metamorph)
+
+[MetaMorph](https://github.com/victorb/metamorph) - Self-editing GPT-4 application. Contribute to victorb/metamorph development by creating an account on GitHub.
+
+2023-04-23T17:28:40.000Z
+
+#ai
+
+---
+
+### GPT
+
+![](https://chatgptsplitter.com/static/img/chatgptsplitter_thumbnail.png)
+
+[ChatGPT Splitter](https://chatgptsplitter.com) - ChatGPT Splitter is a tool that helps users split and load large documents and texts to ChatGPT. Easily upload or paste your content and let us do the rest.
+
+2023-05-05T17:45:42.921Z
+
+#ai #gpt #text splitter
+
+---
+
+### GPT
+
+[GPT Tools](https://gpttools.com) - nan
+
+2023-05-05T17:45:42.921Z
+
+#ai #gpt #tools
+
+---
+
+### GPT
+
+![](https://promptreducer.com/og.png)
+
+[Prompt Reducer](https://promptreducer.com) - Prompt Reducer helps you reduce GPT-4 prompts to a few lines, saving tokens and lowering the cost of GPT-4 requests.
+
+2023-05-05T17:45:42.921Z
+
+#ai #prompt tools
+
+---
+
+### GPT
+
+[Text Splitter](https://slicer.centminmod.com) - nan
+
+2023-05-05T17:45:42.921Z
+
+#ai #gpt #text splitter
+
+---
+
+### GPT
+
+![](https://assets.website-files.com/63e6d832eaf853377038492c/6463eed32c160f3be34de6d3_layerai.png)
+
+[GPTParser](https://cryptogpt.org) - Parse any PDF to JSON online and for free
+
+2023-05-05T23:52:07.179Z
+
+#Bot Parser #Data Extraction #OCR
+
+---
+
+### GPT
+
+[GPT Detective](https://gpt.adsp.dev) - nan
+
+2023-04-23T17:08:36.000Z
+
+#ai
+
+---
+
+### GPT
+
+![](https://big-agi.com/icons/card-dark-1200.png)
+
+[Home-big-AGI](https://big-agi.com) - Leading open-source AI web interface to help you learn, think, and do. AI personas, superior privacy, advanced features, and fun UX.
+
+2023-07-29T19:11:01.500Z
+
+#ai #gpt
+
+---
+
+### GPT
+
+[Prompt Keeps Interactive AI agents with GPT-3.5, GPT-4, and DALLE 2.](https://www.promptkeeps.com) - nan
+
+2023-07-29T19:43:51.367Z
+
+#ai #gpt
 
 ---

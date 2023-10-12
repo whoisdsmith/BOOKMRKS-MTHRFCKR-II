@@ -1,6 +1,6 @@
-# Images
-
 ## Images
+
+### Images
 
 [Albumarium](http://albumarium.com) - The best place to find & share
 
@@ -11,5 +11,3 @@ beautiful images
 #design #images
 
 ---
-
-## Logos

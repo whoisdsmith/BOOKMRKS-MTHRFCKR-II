@@ -2,7 +2,7 @@
 
 ## Apps
 
-### Apps
+
 
 ![](https://assets.website-files.com/63a4b4e8266aecd424fecc5f/63d2cfd719b63447f3a8a22a_tokinggif.gif)
 
@@ -14,7 +14,7 @@
 
 ---
 
-### Apps
+
 
 [Start Conversations & Keep Them Going with the Keys Keyboard App](https://www.thekeys.ai) - You know what you want to say, you just aren't sure how to say it. Keys helps you say things the right way without changing your intent, or sounding like a bot.
 
@@ -24,7 +24,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://www.lobe.ai/assets/meta/Lobe-OpenGraphImage.jpg)
 
@@ -36,7 +36,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://lek.ai/assets/ogg.png)
 
@@ -48,7 +48,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://cdn.discordapp.com/attachments/802619197934927922/1016780934864961576/painting.png)
 
@@ -60,7 +60,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ffe603269649d3c06bf98011f6308d479.cdn.bubble.io%2Ff1689163863104x613995543358210000%2FAGI%2520transparent%2520small.png?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -72,7 +72,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://assets.website-files.com/6215507c11caaeaf5dad0d6e/622af07ac901834308f6b2db_website%20image.png)
 
@@ -84,7 +84,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://bigjpg.com/static/css/og.jpg)
 
@@ -96,7 +96,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://assets.website-files.com/61554cf069663530fc823d21/616cf70e234cffb792c226db_2x2x2x-min.png)
 
@@ -108,7 +108,7 @@
 
 ---
 
-### Apps
+
 
 [Dream by WOMBO](https://dream.ai) - Create beautiful artwork using the power of AI. Enter a prompt, pick an art style and watch WOMBO Dream turn your idea into an AI-powered painting in seconds.
 
@@ -118,7 +118,7 @@
 
 ---
 
-### Apps
+
 
 [A.I. Apps on AppRaven](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0) - A.I. Apps
 
@@ -128,7 +128,7 @@
 
 ---
 
-### Apps
+
 
 [ChatGPT apps on AppRaven](https://appraven.net/collection.php?listId=6417bf8d904afd2a981d75e7) - Apps for Chat GPT AI
 
@@ -138,7 +138,7 @@
 
 ---
 
-### Apps
+
 
 [Generative AI on AppRaven](https://appraven.net/collection.php?listId=64095357904afd2a981d5eb4) - Generative AI
 
@@ -148,7 +148,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://www.quaffle.app/_app/immutable/assets/quaffle_og-16b36293.png)
 
@@ -160,7 +160,7 @@
 
 ---
 
-### Apps
+
 
 [AnyGPT](https://anygpt.app/?ref=producthunt) - ChatGPT inside any app in macOS
 
@@ -170,7 +170,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://handyai.app/ogimage.jpg)
 
@@ -182,7 +182,7 @@
 
 ---
 
-### Apps
+
 
 [Pliny](https://pliny.app) - Create, share, and remix GPT-3 based apps
 
@@ -192,7 +192,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://lh4.googleusercontent.com/j0SF2UuL8KJ2Fi7d5yWz9idoei7_ssGNgHgf2RcHNaSSCJ5f6kutqkKxvqyihrYYhPC-lGzGloI6djqezWCmIlQ=w16383)
 
@@ -204,7 +204,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://writersbrew.app/assets/images/card.jpg?v=29a02e6f)
 
@@ -216,7 +216,7 @@
 
 ---
 
-### Apps
+
 
 [Stable Diffusion UI v2](https://stable-diffusion-ui.github.io) - A simple 1-click way to install and use Stable Diffusion on your own computer. No dependencies or technical knowledge required.
 
@@ -226,7 +226,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://whisper-og.vercel.app/**Whisper**%20Memos.png?theme=light&md=1&fontSize=125px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-black.svg&images=https%3A%2F%2Fwhispermemos.com%2Flogo.svg&widths=350&heights=350)
 
@@ -238,7 +238,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://thellm.app/card.webp)
 
@@ -250,7 +250,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://llamachat.app/images/og/twitter-card.png)
 
@@ -262,7 +262,7 @@
 
 ---
 
-### Apps
+
 
 [Heark](https://heark.app) - nan
 
@@ -272,7 +272,7 @@
 
 ---
 
-### Apps
+
 
 [CommanderGPT](https://www.commandergpt.app) - Unleash the power of Commander GPT: Your lightning-fast, AI-powered sidekick for Mac, just a command away!
 
@@ -282,7 +282,7 @@
 
 ---
 
-### Apps
+
 
 [Booknotes - AI book summaries](https://getbooknotes.com) - Booknotes helps to easily generate summaries, key ideas, quotes and actionable items from your favorite books using ChatGPT.
 
@@ -292,7 +292,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://6000thoughts.com/assets/images/card.jpg?v=53ce01f2)
 
@@ -304,7 +304,7 @@
 
 ---
 
-### Apps
+
 
 ![](https://cdn.ai-collection.org/thumbnail.jpeg)
 
@@ -313,5 +313,83 @@
 2023-07-29T19:03:31.208Z
 
 #ai #autogpt
+
+---
+
+## Software
+
+
+
+[Softology - Visions of Chaos](https://softology.pro/voc.htm) - Softology Visions of Chaos
+
+2022-12-26T05:08:51.000Z
+
+#ai #Software
+
+---
+
+
+
+![](https://img.itch.zone/aW1nLzk5MzExMjIucG5n/original/EdzqKG.png)
+
+[NMKD Stable Diffusion GUI - AI Image Generator by N00MKRAD](https://nmkd.itch.io/t2i-gui) - Generate AI images on your own GPU for free
+
+2022-12-26T05:01:25.000Z
+
+#ai #Software
+
+---
+
+
+
+![](https://liner.ai/image/banner.jpg)
+
+[Liner.ai - Machine Learning without Code](https://liner.ai) - Liner is a free tool which lets you build and deploy machine learning applications within minutes. No coding or expertise in machine learning required.
+
+2022-12-26T04:59:55.000Z
+
+#ai #Software
+
+---
+
+
+
+![](https://img.itch.zone/aW1nLzk5MzExMjIucG5n/508x254%23mb/rwE%2FN1.png)
+
+[N00MKRAD](https://nmkd.itch.io) - nan
+
+2023-01-25T05:16:05.158Z
+
+#ai #Software
+
+---
+
+
+
+[MegaPortal](https://www.getmegaportal.com) - nan
+
+2023-02-03T22:31:33.670Z
+
+#ai #Software
+
+---
+
+
+
+[topazlabs.com/video-enhance-ai/ref/1354](https://www.topazlabs.com/video-enhance-ai/ref/1354) - World-class video quality enhancement on your desktop. Use temporal information to naturally upscale, deinterlace, restore, and increase frame rate on videos.
+
+2022-12-25T07:19:57.000Z
+
+#ai
+
+---
+
+
+
+[topazlabs.com/gigapixel-ai/ref/1354](https://www.topazlabs.com/gigapixel-ai/ref/1354) - Improve image resolution with deep learning. Join hundreds of thousands of photographers who use Gigapixel AI for printing, cropping, restoration, and more.
+
+2022-12-25T07:19:57.000Z
+
+#ai
 
 ---

@@ -1,10 +1,7 @@
 # Productivity
-
-## Productivity
+## Assistant
 
 ### Assistant
-
-#### Assistant
 
 ![](https://www.visus.ai/assets/images/social-card.png)
 
@@ -16,7 +13,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [ResearchAIde](https://www.researchaide.org) - ResearchAIde is the ideal tool for students, researchers, and business professionals seeking to extract and synthesize relevant information from research papers quickly and efficiently, saving time.
 
@@ -26,7 +23,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Klu](https://klu.so) - Effortlessly find the information you need with Klu, the smart search tool that integrates with your cloud-based apps like Slack, Google Drive, Notion and more.
 
@@ -36,7 +33,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Descartes - AI Personal Assistant](https://descartes.io) - nan
 
@@ -46,7 +43,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://framerusercontent.com/modules/2StMbgllTrRnPBjvluG0/39ERnbDL3CdGcM8SWUn8/assets/k2b3ncA4UFMcZovoS1qsXY55KU.jpg)
 
@@ -58,7 +55,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://global-uploads.webflow.com/63fdcbe48aa020c0a5493507/64e89b0e236fa4ce10d92916_open-graph%20image.jpg)
 
@@ -70,7 +67,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://bloom-digital.s3.eu-west-2.amazonaws.com/phrasee/wp-content/uploads/2023/03/21120810/Home_SocialSharing_V2.png)
 
@@ -82,7 +79,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/f8f3bcee-44e6-494a-8d17-bf221e2b3b95/Monochrome_Modern_Technology_Black_Logo__1_.png)
 
@@ -94,7 +91,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.drift.com/wp-content/uploads/2022/03/Drift-unfurl-default.png)
 
@@ -106,7 +103,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://mememorph.com/og-image.png)
 
@@ -118,7 +115,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [HARPA AI](https://jigso.io/sidekick) - ChatGPT Web Assistant for Chrome
 
@@ -128,7 +125,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://delete.bg/aistudio/ai-studio-by-blend.webp)
 
@@ -140,7 +137,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Scite](https://iliad.ai) - See how research has been cited
 
@@ -150,7 +147,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Excelformulabot.com](https://10web.io) - Excel AI Formula Generator
 
@@ -160,7 +157,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://bemyeyes-assets.s3.amazonaws.com/website/OG/BME-illustration-tagline-01.png)
 
@@ -172,7 +169,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Lindy](https://berri.ai) - An AI assistant that puts your life on autopilot.
 
@@ -182,7 +179,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [ChatOnAi](https://chatonai.org) - ChatGPT For Search Engines.
 
@@ -192,7 +189,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://cresta.com/wp-content/uploads/2022/10/card-cresta.jpg)
 
@@ -204,7 +201,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://crossplag.com/wp-content/uploads/2022/08/illustration.png)
 
@@ -216,7 +213,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.deepagency.com/og-main.jpg)
 
@@ -228,7 +225,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.doctrina.ai/logo.png)
 
@@ -240,7 +237,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.duolingo.com/images/facebook/duo-08523a2.jpg)
 
@@ -252,7 +249,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://d1t11jpd823i7r.cloudfront.net/roleplay/thumbnail-elsa-ai.png)
 
@@ -264,7 +261,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://user-images.githubusercontent.com/55942632/200164174-7f6f923b-58f4-4367-84bd-44d21ac33b16.jpg)
 
@@ -276,7 +273,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Plag.ai](https://getconch.ai) - Plagiarism checker
 
@@ -286,7 +283,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Embra](https://getsound.ai) - A fast, ChatGPT-like assistant for your mac.
 
@@ -296,7 +293,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Moly](https://git18n.com) - The AI assistant for Recruiters
 
@@ -306,7 +303,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://glimmerai.tech/images/glimmer_1024x1024_new.png)
 
@@ -318,7 +315,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.gurubot.ai/images/og-image-chatgpt.jpg)
 
@@ -330,7 +327,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://humanloop.com/assets/marketing/social/social-gradient.png)
 
@@ -342,7 +339,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://uploads-ssl.webflow.com/627387c45c24905e9e6af490/6283b6413c343f680d652b6e_Open%20Grapg%20Image.jpg)
 
@@ -354,7 +351,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://qzfbcglpkmhnuglmteer.supabase.co/storage/v1/object/public/assets/thumbnail.jpg)
 
@@ -366,7 +363,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://leonardo-cdn.b-cdn.net/wp-content/uploads/2022/12/Frame-481794-1.png)
 
@@ -378,7 +375,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [CheckforAi](https://lessonplans.ai) - Detect AI Written Text in Essays, Emails, and More!
 
@@ -388,7 +385,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://lingobo.com/images/fb_og.png)
 
@@ -400,7 +397,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://uploads-ssl.webflow.com/628a20f7bd44e772519fa385/64a6aed62958e7393760cb0f_Her_Light.gif)
 
@@ -412,7 +409,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://uploads-ssl.webflow.com/62794ad8f1a2f8360ef65ebe/6357cf0f8be7604f9db65d98_preview-web2.png)
 
@@ -424,7 +421,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://framerusercontent.com/images/xdLOSfokuQlszbASX5TOpMKlZw.jpg)
 
@@ -436,7 +433,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Explain Like I'm Five](https://novuswriter.ai) - The Best Way to Understand Complex Concepts Fast
 
@@ -446,7 +443,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](http://static1.squarespace.com/static/60f0a17611832e6d27040fc5/t/620f8dba1f9d793e08b002e6/1652705223017/Social+Sharing+Image.png?format=1500w)
 
@@ -458,7 +455,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://d2v45x8wldevfx.cloudfront.net/website_assets/newLinkPreviewCover-min.jpg)
 
@@ -470,7 +467,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://cdn.pixelbin.io/v2/dummy-cloudname/original/__pixelbin_assets/seo/social_cover.jpeg)
 
@@ -482,7 +479,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Cogram](https://playground.ai) - Effortless meeting notes and action items
 
@@ -492,7 +489,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://salewhale.chat/screenshot.png)
 
@@ -504,7 +501,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://scene-dreamer.github.io/img/teaser.jpg)
 
@@ -516,7 +513,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://speechelo.com/wordpress/wp-content/uploads/2020/09/Template-46.jpg)
 
@@ -528,7 +525,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://storypath.app/resources/images/homepage/StoryPathPreview05.webp?xx=yy)
 
@@ -540,7 +537,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.themultiverse.ai/_next/image?url=%2FrichTextImage3.webp&w=1200&q=90)
 
@@ -552,7 +549,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [cookAIfood](https://thesynthesis.app) - Create AI-Generated Recipes
 
@@ -562,7 +559,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://framerusercontent.com/images/Bmz8WTNBzMPYNhmBv2dI3yIOU.png)
 
@@ -574,7 +571,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://turbohire.co/wp-content/uploads/2022/02/turbohire-card.png)
 
@@ -586,7 +583,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Fuk.ai](https://tweetcycle.com) - Hate Speech & Profanity Detection Free Software
 
@@ -596,7 +593,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Yoodli](https://uminal.com) - AI-powered public speaking coach
 
@@ -606,7 +603,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://dazzling-cat.netlify.app/web3summary_socialshare.png)
 
@@ -618,7 +615,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Lingobo](https://zmo.ai) - Your AI language partner
 
@@ -628,7 +625,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://framerusercontent.com/images/X3HEaxXHcSGDo2abpJtPoeMMw.png)
 
@@ -640,7 +637,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Blackbox](https://clipsai.com) - {Code}As Fast As YouThink.
 
@@ -650,7 +647,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Kodezi](https://microsoft.com/en-us/microsoft-teams/premium) - Autocorrect For Programmers
 
@@ -660,7 +657,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.respeecher.com/hubfs/Respeecher-voice-cloning-synthesis-software-ethical-deepfake.jpg#keepProtocol)
 
@@ -672,7 +669,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Fig AI](https://fablesimulation.com) - The next-generation command line.
 
@@ -682,7 +679,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://softr-prod.imgix.net/applications/f68243bf-d403-41df-a727-933066bec582/assets/6ceb3785-b0c9-4c2a-8591-aa5a4360df52.png)
 
@@ -694,7 +691,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [TolyGPT](https://degenai.app) - Solana Validator Chatbot
 
@@ -704,7 +701,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://hushl.in/hushl.png)
 
@@ -716,7 +713,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Jason AI](https://threesigma.ai) - Write and respond to your business emails with ChatGPT
 
@@ -726,7 +723,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWjiJQ?ver=0fd1)
 
@@ -738,7 +735,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Ludo](https://lxi.ai) - Create hit games with the power of AI
 
@@ -748,7 +745,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.idwise.com/wp-content/uploads/2022/10/IDwise-scene-3-scaled.webp)
 
@@ -760,7 +757,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://imageeditor.ai/static/images/favicon.png)
 
@@ -772,7 +769,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://cdn.kastatic.org/images/khan-logo-dark-background-2.png)
 
@@ -784,7 +781,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Khanmigo](https://microsoft.com/en-us/microsoft-365) - Education AI Guide
 
@@ -794,7 +791,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Turnitin](https://swapface.org) - Empower Students to Do Their Best, Original Work
 
@@ -804,7 +801,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://images.groovetech.io/T8a9rs_5AwPhZYcvlpIielcpWonvNDZuyO9EpX2eJG0/rs:fit:0:0:0/g:no:0:0/c:0:0/aHR0cHM6Ly9hc3NldHMuZ3Jvb3ZlYXBwcy5jb20vaW1hZ2VzL2RjNjExOGU2LWRlNDUtNGNjNi05NDBhLTVjMTMzZWI2MjVmMi8xNjc0MzgxOTE0X1plbmVuLU9HLnBuZw.webp)
 
@@ -816,7 +813,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://webitfast-bw91lpf1z-exper-ai.vercel.app/logoShort.png)
 
@@ -828,7 +825,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://namewizard.ai/screenshot.png)
 
@@ -840,7 +837,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.adept.ai/images/blog/act-1/hero.jpg)
 
@@ -852,7 +849,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [EzMail.AI](https://imagetocartoon.com) - AI Email Drafter-Reply to Email faster
 
@@ -862,7 +859,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://d3k85nwvn5w8cq.cloudfront.net/images/rectangle-2-v2022-11-28.png)
 
@@ -874,7 +871,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Upheal](https://movmi.co) - AI assistant for healing professionals
 
@@ -884,7 +881,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Latch](https://latchapp.com) - The next-generation contracting assistant
 
@@ -894,7 +891,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [AI-Lawyer](https://chatspot.ai) - Get instant legal advice and document creation tools
 
@@ -904,7 +901,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.quizwhiz.ai/static/images/main/icon.png)
 
@@ -916,7 +913,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](http://blank.png/)
 
@@ -928,7 +925,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [WonsultingAI](https://instanovel.ai) - Build a resume & Grow your network with AI
 
@@ -938,7 +935,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://uploads-ssl.webflow.com/63ab2ba4785d7f058efab318/64b7039ca78df027b660723c_opengraph-for-rask-min.jpeg)
 
@@ -950,7 +947,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://twelvelabs.io/og_image.png)
 
@@ -962,7 +959,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://unbounce.com/photos/opengraph_homepage.jpg)
 
@@ -974,7 +971,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.blognlp.com/main.png)
 
@@ -986,7 +983,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Twitter Bio](https://colorify.ai) - Twitter Bio Generator
 
@@ -996,7 +993,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Monterey AI](https://aiofficebot.com) - Copilot for Product Development
 
@@ -1006,7 +1003,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.botsheets.com/ogimage.png)
 
@@ -1018,7 +1015,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64d9d5f89cc52bd948b9d53b_Chain-GPT.jpg)
 
@@ -1030,7 +1027,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [GlimmerAI](https://chordai.net) - AI-powered presentation magic
 
@@ -1040,7 +1037,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://enwrite.co/Hero.png)
 
@@ -1052,7 +1049,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://komandi.app/images/cover.png)
 
@@ -1064,7 +1061,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [AutoSlide](https://pixelforge.art) - AI-powered presentation generator
 
@@ -1074,7 +1071,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Voila](https://readtrellis.com) - AI-powered browser assistant to level up your online productivity.
 
@@ -1084,7 +1081,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://d35b8pv2lrtup8.cloudfront.net/WdlMuSiFL6KwefIuSpOMX.png)
 
@@ -1096,7 +1093,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://firebasestorage.googleapis.com/v0/b/thea-dev-f7bc2.appspot.com/o/OG-XGO4RP32.png?alt=media&token=a765213c-3474-48ee-8d0c-a0bab1434a06)
 
@@ -1108,7 +1105,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://cdn.sanity.io/images/p1n4xy2d/production/7ad509b87585e36d8d29a3220129683c8598f59d-3810x2280.jpg?fit=crop&w=1280&h=720)
 
@@ -1120,7 +1117,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://workhub.ai/wp-content/uploads/2023/01/WorkHub-Collaboration-Tool-for-Remote-Hybrid-Teams.jpg)
 
@@ -1132,7 +1129,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://tweetmonk.com/banner-new.png)
 
@@ -1144,7 +1141,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://autopredict.co.uk/images/logo.png)
 
@@ -1156,7 +1153,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Whispr AI](https://getaikit.com) - Your Code Review AI Assistant
 
@@ -1166,7 +1163,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://logocreatorai.com/img/sitepicture.png)
 
@@ -1178,7 +1175,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://robovision.ai/wp-content/uploads/2022/02/Robovision-pink-logo-banner.jpg)
 
@@ -1190,7 +1187,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Codeium](https://siwalusoftware.com) - The modern coding superpower - AI powered code completion and generation.
 
@@ -1200,7 +1197,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://assets-global.website-files.com/61bb96d9db0e754ccbeae749/63d965527279ba19e0a82998_OpenGraph.png)
 
@@ -1212,7 +1209,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [SpellBox](https://colorpop.ai) - AI programming assistant
 
@@ -1222,7 +1219,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://framerusercontent.com/modules/xMpatu9LyObhrj4vXWua/fECpQNAV5USJI9a0XH2A/assets/nf3BSUqGe8fSWN2dUF1oTq2p4yQ.png)
 
@@ -1234,7 +1231,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [CodePal](https://suitmeup.pictures) - The Ultimate Coding Helper
 
@@ -1244,7 +1241,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://zyro.com/og-image.png)
 
@@ -1256,7 +1253,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Geniea](https://bookabout.io) - Your personal midjourney prompt optimizer powered by gpt-3.5-turbo
 
@@ -1266,7 +1263,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://framerusercontent.com/images/iyWRRj5jA94dv7i8CQlpM5PVg0.png)
 
@@ -1278,7 +1275,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://edgar-gpt-static.s3.amazonaws.com/meta/preview.png)
 
@@ -1290,7 +1287,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [SnapGPT](https://craboai.com) - The smart text recognition app
 
@@ -1300,7 +1297,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://portal-website-aengrr65c-anysphere.vercel.app/banner.png)
 
@@ -1312,7 +1309,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Findwise](https://edward.ai) - A ChatGPT-like bot, trained on your company data
 
@@ -1322,7 +1319,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.enhanceai.dev/socialShare.jpeg)
 
@@ -1334,7 +1331,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://d8272n47tyo0m.cloudfront.net/static/theme/img/common/preview.f3243adbf72c.png)
 
@@ -1346,7 +1343,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://assets-global.website-files.com/5db0d55a083f4b7cd59d2e42/5e267002496ea060c914a34b_facebook_share.png)
 
@@ -1358,7 +1355,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://ludo.ai/images/ludo-blue.png)
 
@@ -1370,7 +1367,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://novable.com/wp-content/uploads/2023/03/2-1024x536.png)
 
@@ -1382,7 +1379,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://rotorvideos.com/assets/og/og-lyric-videos-50aa2dca008d63ea152389f3542621fdbe97a261ed354af1481ea7c4dbe99945.jpg)
 
@@ -1394,7 +1391,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [ChatPDF](https://snapgptai.com) - Chat with any PDF!
 
@@ -1404,7 +1401,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.unriddle.ai/images/unriddle_og_3.png)
 
@@ -1416,7 +1413,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://promind.ai/assets/logo.png)
 
@@ -1428,7 +1425,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://ahuraai.com/wp-content/uploads/2023/04/L1060910-1024x683.jpg)
 
@@ -1440,7 +1437,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://framerusercontent.com/modules/2oAwx9LVAa6uKbW2CwRI/qwVTBAiESeWiCc9dEo44/assets/qzt1r64jczhJrCtwAKfjwch0Aqk.png)
 
@@ -1452,7 +1449,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://copyleaks.com/wp-content/uploads/2023/02/Feature_Image-01.png?_t=1693338627)
 
@@ -1464,7 +1461,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.letsgrow.com/wp-content/uploads/2022/08/LetsGrow-meeting-5-1350x900.jpg)
 
@@ -1476,7 +1473,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.nabla.com/static/og-copilot-3a8e352481534d3bb8ec5690c87ac2f1.png)
 
@@ -1488,7 +1485,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://assets.avaturn.me/thumb_8369258dda.jpg)
 
@@ -1500,7 +1497,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://dasha.ai/thumbnail.png)
 
@@ -1512,7 +1509,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://iconifyai.vercel.app/og-main.jpg)
 
@@ -1524,7 +1521,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://meetotis.com/assets/images/otis-icon.png)
 
@@ -1536,7 +1533,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](http://static1.squarespace.com/static/6360ec442bc6967f7a5ef4c8/t/649ba9742be81c73e87fc220/1687923069366/princess_1.png?format=1500w)
 
@@ -1548,7 +1545,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://framerusercontent.com/images/jO6GUoTMjyezWMGsv2M8bQpftxU.png)
 
@@ -1560,7 +1557,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://aiholiday.cards/assets/images/share.jpg?v=0fc5a762)
 
@@ -1572,7 +1569,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://tara.ai/img/engineering-insights-og.png)
 
@@ -1584,7 +1581,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Socratic](https://amazon.com/alexa) - Get unstuck. Learn better.
 
@@ -1594,7 +1591,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.apple.com/v/siri/h/images/meta/siri__fsb5b98qe526_og.png?202309181220)
 
@@ -1606,7 +1603,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Nashi.ai](https://effy.ai) - Elevate your conversation skills
 
@@ -1616,7 +1613,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [ELSA Speak](https://fylehq.com) - The worlds best way to improve your English pronunciation
 
@@ -1626,7 +1623,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.nuance.com/asset/internal/images/favicon-social.png)
 
@@ -1638,7 +1635,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.soundhound.com/wp-content/uploads/2023/05/homepage_hero2bsqb.jpg)
 
@@ -1650,7 +1647,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://www.spinrewriter.com/images/spin-rewriter-og-image-blue-2x-opt.png)
 
@@ -1662,7 +1659,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Siri](https://writelyai.com) - Get everyday tasks done with just your voice.
 
@@ -1672,7 +1669,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://usestyle.ai/og.png)
 
@@ -1684,7 +1681,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Suggest AI](https://suggest-ai.vercel.app) - Suggests anything via movies, music, etc
 
@@ -1694,7 +1691,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [Pi, your personal AI](https://heypi.com/talk) - Hi, I'm Pi. I'm your personal AI, designed to be supportive, smart, and there for you anytime. Ask me for advice, for answers, or let's talk about whatever's on your mind.
 
@@ -1704,7 +1701,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 [ChatNode-Train ChatGPT on your data](https://www.chatnode.ai) - Build your own AI assistant for your website or create an internal research tool by training ChatGPT on any data you'd like.
 
@@ -1714,7 +1711,7 @@
 
 ---
 
-#### Assistant
+### Assistant
 
 ![](https://uploads-ssl.webflow.com/647a1accbb500e955698892b/647fc806303b2062d08155fb_role%20model%20ai%20frame-p-800.jpg)
 
@@ -1726,9 +1723,9 @@
 
 ---
 
-### Email Assistant
+## Email Assistant
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://uploads-ssl.webflow.com/643882e1aa302261392bfe4a/6439ce001d2e6e7fa4a50427_FLG%20ICON.png)
 
@@ -1740,7 +1737,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 [Hiwriter GPT for Gmail](https://hiwriter.rebump.cc) - Your emails will now write themselves. Use OpenAI's GPT-3 to generate appropriate emails quickly and effortlessly, without having to think.
 
@@ -1750,7 +1747,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://uploads-ssl.webflow.com/61119d3a43a4b5a08f6b0142/634d13a190db0142b96a15c8_thumbnail.png)
 
@@ -1762,7 +1759,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 [Klynk](https://klynk.ai) - AI-powered tool for creating customizable and data-driven email campaigns designed for GTM teams
 
@@ -1772,7 +1769,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://nureply.com/ogimage.png)
 
@@ -1784,7 +1781,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://outboundly.app/wp-content/uploads/2022/09/screen.jpg)
 
@@ -1796,7 +1793,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://static.wixstatic.com/media/91bb9b_293ac7eba8a3469ba4588ff736588f20~mv2.gif/v1/fill/w_440,h_280,al_c/91bb9b_293ac7eba8a3469ba4588ff736588f20~mv2.gif)
 
@@ -1808,7 +1805,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://www.emailtriager.com/images/header.png)
 
@@ -1820,7 +1817,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://uploads-ssl.webflow.com/6396223fd53b2c1ec19dbe35/639db4f63c2d581e9a6e6b5a_Frame%20249.png)
 
@@ -1832,7 +1829,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 [IntelliMail](https://www.intellimail.xyz) - IntelliMail is a chrome extension that generates your emails - so you'll never have to write one again.
 
@@ -1842,7 +1839,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://uploads-ssl.webflow.com/6194b72396a40db3e9022e03/62b26980cdbe640ec30ab643_OpenGraph.png)
 
@@ -1854,7 +1851,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://assets.website-files.com/61081563fd06bcd2ed476ea0/624657ab78694e64083cc8e1_Braveaux%20(1).png)
 
@@ -1866,7 +1863,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://uploads-ssl.webflow.com/642bd4ac1fcf21f9f33d92ed/64f983b434cd09847c72e5dd_Salesforge.png)
 
@@ -1878,7 +1875,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://www.superflows.ai/superflows-dark-pink-border.png)
 
@@ -1890,7 +1887,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://super-static-assets.s3.amazonaws.com/b9a6147f-080d-4048-8b84-3159a3bd3683/uploads/cover/d15abcaa-e843-41f2-80c9-8529d221a5fb.png)
 
@@ -1902,7 +1899,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://www.chatfriday.com/og.jpg)
 
@@ -1914,7 +1911,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://imiprompt.com/twitter-card.png)
 
@@ -1926,7 +1923,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://paragraphai.com/wp-content/uploads/2022/10/Purple-background.png)
 
@@ -1938,7 +1935,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://recruitgenius.ai/wp-content/uploads/2022/02/layout-app.jpg)
 
@@ -1950,7 +1947,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 [Warmest](https://soon.app) - An AI that drafts your emails just like you would
 
@@ -1960,7 +1957,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://opengraph.githubassets.com/abb70e7aca695351f02ddffefab7146e0af3955ce5ac3c1327ef460530ec92ce/THUDM/CodeGeeX)
 
@@ -1972,7 +1969,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 [Mails.ai](https://gptparser.com) - Email Marketing Automation Tool
 
@@ -1982,7 +1979,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://s8e9s9p8.rocketcdn.me/wp-content/uploads/ET-logo-2.png)
 
@@ -1994,7 +1991,7 @@
 
 ---
 
-#### Email Assistant
+### Email Assistant
 
 ![](https://cdn-landing.snov.io/images/og/email-ai.png)
 
@@ -2006,9 +2003,9 @@
 
 ---
 
-### Life Assistant
+## Life Assistant
 
-#### Life Assistant
+### Life Assistant
 
 [AI Recipe Generator](https://ai-recipes.softr.app) - Generate unique recipes with AI based on ingredients at home.
 
@@ -2018,7 +2015,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://prodi.gg/wp-content/uploads/2022/12/cta-img02.png)
 
@@ -2030,7 +2027,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F977150a0ca80b098c43367ade42d1ff0.cdn.bubble.io%2Ff1643398685261x842158880841859200%2FAkeeva%2520-%2520Logo%2520Resized.png?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -2042,7 +2039,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://questmate-static-public.s3.amazonaws.com/questmate-open-graph.png)
 
@@ -2054,7 +2051,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://storage.googleapis.com/yoodli-public/media-assets/Social_Thumbnail.png)
 
@@ -2066,7 +2063,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [AskGPT](https://askgpt.fyi) - ChatGPT meets WhatsApp for engaging conversations
 
@@ -2076,7 +2073,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://askmarcus.ai/assets/social-graph.png)
 
@@ -2088,7 +2085,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://besty.ai/logo_share.png)
 
@@ -2100,7 +2097,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Call Annie](https://callannie.ai) - AI-Powered Virtual Assistant Chatbot
 
@@ -2110,7 +2107,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [ChatOga](https://chatoga.net) - Get Accurate Responses with ChatOga AI Chatbot
 
@@ -2120,7 +2117,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://www.chefgpt.xyz/assets/images/favicon/banner.webp)
 
@@ -2132,7 +2129,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://www.chefgpt.xyz/assets/images/favicon/banner.webp)
 
@@ -2144,7 +2141,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [ChowAI](https://chowai.com) - Meal planning platform offering personalized African cuisine recommendations
 
@@ -2154,7 +2151,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [DishGen](https://dishgen.com) - AI-powered recipe generator with personalized options
 
@@ -2164,7 +2161,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Dream Interpreter](https://dreaminterpreter.ai) - Dream interpreter using GPT-3
 
@@ -2174,7 +2171,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [FaceCheck ID](https://facecheck.id) - Protect Yourself and Others with Our Robust Photo Checking System
 
@@ -2184,7 +2181,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://public-files.gumroad.com/2esnuubi0ezz6y71fvkz01wut3bg)
 
@@ -2196,7 +2193,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [GPTGO](https://googpt.ai) - ChatGPT combined with Google search
 
@@ -2206,7 +2203,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://ichatwithgpt.com/assets/twitter-card.png)
 
@@ -2218,7 +2215,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Insula](https://insulabot.com) - Insula gives you the ability to communicate in natural speech with cutting-edge AI
 
@@ -2228,7 +2225,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F55b88eeeb4497ba0426e3f0325b37815.cdn.bubble.io%2Ff1683071013133x693051453897748300%2FProfilePictureMaker%2520%25281%2529.png?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -2240,7 +2237,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://magai.co/wp-content/uploads/2023/04/magai-chatgpt-tools.jpg)
 
@@ -2252,7 +2249,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [GPT3 Text Generator](https://play.google.com/store/apps/details?id=cls.dev.basicgpt3) - Versatile virtual assistant using GPT-3 for text generation, jokes, and poems
 
@@ -2262,7 +2259,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Plicanta](https://plicanta.com) - Plicanta accelerates your career growth with integrated AI tooling.
 
@@ -2272,7 +2269,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://psc2.cf2.poecdn.net/54ce6adc1c5985ccf00911a8a698f7fa5ad7c81f/_next/static/media/defaultAvatar.7e5c73d2.png)
 
@@ -2284,7 +2281,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://1716637182.rsc.cdn77.org/web/main-page/replika_og_image.png)
 
@@ -2296,7 +2293,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F45401a3d9d3e6619b0d2c0a91ef44ebc.cdn.bubble.io%2Ff1674167799561x184445665434060700%2Fpage-facebook-image.jpg?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -2308,7 +2305,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://ruru.chat/assets/ruru-social-image.png)
 
@@ -2320,7 +2317,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://sindresorhus.com/apps/quickgpt/icon.png)
 
@@ -2332,7 +2329,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://i.ibb.co/XyfV1RC/Unlimited-GPT.png)
 
@@ -2344,7 +2341,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://venngage.com/assets/img/v-card/valentine-card-maker.png)
 
@@ -2356,7 +2353,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://wonderplan.ai/cover-image.webp)
 
@@ -2368,7 +2365,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [AIdeaMap](https://www.aideamap.com) - AIdeaMap: Your AI Copilot for Interactive Idea Mapping
 
@@ -2378,7 +2375,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://uploads-ssl.webflow.com/619d57bd48f024010ee6833b/61eae47911f376e92cbd6444_hospitality-page-screenshot-1920x1005-1.91-to-1-aspect-ratio.jpg)
 
@@ -2390,7 +2387,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://www.apple.com/v/apple-books/b/images/meta/og.png?202304130419)
 
@@ -2402,7 +2399,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://www.askbrian.ai/wp-content/uploads/2021/04/askbrian-digital-assistant-powered-by-ai-brian.jpg)
 
@@ -2414,7 +2411,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Ask Experts AI](https://www.askexperts.ai) - Ask any question you have to a team of AI Experts!
 
@@ -2424,7 +2421,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Ask Oracle](https://www.askoracle.ai) - Ask the Oracle anything you want to know about the stars!
 
@@ -2434,7 +2431,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Atmo AI](https://www.atmo.ai) - High-accuracy weather prediction for any city, state, or country.
 
@@ -2444,7 +2441,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://uploads-ssl.webflow.com/62e5b5892fdfe130976b19a2/6409380524ddda787ded31f8_Frame%20626048%20(1)-p-1080.png)
 
@@ -2456,7 +2453,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://www.bing.com/sa/simg/facebook_sharing_5.png)
 
@@ -2468,7 +2465,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Find Your Next Book](https://www.findyournextbook.ai) - Get personalized book recommendations from thousands of titles.
 
@@ -2478,7 +2475,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://uploads-ssl.webflow.com/643e6ce50c675406e7c9e19c/6441ac6ca9a044508b871bdb_000.png)
 
@@ -2490,7 +2487,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://claros.so/main-preview.png)
 
@@ -2502,7 +2499,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [GPTMyDay](https://www.gptmyday.com) - GPTMyDay is an AI-powered daily planner designed to help users plan their day effectively.
 
@@ -2512,7 +2509,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Jua AI](https://www.jua.ai) - High-accuracy weather data
 
@@ -2522,7 +2519,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://uploads-ssl.webflow.com/63aba9cfb966f514f68041e8/63d17336ea89130b5e48ca99_MapsGPT%20SEO%20Image%20(2).png)
 
@@ -2534,7 +2531,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://files.rewind.ai/rewind-ogthumb.jpg)
 
@@ -2546,7 +2543,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://static.wixstatic.com/media/45e73d_8ab2ecfdee064f20860fe2a1e3f8ddb2~mv2.png/v1/fill/w_2296,h_607,al_c/45e73d_8ab2ecfdee064f20860fe2a1e3f8ddb2~mv2.png)
 
@@ -2558,7 +2555,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://www.tomorrow.io/wp-content/uploads/2022/12/tomorrow-icon@2x.png)
 
@@ -2570,7 +2567,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://watchnowai.com/assets/images/card.jpg?v=413cd1cb)
 
@@ -2582,7 +2579,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://static.wixstatic.com/media/0a4500_e0559c4101e54e77b0a3f5620a97856f%7Emv2.jpeg/v1/fit/w_2500,h_1330,al_c/0a4500_e0559c4101e54e77b0a3f5620a97856f%7Emv2.jpeg)
 
@@ -2594,7 +2591,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://roamaround.io/roam-logo-share.jpg)
 
@@ -2606,7 +2603,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://uploads-ssl.webflow.com/622ce7fc5360a57062eb734d/64cddd83666ac6009c542839_Zencall%20logo%20et%20texte%20blanc.png)
 
@@ -2618,7 +2615,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Furwee](https://furwee.ai) - A service that provides conversational tutoring for children.
 
@@ -2628,7 +2625,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://www.sermongpt.com/og-image.png)
 
@@ -2640,7 +2637,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://write-a-card.co/og.png)
 
@@ -2652,7 +2649,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Adaptiv Academy](https://app.adaptiv.me/app/home) - Career mentoring with the help of AI technology.
 
@@ -2662,7 +2659,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://careerdekho.ai/social-cover.png)
 
@@ -2674,7 +2671,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Rissun](https://rissun.co) - A mobile application designed for recording dreams.
 
@@ -2684,7 +2681,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Applicant AI](https://applicantai.com/login) - Utilizes artificial intelligence technology to rapidly generate resumes and cover letters based on information from a LinkedIn profile.
 
@@ -2694,7 +2691,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://uploads-ssl.webflow.com/62278fe51e489db4234eb636/6480d0f570fd7dcfe4f72439_Napkin-OpenGraphImage-Default.webp)
 
@@ -2706,7 +2703,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [ResumAI](https://resumai.me) - Employ AI technology to efficiently create a curriculum vitae.
 
@@ -2716,7 +2713,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [PrayGen](https://praygen.com) - A customized prayer creation.
 
@@ -2726,7 +2723,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://assets-global.website-files.com/5ff65c460ce39f5ec5681c6a/64b5f41b2398555562f817db_PAI-home-social-image.jpg)
 
@@ -2738,7 +2735,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://datingbyai.com/share.png)
 
@@ -2750,7 +2747,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fa117f7b6393a1c79e27de25e2692c431.cdn.bubble.io%2Ff1666869695045x385019343109326700%2Ficonsoofy.png?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -2762,7 +2759,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Transvribe](https://transvribe.com) - A resource to enhance learning on YouTube.
 
@@ -2772,7 +2769,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 [Habit Driven](https://habitdriven.ai) - A mobile application designed to monitor and manage habits and objectives.
 
@@ -2782,7 +2779,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://carevocacy.com/wp-content/uploads/2023/01/Apo-Featured-Image.png)
 
@@ -2794,7 +2791,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://storage.googleapis.com/yoodli-public/media-assets/Social_Thumbnail.png)
 
@@ -2806,7 +2803,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://framerusercontent.com/images/TNMeaoXcuiDVZM12X0JBzRN2w.png)
 
@@ -2818,7 +2815,7 @@
 
 ---
 
-#### Life Assistant
+### Life Assistant
 
 ![](https://storage.googleapis.com/amori-ce485.appspot.com/texts-from-my-ex/og.jpg)
 
@@ -2830,9 +2827,9 @@
 
 ---
 
-### Presentations
+## Presentations
 
-#### Presentations
+### Presentations
 
 ![](https://res.cloudinary.com/pitch-software/image/upload/v1686066113/website/social-image.jpg)
 
@@ -2844,7 +2841,7 @@
 
 ---
 
-#### Presentations
+### Presentations
 
 ![](https://assets-global.website-files.com/6179a66d5f9cc70024c6185c/623ba0ca7fb0e20114fe3055_Slidebean-Hub-Home-Thumbnail.png)
 
@@ -2856,7 +2853,7 @@
 
 ---
 
-#### Presentations
+### Presentations
 
 ![](https://uploads-ssl.webflow.com/622217130a9cad1a33ea9b0a/63fdc4d8ff46f93c1fbc0985_p3.jpg)
 
@@ -2868,7 +2865,7 @@
 
 ---
 
-#### Presentations
+### Presentations
 
 ![](https://www.gptforslides.app/assets/magicslides-open-graph-image.png)
 
@@ -2880,7 +2877,7 @@
 
 ---
 
-#### Presentations
+### Presentations
 
 ![](https://uploads-ssl.webflow.com/63d8152aaff28d30ae3e1ee5/63ffe6c50539cfe45a83ec6c_storyd.ai.png)
 
@@ -2892,7 +2889,7 @@
 
 ---
 
-#### Presentations
+### Presentations
 
 ![](https://www.virtualsapiens.co/wp-content/uploads/2022/12/cropped-transparent-VS-logo-12122022-favicon.png)
 
@@ -2903,6 +2900,8 @@
 #presentations
 
 ---
+
+## Productivity
 
 ### Productivity
 

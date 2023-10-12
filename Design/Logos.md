@@ -1,6 +1,6 @@
-# Logos
-
 ## Logos
+
+### Logos
 
 [Placeit](https://placeit.net) - Get unlimited downloads on all our 12k templates for $29 dollars a month! You can make make a logo, video, mockup, flyer, business card and social media image in seconds right from your browser.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Logos
+### Logos
 
 [Hatchful](https://hatchful.shopify.com) - Free logo maker tool to generate custom design logos in minutes. Choose free vectors, fonts and icons to design your own logo. The easiest way to create business logos online.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Logos
+### Logos
 
 ![](https://logomakr.com/wp-content/uploads/2023/05/Logomakr-logo-banding-1-1024x457.png)
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Logos
+### Logos
 
 [Logo Squarespace](https://logo.squarespace.com) - Logos made simple.
 
@@ -42,7 +42,7 @@
 
 ---
 
-## Logos
+### Logos
 
 ![](https://www.logocrisp.com/wp-content/uploads/2023/05/banner-11.png)
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Logos
+### Logos
 
 ![](https://res.cloudinary.com/zenbusiness/q_auto/v20230308/shared-assets/logo/zen-social-share-default.png)
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Logos
+### Logos
 
 [CreativeBooster](https://creativebooster.net/collections/all-freebies) - Collection of all freebies (hosted and featured) on our site. Including free fonts, psd mockups and templates. Fonts include sans serif, display, handwritten and script fonts. Mockups include iPhone, poster, flyer, magazine, brochure, book and device mockups. Template include resume templates and logos.
 
@@ -76,7 +76,7 @@
 
 ---
 
-## Logos
+### Logos
 
 [Brands of the World-Download vector logos and logotypes](https://www.brandsoftheworld.com) - Brands of the World is the world\'s largest library of brand logos in vector format available to download for free. BotW is also a great place for designers to showcase their work.
 
@@ -86,7 +86,7 @@
 
 ---
 
-## Logos
+### Logos
 
 [Logodownload.org](https://logodownload.org) - Encontre logos em boa qualidade para seus projetos. Logotipos de varias empresas e organizacoes. Tudo de logo voce encontra aqui.
 
@@ -96,7 +96,7 @@
 
 ---
 
-## Logos
+### Logos
 
 [Company Logo Downloads - Vector Logos, Arms (AI, EPS, SVG, PNG )](http://www.logoeps.net) - Vector Logos, Arms (AI, EPS, SVG, PNG )
 
@@ -106,4 +106,4 @@
 
 ---
 
-## Mockup's
+### Mockup's

@@ -1,10 +1,7 @@
 # Web
-
-## Web
+## Chrome Extensions
 
 ### Chrome Extensions
-
-#### Chrome Extensions
 
 ![](https://lh3.googleusercontent.com/uv-KZd2X_Ac_4vav5FHE0r3Pin6vZRCo7pBFkl3v4C3cD04bGcbC-gZHsapq_AxjtLa60NsWqNI7JTiR1UBIDmmkrw=w128-h128-e365-rj-sc0x00ffffff)
 
@@ -16,7 +13,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://firebasestorage.googleapis.com/v0/b/prompt-landing.appspot.com/o/og_image_promptplus.png?alt=media&token=77837b31-5b7e-4fd8-b5c6-b0e199980e34)
 
@@ -28,7 +25,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://spell.so/og.jpg?v=1)
 
@@ -40,7 +37,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 [ListGPT](https://listgpt.com) - Web site created using create-react-app
 
@@ -50,7 +47,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://lh4.googleusercontent.com/vdwM8VcQsAHzTeTDcKR277ZnOI58A5c4QW7v7fY9sN_HFjt4REpAlEkzNrboDjuLpwwjftMeaD9wVi4L2n0JESg=w16383)
 
@@ -62,7 +59,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 [Welcome to Prompt Pedia!](https://promptaipedia.com) - nan
 
@@ -72,7 +69,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://unijump.ai/_astro/social.dbc265c2.jpeg)
 
@@ -84,7 +81,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 [SaveGPT - Auto-save ChatGPT conversations](https://savegpt.com) - SaveGPT is a browser extension that auto saves ChatGPT conversations and adds Chat History button on the ChatGPT website.
 
@@ -94,7 +91,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 [Monica](https://monica.im) - Chat about anything with Monica, your ChatGPT API powered AI assistant. Get started for free and effortlessly create copywriting with over 80 templates. Let Monica help you compose and insert text into any web page. Plus, select text on any web page and let Monica explain, translate, and rephrase for you.
 
@@ -104,7 +101,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 [AutoGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/autogpt/mamkpgmndpghcbjpklkbpiafhnonehle) - Use AutoGPT in Google Chrome
 
@@ -114,7 +111,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://www.sheetai.app/assets/aibrane-open-graph-image.png)
 
@@ -126,7 +123,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 [Ailiverse](https://ailiverse.com) - Training in computer vision and classification of images.
 
@@ -136,7 +133,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://res.cloudinary.com/piggy/image/upload/q_50/v1674551324/assets/website/magic_cover.jpg)
 
@@ -148,7 +145,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://figstack.com/thumbnail.png)
 
@@ -160,7 +157,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://ubiai.tools/wp-content/uploads/2023/01/LogoPalceHolder.svg)
 
@@ -172,7 +169,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://www.kadoa.com/og.png)
 
@@ -184,7 +181,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://vaibhavacharya.gallerycdn.vsassets.io/extensions/vaibhavacharya/code-gpt-va/0.0.6/1676738440353/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -196,7 +193,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://httpie.io/Images/Share/default.png)
 
@@ -208,7 +205,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://assets.website-files.com/61fae48cb5979577435753f6/642ccd5c6e06ee6861bb796d_OG-image-app-builder.png)
 
@@ -220,7 +217,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://lh3.googleusercontent.com/gsVEKcz6lbhWga2TnoaO3BJVBwRLLn_8XpOmapeOnLUJ5cCu000cS_djHn3IrBSKqkQ9BB0Ay-4yhFBTqwxvvaLe1io=w128-h128-e365-rj-sc0x00ffffff)
 
@@ -232,7 +229,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 [GigaBrain - Search Reddit and Other Communities for Answers from Real People](https://thegigabrain.com) - GigaBrain finds the most useful discussions on reddit and other communities. We sift through the noise and analyze billions of comments for you. Get real answers from real people.
 
@@ -242,7 +239,7 @@
 
 ---
 
-#### Chrome Extensions
+### Chrome Extensions
 
 ![](https://framerusercontent.com/images/jPa2IjSsd3MCc06BqMI2tZuQQ.png)
 
@@ -254,9 +251,9 @@
 
 ---
 
-### SEO
+## SEO
 
-#### SEO
+### SEO
 
 ![](https://seovendor.co/wp-content/uploads/2023/03/SEOGPT-100-optimization-types-sm.gif)
 
@@ -268,7 +265,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 ![](https://uploads-ssl.webflow.com/641b265f1ef711fc402dbe7a/642ad016b582a6ea03c56734_Screenshot%202023-04-03%20at%2014.08.41.png)
 
@@ -280,7 +277,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 ![](https://atonce.com/AtOnce.png)
 
@@ -292,7 +289,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 ![](https://copymate.app/wp-content/uploads/2023/04/Frame-1-5-1.png)
 
@@ -304,7 +301,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 ![](https://goevolv.io/mock3.png)
 
@@ -316,7 +313,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 ![](https://www.junia.ai/og.png)
 
@@ -328,7 +325,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 ![](https://uploads-ssl.webflow.com/62a1d5337c2a860b919132f8/63f7c04798bd4a019dedafa4_LongShot%20Home%20page.jpg)
 
@@ -340,7 +337,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 [Rare genie](https://raregenie.com) - Generate high-quality, unique content with AI-powered RareGenie.
 
@@ -350,7 +347,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 ![](https://write.reword.com/ogshare.png)
 
@@ -362,7 +359,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 [SEO Assist](https://seoassist.com) - Create unique and personalized SEO content effortlessly with SEO Assist
 
@@ -372,7 +369,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 [Typli.ai](https://typli.ai) - AI writing assistant and SEO checker for creating long-form content and marketing copies in minutes.
 
@@ -382,7 +379,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 ![](https://cdn.sanity.io/images/7g6d2cj1/production/7c8f9a95d01c8c4043af4f3c39940ba3870bb1a9-512x512.png?w=1200&q=70&auto=format)
 
@@ -394,7 +391,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 ![](https://mentioned.ai/images/636d01e77a5de67c3a2d6a83/63739a8425956614c628cdec_Mentioned_Opengraph.png)
 
@@ -406,7 +403,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 [ProSEOAI](https://www.proseoai.com) - Bypass AI detectors with AI-powered content generation for improved SEO.
 
@@ -416,7 +413,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 ![](https://tryellie.com//assets/meta.png)
 
@@ -428,7 +425,7 @@
 
 ---
 
-#### SEO
+### SEO
 
 [HP-AI - Content & Image Generator](https://hp-ai.in) - nan
 
@@ -437,6 +434,8 @@
 #ai
 
 ---
+
+## Web
 
 ### Web
 

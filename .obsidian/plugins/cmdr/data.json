@@ -48,12 +48,6 @@
       "mode": "any"
     },
     {
-      "id": "note-refactor-obsidian:app:split-note-by-heading-h2",
-      "icon": "align-horizontal-space-around",
-      "name": "Note Refactor: Split note by headings - H2",
-      "mode": "any"
-    },
-    {
       "id": "obsidian-regex-replace:obsidian-regex-replace",
       "icon": "activity",
       "name": "Regex Find/Replace: Find and Replace using regular expressions",

@@ -1,6 +1,6 @@
 # Day One
-
 ## Day One
+### Day One
 
 [Quantified-Self: The Power of Day One & Launch Center Pro Mickael Le Gal](http://www.mickaellegal.com/blog/2014/3/31/day-one-launch-center-pro) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Day One
+### Day One
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*1iiIrtlL-4Kfx07tvkeQqQ.jpeg)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Day One
+### Day One
 
 ![](https://149636932.v2.pressablecdn.com/wp-content/uploads/2021/12/ScreenShot2021-08-17at12.15.18PM.png)
 

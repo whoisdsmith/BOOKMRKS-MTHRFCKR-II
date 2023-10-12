@@ -844,9 +844,9 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-### Speeadsheets
+## Speeadsheets
 
-#### Speeadsheets
+### Speeadsheets
 
 ![](https://framerusercontent.com/modules/p7p2exb628mFtjxUvIZR/qFkVwePr6iWwTea1PPHV/assets/Ouc0o1B3CHuwVo9Y0xucFOk5esU.png)
 
@@ -858,7 +858,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### Speeadsheets
+### Speeadsheets
 
 ![](https://askbosco.io/app/uploads/2023/07/ASKBOSCO-Header-Website.jpg)
 
@@ -870,7 +870,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### Speeadsheets
+### Speeadsheets
 
 [AutoQuery GPT](https://autoquerygpt.com) - It helps you to automatically ask your questions to chatGPT with free.
 
@@ -880,7 +880,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### Speeadsheets
+### Speeadsheets
 
 ![](https://nextstatic.nextatlas.com/images/generate/generate-share.png)
 
@@ -892,7 +892,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### Speeadsheets
+### Speeadsheets
 
 ![](https://gpt.space/lib_cZGpwPhfNYOuAywh/dkrm769uf82ibxbw.png?w=1200&h=630&fit=crop)
 
@@ -904,7 +904,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### Speeadsheets
+### Speeadsheets
 
 [Dashboard-Sheet+](https://app.sheetplus.ai) - nan
 
@@ -914,7 +914,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### Speeadsheets
+### Speeadsheets
 
 ![](https://uploads-ssl.webflow.com/63f2f0a87e5f1a24c19311c2/63f41d0a43b66502f81dbe7e_final%20marketing%20image-p-3200.png)
 
@@ -926,7 +926,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### Speeadsheets
+### Speeadsheets
 
 ![](https://getluminal.com/images/link_preview.png)
 
@@ -938,7 +938,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### Speeadsheets
+### Speeadsheets
 
 ![](https://res.cloudinary.com/ddthytyow/image/upload/v1694105461/og-image_d2gpvv.webp)
 
@@ -950,7 +950,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### Speeadsheets
+### Speeadsheets
 
 ![](https://deepsheet.dylancastillo.co/static/meta-img.png)
 
@@ -962,7 +962,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### Speeadsheets
+### Speeadsheets
 
 [VizGPT](https://www.vizgpt.ai) - nan
 
@@ -972,7 +972,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### Speeadsheets
+### Speeadsheets
 
 ![](https://formularizer.com/thumbnail.webp)
 
@@ -984,9 +984,9 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-### SQL
+## SQL
 
-#### SQL
+### SQL
 
 ![](https://www.alteroai.com/api/og?title=AI%20Powered%20Due%20Diligence%20on%20Any%20Company&subtitle=Our%20AI%20searches%20the%20public%20web%20and%20synthesizes%20data%20from%20various%20sources%20to%20produce%20detailed%20business%20research.%20Get%20up%20to%20speed%20on%20any%20company%20and%20streamline%20your%20due%20diligence.)
 
@@ -998,7 +998,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### SQL
+### SQL
 
 ![](https://storage.googleapis.com/s4a-prod-share-preview/default/st_app_screenshot_image/de38de5a-18b5-4c51-ba88-69ca1e66d669/Home_Page.png)
 
@@ -1010,7 +1010,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### SQL
+### SQL
 
 ![](https://unicorn-cdn.b-cdn.net/58064389-cc56-4877-9c61-3a242aac0e3d/image.png)
 
@@ -1022,7 +1022,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### SQL
+### SQL
 
 ![](https://www.alteroai.com/api/og?title=AI%20Powered%20Due%20Diligence%20on%20Any%20Company&subtitle=Our%20AI%20searches%20the%20public%20web%20and%20synthesizes%20data%20from%20various%20sources%20to%20produce%20detailed%20business%20research.%20Get%20up%20to%20speed%20on%20any%20company%20and%20streamline%20your%20due%20diligence.)
 
@@ -1034,7 +1034,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### SQL
+### SQL
 
 [Prisma Editor](https://prisma-editor.up.railway.app) - A powerful tool to visualize and edit Prisma Schema.
 
@@ -1044,7 +1044,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### SQL
+### SQL
 
 ![](https://toolske.com/smpreview.png)
 
@@ -1056,7 +1056,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### SQL
+### SQL
 
 ![](https://uploads-ssl.webflow.com/6168d127e202c448f6e7940d/6192d3ec67d35379e5694678_Untitled%20-%202021-11-15T134054.177.png)
 
@@ -1068,7 +1068,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-#### SQL
+### SQL
 
 [Channel](https://www.usechannel.com) - Automate data exploration with natural language questions
 
