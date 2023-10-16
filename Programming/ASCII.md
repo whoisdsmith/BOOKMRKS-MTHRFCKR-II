@@ -1,6 +1,6 @@
-# ASCII
-
 ## ASCII
+
+### ASCII
 
 ![](https://toolsaday.com/text-tools/assets/images/og-toolsaday.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## ASCII
+### ASCII
 
 [Convert Text To Ascii Format Recipes](https://www.tfrecipes.com/convert-text-to-ascii-format) - nan
 
@@ -22,7 +22,7 @@
 
 ---
 
-## ASCII
+### ASCII
 
 ![](https://replit.com/public/images/replit-logo-800x600.png)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## ASCII
+### ASCII
 
 [Text to ASCII Art Generator (TAAG)](https://patorjk.com/software/taag#p=display&f=Graffiti&t=Type%20Something%20) - nan
 
@@ -44,7 +44,7 @@
 
 ---
 
-## ASCII
+### ASCII
 
 ![](https://www.browserling.com/images/browserling-cross-browser-testing-fb-og-image.png)
 
@@ -56,7 +56,7 @@
 
 ---
 
-## ASCII
+### ASCII
 
 ![](https://alldocs.app/assets/images/opengraph.png)
 
@@ -68,7 +68,7 @@
 
 ---
 
-## ASCII
+### ASCII
 
 [AsciiDocLIVE](https://asciidoclive.com/edit/scratch/2) - Full-featured online AsciiDoc editor. Instant live preview, sync with Dropbox & Google Drive, and more!
 
@@ -78,7 +78,7 @@
 
 ---
 
-## ASCII
+### ASCII
 
 [ASCII Tree Generator](https://ascii-tree-generator.com) - Online interactive folder structure generator. Easily create and visualise your development tree for your new projects and your documentations.
 
@@ -88,7 +88,7 @@
 
 ---
 
-## ASCII
+### ASCII
 
 ![](https://textfancy.com/img/og.jpg)
 
@@ -100,7 +100,7 @@
 
 ---
 
-## ASCII
+### ASCII
 
 ![](https://16colo.rs/static/16c-og.png)
 
@@ -112,7 +112,7 @@
 
 ---
 
-## ASCII
+### ASCII
 
 [ASCII ART](https://ascii.co.uk/art) - nan
 
@@ -122,7 +122,7 @@
 
 ---
 
-## ASCII
+### ASCII
 
 [ASCII-Generator - Convert image or text to the ASCII Art](https://ascii-generator.site) - nan
 
@@ -132,7 +132,7 @@
 
 ---
 
-## ASCII
+### ASCII
 
 ![](https://opengraph.githubassets.com/0ab2ba04ab4e94683071b764b7d5c44e65dc250f467b4ffd0e2bfab654dbae9d/CherryPill/ASCII-art-creator)
 
@@ -144,7 +144,7 @@
 
 ---
 
-## ASCII
+### ASCII
 
 ![](http://loveascii.com/images/fbshare.jpg)
 

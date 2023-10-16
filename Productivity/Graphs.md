@@ -1,6 +1,6 @@
-# Graphs
-
 ## Graphs
+
+### Graphs
 
 ![](https://www.plectica.com/share-image.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Graphs
+### Graphs
 
 ![](https://datacopia.com/assets/images/datacopia_OG.png)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Graphs
+### Graphs
 
 [Koia Data Analysis](https://www.koia.io/intro/index.html) - Create graphs online with CSV, Excel or JSON data. Choose from different chart types, pivot tables and relationship graphs. Easy, user-friendly, open-source.
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Graphs
+### Graphs
 
 [RAWGraphs 2.0](https://app.rawgraphs.io) - Web site created using create-react-app
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Graphs
+### Graphs
 
 [Gephi - The Open Graph Viz Platform](https://gephi.github.io) - nan
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Graphs
+### Graphs
 
 ![](https://uploads-ssl.webflow.com/61eee10e79d6b4b029e130bd/628faa6f9ae4e6943bd9729a_cover-rawgraphs3.png)
 
@@ -66,4 +66,4 @@
 
 ---
 
-## Health
+### Health

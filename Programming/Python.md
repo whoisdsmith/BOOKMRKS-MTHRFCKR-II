@@ -1,6 +1,6 @@
-# Python
-
 ## Python
+
+### Python
 
 ![](https://miro.medium.com/v2/resize:fit:1200/0*B260_-rdgu3tjKxK)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Python
+### Python
 
 ![](https://miro.medium.com/v2/resize:fit:1200/0*B260_-rdgu3tjKxK)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Python
+### Python
 
 [Nuitka the Python Compiler](https://nuitka.net) - With the Python compiler Nuitka you create protected binaries out of your Python source code.
 

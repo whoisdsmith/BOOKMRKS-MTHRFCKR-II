@@ -1,6 +1,6 @@
-# Resources
-
 ## Resources
+
+### Resources
 
 ![](https://www.askpython.com/wp-content/uploads/2019/09/askpython-social.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://altbox.dev/assets/img/altbox-box-logo.png)
 

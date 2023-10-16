@@ -22,7 +22,28 @@
   "showShortcuts": true,
   "markdownOnly": true,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "Programming/Terminal.md",
+      "timestamp": 1697128441886
+    },
+    {
+      "filepath": "Programming/Snippets.md",
+      "timestamp": 1697128437445
+    },
+    {
+      "filepath": "Programming/Regex.md",
+      "timestamp": 1697128432029
+    },
+    {
+      "filepath": "Programming/Python.md",
+      "timestamp": 1697128424898
+    },
+    {
+      "filepath": "Programming/PROGAMMING-MTHRFCKR.md",
+      "timestamp": 1697128420400
+    }
+  ],
   "starredFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

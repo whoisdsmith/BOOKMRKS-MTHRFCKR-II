@@ -1,6 +1,6 @@
-# Free For Dev Students
-
 ## Free For Dev Students
+
+### Free For Dev Students
 
 [Free Online Tools For Developers](https://freeformatter.com) - Free online tools for developers, including formatters (JSON, XML, HTML, SQL, etc.), minifiers (JavaScript, CSS), validators, compactors and many more!
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 ![](https://res.cloudinary.com/dev-resources/image/upload/q_auto,w_1200/v1623007861/media/thumbnail_q80ffh.png)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 ![](https://intab.io/images/devbox-04856955b3.png)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [Free For Devs](https://drgraph.cf/freefordevs) - nan
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [Tableau for Students](https://www.tableau.com/academic/students) - Students can download Tableau Desktop and Tableau Prep for free through Academic Programs. Try it now.
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 ![](https://www.sas.com/en_us/_jcr_content/socialShareImage.img.0bbe334d3b774cc6b334c8d885a93143.png)
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 ![](https://www.intel.com/content/dam/develop/public/us/en/images/logos/container-catalog/logo-oneapi.png)
 
@@ -78,7 +78,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [Automate email tests-loved by developers & QA teams](https://testmail.app) - Test new user signups, transactional emails, spam scores, and more. Get started on our free forever plan with unlimited email addresses and mailboxes.
 
@@ -88,7 +88,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [CARTO](https://clausa.app.carto.com) - Unlock the power of spatial analysis in the cloud
 
@@ -98,7 +98,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [CodeScene](https://codescene.io/projects) - CodeScene help teams pinpoint key software issues, detect delivery risks and measure organizational aspects in order to reduce technical debt.
 
@@ -108,7 +108,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [ConfigCat Dashboard](https://app.configcat.com) - nan
 
@@ -118,7 +118,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 ![](https://d2i2nj5el4wq1j.cloudfront.net/assets/courses/beginner-course-cf789b85328e4b8fac61cdf9ff8f69160dc290c48272b06e008c9081b024245c.png)
 
@@ -130,7 +130,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [Dashboards - Bold BI](https://mthrfckr.boldbi.com/bi/dashboards?view=all) - nan
 
@@ -140,7 +140,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [Datadog](https://app.datadoghq.com/dashboard/lists) - nan
 
@@ -150,7 +150,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 ![](https://www.digitalocean.com/assets/media/logo-a721c4a7.png)
 
@@ -162,7 +162,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [Document Title-Curvenote](https://curvenote.com/@whoisdsmith/mf-lpmvko4k/blank/edit) - nan
 
@@ -172,7 +172,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 ![](https://static.blackfire.io/assets/va72b8137fc/bundles/blackfireapi/img/og-image.jpg)
 
@@ -184,7 +184,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [Inbox](http://webmail.mthrfckr.tech) - nan
 
@@ -194,7 +194,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [JetBrains Account](https://account.jetbrains.com) - JetBrains Account provides easy access to your JetBrains products and makes upgrades and migration to new hardware smooth.
 
@@ -204,7 +204,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [Microsoft Azure](https://portal.azure.com/?Microsoft_Azure_Education_asoSubGuid=cdb976b5-d0d6-463b-bf8d-7be1dccb5076&Microsoft_Azure_Education_correlationId=b081a4a98e53453faf916afd9040ef8d&Microsoft_Azure_Education_newA4E=true#home) - nan
 
@@ -214,7 +214,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [New Relic](https://one.newrelic.com/nr1-core?account=3676755&state=70844d98-9526-09fe-d985-9e756b84c957) - nan
 
@@ -224,7 +224,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [Pageclip](https://pageclip.co/site/ctrl-alt-backspace) - nan
 
@@ -234,7 +234,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 ![](https://poeditor.com/public/images/logo/logo_header_1200x630.png)
 
@@ -246,7 +246,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 ![](https://popsql.com/static/images/og/default.jpg)
 
@@ -258,7 +258,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 ![](https://replit.com/public/images/ogBanner.png)
 
@@ -270,7 +270,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [Restyled](https://restyled.io) - nan
 
@@ -280,7 +280,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [Travis CI](https://app.travis-ci.com) - Travis CI enables your team to test and ship your apps with confidence. Easily sync your projects with Travis CI and you'll be testing your code in minutes.
 
@@ -290,7 +290,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 [whoisdsmith Zyte](https://app.zyte.com) - nan
 
@@ -300,7 +300,7 @@
 
 ---
 
-## Free For Dev Students
+### Free For Dev Students
 
 ![](https://simpleanalytics.com/generate-image.png?title=Simple+Analytics+-+The+privacy-first+Google+Analytics+alternative&url=https%3A%2F%2Fsimpleanalytics.com%2Femail)
 

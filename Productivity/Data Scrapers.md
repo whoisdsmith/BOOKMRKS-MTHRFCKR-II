@@ -1,6 +1,6 @@
-# Data Scrapers
-
 ## Data Scrapers
+
+### Data Scrapers
 
 [Portia](https://scrapinghub.com/portia) - Get clean, valuable, web data the way you need it fast with the world's leading data extraction service that drive your business forward.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://dexiio.b-cdn.net/wp-content/uploads/2020/05/thubnail.png)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://opengraph.githubassets.com/451ff4076bd75db5be72544fd04b93f57bf58c9679f1ae115dc0a2c6879f0d3c/R3dy/jigsaw)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://sitebulb.com/media/2273/facebook.png)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [CrawlMonster](https://www.crawlmonster.com) - nan
 
@@ -56,7 +56,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [ScraperWiki](https://scraperwiki.com) - nan
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup) - Beautiful Soup: a library designed for screen-scraping HTML and XML.
 
@@ -76,7 +76,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://cdn.agenty.com/icons/agenty.png)
 
@@ -88,7 +88,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Beautiful Soup Documentation Beautiful Soup 4.4.0 documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc) - nan
 
@@ -98,7 +98,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://opengraph.githubassets.com/efa5d7675453683ea02529ba3da36df6a7d0130e64a9789963e3efd3559b5437/qinxuye/cola)
 
@@ -110,7 +110,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Contentbomb.com](https://www.contentbomb.com) - nan
 
@@ -120,7 +120,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Data Miner](https://data-miner.io) - Scrape data from any website and import it into Excel, CSV or Google spreadsheets. Works on social media sites, Zoominfo, Zillow, Yellow Pages, Yelp, Indeed and more.
 
@@ -130,7 +130,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://opengraph.githubassets.com/c683d3e8f8152f7e30cdb80a761fe6aa5ce0c46314198e903d792e328e9818a6/matiasb/demiurge)
 
@@ -142,7 +142,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://www.diffbot.com/assets/img/og-image.jpg)
 
@@ -154,7 +154,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Fminer.com](https://www.fminer.com) - FMiner is a powerful and user-friendly web scraping software, it has a visual diagram designer and build project with macro recorder.
 
@@ -164,7 +164,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://opengraph.githubassets.com/bb5310125b5c0a6d7b955f63000016fe6706651dab2d1e7467c452c18197aa6b/psalias2006/Google2Csv)
 
@@ -176,7 +176,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Web Scraper](https://www.heliumscraper.com/en/index.php?p=home) - Powerful point & click web scraper for price comparison, competitor data analysis and much more.
 
@@ -186,7 +186,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [include.ai](https://www.include.ai) - Web automation for everyone
 
@@ -196,7 +196,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://opengraph.githubassets.com/5846f6291db99404c506f0f5c849a173c84ed67940efa588892e9711cbca4c17/michaelhelmick/lassie)
 
@@ -208,7 +208,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://opengraph.githubassets.com/33a285bcebe444823e74e28aff615f2ecd719d4408584924a6efc5834026164f/MechanicalSoup/MechanicalSoup)
 
@@ -220,7 +220,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://www.mozenda.com/wp-content/uploads/2015/07/MozendaLogo-M.png)
 
@@ -232,7 +232,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Octoparse](https://www.octoparse.com) - Web scraping made easy. Collect data from any web pages within minutes using our no-code web crawler. Get the right data to drive your business forward. Start for Free Today!
 
@@ -242,7 +242,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [OutWit Docs: Extract Document Collections (pdf,doc,xls...) - Free Download](https://www.outwit.com/products/docs) - Your free Webtop document harvester. With OutWit Docs you will find text documents, datasheets, PDF files, presentations from multiple online sources
 
@@ -252,7 +252,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [OutWit Hub - Find, grab and organize all kinds of data and media from online sources.](https://www.outwit.com/products/hub) - OutWit Hub: Find and extract data, images, text from Webpage HTML code or any text document - Free Download
 
@@ -262,7 +262,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Free web scraping](https://www.parsehub.com) - nan
 
@@ -272,7 +272,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://static.phantombuster.com/og_thumbnail_1200_630_rebranding.png)
 
@@ -284,7 +284,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [PROWEBSCRAPER](https://prowebscraper.com) - ProWebScraper is Free Web Scraping Tool. ProWebScraper helps you to get data from any website in your desired frequency, format and delivery mode, without coding.
 
@@ -294,7 +294,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Reaper.social.com](https://reaper.social) - Social Media scraping tool
 
@@ -304,7 +304,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://storage.googleapis.com/sociallist2018-gcs-bucket-production/static/sociallist/sociallist-hat-400-sq.png)
 
@@ -316,7 +316,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Scraper.ai](https://scraper.ai) - nan
 
@@ -326,7 +326,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Scrapestack.com](https://scrapestack.com) - Use our proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs.
 
@@ -336,7 +336,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Scrapestorm.com](https://www.scrapestorm.com) - AI-Powered visual website scraper, which can be used to extract data from almost any websites without writing any code. Support all operating systems. Try it for free!
 
@@ -346,7 +346,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Web Scraping Services for any size business - Fast & Reliable Datarefreshediteyeshopping-cartenvelopequote-leftgithub-altsmile-odollardatabasewechatnewspaper-oline-chartapartmentdatabaselinkedinfacebookpinterestyoutubersstwitterinstagramfacebook-blankrss-blanklinkedin-blankpinterestyoutubetwitterinstagram](https://www.scrapinghub.com/data-services) - Get clean, valuable, web data the way you need it fast with the world's leading data extraction service that drive your business forward.
 
@@ -356,7 +356,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Scrapy](https://scrapy.org) - nan
 
@@ -366,7 +366,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [screen-scraper: Data extraction software and services](https://www.screen-scraper.com) - Data scraping services and technology. For 17 years we've been extracting data for large and small companies. Get a no-pressure evaluation of your project. Fanatical service at a low cost.
 
@@ -376,7 +376,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://simplescraper.io/easy_scraper_social.png)
 
@@ -388,7 +388,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://www.webharvy.com/images/screenshot/webharvy.png)
 
@@ -400,7 +400,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 ![](https://webrobots.io/wp-content/uploads/2015/03/WebRobotsLogo300x82.png)
 
@@ -412,7 +412,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Web Scraper](https://webscraper.io) - The most popular web scraping extension. Start scraping in minutes. Automate your tasks with our Cloud Scraper. No software to download, no coding needed.
 
@@ -422,7 +422,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [80legs Customizable Web Scraping](https://80legs.com) - Customizable Web Scraping
 
@@ -432,7 +432,7 @@
 
 ---
 
-## Data Scrapers
+### Data Scrapers
 
 [Scrape web sites. Save to JSON, CSV /Dataflow kit](https://dataflowkit.com/dfk) - Web scraping open source framework written in Go. Extract structured data from web pages and save them as JSON, CSV
 
@@ -442,4 +442,4 @@
 
 ---
 
-## Database
+### Database

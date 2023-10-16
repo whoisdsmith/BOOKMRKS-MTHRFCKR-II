@@ -1,6 +1,6 @@
-# Lifeline Development
-
 ## Lifeline Development
+
+### Lifeline Development
 
 [Heedy](https://heedy.org/index.html) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Lifeline Development
+### Lifeline Development
 
 ![](https://www.exportdata.io/og-image-ff.png)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Lifeline Development
+### Lifeline Development
 
 [Spaceli - Dashboard](https://app.spaceli.io/dashboard/all) - nan
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Lifeline Development
+### Lifeline Development
 
 ![](https://repository-images.githubusercontent.com/439124850/d6f1c0c1-b764-41bc-a8b9-d97f53d89495)
 
@@ -44,4 +44,4 @@
 
 ---
 
-## Memex
+### Memex

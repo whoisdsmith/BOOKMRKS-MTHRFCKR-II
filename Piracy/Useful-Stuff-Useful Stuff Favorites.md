@@ -1,6 +1,6 @@
-# Useful-Stuff-Useful Stuff Favorites
-
 ## Useful-Stuff-Useful Stuff Favorites
+
+### Useful-Stuff-Useful Stuff Favorites
 
 [buybuy.app - le migliore offerte Amz](https://buybuy.app) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Homicide Monitor](https://homicide.igarape.org.br) - The Homicide Monitor is the most comprehensive publicly available dataset on murder in the world. It is a data-driven data visualization tool designed to show the distribution, dimensions and dynamics of homicidal violence.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://tiny.cc/public/images/newlogo2.png)
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Compare processors and graphics cards in details](https://technical.city) - Computer hardware comparisons at Technical ity assist you in making purchasing decisions and entertaining yourself.
 
@@ -42,7 +42,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://imageonline.co/imageonline-image.jpg)
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://indify.co/site-preview.png)
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [10 Minute Mail - Free Anonymous Temporary email - 10 Minute Mail - Free Anonymous Temporary email](https://10minutemail.com) - nan
 
@@ -76,7 +76,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Chess Games Database Online - 365Chess.com](https://365chess.com) - Free Chess Games Database, Chess Opening Explorer, chess puzzles, problems and compositions, learn chess strategies, tactics and rules. Join now for FREE!
 
@@ -86,7 +86,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://cdn01.alison-static.net/public/html/site/img/sharing/alison-share-careers.png)
 
@@ -98,7 +98,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.allkeyshop.com/blog/wp-content/uploads/OG-2022-AKS.jpg)
 
@@ -110,7 +110,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [CPU 2021 Benchmarks - Compare Products on AnandTech](https://anandtech.com/bench) - CPU 2021 benchmarks: Compare two products side-by-side or see a cascading list of product ratings along with our annotations.
 
@@ -120,7 +120,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [The Ultimate Anime Filler Guide-Watch Anime Without Filler!!!](http://animefillerlist.com) - nan
 
@@ -130,7 +130,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](http://iacopoapps.appspot.com/hopalongwebgl/image.jpg)
 
@@ -142,7 +142,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://cache.armorgames.com/images/ag3/sharing-is-caring.png)
 
@@ -154,7 +154,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.backloggd.com/packs/media/images/meta_banner-d63b2a0bc9b9184fa61ddf135435c219.jpg)
 
@@ -166,7 +166,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://f4.bcbits.com/img/0033619402_0)
 
@@ -178,7 +178,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://1.bp.blogspot.com/-Jfj9wYTfo8I/VxXjdj11Z_I/AAAAAAAAC8g/aENUMIuywCYgMAwxnAU-iEus4M17p1sYQCKgB/s320/Prog.jpg)
 
@@ -190,7 +190,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.boxentriq.com/img/hacker-boxentriq-facebook-preview.jpg)
 
@@ -202,7 +202,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](http://cachemonet.com/src/fb.jpg)
 
@@ -214,7 +214,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.chess.com/bundles/web/images/social/share-home.a3e2cdbb.png)
 
@@ -226,7 +226,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Online Chess Training - Play chess, Train chess.](https://chesstempo.com) - Improve your game with online chess training and playing tools.
 
@@ -236,7 +236,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Coffitivity](https://coffitivity.com) - nan
 
@@ -246,7 +246,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://i.gyazo.com/31950cc5902f08eeaf90ed7d0aab44ea.png)
 
@@ -258,7 +258,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Criticker - Film Recommendations and Community - Rate Film and Read Film Reviews](https://www.criticker.com) - Top Film Recommendation - Recommendations by Year Genre and Popularity - Focus on Great Directors and Users
 
@@ -268,7 +268,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://e-cdn-files.dzcdn.net/img/common/opengraph-logo.png)
 
@@ -280,7 +280,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://displate.com/img/fb_share/static/other_static2.jpg)
 
@@ -292,7 +292,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Dont kill my app!](https://dontkillmyapp.com) - Hey Android vendors, dont kill my app!
 
@@ -302,7 +302,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://images.ctfassets.net/p24lh3qexxeo/7gU73ZYuyiVNnCJwnei3vc/342dc451ae6652582801fa1742d47999/doodle-favicon.svg)
 
@@ -314,7 +314,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Every Noise at Once](http://everynoise.com) - nan
 
@@ -324,7 +324,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [https://explainthisimage.com/](https://explainthisimage.com) - nan
 
@@ -334,7 +334,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Online file merger(Free & Secure)](https://filesmerge.com) - Online, free, no-installation cloud file merger for merging JPG, PDF, PNG, DOC, XLS, CSV, TEXT and other format files
 
@@ -344,7 +344,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.getfvid.com/public/assets/images/getfvid-share.png)
 
@@ -356,7 +356,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://giphy.com/static/img/giphy-be-animated-logo.gif)
 
@@ -368,7 +368,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.gnoosic.com/elements/objects/og_logo.png)
 
@@ -380,7 +380,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Best Video games, DRM-free-GOG.COM](https://gog.com/games) - nan
 
@@ -390,7 +390,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Track your game collection and backlog with Grouvee](https://grouvee.com) - nan
 
@@ -400,7 +400,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Tools - GSMArena.com](https://gsmarena.com/tools.php3) - GSMArena Tools & Features list
 
@@ -410,7 +410,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://hotonehundo.files.wordpress.com/2018/01/extrra2.png?w=1200)
 
@@ -422,7 +422,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://hb.imgix.net/c5109ce12971cd6070462bc4b79e19f75cf291fd.png?auto=compress,format&fit=crop&h=353&w=616&s=65d732817c258b39569f1a7fc9080ae5)
 
@@ -434,7 +434,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://guide-images.cdn.ifixit.com/igi/YlogWMLVAtHbPF5J.full)
 
@@ -446,7 +446,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo.png)
 
@@ -458,7 +458,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://impariamoitaliano.files.wordpress.com/2018/04/impariamo.jpg)
 
@@ -470,7 +470,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [What Is My IP Address? Free IP Lookup](https://ipaddress.com) - What is my IP address? IP Lookup, IP Location, IP Tracker & IP Tracer. The best IP address tools for free.
 
@@ -480,7 +480,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Ishkur's Guide to Electronic Music](http://music.ishkur.com) - nan
 
@@ -490,7 +490,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [https://isitdownrightnow.com/](https://isitdownrightnow.com) - nan
 
@@ -500,7 +500,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://d2uym1p5obf9p8.cloudfront.net/images/social/og_facebook.jpg)
 
@@ -512,7 +512,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.justwatch.com/appassets/img/JustWatch_logo_with_claim.png)
 
@@ -524,7 +524,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://password.kaspersky.com/content/themes/passchck/img/shared.png)
 
@@ -536,7 +536,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://cdn3.kongcdn.com/game_icons/0009/6033/ico100x75.jpg?i10c=img.resize(width:93))
 
@@ -548,7 +548,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://kuku-kube.com/kuku-kube-logo.jpg)
 
@@ -560,7 +560,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [LessPass](https://lesspass.com/#/) - nan
 
@@ -570,7 +570,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://s.ltrbxd.com/static/img/default-share.e38c5d62.png)
 
@@ -582,7 +582,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://pbs-prod.linustechtips.com/monthly_2023_05/s-l500.png.05952a6cb1062236c19089bde64b8073.png)
 
@@ -594,7 +594,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Outlook free personal email and calendar from Microsoft](https://outlook.live.com/owa) - Get free Outlook email and calendar, plus Office Online apps like Word, Excel and PowerPoint. Sign in to access your Outlook, Hotmail or Live email account.
 
@@ -604,7 +604,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://images.logicalincrements.com/gallery/900/506/OGMetaImage001.jpeg)
 
@@ -616,7 +616,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Steam library filters](https://lorenzostanco.com/lab/steam) - Search your Steam games by tags and features, sort by playtime, metascore, user reviews and more.
 
@@ -626,7 +626,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.lunapic.com/editor/ex/load.gif)
 
@@ -638,7 +638,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Baka-Updates Manga - Your Reviews, Series, Scanlator and Latest Manga Release Resource](https://mangaupdates.com/index.html) - Latest And Newest Manga Release Updates and News.
 
@@ -648,7 +648,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Nanocrowd](https://app.nanocrowd.com/start) - nan
 
@@ -658,7 +658,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.netflix.com/tudum/top10/social/social-en.jpg)
 
@@ -670,7 +670,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://cdn.thewirecutter.com/wp-content/media/2020/10/wc_og_general.png?auto=webp&quality=75&crop=1.91:1&width=1200)
 
@@ -682,7 +682,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [NetFlix Streaming by Alternate Genres](http://ogres-crypt.com/public/NetFlix-Streaming-Genres2.html) - nan
 
@@ -692,7 +692,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://onemillionpats.com/images/og-tobe.jpg)
 
@@ -704,7 +704,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.passmark.com/source/img_posts/og_passmark.png)
 
@@ -716,7 +716,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [https://pcpartpicker.com/](https://pcpartpicker.com) - nan
 
@@ -726,7 +726,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://pointerpointer.com/like3.jpg)
 
@@ -738,7 +738,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://ph-static.imgix.net/ph-logo-1.png)
 
@@ -750,7 +750,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://asset.radiooooo.com/radiooooo.png)
 
@@ -762,7 +762,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://nftpay.xyz/wp-content/uploads/2022/06/NFTpay-logo.jpg)
 
@@ -774,7 +774,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://rainymood.com/i/badge.jpg)
 
@@ -786,7 +786,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Random album from Bandcamp](https://random-album.com) - nan
 
@@ -796,7 +796,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [https://rateyourmusic.com/](https://rateyourmusic.com) - nan
 
@@ -806,7 +806,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Awesome products designed by independent artists-Redbubble](https://redbubble.com) - Over 700,000 creatives worldwide making things like shirts, stickers, phone cases, and pillows weirdly meaningful. Find your thing or open your own shop.
 
@@ -816,7 +816,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [watch_order - anime](https://reddit.com/r/anime/wiki/watch_order) - r/anime: Reddit's premier anime community.
 
@@ -826,7 +826,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://public.rgstatic.com/web/94c5654884b6a9927e946daff5e27b2ede890cdf/c4d993a3.png)
 
@@ -838,7 +838,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [PayPal Fee Calculator-Salecalc.com](https://salecalc.com/paypal) - A PayPal fee calculator to quickly and easily determine fees when sending or receiving money through PayPal.  Supports domestic and international fees.  Designed for mobile and desktop clients.  Last updated August 10, 2021
 
@@ -848,7 +848,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](http://www.scaruffi.com/friends/piero0f.jpg)
 
@@ -860,7 +860,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [How to Check if SSD is Compatible with Laptop or Desktop Motherboard](https://shareus.com/computer/how-to-check-if-ssd-is-compatible-with-laptop-or-desktop-motherboard.html) - Want to know the compatibility between ssd and computer? In this post, you can learn about how to check if SSD is compatible with your laptop or desktop pc (motherboard).
 
@@ -870,7 +870,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://a-v2.sndcdn.com/assets/images/meta/soundcloud-unfurl-square.png)
 
@@ -882,7 +882,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://spotify-dedup.com/spotify-dedup-meta.png)
 
@@ -894,7 +894,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](http://www.staggeringbeauty.com/assets/poster.png)
 
@@ -906,7 +906,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Subscene - Passionate about good subtitles](https://subscene.com) - nan
 
@@ -916,7 +916,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](http://whatcolorisit.sumbioun.com/what-color.jpg)
 
@@ -928,7 +928,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Syrphe :: electronic & experimental music-sound installations-sound tracks-mastering](http://syrphe.com/african&asian_database.htm) - Syrphe (and Textolux) is a small label owns by C-drik (Crno klank, Ambre, Kirdec, Axiome, Tetra plok, Elekore and many others.  The label is mainly focused onto electronic, experimental and noise music (in all meaning of the words) coming from all those lost islands the West seems to ignore : Africa, Asia, the Middle-East (...) but also C-drik's own productions.
 
@@ -938,7 +938,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://cf.systemrequirementslab.com/global/assets/images/ThumbsIcon.jpg)
 
@@ -950,7 +950,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://tpucdn.com/images/logo_og-v1695389266656.png)
 
@@ -962,7 +962,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://cdn.theatlantic.com/static/theatlantic/img/lacroix-default-thumbnail.png)
 
@@ -974,7 +974,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](http://thetruesize.com/img/twitter-card-screenshot.jpg)
 
@@ -986,7 +986,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://theuselessweb.com/share-image-large.png)
 
@@ -998,7 +998,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://files.tofugu.com/articles/japan/2017-01-03-best-anime-movies/header-1280x.jpg)
 
@@ -1010,7 +1010,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Home](https://togetherprice.com) - nan
 
@@ -1020,7 +1020,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [tomshw.com - This website is for sale! - toms hardware Resources and Information.](https://tomshw.com) - This website is for sale! tomshw.com is your first and best source for all of the information youre looking for. From general topics to more of what you would expect to find here, tomshw.com has it all. We hope you find what you are searching for!
 
@@ -1030,7 +1030,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Trustpilot Reviews: Experience the power of customer reviews](https://trustpilot.com) - We're all about consumer reviews. Get the real inside story from shoppers like you. Read, write and share reviews on Trustpilot today.
 
@@ -1040,7 +1040,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.tunemymusic.com/imgs/facebook_profile_360.jpg)
 
@@ -1052,7 +1052,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [http://ubu.com/](http://ubu.com) - nan
 
@@ -1062,7 +1062,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Free Udemy Courses - UdemyFreebies - Page 1](https://udemyfreebies.com) - nan
 
@@ -1072,7 +1072,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.ursss.com/wp-content/themes/ursss2015c/img/logo_ursss.png)
 
@@ -1084,7 +1084,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.userbenchmark.com/resources/img/wri/bench-speed/bench-speed-150.png)
 
@@ -1096,7 +1096,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.velocitymicro.com/images/upload/ssd.jpg)
 
@@ -1108,7 +1108,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://versus-dot-com.imgix.net/versus_banner_black.png)
 
@@ -1120,7 +1120,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://wetransfer.com/wt-facebook.png)
 
@@ -1132,7 +1132,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [What happened in my birth year?](http://whathappenedinmybirthyear.com) - nan
 
@@ -1142,7 +1142,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://whichfaceisreal.com/twittercards/whichfaceisreal.png)
 
@@ -1154,7 +1154,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.whosampled.com/static/images/ws_logo_sharing.gif)
 
@@ -1166,7 +1166,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://willyoupressthebutton.com/assets/images/social/share.jpg)
 
@@ -1178,7 +1178,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://secure.gravatar.com/blavatar/9efe9e9786f1c7e87a226454d3332832b9a3e9c035d0aadfc40596c506032789?s=200&ts=1695726075)
 
@@ -1190,7 +1190,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Tenses table](https://englisch-hilfen.de/en/grammar/tenses_table.pdf) - nan
 
@@ -1200,7 +1200,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://teetee.eu/app/uploads/2015/03/share-img.jpg)
 
@@ -1212,7 +1212,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://steamdb.info/static/logos/512px.png)
 
@@ -1224,7 +1224,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://steamdb.info/static/img/gaben.jpg)
 
@@ -1236,7 +1236,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://chilipepper.io/images/meta.jpg)
 
@@ -1248,7 +1248,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](http://histography.io/histography.jpg)
 
@@ -1260,7 +1260,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [ShareDrop](https://sharedrop.io) - ShareDrop is a peer-to-peer file sharing app powered by HTML5 WebRTC.
 
@@ -1270,7 +1270,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://skribbl.io/img/thumbnail.png)
 
@@ -1282,7 +1282,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [AnimeClick: Anime e Manga](https://animeclick.it) - Recensioni e notizie su manga, anime, fansub e Giappone.
 
@@ -1292,7 +1292,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [AsianWorld - Il Portale del Cinema Asiatico](http://asianworld.it) - nan
 
@@ -1302,7 +1302,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](http://www.hwupgrade.it/apple-touch-icon-256.png)
 
@@ -1314,7 +1314,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [idealo il tuo comparatore prezzi](https://idealo.it) - Acquista online al miglior prezzo  Migliaia di negozi selezionati  Recensioni  Guide allacquisto  Confronta prezzi e trova le offerte migliori su idealo!
 
@@ -1324,7 +1324,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Home](https://laleggepertutti.it) - Il portale di diritto che parla il linguaggio del cittadino. Informazione giuridica e consulenza legale, commerciale e fiscale.
 
@@ -1334,7 +1334,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://luce-gas.it/sites/luce-gas.it/files/images/servizi-luce-gas-gpl.png)
 
@@ -1346,7 +1346,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [SPARTOO-Scarpe, borse e vestiti-Consegna Gratuita](https://spartoo.it) - CONSEGNA GRATUITA per piu di 725000 scarpe, stivali, calzature, ballerine e borse di marche alla moda : Birkenstock, Converse, Airstep-A.S.98, adidas Originals, Nike, Dr. Martens, Vans, Polo Ralph Lauren Pap...
 
@@ -1356,7 +1356,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://s.switcho.net/assets/images/og-image-mgm.6c52a163.png)
 
@@ -1368,7 +1368,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Il motore di ricerca per risparmiare sui tuoi acquisti-Trovaprezzi.it](https://trovaprezzi.it) - Confronta i prezzi migliori e risparmia con le offerte online di migliaia di negozi selezionati per te  Recensioni prodotto  Guide all'acquisto  Opinioni sui negozi  Impossibile trovare a meno
 
@@ -1378,7 +1378,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://d2wmefcb92kfgk.cloudfront.net/sites/www.voltimum.it/files/fields/thumbnail_image/adattatori-spine-e-prese-di-corrente-elettrica.jpg)
 
@@ -1390,7 +1390,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [https://zalando.it/](https://zalando.it) - nan
 
@@ -1400,7 +1400,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](http://120years.net/wp-content/uploads/DeForest-Single-Wing-Audion-c.1912-Tantalum-Filaments-300x215.jpg)
 
@@ -1412,7 +1412,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [BestAlbumsEver.net-Discover great albums fast and personalised.](http://bestalbumsever.net) - Want to find new music on the go? Our app lets you discover critically acclaimed albums at random based on your favourite decades of music.
 
@@ -1422,7 +1422,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [demo pals - OPS2M Demo (Benelux, France, Italy, Spain, UK, Australia)](https://crimson-ceremony.net/demopals/ops2meur/index.php) - demo pals documents Sony PlayStation PAL demos
 
@@ -1432,7 +1432,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [How Secure Is My Password?](https://howsecureismypassword.net) - How long it would take a computer to crack your password?
 
@@ -1442,7 +1442,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png)
 
@@ -1454,7 +1454,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [NationStates-create your own country](https://nationstates.net) - nan
 
@@ -1464,7 +1464,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [NowInStock.net Product Availability Tracker and In Stock Notification System](https://nowinstock.net) - NowInStock.net is product availability tracker for hot products. We monitor the availability of these products across a variety of online stores. When a product comes in stock, we notify you right away.
 
@@ -1474,7 +1474,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://earth.nullschool.net/sample.jpg)
 
@@ -1486,7 +1486,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Online Sequencer](https://onlinesequencer.net) - OnlineSequencer.net is an online music sequencer. Make tunes in your browser and share them with friends!
 
@@ -1496,7 +1496,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Scendi in campo in politica: diventa Presidente della Repubblica!](https://pcosta.net/ipdcs) - nan
 
@@ -1506,7 +1506,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.strumentimusicali.net/images/facebook_logo_strumenti_musicali.jpg?t=1)
 
@@ -1518,7 +1518,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://docs.unraid.net/img/meta-unraid.png)
 
@@ -1530,7 +1530,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://cms2.mega.nz/b41537c0eae056cfe5ab05902fca322b.png)
 
@@ -1542,7 +1542,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://archive.org/services/img/internetarcade)
 
@@ -1554,7 +1554,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Surveillance Self-Defense](https://ssd.eff.org) - Tips, Tools and How-tos for Safer Online Communications
 
@@ -1564,7 +1564,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [EmojiDB](https://emojidb.org) - Find emojis!
 
@@ -1574,7 +1574,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Greasy Fork - safe and useful user scripts](https://greasyfork.org) - Greasy Fork is a free site providing user scripts to improve your web browsing experience.
 
@@ -1584,7 +1584,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](http://static1.squarespace.com/static/620fa2b385fdee7a3f84588d/t/62c80093afd677259c25afae/1657274515385/impact.jpeg?format=1500w)
 
@@ -1596,7 +1596,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Italia Ora - l'Italia in tempo reale](https://italiaora.org) - Statistiche sull'Italia aggiornate in tempo reale: popolazione italiana attuale, economia, societa, lavoro, media e comunicazione, costi della politica, sicurezza e giustizia, e salute. Dati in tempo reale su immigrazione, debito pubblico, evasione fiscale, precariato, stipendi, e tante altre statistiche interessanti riguardanti l'Italia e gli Italiani. Italiometro o ItaliaOra
 
@@ -1606,7 +1606,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://lichess1.org/assets/_onAnYr/logo/lichess-tile-wide.png)
 
@@ -1618,7 +1618,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://og.mangadex.org/og-image/default)
 
@@ -1630,7 +1630,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [MovieLens](https://movielens.org/home) - nan
 
@@ -1640,7 +1640,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Topsters 2: last fm collage & album chart maker](https://neverendingchartrendering.org) - Last fm collage (3x3, 5x5, etc.) and album chart (top 40, 100, etc.) generator for music and movie aficionados.
 
@@ -1650,7 +1650,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Sottotitoli - scarica i sottotitoli per film e SerieTV dal piu grande database di open subtitles](https://opensubtitles.org/it/search/sublanguageid-ita,eng) - Sottotitoli di Film e TV in piu lingue,migliaia di sottotitoli tradotti caricati ogni giorno.Download gratuito,supporto API, milioni di utenti.
 
@@ -1660,7 +1660,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 ![](https://www.privacyguides.org/en/assets/img/social/index.png)
 
@@ -1672,7 +1672,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [https://aquarium.ru/en](https://aquarium.ru/en) - nan
 
@@ -1682,7 +1682,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [cmd.to](https://cmd.to) - Command to everything.
 
@@ -1692,7 +1692,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [Steam Tools Hub](https://steam.tools) - A set of Steam related WebApps built around trading cards, emoticons and backgrounds. They allow you to view, sort and filter the up-to-date list of items.
 
@@ -1702,7 +1702,7 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Favorites
+### Useful-Stuff-Useful Stuff Favorites
 
 [British Library - Sounds](https://sounds.bl.uk) - British Library Sounds allows you to listen to a selection from the Librarys collections of unique sound and moving image recordings. They come from all over the world and cover the entire range of recorded sound: music, drama and literature, oral history, wildlife and environmental sounds.
 
@@ -1712,9 +1712,9 @@
 
 ---
 
-## Useful-Stuff-Useful Stuff Links
-
 ### Useful-Stuff-Useful Stuff Links
+
+#### Useful-Stuff-Useful Stuff Links
 
 [Use JSDoc: Index](https://jsdoc.app) - Official documentation for JSDoc 3.
 
@@ -1724,7 +1724,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Git Hint](https://git-hint.netlify.app) - git cheatsheet
 
@@ -1734,7 +1734,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://snippet-generator.app/snippet-generator.jpg)
 
@@ -1746,7 +1746,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [tsplay.dev](https://tsplay-dev.vercel.app) - A link shortener for the TypeScript Playground
 
@@ -1756,7 +1756,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](http://danielstern.ca/img.png)
 
@@ -1768,7 +1768,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.discordapp.com/splashes/238666723824238602/eb2a13251c125d88b81b8f272f77e045.jpg?size=512)
 
@@ -1780,7 +1780,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [1Keydata - Free Online Programming Tutorials](https://1keydata.com) - 1Keydata provides free online programming language and database-related tutorials.  Learn SQL, CSS, HTML, and Data Warehousing.
 
@@ -1790,7 +1790,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Accessible Colors-WCAG 2.0 AA and AAA color contrast checker](https://accessible-colors.com) - Test your background and text contrast ratio based on Web Content Accessibility Guidelines (WCAG), and automatically find the closest accessible colors.
 
@@ -1800,7 +1800,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://andy-carter.com/img/default.png)
 
@@ -1812,7 +1812,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.arstechnica.net/wp-content/uploads/2020/02/foss-mascots-760x380.png)
 
@@ -1824,7 +1824,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Git Tutorials and Training-Atlassian Git Tutorial](https://atlassian.com/git/tutorials) - Learn the basics of Git through this comprehensive Git training. Branching, pull requests, merging and more are covered in the Atlassian Git tutorial.
 
@@ -1834,7 +1834,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Learn CSS Positioning in Ten Steps: position static relative absolute float](http://barelyfitz.com/screencast/html-training/css/positioning) - nan
 
@@ -1844,7 +1844,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Home of online tools and utilities - Beautify Tools](https://beautifytools.com) - Useful online tools like Beautifiers, Minifiers, Converters, Utilities, Validators, Editors for users and developers.
 
@@ -1854,7 +1854,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://bobbyhadz.com/images/global/og.jpg)
 
@@ -1866,7 +1866,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://bootstrapcreative.com/wp-bc/wp-content/uploads/2020/09/Filtered-Paint-Image-Instagram-Square.png)
 
@@ -1878,7 +1878,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [What are the integrity and crossorigin attributes and why are they necessary? 2022 - Bootstrap Creative](https://bootstrapcreative.com/what-are-the-integrity-and-crossorigin-attributes-and-why-are-they-necessary) - In the code snippet below, you will see how Bootstrap uses a CDN to deliver their minified scripts and styles. But what is that long string of random
 
@@ -1888,7 +1888,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://bootstrapshuffle.com/static/img/1200.png?v=1)
 
@@ -1900,7 +1900,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Callback Hell](http://callbackhell.com) - nan
 
@@ -1910,7 +1910,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdnjs.com/banner.png)
 
@@ -1922,7 +1922,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://chmodcommand.com/images/chmod-command-meta-image.png)
 
@@ -1934,7 +1934,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Guide to building layouts with CSS Grid](http://css-grid.coffeecup.com/css-grid-guide.html) - Learn and prototype with CSS Grid. Examples, demos, explanations, showcases and more.
 
@@ -1944,7 +1944,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://convertingcolors.com/color-palette-image/view/6D3735.png)
 
@@ -1956,7 +1956,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Reference](http://cplusplus.com/reference) - nan
 
@@ -1966,7 +1966,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Forum - C++ Forum](http://cplusplus.com/forum) - nan
 
@@ -1976,7 +1976,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [C++ reference - cppreference.com](https://en.cppreference.com/w/cpp) - nan
 
@@ -1986,7 +1986,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://css-tricks.com/wp-json/social-image-generator/v1/image/264057)
 
@@ -1998,7 +1998,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://css-tricks.com/wp-json/social-image-generator/v1/image/3778)
 
@@ -2010,7 +2010,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://css-tricks.com/wp-json/social-image-generator/v1/image/13706)
 
@@ -2022,7 +2022,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://css-tricks.com/wp-json/social-image-generator/v1/image/795)
 
@@ -2034,7 +2034,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://css-tricks.com/wp-json/social-image-generator/v1/image/21059)
 
@@ -2046,7 +2046,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://css-tricks.com/wp-json/social-image-generator/v1/image/343682)
 
@@ -2058,7 +2058,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://css-tricks.com/wp-json/social-image-generator/v1/image/5690)
 
@@ -2070,7 +2070,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cssgridgarden.com/images/screenshot.png)
 
@@ -2082,7 +2082,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://culttt.com/images/share/2013-03-25-what-are-php-lambdas-and-closures-26bac63ebc3dd064813761417719a5ab.png?vsn=d)
 
@@ -2094,7 +2094,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](http://devtoolschallenger.com/img/title-card.jpg)
 
@@ -2106,7 +2106,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.digitalocean.com/_next/static/media/intro-to-cloud.d49bc5f7.jpeg)
 
@@ -2118,7 +2118,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.digitalocean.com/_next/static/media/intro-to-cloud.d49bc5f7.jpeg)
 
@@ -2130,7 +2130,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.discordapp.com/splashes/240880736851329024/5fc36a61da2edc558c0f946f32613bd5.jpg?size=512)
 
@@ -2142,7 +2142,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Join the Frontend Developers Discord Server!](https://discordapp.com/invite/kx7pk6J) - Check out the Frontend Developers community on Discord - hang out with 23,181 other members and enjoy free voice and text chat.
 
@@ -2152,7 +2152,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [SQL UNION-SQL UNION ALL - Dofactory](https://www.dofactory.com/sql/union) - SQL Server UNION -- the best examples. A UNION combines the result sets of two SELECT queries.
 
@@ -2162,7 +2162,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.dummies.com/wp-content/uploads/482043.image0.jpg)
 
@@ -2174,7 +2174,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://educationecosystem.com/blog/wp-content/uploads/2018/12/SIZE-UPDATE-ang-vs-nod-vs-rea-2_zjd8wr.png)
 
@@ -2186,7 +2186,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.emailjs.com/social-top.png)
 
@@ -2198,7 +2198,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://flaviocopes.com/img/avatar.jpg)
 
@@ -2210,7 +2210,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://flaviocopes.com/img/avatar.jpg)
 
@@ -2222,7 +2222,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://flaviocopes.com/img/avatar.jpg)
 
@@ -2234,7 +2234,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://flaviocopes.com/img/avatar.jpg)
 
@@ -2246,7 +2246,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://flaviocopes.com/img/avatar.jpg)
 
@@ -2258,7 +2258,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](http://www.flexboxdefense.com/images/gameboard-b58cd885d125374f5156eac2d6c3b62c.png)
 
@@ -2270,7 +2270,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://flexboxfroggy.com/images/screenshot.png)
 
@@ -2282,7 +2282,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://img.fortawesome.com/1ce05b4b/open-graph-icons.png)
 
@@ -2294,7 +2294,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Git Exercises](https://gitexercises.fracz.com) - nan
 
@@ -2304,7 +2304,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Complete list of HTML entities - FreeFormatter.com](https://freeformatter.com/html-entities.html) - Complete list of all HTML entities with their name and numbers
 
@@ -2314,7 +2314,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Free lorem ipsum generator - FreeFormatter.com](https://freeformatter.com/lorem-ipsum-generator.html) - This free online tool lets you generate lorem ipsum sentences, lists or paragraphs with/without markup.
 
@@ -2324,7 +2324,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Free Frontend](https://freefrontend.com) - Free hand-picked HTML, CSS and JavaScript (jQuery, React, Vue) code examples, tutorials and articles.
 
@@ -2334,7 +2334,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.frontendpractice.com/FP-meta.png)
 
@@ -2346,7 +2346,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://blog.froont.com/content/images/2015/01/Positioning-FROONT-cover-01.png)
 
@@ -2358,7 +2358,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social.png)
 
@@ -2370,7 +2370,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://repository-images.githubusercontent.com/21737465/46445f80-a5ae-11ea-921f-c39aefbcdcac)
 
@@ -2382,7 +2382,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://opengraph.githubassets.com/c0cdfad98036a059cdb171729b9c50c596c1d4325d30a6f3946e08349a916a49/k88hudson/git-flight-rules)
 
@@ -2394,7 +2394,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://opengraph.githubassets.com/6a927da3482fb788fed0a61fb5df29d1cfe1bc7931cc157aaee2a72920515848/jlord/git-it-electron)
 
@@ -2406,7 +2406,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://opengraph.githubassets.com/b426210c6565e5a622155120b32a274a1cc3dd9dcd0aa6caebcae4eb3f740b2e/EbookFoundation/free-programming-books)
 
@@ -2418,7 +2418,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://opengraph.githubassets.com/a9a33f1e77232e993216eaea87ff028bbbd10a1ede83978debacd53d0ac5511f/angular/flex-layout)
 
@@ -2430,7 +2430,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://opengraph.githubassets.com/299201e4629222075c604f7a92e95346f52a6ee1aeed9f65658bdfb7dfd83f3d/dargaCode/LogicAndCodingGames)
 
@@ -2442,7 +2442,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [normalize.css/normalize.css at master necolas/normalize.css](https://github.com/necolas/normalize.css/blob/master/normalize.css) - A modern alternative to CSS resets. Contribute to necolas/normalize.css development by creating an account on GitHub.
 
@@ -2452,7 +2452,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://opengraph.githubassets.com/b49126a2e613b0fe5ab7d3fab6a7eeb97736f52e5544e149c17b0fe7c22dfd50/DerZanael/PHP-Registration-Login)
 
@@ -2464,7 +2464,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://opengraph.githubassets.com/b29054522e7628207ee9f43192cb4aac266033306aa9ca7ff121e92c86a2e9ee/dargaCode/WebDevStudyResources)
 
@@ -2476,7 +2476,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://education.github.com/assets/pack/opengraph-image-c6d692948bb5fbf237b8a72d6576b4dcc84586335b522a6036904fc16ec7eccd.png)
 
@@ -2488,7 +2488,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://github.githubassets.com/images/modules/gists/gist-og-image.png)
 
@@ -2500,7 +2500,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://books.goalkicker.com/goalkicker_books.png)
 
@@ -2512,7 +2512,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Grid by Example - Usage examples of CSS Grid Layout](https://gridbyexample.com/examples) - nan
 
@@ -2522,7 +2522,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Home](https://hacker101.com) - Hacker101 is a free class for web security. Whether youre a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
 
@@ -2532,7 +2532,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Bootstrap tools for designers and developers](https://hackerthemes.com/bootstrap-tools) - A set of tools for designers and developers who work with Bootstrap 4.
 
@@ -2542,7 +2542,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [css2sass-Convert CSS Snippets to Syntactically Awesome StyleSheets code](http://css2sass.herokuapp.com) - CSS2Sass-Convert CSS Snippets to Syntactically Awesome StyleSheets code
 
@@ -2552,7 +2552,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Kaffeine](https://kaffeine.herokuapp.com) - nan
 
@@ -2562,7 +2562,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](http://howtocenterincss.com/image_preview.png)
 
@@ -2574,7 +2574,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://html.com/wp-content/uploads/Code.jpg)
 
@@ -2586,7 +2586,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [HTML5Pattern](http://html5pattern.com) - nan
 
@@ -2596,7 +2596,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [HTML5 Please - Use the new and shiny responsibly](https://html5please.com) - Look up HTML5, CSS3, etc features, know if they are ready for use, and if so find out how you should use them  with polyfills, fallbacks or as they are.
 
@@ -2606,7 +2606,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [HTML tutorials](https://htmlquick.com/tutorials.html) - Collection of HTML5 tutorials and reference. Simple, complete, accessible, easy to navigate and free.
 
@@ -2616,7 +2616,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Global attributes](https://htmlquick.com/reference/attributes.html) - Collection of HTML5 tutorials and reference. Simple, complete, accessible, easy to navigate and free.
 
@@ -2626,7 +2626,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [URIs and URLs](https://htmlquick.com/reference/uri-url.html) - Collection of HTML5 tutorials and reference. Simple, complete, accessible, easy to navigate and free.
 
@@ -2636,7 +2636,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Interneting Is Hard](https://internetingishard.com) - Friendly web development tutorials for complete beginners
 
@@ -2646,7 +2646,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://ishadeed.com/assets/overflow-css/modal-content.png)
 
@@ -2658,7 +2658,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://jakearchibald.com/c/icon-d166b7f8.png)
 
@@ -2670,7 +2670,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://javascript30.com/images/JS3-social-share.png)
 
@@ -2682,7 +2682,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://i0.wp.com/www.jenniferbland.com/wp-content/uploads/Time-Complexity-and-Big-O-Notation1.jpg?fit=800%2C325&ssl=1)
 
@@ -2694,7 +2694,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [A Guide to Creating and Hosting a Personal Website on GitHub-Jonathan McGlone-Librarian, Front-End Developer, Digital Publisher, Project Manager, Music Enthusiast, Web Noodler.](http://jmcglone.com/guides/github-pages) - A beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.
 
@@ -2704,7 +2704,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [jscolor: JavaScript Color picker with Opacity (alpha channel)](https://jscolor.com) - nan
 
@@ -2714,7 +2714,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.lambdatest.com/blog/wp-content/uploads/2019/04/Cubes.png)
 
@@ -2726,7 +2726,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [The C++ Tutorial](https://learncpp.com) - nan
 
@@ -2736,7 +2736,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://learnsql.com/blog/illustrated-guide-multiple-join/An-Illustrated-Guide-to-Multiple-Join-1.jpg)
 
@@ -2748,7 +2748,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) - nan
 
@@ -2758,7 +2758,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://leetcode.com/static/images/LeetCode_Sharing.png)
 
@@ -2770,7 +2770,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://linuxize.com/post/how-to-exclude-files-and-directories-with-rsync/featured.jpg)
 
@@ -2782,7 +2782,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://listjs.com/assets/images/graphics/listjs-logo.png)
 
@@ -2794,7 +2794,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Lodash](https://lodash.com) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
 
@@ -2804,7 +2804,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://blog.logrocket.com/wp-content/uploads/2019/09/manage-reactive-form-controls-angular.jpeg)
 
@@ -2816,7 +2816,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Material Design Theme & Palette Color Generator](http://mcg.mbitson.com) - Generate your own Material Design Color Palette with full control over the colors! Export to AngularJS, Materialize, CSS, Polymer, and more!
 
@@ -2826,7 +2826,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://miro.medium.com/v2/resize:fit:1200/0*lDOpgfjjaFLH00V3.)
 
@@ -2838,7 +2838,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://miro.medium.com/v2/resize:fit:640/1*CvCQni5XYJDzHuxZeg_OqQ.png)
 
@@ -2850,7 +2850,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*NUY4xK9Z_sK0pho-4mKzSg.png)
 
@@ -2862,7 +2862,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*DIpg-kS0ZbdJ9XxThTp4kw.jpeg)
 
@@ -2874,7 +2874,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://miro.medium.com/v2/resize:fit:792/1*eteiut4NIzIkgWQtCBCOZA.png)
 
@@ -2886,7 +2886,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.metabase.com/images/opengraph/home-og.jpg)
 
@@ -2898,7 +2898,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://res.cloudinary.com/ooloth/image/upload/c_fit,w_1200,h_630,f_auto,q_auto/mu/be-careful-austin-distel.jpg)
 
@@ -2910,7 +2910,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Microsoft XNA Framework Redistributable 4.0](https://microsoft.com/en-us/download/details.aspx?id=20914) - The XNA Framework Redistributable download provides game developers with the XNA Framework run-time libraries they can include with their product for redistribution on the Windows platform.
 
@@ -2920,7 +2920,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [MySQL :: MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en) - nan
 
@@ -2930,7 +2930,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.invicti.com/app/uploads/2022/06/28122243/sql-injection-cheat-sheet.jpg)
 
@@ -2942,7 +2942,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://images.ctfassets.net/hspc7zpa5cvq/2wGWfauazOaciI2ieEwUuO/b4b2e3b01f42bd51bb12512f9c6657cb/absolute_beginner_s_guide_to_npm.jpeg)
 
@@ -2954,7 +2954,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png)
 
@@ -2966,7 +2966,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Oh Shit, Git!?!](https://ohshitgit.com) - nan
 
@@ -2976,7 +2976,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](http://www.phptherightway.com/images/og-logo.png)
 
@@ -2988,7 +2988,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://plainjs.com/static/img/logo_640.png)
 
@@ -3000,7 +3000,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://blog.quickadminpanel.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-06-at-8.54.26-PM.png)
 
@@ -3012,7 +3012,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://files.realpython.com/media/Python-f-Strings-Guide_Watermark.2c8be8b1d392.jpg)
 
@@ -3024,7 +3024,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://files.realpython.com/media/Python-Sockets-Tutorial_Watermarked.aebb960a567a.jpg)
 
@@ -3036,7 +3036,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://styles.redditmedia.com/t5_3fz8s/styles/communityIcon_tqgd064uxhd61.jpg?width=256&format=pjpg&s=884c3dd2ad35281d45953e140ffce11854aea59e)
 
@@ -3048,7 +3048,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [r/learnprogramming](https://reddit.com/r/learnprogramming) - nan
 
@@ -3058,7 +3058,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://styles.redditmedia.com/t5_2qs0q/styles/communityIcon_kxcmzy9bt1381.jpg?width=256&format=pjpg&s=0a2e472f6fae0712fee4a3b5d44920fe35dbcdaa)
 
@@ -3070,7 +3070,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [RegexOne - Learn Regular Expressions - Lesson 1: An Introduction, and the ABCs](https://regexone.com) - RegexOne provides a set of interactive lessons and exercises to help you learn regular expressions
 
@@ -3080,7 +3080,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://regexr.com/assets/card.png)
 
@@ -3092,7 +3092,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://replit.com/public/images/ogBanner.png)
 
@@ -3104,7 +3104,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [JavaScript for Beginners: Async](https://rowanmanning.com/posts/javascript-for-beginners-async) - An introduction to asynchronous JavaScript, part of a series on JavaScript for Beginners.
 
@@ -3114,7 +3114,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.samanthaming.com/images/samantha-ming-logo.jpg)
 
@@ -3126,7 +3126,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [SassMeister-The Sass Playground!](https://www.sassmeister.com) - SassMeister is a playground for Sass. Add some Sass and SassMeister will show you the rendered CSS.
 
@@ -3136,7 +3136,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://screensizemap.com/img/open-graph/og-screensizemap.png)
 
@@ -3148,7 +3148,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://scrimba.com/static/art/scrimba-og-image.png)
 
@@ -3160,7 +3160,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Learn to Code HTML & CSS - Beginner & Advanced](https://learn.shayhowe.com) - nan
 
@@ -3170,7 +3170,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://blob.sololearn.com/avatars/sololearn.png)
 
@@ -3182,7 +3182,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://foundry.sparkbox.com/uploads/article_uploads/jmack-post_2-13-14.gif)
 
@@ -3194,7 +3194,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [SQLBolt - Learn SQL - Introduction to SQL](https://sqlbolt.com) - SQLBolt provides a set of interactive lessons and exercises to help you learn SQL
 
@@ -3204,7 +3204,7 @@
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3218,7 +3218,7 @@ To be specific, what
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3232,7 +3232,7 @@ My concern is what does the as const mean in the code below and what is the bene
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3248,7 +3248,7 @@ What are the differences...
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3268,7 +3268,7 @@ if (!$con) {
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3280,7 +3280,7 @@ if (!$con) {
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3294,7 +3294,7 @@ I often read the same term used in similar context.
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3306,7 +3306,7 @@ I often read the same term used in similar context.
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3320,7 +3320,7 @@ Is there a clear differentiation between SRC...
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3332,7 +3332,7 @@ Is there a clear differentiation between SRC...
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3346,7 +3346,7 @@ Looking at the list on the jQuery 1.6.1 release notes (near the botto...
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3358,7 +3358,7 @@ Looking at the list on the jQuery 1.6.1 release notes (near the botto...
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3370,7 +3370,7 @@ Looking at the list on the jQuery 1.6.1 release notes (near the botto...
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3382,7 +3382,7 @@ Looking at the list on the jQuery 1.6.1 release notes (near the botto...
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3394,7 +3394,7 @@ Looking at the list on the jQuery 1.6.1 release notes (near the botto...
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -3408,7 +3408,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://blog.teamtreehouse.com/wp-content/uploads/2014/01/functions.png)
 
@@ -3420,7 +3420,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Teh Playground!](https://tehplayground.com) - nan
 
@@ -3430,7 +3430,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.tektutorialshub.com/wp-content/uploads/2020/02/Meta-Service-in-Angular.jpg)
 
@@ -3442,7 +3442,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.theodinproject.com/assets/og-logo-dc2c719e367496ffaee876882b3f62c9b139279824de6a6e16448398fa513f7a.png)
 
@@ -3454,7 +3454,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://tobiasahlin.com/static/-social/og_blog-move-from-jquery-to-vanilla-javascript.jpg)
 
@@ -3466,7 +3466,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://tobiasahlin.com/static/-social/og_blog-flexbox-break-to-new-row.jpg)
 
@@ -3478,7 +3478,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [DOM Online](https://tomhodgins.com/demo/dom) - nan
 
@@ -3488,7 +3488,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://tryhackme.com/img/meta/default.png)
 
@@ -3500,7 +3500,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.tutorialrepublic.com/lib/images/signature.png)
 
@@ -3512,7 +3512,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.tutorialspoint.com/images/logo.png)
 
@@ -3524,7 +3524,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cms-assets.tutsplus.com/uploads/users/769/posts/12996/preview_image/programmer_working_with_program_code_2021_12_09_03_19_27_utc.jpg)
 
@@ -3536,7 +3536,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](http://www.vanseodesign.com/blog/wp-content/uploads/2011/07/vertical-light.jpg)
 
@@ -3548,7 +3548,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [VS Code Can Do That?](https://vscodecandothat.com) - All the best things about VS Code that nobody ever bothered to tell you
 
@@ -3558,7 +3558,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.w3schools.com/images/w3schools_logo_436_2.png)
 
@@ -3570,7 +3570,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.w3schools.com/images/w3schools_logo_436_2.png)
 
@@ -3582,7 +3582,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [How to add a gradient overlay to a background image using just CSS and HTML - Web dev etc - my software development blog](https://webdevetc.com/blog/how-to-add-a-gradient-overlay-to-a-background-image-using-just-css-and-html) - Software development articles (Laravel, Vue, PHP, Javascript, Typescript)
 
@@ -3592,7 +3592,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [XNA Tutorials - RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/xna-tutorials) - nan
 
@@ -3602,7 +3602,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [You Might Not Need jQuery](http://youmightnotneedjquery.com) - Examples of how to do common event, element, ajax and utility operations with plain javascript.
 
@@ -3612,7 +3612,7 @@ I am trying to return the value from the callback, as well as assigning the resu
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://yt3.ggpht.com/HDeb6CMO9jVlr1phkYWFY4NUvAn2HaiAqwqsSItsrDkHDV86K4z-Dz_9XCIqGcvIbBJqyZnW=s800-c-k-c0x00ffffff-no-rj)
 
@@ -3626,7 +3626,7 @@ Host: Povilas Korop
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s800-c-k-c0x00ffffff-no-rj)
 
@@ -3640,7 +3640,7 @@ With videos every Tuesday and Thursday, I'll be bringing you How Tos and Tutoria
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://yt3.ggpht.com/ytc/APkrFKZnwNGViFa6rbh6Ejg20cAevbHospr3E-BqCSO1=s800-c-k-c0x00ffffff-no-rj)
 
@@ -3656,7 +3656,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://github.githubassets.com/images/modules/open_graph/github-logo.png)
 
@@ -3668,7 +3668,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [IP Calculator-IP Subnetting](http://jodies.de/ipcalc) - nan
 
@@ -3678,7 +3678,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [CodeSupport](https://staging.codesupport.dev/resources) - CodeSupport is a community dedicated to giving guidance about programming, as well as creating conversation with one another. No matter your skill level, you are welcome in this community.
 
@@ -3688,7 +3688,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Evie's Accelerated JS Tutorial](https://js.evie.dev) - Keep being told to \
 
@@ -3698,7 +3698,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Formly](https://formly.dev) - JSON powered-Dynamic forms in Angular
 
@@ -3708,7 +3708,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Manage HTML DOM with vanilla JavaScript - HTML DOM](https://htmldom.dev) - Manage HTML DOM with vanilla JavaScript
 
@@ -3718,7 +3718,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://images.indepth.dev/images/2020/05/RxJS-in-Angular_-When-To-Subscribe_.jpg)
 
@@ -3730,7 +3730,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://indepth.dev/img/references_main_rxjs.jpg)
 
@@ -3742,7 +3742,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.skovy.dev/posts/measuring-frontend-performance-in-modern-browsers.jpg)
 
@@ -3754,7 +3754,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [What is the difference between and in the front-end development? - this vs that](https://thisthat.dev) - What is the difference between  and  in the front-end development?
 
@@ -3764,7 +3764,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://web-dev.imgix.net/image/FNkVSAX8UDTTQWQkKftSgGe9clO2/uZ3hQS2EPrA9csOgkoXI.png?auto=format&fit=max&w=1200&fm=auto)
 
@@ -3776,7 +3776,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://wd.imgix.net/image/fuiz5I8Iv7bV8YbrK2PKiY3Vask2/iGPiWTtoy7iF932Xday1.png?auto=format&w=1521)
 
@@ -3788,7 +3788,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.hackthebox.eu/images/landingv3/home/og-homepage.jpg)
 
@@ -3800,7 +3800,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.discordapp.com/splashes/692816967895220344/4425ad3b4c1e36895d28cdca8e962f58.jpg?size=512)
 
@@ -3812,7 +3812,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.discordapp.com/splashes/172018499005317120/f818fdd4c9a73a3dbe6bf096a717bc0b.jpg?size=512)
 
@@ -3824,7 +3824,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.discordapp.com/splashes/244230771232079873/1d80385d577b63d33598737b0e4b173d.jpg?size=512)
 
@@ -3836,7 +3836,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.discordapp.com/splashes/434487340535382016/e96eeb2fc1e2e23244d0be4de1df0efe.jpg?size=512)
 
@@ -3848,7 +3848,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://javascript.info/img/site_preview_en_1200x630.png)
 
@@ -3860,7 +3860,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.digitalocean.com/_next/static/media/social-share-default.e8530e9e.jpeg)
 
@@ -3872,7 +3872,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Angular](https://angular.io/guide/ngmodule-vs-jsmodule) - Angular is a platform for building mobile and desktop web applications.     Join the community of millions of developers who build compelling user interfaces with Angular.
 
@@ -3882,7 +3882,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Angular](https://angular.io/guide/template-reference-variables) - Angular is a platform for building mobile and desktop web applications.     Join the community of millions of developers who build compelling user interfaces with Angular.
 
@@ -3892,7 +3892,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://blog.angular-university.io/content/images/2020/12/banner.jpg)
 
@@ -3904,7 +3904,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://shots.codepen.io/username/pen/Pjoqqp-512.jpg?version=1657895725)
 
@@ -3916,7 +3916,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cssgradient.io/images/css-gradient-share-23a5b71f.png)
 
@@ -3928,7 +3928,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cssgrid.io/images/GRID-social-share.png)
 
@@ -3940,7 +3940,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [A collection of popular layouts and patterns made with CSS - CSS Layout](https://csslayout.io) - A collection of popular layouts and patterns made with CSS
 
@@ -3950,7 +3950,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cssreference.io/images/css-reference-share.png)
 
@@ -3962,7 +3962,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://og-image-react-egghead.now.sh/playlists/configuration-based-reactive-angular-forms-with-ngx-formly-465f?v=20201103)
 
@@ -3974,7 +3974,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://assets.exercism.org/meta/og.png)
 
@@ -3986,7 +3986,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://flexbox.io/images/WTF/share.png)
 
@@ -3998,7 +3998,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://andreasbm.github.io/web-skills/www/og-image.jpg)
 
@@ -4010,7 +4010,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden) - A Guide to JavaScript's Quirks and Flaws.
 
@@ -4020,7 +4020,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cuppalabs.github.io/img/components/dropdown-block.png)
 
@@ -4032,7 +4032,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://animate.style/img/animatecss-opengraph.jpg)
 
@@ -4044,7 +4044,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://flukeout.github.io/images/fb-share.jpg)
 
@@ -4056,7 +4056,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Visualizing Git](http://git-school.github.io/visualizing-git) - nan
 
@@ -4066,7 +4066,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 
@@ -4076,7 +4076,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6) - nan
 
@@ -4086,7 +4086,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - nan
 
@@ -4096,7 +4096,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Learn modern PHP](https://odan.github.io/learn-php) - PHP is cool
 
@@ -4106,7 +4106,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Solved by Flexbox Cleaner, hack-free CSS](https://philipwalton.github.io/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 
@@ -4116,7 +4116,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://sweetalert2.github.io/images/sweetalert2-social.png)
 
@@ -4128,7 +4128,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://yoksel.github.io/grid-cheatsheet/screenshot.png)
 
@@ -4140,7 +4140,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://yoksel.github.io/flex-cheatsheet/screenshot.png)
 
@@ -4152,7 +4152,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*2jIXuOz2ML1rr_5A7hU2Pw.png)
 
@@ -4164,7 +4164,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://jwt.io/img/facebook-card.png)
 
@@ -4176,7 +4176,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://app.gitbook.com/share/space/thumbnail/-LwY_OXUQHvmdEoy0xNa.png?color=%233884FF&logo=https%3A%2F%2F3152372751-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-LwY_OXUQHvmdEoy0xNa%252Favatar.png%3Fgeneration%3D1579380746835203%26alt%3Dmedia&theme=default)
 
@@ -4188,7 +4188,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://mailtrap.io/wp-content/uploads/2022/12/home_page_5.png)
 
@@ -4200,7 +4200,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://lh3.googleusercontent.com/rY98F81K1CJrQgKNYhCBNKjJB-Tbq1NtLDpg5ERwSfGwP-dQ0J7nIUJ91qCM14ZBlQE7f7QdQkKSzgr65Asa1hXE0UqP4Zy6HM0OcR6aKskh134y1II)
 
@@ -4212,7 +4212,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*kC-xl8XOmmaDm_GUI-eChw.jpeg)
 
@@ -4224,7 +4224,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [PlayCode - Javascript Playground](https://playcode.io/new) - nan
 
@@ -4234,7 +4234,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Polyfill.io](https://polyfill.io/v3) - nan
 
@@ -4244,7 +4244,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [ThinkRx Instant marble diagrams Playground for RxJS, Bacon.js, Kefir](https://thinkrx.io) - Test your Observables and play with marble diagrams in this REPL sandbox
 
@@ -4254,7 +4254,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Amazena, mandateci i soldi](https://amazena.it) - nan
 
@@ -4264,7 +4264,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://aulab.it/wp-content/uploads/2023/07/rif-home.jpg)
 
@@ -4276,7 +4276,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Corso su Python 3 (IFAC-CNR)](http://www.ifac.cnr.it/~zoppetti/corsopython) - nan
 
@@ -4286,7 +4286,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Informatica](http://edutecnica.it/informatica.htm) - Appunti ed annotazioni Informatica con esercizi risolti
 
@@ -4296,7 +4296,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.html.it/FOS5-kmmdlAYpzf-ni65N2ICUYw=/1280x854/smart/https://www.html.it/app/uploads/2011/03/coding-1.png)
 
@@ -4308,7 +4308,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn.html.it/vtPRu0huALfD5yA-EGEZ4K6At4I=/1280x854/smart/https://www.html.it/app/uploads/2018/09/web_components.png)
 
@@ -4320,7 +4320,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Pensare da informatico: Imparare con Python](http://python.it/doc/Howtothink/Howtothink-html-it/index.htm) - nan
 
@@ -4330,7 +4330,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://user-images.githubusercontent.com/1457604/80722022-d21e2400-8af6-11ea-9884-555e39312b62.png)
 
@@ -4342,7 +4342,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [1-Line Layouts](http://1linelayouts.glitch.me) - nan
 
@@ -4352,7 +4352,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://projects.lukehaas.me/regexhub/screenshot.png)
 
@@ -4364,7 +4364,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://davidwalsh.name/wp-content/themes/punky/images/logo.png)
 
@@ -4376,7 +4376,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://artisansweb.net/wp-content/uploads/2018/04/log.jpeg)
 
@@ -4388,7 +4388,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Options](https://datatables.net/reference/option) - nan
 
@@ -4398,7 +4398,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://live.datatables.net/images/logo.png)
 
@@ -4410,7 +4410,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://origin-blog.mediatemple.net/wp-content/uploads/2017/06/chron1-1665x705.png)
 
@@ -4422,7 +4422,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Downloads](https://monogame.net/downloads) - nan
 
@@ -4432,7 +4432,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://phpdelusions.net/img/phpdelusion-big.png)
 
@@ -4444,7 +4444,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://realfavicongenerator.net/favicon_generator_og_image.png)
 
@@ -4456,7 +4456,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial) - nan
 
@@ -4466,7 +4466,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](http://cdn.date-fns.org/card.png)
 
@@ -4478,7 +4478,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [ECMAScript 6: New Features: Overview and Comparison](http://es6-features.org) - nan
 
@@ -4488,7 +4488,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Esprima: Syntax Validator](https://esprima.org/demo/validate.html) - nan
 
@@ -4498,7 +4498,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.freecodecamp.org/news/content/images/2020/09/fCC_-Console.log.png)
 
@@ -4510,7 +4510,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn-media-1.freecodecamp.org/images/1*tO6yh-odg-YDLazUQ6FWVQ.jpeg)
 
@@ -4522,7 +4522,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.freecodecamp.org/news/content/images/2020/08/wireshark-1.png)
 
@@ -4534,7 +4534,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://cdn-media-2.freecodecamp.org/w1280/5f9c9ed4740569d1a4ca3f63.jpg)
 
@@ -4546,7 +4546,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://www.freecodecamp.org/news/content/images/2020/11/cover-1.png)
 
@@ -4558,7 +4558,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png)
 
@@ -4570,7 +4570,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png)
 
@@ -4582,7 +4582,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png)
 
@@ -4594,7 +4594,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Guzzle, PHP HTTP client Guzzle Documentation](https://docs.guzzlephp.org/en/stable) - nan
 
@@ -4604,7 +4604,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://data.htscdn.org/images/hackthissite-meta-card.png)
 
@@ -4616,7 +4616,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [HTML 5 Outliner](https://gsnedders.html5.org/outliner) - nan
 
@@ -4626,7 +4626,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](http://jsnice.org/jsnicebig1.png)
 
@@ -4638,7 +4638,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [JSON](https://json.org/json-en.html) - nan
 
@@ -4648,7 +4648,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [JSON Editor Online: JSON editor, JSON formatter, query JSON](https://jsoneditoronline.org) - JSON Editor Online is a web-based tool to view, edit, format, repair, compare, query, transform, validate, and share your JSON data.
 
@@ -4658,7 +4658,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png)
 
@@ -4670,7 +4670,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png)
 
@@ -4682,7 +4682,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png)
 
@@ -4694,7 +4694,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png)
 
@@ -4706,7 +4706,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [OverTheWire: Wargames](https://overthewire.org/wargames) - nan
 
@@ -4716,7 +4716,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Index Alphabetical - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/Glossary.html) - Website with the collection of all the cheat sheets of the project.
 
@@ -4726,7 +4726,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Practice Python](http://practicepython.org) - nan
 
@@ -4736,7 +4736,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://docs.python.org/3/_static/og-image.png)
 
@@ -4748,7 +4748,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [JavaScript With Syntax For Types.](https://typescriptlang.org/docs) - TypeScript extends JavaScript by adding types to the language. TypeScript speeds up your development experience by catching errors and providing fixes before you even run your code.
 
@@ -4758,7 +4758,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [JavaScript With Syntax For Types.](https://typescriptlang.org/play) - TypeScript extends JavaScript by adding types to the language. TypeScript speeds up your development experience by catching errors and providing fixes before you even run your code.
 
@@ -4768,7 +4768,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Selectors Level 3](https://w3.org/TR/selectors-3#selectors) - nan
 
@@ -4778,7 +4778,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [WebAIM: Contrast Checker](https://webaim.org/resources/contrastchecker) - nan
 
@@ -4788,7 +4788,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [WAVE Web Accessibility Evaluation Tools](https://wave.webaim.org) - nan
 
@@ -4798,7 +4798,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [DOM Standard](https://dom.spec.whatwg.org) - nan
 
@@ -4808,7 +4808,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [HTML Standard](https://html.spec.whatwg.org/multipage/webstorage.html#the-sessionstorage-attribute) - nan
 
@@ -4818,7 +4818,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://roadmap.sh/images/og-img.png)
 
@@ -4830,7 +4830,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Specificity Calculator](https://specificity.keegan.st) - nan
 
@@ -4840,7 +4840,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--DtewPmjD--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h01mvhhlk31kxqqwgdxm.png)
 
@@ -4852,7 +4852,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://dev.to/social_previews/article/158917.png)
 
@@ -4864,7 +4864,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--xsaFDAUu--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h9g74242yr061tuy4xl3.jpg)
 
@@ -4876,7 +4876,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--vMTr1B3j--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ntcrli4oaki92ue9zxn.png)
 
@@ -4888,7 +4888,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Links
+#### Useful-Stuff-Useful Stuff Links
 
 [Autoregex](https://www.autoregex.xyz) - nan
 
@@ -4898,9 +4898,9 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-## Useful-Stuff-Useful Stuff Software
-
 ### Useful-Stuff-Useful Stuff Software
+
+#### Useful-Stuff-Useful Stuff Software
 
 [Display Driver Uninstaller Download version 18.0.5.7](https://guru3d.com/files_details/display_driver_uninstaller_download.html) - nan
 
@@ -4910,7 +4910,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [deemix-gui](https://deemix.app/gui) - nan
 
@@ -4920,7 +4920,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [PicPick - All-in-one Graphic Design, Best Screen Capture and Recording Software, Image Editor, Color Picker, Pixel Ruler and More](https://picpick.app/en) - nan
 
@@ -4930,7 +4930,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fspek.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1775300689%26version%3D9)
 
@@ -4942,7 +4942,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Virtual CloneDrive - Elaborate Bytes](https://www.elby.ch/en/products/vcd.html) - Mount ISO files with Virtual CloneDrive and use them like a physical drive. Virtual CloneDrive is freeware and has been downloaded more than 10,000,000 times!
 
@@ -4952,7 +4952,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://getcaption.co/static/images/cover.png)
 
@@ -4964,7 +4964,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://cdn-resources.ableton.com/80bA26cPQ1hEJDFjpUKntxfqdmG3ZykO/static/images/og-images/whats-new.83939b540f40.jpg)
 
@@ -4976,7 +4976,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://anydesk.com/_static/img/favicon/anydesk_icon.png)
 
@@ -4988,7 +4988,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://cdn-www.bluestacks.com/bs-images/OG-Image1.png)
 
@@ -5000,7 +5000,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [calibre - Download calibre](https://calibre-ebook.com/download) - calibre: The one stop solution for all your e-book needs. Comprehensive e-book software.
 
@@ -5010,7 +5010,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download Speccy-Find your computer specs, free!](https://ccleaner.com/speccy) - Speccy - find the details of your computer's specs. Great for spotting issues or finding compatible upgrades. Download the latest version free.
 
@@ -5020,7 +5020,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Thanks for downloading CCleaner](https://www.ccleaner.com/ccleaner/download/standard) - nan
 
@@ -5030,7 +5030,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [TeraCopy for Windows - Code Sector](https://codesector.com/teracopy) - Official site of TeraCopy, a free utility designed to copy files faster and more secure. It can verify copied files to ensure they are identical. It skips bad files during copy, not terminating the entire transfer. Seamless integration with Windows Explorer.
 
@@ -5040,7 +5040,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.couchbase.com/wp-content/uploads/sites/3/2022/12/cb-meta-imagery-cloud.png)
 
@@ -5052,7 +5052,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://content.crucial.com/content/dam/crucial/web-ui/social/facebook-like-crucial.jpg)
 
@@ -5064,7 +5064,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://discord.com/assets/652f40427e1f5186ad54836074898279.png)
 
@@ -5076,7 +5076,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download - Dropbox](https://dropbox.com/downloading) - Dropbox helps you create, share, and collaborate on your files, folders, and documents. Get started today by downloading Dropbox.
 
@@ -5086,7 +5086,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://static-assets-prod.epicgames.com/epic-store/static/webpack/25c285e020572b4f76b770d6cca272ec.png)
 
@@ -5098,7 +5098,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download Fopnu](https://fopnu.com/download) - nan
 
@@ -5108,7 +5108,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.fosshub.com/media/img/project/metaimg/5b92987559eee027c3d78f03.png)
 
@@ -5120,7 +5120,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Milkdrop Visualizer - Visualizer-MusicBee](https://getmusicbee.com/addons/visualizer/52/milkdrop-visualizer) - Supports Milkdrop Visualizers
 
@@ -5130,7 +5130,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Morphyre - Visualizer-MusicBee](https://getmusicbee.com/addons/visualizer/179/morphyre) - Another visualizer
 
@@ -5140,7 +5140,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Downloads](https://getmusicbee.com/downloads) - Get MusicBee Installer executable or Portable and start enjoying MusicBee
 
@@ -5150,7 +5150,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://fork.dev/images/twitter4.jpg)
 
@@ -5162,7 +5162,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://opengraph.githubassets.com/10cb30e9f8b9aadf52e721baa90f418f3d583d23ce0b610fc76acee3d26b36c3/debauchee/barrier)
 
@@ -5174,7 +5174,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://repository-images.githubusercontent.com/255172530/c8fe290e-86ee-491b-ada6-5b805115c9a0)
 
@@ -5186,7 +5186,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://opengraph.githubassets.com/52b58f74f42d6fbc1e9fc8a04fb64b869c10661362d3421a0b2603df1c62d12b/navossoc/MenuTools)
 
@@ -5198,7 +5198,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://opengraph.githubassets.com/e0866b89f61c6a9234766c61d87dbf17b22ca6fd283bb3aed845247fbc0d80d3/randyrants/sharpkeys)
 
@@ -5210,7 +5210,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://opengraph.githubassets.com/7b201202a8242eee9bb208482a51bdca98b32c11abfc53aa790390991ef8d245/Sycnex/Windows10Debloater)
 
@@ -5222,7 +5222,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.gogalaxy.com/build/images/fb_1200x630_kv_galaxy2-en-efdc22c4.jpg)
 
@@ -5234,7 +5234,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png)
 
@@ -5246,7 +5246,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.guru3d.com/data/publish/32/0d01e9bf8798358f83818eaf82f50d324af780/file-df0df5cff98449512d.jpg)
 
@@ -5258,7 +5258,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [HWiNFO - Free System Information, Monitoring and Diagnostics](https://hwinfo.com) - nan
 
@@ -5268,7 +5268,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download the latest free trial version of Internet Download Manager](https://internetdownloadmanager.com/download.html) - Download the latest version of Internet Download Manager and use it for 30 days for free
 
@@ -5278,7 +5278,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [TreeSize Free-JAM Software](https://jam-software.com/treesize_free) - TreeSize Free is a free disk space manager for Windows. The software shows you the sizes of folders including all subfolders.
 
@@ -5288,7 +5288,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Jump Desktop for Windows](https://jumpdesktop.com/free-remote-desktop.html) - nan
 
@@ -5298,7 +5298,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Kaspersky Free & Trial Downloads - Virus Protection 2022-Kaspersky](https://kaspersky.com/downloads) - Get ultimate virus protection with Kaspersky software. Download free or trial version and protect yourself against latest cyber attacks and threats.
 
@@ -5308,7 +5308,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://theme.zdassets.com/theme_assets/9049502/031090992817a7ff1b4d3416d1609ebf9b8c4059.png)
 
@@ -5320,7 +5320,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://theme.zdassets.com/theme_assets/9049502/031090992817a7ff1b4d3416d1609ebf9b8c4059.png)
 
@@ -5332,7 +5332,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.mailstore.com/en/wp-content/uploads/sites/3/2022/02/opengraph-image-1200x630px-en-72dpi.jpg)
 
@@ -5344,7 +5344,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [MakeMKV - Download](https://makemkv.com/download) - MakeMKV - software to convert blu-ray and dvd to mkv
 
@@ -5354,7 +5354,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.malwarebytes.com/images/uploads/2019/09/05045019/screen-shot-2019-09-04-at-9.49.03-pm.png)
 
@@ -5366,7 +5366,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.mediahuman.com/img/audio-converter/AudioConverter-og.png)
 
@@ -5378,7 +5378,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.mediahuman.com/img/youtube-downloader/YouTubeDownloader-og.png)
 
@@ -5390,7 +5390,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.passmark.com/source/img_posts/og_memtest_download.png)
 
@@ -5402,7 +5402,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Microsoft Edge](https://microsoft.com/en-us/edge) - nan
 
@@ -5412,7 +5412,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [SQL Server Downloads-Microsoft](https://microsoft.com/en-us/sql-server/sql-server-downloads) - Get started with Microsoft SQL Server downloads. Choose a SQL Server trial, edition, tool, or connector that best meets your data and workload needs.
 
@@ -5422,7 +5422,7 @@ TI STAI PERDENDO in mezzo a tutto questa abbondanza di playlist? Guarda il trail
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9)
 
@@ -5460,7 +5460,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
@@ -5472,7 +5472,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Power Automate-Microsoft Power Platform](https://flow.microsoft.com) - Easily create automated workflows with Microsoft Power Automate, previously Microsoft Flow, to improve productivity with business process automation
 
@@ -5482,7 +5482,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://visualstudio.microsoft.com/wp-content/uploads/2020/07/Facebook.png)
 
@@ -5494,7 +5494,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](http://www.morphyre.com/images/logo.png)
 
@@ -5506,7 +5506,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://storage-asset.msi.com/global/picture/promotion/seo_16290928256119fbd975c5c5.85243947.jpeg)
 
@@ -5518,7 +5518,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Auto Update Drivers and Optimise Game Settings](https://nvidia.com/en-us/geforce/geforce-experience) - Optimal Game Settings & Maximise Image Quality While Maintaining Great Performance, So You Get the Best Experience. Keep Your Graphics Card Drivers Up to Date Without Leaving Your Desktop.
 
@@ -5528,7 +5528,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://site-cdn.onenote.net/161691840454_Images/onenoteicon-256.png)
 
@@ -5540,7 +5540,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://media.contentapi.ea.com/content/dam/eacom/ea-app/images/2022/05/ea-app-featured-image-16x9.jpg.adapt.crop191x100.1200w.jpg)
 
@@ -5552,7 +5552,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://patchmypc.com/wp-content/uploads/2018/02/PatchMyPC-Settings-Export.png)
 
@@ -5564,7 +5564,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://voyager.postman.com/social-preview/postman-api-platform-social-preview-2.jpeg)
 
@@ -5576,7 +5576,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Home](https://powerampapp.com) - nan
 
@@ -5586,7 +5586,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Studio One-Downloads-PreSonus](https://presonus.com/products/Studio-One/downloads) - nan
 
@@ -5596,7 +5596,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Psiphon-Download Android app and Windows client](https://psiphon3.com/en/download.html) - Direct, free Psiphon download for Windows and Android
 
@@ -5606,7 +5606,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Data Recovery - Recovery files from damaged media](http://puransoftware.com/Data-Recovery.html) - nan
 
@@ -5616,7 +5616,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Puran File Recovery - Recovery deleted files for free](http://puransoftware.com/File-Recovery.html) - nan
 
@@ -5626,7 +5626,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://share.redd.it/preview/post/6fre3q)
 
@@ -5638,7 +5638,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://cdn.samsung.com/etc/designs/smg/global/imgs/logo-square-letter.png)
 
@@ -5650,7 +5650,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.screentogif.com/logos/Card.png)
 
@@ -5662,7 +5662,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Merge MP3](https://shchuka.com/software/mergemp3#download) - nan
 
@@ -5672,7 +5672,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [https://skype.com/get-skype/](https://skype.com/get-skype) - nan
 
@@ -5682,7 +5682,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://windows-cdn.softpedia.com/screenshots/FileMind-QuickFix_1.png)
 
@@ -5694,7 +5694,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://ik.imagekit.io/soundradix/backend-production/images/products/2023/08/32-lives.png)
 
@@ -5706,7 +5706,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://cdn.akamai.steamstatic.com/store/home/store_home_share.jpg)
 
@@ -5718,7 +5718,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://surfshark.com/website/_next/public/global/og.jpg)
 
@@ -5730,7 +5730,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://tableplus.com/resources/images/fb-thumbnail@2x.jpg)
 
@@ -5742,7 +5742,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://teamspeak.com/user/themes/teamspeak/images/ts-share-image2.jpg)
 
@@ -5754,7 +5754,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.teamviewer.com/poster.png)
 
@@ -5766,7 +5766,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://tpucdn.com/images/logo_og-v1695389266656.png)
 
@@ -5778,7 +5778,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Software to Remove Unwanted Objects in a Click - Inpaint](https://theinpaint.com/download.html) - Download Inpaint - an easiest way to remove unwanted items from your images. No complexity. No overkill. No high prices. Download the free trial.
 
@@ -5788,7 +5788,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Touch Portal - Remote macro control deck for PC and Mac OS for streamers, content creators and other professionals](https://touch-portal.com) - Touch Portal the Remote macro control deck for PC and Mac OS for streamers, gamers, content creators and all other professionals
 
@@ -5798,7 +5798,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://ubistatic-a.ubisoft.com/0123/PROD/_next/static/images/share-image-8b80c2cc6affda35197fc9715b3a650c.png)
 
@@ -5810,7 +5810,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Atmosphere Ambient Soundscape Generator - Create custom wellness-ambient natural sound MP3 and CD audio tracks for relaxation or royalty free distribution](https://vectormediasoftware.com/atmdeluxehome.htm) - nan
 
@@ -5820,7 +5820,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://code.visualstudio.com/opengraphimg/opengraph-home.png)
 
@@ -5832,7 +5832,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://madskristensen.gallerycdn.vsassets.io/extensions/madskristensen/clearmefcomponentcache/1.4.31/1623431641318/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -5844,7 +5844,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://thomaswelen.gallerycdn.vsassets.io/extensions/thomaswelen/selectnextoccurrence/1.4.194/1678710382142/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -5856,7 +5856,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://madskristensen.gallerycdn.vsassets.io/extensions/madskristensen/webextensionpack2017/2.0.44/1536778379157/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -5868,7 +5868,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://aaron-bond.gallerycdn.vsassets.io/extensions/aaron-bond/better-comments/3.0.2/1659144495902/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -5880,7 +5880,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://pranaygp.gallerycdn.vsassets.io/extensions/pranaygp/vscode-css-peek/4.4.1/1689036849877/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -5892,7 +5892,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/code-runner/0.12.0/1674458451597/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -5904,7 +5904,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-codemetrics/1.26.1/1672232109510/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -5916,7 +5916,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://mwilski.gallerycdn.vsassets.io/extensions/mwilski/collapselevel/2.0.4/1625082841957/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -5928,7 +5928,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://madskristensen.gallerycdn.vsassets.io/extensions/madskristensen/commentremover/1.3.26/1623431444119/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -5940,7 +5940,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://icrawl.gallerycdn.vsassets.io/extensions/icrawl/discord-vscode/5.8.0/1643564745218/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -5952,7 +5952,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.4.2/1687441427519/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -5964,7 +5964,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [ESDoc MDN - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=samundrak.esdoc-mdn) - Extension for Visual Studio Code - If you are coding and in middle you forget syntax or description about any javascript api then just write //mdn [object].[method] .
 
@@ -5974,7 +5974,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://vikyd.gallerycdn.vsassets.io/extensions/vikyd/vscode-fold-level/0.0.14/1622112511096/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -5986,7 +5986,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2023.9.2605/1695719341950/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -5998,7 +5998,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://rionwilliams.gallerycdn.vsassets.io/extensions/rionwilliams/glyphfriend2019/2.1.0.3/1579906654917/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6010,7 +6010,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://ecmel.gallerycdn.vsassets.io/extensions/ecmel/vscode-html-css/1.13.1/1659218422410/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6022,7 +6022,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://vincaslt.gallerycdn.vsassets.io/extensions/vincaslt/highlight-matching-tag/0.11.0/1678358667427/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6034,7 +6034,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://wix.gallerycdn.vsassets.io/extensions/wix/vscode-import-cost/3.3.0/1649579526643/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6046,7 +6046,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Instant Markdown - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown) - Extension for Visual Studio Code - Instant previews of your markdown files as you type.
 
@@ -6056,7 +6056,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://visualstudioexptteam.gallerycdn.vsassets.io/extensions/visualstudioexptteam/vscodeintellicode/1.2.30/1673034060126/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6068,7 +6068,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://zignd.gallerycdn.vsassets.io/extensions/zignd/html-css-class-completion/1.20.0/1608419199966/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6080,7 +6080,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.9/1661914858952/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6092,7 +6092,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://ms-vsliveshare.gallerycdn.vsassets.io/extensions/ms-vsliveshare/vsliveshare/1.0.5883/1692652851504/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6104,7 +6104,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://xdebug.gallerycdn.vsassets.io/extensions/xdebug/php-pack/1.0.3/1642771566771/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6116,7 +6116,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://henoc.gallerycdn.vsassets.io/extensions/henoc/svgeditor/2.9.0/1545629095736/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6128,7 +6128,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://shan.gallerycdn.vsassets.io/extensions/shan/code-settings-sync/3.4.3/1569243788505/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6140,7 +6140,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://spikespaz.gallerycdn.vsassets.io/extensions/spikespaz/vscode-smoothtype/1.2.0/1539464135117/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6152,7 +6152,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://ryu1kn.gallerycdn.vsassets.io/extensions/ryu1kn/text-marker/1.11.0/1555739025789/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6164,7 +6164,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://donjayamanne.gallerycdn.vsassets.io/extensions/donjayamanne/jquerysnippets/0.0.1/1474455550460/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -6176,7 +6176,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download VMR Connect for PC or Mac - VLC Mobile Remote](https://vlcmobileremote.com/download) - VMR Connect simplifies the setup & connection between your computer and VLC Mobile Remote, allows you to control mouse, keyboard features from the app.
 
@@ -6186,7 +6186,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.wemod.com/static/images/meta-en-7df4f54d17.png)
 
@@ -6198,7 +6198,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.win-rar.com/fileadmin/images/common/winrar-gui.png)
 
@@ -6210,7 +6210,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://images.wondershare.com/filmora/banner/filmora-theme-banner.jpg)
 
@@ -6222,7 +6222,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://images.wondershare.com/videoconverter/images2021/vcu13/home/video-converter.png)
 
@@ -6234,7 +6234,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Xtreme Download Manager-XDMAN-XDM Home](https://xtremedownloadmanager.com/#downloads) - Xtreme Download Manager (XDM), Fastest Download Manager/accelator and video downloader
 
@@ -6244,7 +6244,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [AllDup - Search for Duplicate Mp3 Files](https://alldup.de/en_download_alldup.php) - Search for Duplicate Mp3 Files, Hard Links Finder Software, Duplicate File Remover Software, Find Duplicate Music Files, Delete Duplicate Music Files
 
@@ -6254,7 +6254,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Mp3tag - the universal Tag Editor (ID3v2, MP4, OGG, FLAC, ...)](https://mp3tag.de/en) - Mp3tag is a powerful and easy-to-use tool to edit metadata of audio files.
 
@@ -6264,7 +6264,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [mp3DirectCut - Cut MP3 and AAC in Windows - Download](http://mpesch3.de/index.html) - mp3DirectCut Home - Free and fast multi tool for Windows and Linux/Wine with lossless editing: Cut, crop, split MP3, AAC, MP4, fade, normalize and record MP3.
 
@@ -6274,7 +6274,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [rtpMIDI](https://tobias-erichsen.de/software/rtpmidi.html) - nan
 
@@ -6284,7 +6284,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [TouchDAW - DAW controller and MIDI utilities for Android](https://xmmc.de/touchdaw) - Android DAW controller and MIDI utilities
 
@@ -6294,7 +6294,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Nikse.dk](https://nikse.dk/subtitleedit) - nan
 
@@ -6304,7 +6304,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [MKVToolNix news Matroska tools for Linux/Unix and Windows](https://mkvtoolnix.download) - nan
 
@@ -6314,7 +6314,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [AMT &#8211; Auto-Movie-Thumbnailer](https://funk.eu/amt) - AMT - Auto-Movie-Thumbnailer v12 THE Batch Movie ScreenCap Creator... Create ScreenCaps of - any number of movies, - located anywhere on your computer, - manually or with a time-scheduler, - with a free to choose number of caps, - the ability to ignore already processed files, - a customizable design - and most important, it
 
@@ -6324,7 +6324,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [HID macros](http://hidmacros.eu/download.php) - nan
 
@@ -6334,7 +6334,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [REAPER-Audio Production Without Limits](https://reaper.fm) - nan
 
@@ -6344,7 +6344,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://crystalmark.info/wp-content/uploads/sites/3/CrystalDiskInfo8-en-300x250-1.png)
 
@@ -6356,7 +6356,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://s0.wp.com/i/webclip.png)
 
@@ -6368,7 +6368,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download](https://dbeaver.io/download) - nan
 
@@ -6378,7 +6378,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [CopyQ](https://hluk.github.io/CopyQ) - CopyQ : Clipboard Manager with Advanced Features
 
@@ -6388,7 +6388,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://webtorrent.io/img/WebTorrent.png)
 
@@ -6400,7 +6400,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Get Attribute Changer](https://petges.lu/download) - nan
 
@@ -6410,7 +6410,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Oscilloscope](https://asdfg.me/osci) - nan
 
@@ -6420,7 +6420,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [cwRsync - Rsync for Windows-itefix.net](https://itefix.net/cwrsync) - Enable the powerful rsync on Windows for fast, secure and flexbile synchronization. Client GUI, secure channel wrapper, rsync server are provided as standard. Free edition available.
 
@@ -6430,7 +6430,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [MediaInfo - Download MediaInfo for Microsoft Windows](https://mediaarea.net/en/MediaInfo/Download/Windows) - MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files
 
@@ -6440,7 +6440,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [ProduKey - Recover lost product key (CD-Key) of Windows/MS-Office/SQL Server](https://nirsoft.net/utils/product_cd_key_viewer.html#DownloadLinks) - Recover lost product key (CD-Key) of Microsoft Office 2003, Office 2007, Windows XP, Windows Server 2003/2008, Windows 7, and more.
 
@@ -6450,7 +6450,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://a.fsdn.com/allura/p/gmkvextractgui/icon?1580064009)
 
@@ -6462,7 +6462,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [spacedesk-Multi Monitor App-Virtual Display Screen-Software Video Wall](https://spacedesk.net) - The spacedesk Video Wall Software Engine enables convenient and inexpensive setup of display walls using a single PC
 
@@ -6472,7 +6472,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Syncthing](https://syncthing.net) - nan
 
@@ -6482,7 +6482,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Ventoy](https://ventoy.net/en/download.html) - Ventoy is an open source tool to create bootable USB drive for ISO files. With ventoy, you don't need to format the disk again and again, you just need to copy the iso file to the USB drive and boot it.
 
@@ -6492,7 +6492,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download](https://7-zip.org/download.html) - nan
 
@@ -6502,7 +6502,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [ClickMonitorDDC is a portable freeware tool to adjust brightness or contrast of a DDC compatible monitor by simply clicking a notification icon in the taskbar tray area, this icon also shows the actual monitor-values. There is support for multi monitors, shortcut link icon command line arguments and hot keys.](https://web.archive.org/web/20200803212815/https://clickmonitorddc.bplaced.net) - Simply click the notification icon in the taskbar tray area to adjust brightness or contrast, much more comfortable and faster than manually messing around with monitor buttons, works with external monitors (DDC-protocol) and internal LCD-Display of notebooks/laptops. The notification icons inform you about the monitor values, you simply look at the icons to check if the wanted values are already set. You can adjust brightness, contrast and volume by using sliders or clicking buttons, but ClickMonitorDDC can also deal with command lines in all possible ways, assign hot keys, create context menu popup entries, use batch files or append arguments in icon properties shortcut target. You can use multiple arguments, lower/uppercase and spaces are optional. For instance  b20 c30  sets monitor brightness 20 and contrast 30  optionally you can prepend monitornumber (1 or higher), for instance 2 c55 2 b40  sets second monitor contrast 55 and brightness 40  b+6 c-8 increases actual brightness by 6 and decreases actual contrast by 8  v90 sets volume to 90%, v+10 increases volume by 10%, v-8 decreases volume by 8% m for mute, u for unmute, x for shutting off monitors, q quits program, ? shows a notification about the actual values. The portable file can be run from any location without installation, needs windows 7/8/10 You use this software at your own risk, I disclaim any responsibility for any harm. You are allowed to use and spread this program for free.
 
@@ -6512,7 +6512,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download Ardour-Ardour Community](https://community.ardour.org/download) - nan
 
@@ -6522,7 +6522,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [ASIO4ALL Official Home](http://asio4all.org) - Universal Windows ASIO Driver - Freeware - News and Updates
 
@@ -6532,7 +6532,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download](https://audacityteam.org/download) - Download Audacity Download the free Audacity audio editor for your operating system:   	Download for Windows (32 and 64 bit)  	Download for Mac (64 bit Intel)  	Download for Linux (64 bit AppImage)  Audacity is free of charge. No registration or hardware purchase required. Legacy Downloads Legacy v
 
@@ -6542,7 +6542,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Cheat Engine](https://cheatengine.org/downloads.php) - nan
 
@@ -6552,7 +6552,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://chocolatey.org/assets/images/global-shared/facebook-share.png)
 
@@ -6564,7 +6564,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download Deluge](https://dev.deluge-torrent.org/wiki/Download) - nan
 
@@ -6574,7 +6574,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download FFmpeg](http://ffmpeg.org/download.html) - nan
 
@@ -6584,7 +6584,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download FileZilla Client for Windows (64bit x86)](https://filezilla-project.org/download.php) - Download FileZilla Client 3.62.0 for Windows (64bit x86)
 
@@ -6594,7 +6594,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://freefilesync.org/images/FreeFileSync.png)
 
@@ -6606,7 +6606,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Downloads](https://getgreenshot.org/downloads) - Greenshot - a free screenshot tool optimized for productivity
 
@@ -6616,7 +6616,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.gimp.org/images/frontpage/wilber-big.png)
 
@@ -6628,7 +6628,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [JDownloader.org - Official Homepage](https://jdownloader.org/download/index) - nan
 
@@ -6638,7 +6638,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.mozilla.org/media/protocol/img/logos/firefox/browser/og.4ad05d4125a5.png)
 
@@ -6650,7 +6650,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://mremoteng.org/favicon/256.png)
 
@@ -6662,7 +6662,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Downloads-Notepad++](https://notepad-plus-plus.org/downloads) - nan
 
@@ -6672,7 +6672,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [qBittorrent Official Website](https://qbittorrent.org/download.php) - nan
 
@@ -6682,7 +6682,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download-Soulseek](http://slsknet.org/news/node/1) - nan
 
@@ -6692,7 +6692,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.sordum.org/wp-content/uploads/2015/08/easy_context_menu.png)
 
@@ -6704,7 +6704,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Telegram Desktop](https://desktop.telegram.org) - Experience Telegram on your computer in a swift and seamless way.
 
@@ -6714,7 +6714,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 ![](https://www.torproject.org/static/images/tor-project-logo-onions.png)
 
@@ -6726,7 +6726,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Download Zeal](https://zealdocs.org/download.html) - nan
 
@@ -6736,7 +6736,7 @@ Unigram is an unofficial Telegram client optimized for Windows.
 
 ---
 
-### Useful-Stuff-Useful Stuff Software
+#### Useful-Stuff-Useful Stuff Software
 
 [Home - Pencil Project](https://pencil.evolus.vn) - nan
 

@@ -1,6 +1,6 @@
-# Developer
-
 ## Developer
+
+### Developer
 
 [JSHint, a JavaScript Code Quality Tool](https://jshint.com) - JSHint, a JavaScript Code Quality Tool
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Developer
+### Developer
 
 [Ide](https://ide.onelang.io) - nan
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Developer
+### Developer
 
 [Heimdall Application Dashboard](https://heimdall.site) - The Heimdall Application Dashboard makes managing your websites and applications much easier.
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Developer
+### Developer
 
 [Closure Compiler Service](https://closure-compiler.appspot.com/home) - Closure Compiler Service
 
@@ -40,7 +40,7 @@
 
 ---
 
-## Developer
+### Developer
 
 ![](https://babeljs.io/img/ogImage.png)
 
@@ -52,7 +52,7 @@
 
 ---
 
-## Developer
+### Developer
 
 [Home Spyder IDE](https://www.spyder-ide.org) - nan
 
@@ -62,7 +62,7 @@
 
 ---
 
-## Developer
+### Developer
 
 [Online JavaScript beautifier](https://beautifier.io) - Online JavaScript beautifier
 
@@ -72,7 +72,7 @@
 
 ---
 
-## Developer
+### Developer
 
 ![](https://devfonts.gafi.dev/images/preview.jpeg)
 
@@ -86,7 +86,7 @@ by @imGaafar
 
 ---
 
-## Developer
+### Developer
 
 [My Custom Developer Search](https://cse.google.com/cse?cx=e3f7d4c4dfde9f16a) - nan
 
@@ -96,7 +96,7 @@ by @imGaafar
 
 ---
 
-## Developer
+### Developer
 
 [DevXplore - A Search Engine for Developers](https://devxplore.herokuapp.com) - A search engine for developers to find Github Repos, youtube tutorials, online courses, and documentation faster.
 
@@ -106,7 +106,7 @@ by @imGaafar
 
 ---
 
-## Developer
+### Developer
 
 ![](https://os-js.org/images/social-logo.png)
 
@@ -118,7 +118,7 @@ by @imGaafar
 
 ---
 
-## Developer
+### Developer
 
 [GitHub does dotfiles](https://dotfiles.github.io) - nan
 

@@ -1,6 +1,6 @@
-# GH Templates
-
 ## GH Templates
+
+### GH Templates
 
 ![](https://repository-images.githubusercontent.com/273240799/1e7e1b00-2667-11eb-9c5d-a234825d3cf0)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## GH Templates
+### GH Templates
 
 ![](https://opengraph.githubassets.com/c7b89bd1c53960bcf85d5dba6749524039745ce030c591734a33ef08ee485d96/ScribeMD/template-repo)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## GH Templates
+### GH Templates
 
 ![](https://repository-images.githubusercontent.com/293084428/f03ccdb6-709e-43ea-9210-3f0f5315a592)
 
@@ -36,7 +36,7 @@
 
 ---
 
-## GH Templates
+### GH Templates
 
 ![](https://repository-images.githubusercontent.com/507089605/0b31a9af-bd7c-41c8-8570-9e044c89b83c)
 

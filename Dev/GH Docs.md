@@ -1,6 +1,6 @@
-# GH Docs
-
 ## GH Docs
+
+### GH Docs
 
 ![](https://framerusercontent.com/images/5atZKsWqZp0KjjrRoYVcyTGZSc.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## GH Docs
+### GH Docs
 
 ![](https://opengraph.githubassets.com/8c53eea86b1530c9a4fe7c8358da28cacdaaf0584762c70d66ab75aa9b9c4ff0/thlorenz/doctoc)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## GH Docs
+### GH Docs
 
 [EzGitDoc](https://os-expected.github.io/EzGitDoc) - EzGitDoc is an open source tool that improves documentation experience(especially on GitHub). It allows to create custom scheme without touching markdown and modify data as desired on EzGitDoc or later(within generated code) replacing basic values. UI is minimalistic so you don't need to waste time to learn it. Write less click more, give your hands break. Check it out.
 

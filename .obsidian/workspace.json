@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Cloud Dev.md",
+                "file": "Programming/Terminal.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Cloud Dev.md",
+                "file": "Programming/Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Cloud Dev.md",
+                "file": "Programming/Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Cloud Dev.md"
+                "file": "Programming/Terminal.md"
               }
             }
           },
@@ -165,32 +165,32 @@
   },
   "active": "cb79ff260c4e5a9d",
   "lastOpenFiles": [
-    "Dev/Blog and CMS.md",
-    "Dev/Bitbucket.md",
-    "Dev/API Tools.md",
-    "Design/Vectors.md",
-    "Design/Templates.md",
-    "Design/SVG.md",
-    "Design/Stock Photos.md",
-    "Design/PNGs.md",
-    "Design/Placeholder.md",
-    "Design/Photoshop.md",
-    "Design/Patterns.md",
-    "Design/Pallets.md",
-    "Design/Mockup's.md",
-    "Design/Logos.md",
-    "Design/Images.md",
-    "Design/Image Tools.md",
-    "Design/Icons.md",
-    "Design/Fonts.md",
-    "AI/Law.md",
-    "BMMF/Win10.md",
-    "BMMF/X Bookmarks.md",
-    "BMMF/StartMe.md",
-    "BMMF/OSX.md",
-    "BMMF/Profiles.md",
-    "BMMF/OSINT.md",
-    "BMMF/OGs.md",
+    "Programming/Snippets.md",
+    "Programming/Regex.md",
+    "Programming/Python.md",
+    "Programming/PROGAMMING-MTHRFCKR.md",
+    "Programming/Misc.md",
+    "Programming/Markdown.md",
+    "Programming/JSON.md",
+    "Programming/Javascript.md",
+    "Programming/Java.md",
+    "Programming/HTML.md",
+    "Programming/Database.md",
+    "Programming/Data Visualization.md",
+    "Programming/ASCII.md",
+    "Productivity/Writing.md",
+    "Productivity/Timeline.md",
+    "Productivity/Spreadsheet.md",
+    "Productivity/Resume CV.md",
+    "Productivity/Plots.md",
+    "Productivity/Obsidian.md",
+    "Productivity/Notetaking.md",
+    "Productivity/Memex.md",
+    "Productivity/Lifeline Development.md",
+    "Productivity/Journal.md",
+    "Productivity/Health.md",
+    "Productivity/Graphs.md",
+    "Productivity/Google.md",
     "Books",
     "Social",
     "WebDev",

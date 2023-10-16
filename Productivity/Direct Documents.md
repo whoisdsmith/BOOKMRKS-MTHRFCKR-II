@@ -1,6 +1,6 @@
-# Direct Documents
-
 ## Direct Documents
+
+### Direct Documents
 
 ![](https://qn.cache.wpscdn.cn/kdocs/cloud/dotview/ogcard/wpset.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyKRwSxvDms1A-O2ZNrR6QZIBe7q6FyB4R-AVaeR16eIoLRjuSqn9-vIjksoHNfdV9gif_na2eDK0i3fli5PM31rCVlPtt8a4IdeZPxBxKAq=w1200-h630-p)
 
@@ -30,7 +30,7 @@ Bold = Reccomended.,Yellow Italics = unreviewed but expected to perform well,a h
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Spreadsheet](https://nafanz.github.io) - nan
 
@@ -40,7 +40,7 @@ Bold = Reccomended.,Yellow Italics = unreviewed but expected to perform well,a h
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyLeKGuhCB2UgIDwIMsjunYXdttF7z2E6WQm71WhVKYV1Z8uttdGPwsrdw5nUEOnpEw0vjeTffjDmNST8FBfVyEa60Lozng32gaOoh7mClA=w1200-h630-p)
 
@@ -58,7 +58,7 @@ The Photo Album Finder,a href="https://cse.google.com/cse/publicurl?cx=013991603
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [VSTs and Packs](https://docs.google.com/spreadsheets/d/1xgj5-W2f0ESsSaYLPrT5dfbMQcJM9NZEbAGIvszTbTs/edit#gid=0) - Sheet1
 
@@ -70,7 +70,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyL4sLNKODHvgzmdDg8i6T6UOBXU-7wWkcrhot7MFVncWyqOwoyatFMHOHNs3HAWOEL3fb-YstQf4odKZrDRGFQJi5F8nIFPnod1lr5RwoM=w1200-h630-p)
 
@@ -82,7 +82,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Mpa notorious markets filing](https://torrentfreak.com/images/MPA_Notorious_Markets_Filing.pdf) - nan
 
@@ -92,7 +92,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Notorious markets submission for 2020 final](https://torrentfreak.com/images/Notorious_Markets_Submission_for_2020_final.pdf) - nan
 
@@ -102,7 +102,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [NSA - Limiting Data Exposure](https://media.defense.gov/2020/Aug/04/2002469874/-1/-1/0/CSI_LIMITING_LOCATION_DATA_EXPOSURE_FINAL.PDF?fbclid=IwAR2XL7jEi98haPqqO4xfvq6YUxptVq9d21rMuJMS4HMIMj3PKxNqgs-dfvI) - nan
 
@@ -112,7 +112,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Malware Analysis Fundamentals - Files and Tools](https://www.winitor.com/pdf/Malware-Analysis-Fundamentals-Files-Tools.pdf) - nan
 
@@ -122,7 +122,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://live.staticflickr.com/65535/52817238103_e824dfb610_b.jpg)
 
@@ -134,7 +134,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Deception Maxims: Fact & Folklore](https://governmentattic.org/18docs/CIAdeceptionMaximsFactFolklore_1980.pdf) - nan
 
@@ -144,7 +144,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Disinformation Annotated Bibliography](https://citizenlab.ca/wp-content/uploads/2019/05/Disinformation-Bibliography.pdf) - nan
 
@@ -154,7 +154,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [GIJC2017 doc](https://drive.google.com/file/d/1pLjKuNjFyHGDiOAW7sLmX7L9o2j5kdbF/view) - nan
 
@@ -164,7 +164,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [OSINT Tools and Resources Handbook](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_June-2018_Final.pdf) - nan
 
@@ -174,7 +174,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [APFS File System Format Reference Sheet](https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt61c336e02577e733/5eb0940e248a28605479ccf0/FOR518_APFS_CheatSheet_012020.pdf) - nan
 
@@ -184,7 +184,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [iOS Acquisition Guide - Atropos 4n6](https://atropos4n6.com/wp-content/uploads/2021/03/iOS_Acquisition_Guide.pdf) - nan
 
@@ -194,7 +194,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Explaining Cellebrite UFED Data Extraction Processes](https://smarterforensics.com/wp-content/uploads/2014/06/Explaining-Cellebrite-UFED-Data-Extraction-Processes-final.pdf) - nan
 
@@ -204,7 +204,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [IPv6 Hardening Guide for Linux Servers](https://ernw.de/download/ERNW_Guide_to_Securely_Configure_Linux_Servers_For_IPv6_v1_0.pdf) - nan
 
@@ -214,7 +214,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [IPv6 Hardening Guide for OS-X](https://ernw.de/download/ERNW_Hardening_IPv6_MacOS-X_v1_0.pdf) - nan
 
@@ -224,7 +224,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [IPv6 Hardening Guide for Windows Servers](https://ernw.de/download/ERNW_Guide_to_Configure_Securely_Windows_Servers_For_IPv6_v1_0.pdf) - nan
 
@@ -234,7 +234,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Compass Security - OSINT Cheat Sheet](https://www.compass-security.com/fileadmin/Research/White_Papers/2017-01_osint_cheat_sheet.pdf?fbclid=IwAR0mW2xlIbBI8WnCn8WFyglAgUJzGPpLXw3rT9xA7Z3-4242S5HSYE1Al5c) - nan
 
@@ -244,7 +244,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [i-intelligence.eu - OSINT Handbook 2020.pdf](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf) - nan
 
@@ -254,7 +254,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Open Source INTelligence (OSINT) Reference Sheet](https://tpia.com/resources/Pictures/2019%20CPE%20files/OSINT%20Resources.pdf) - nan
 
@@ -264,7 +264,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Open Source Intelligence and OSINT Application 2019](https://www.theseus.fi/bitstream/handle/10024/171315/Tuominen_Sanna.pdf?sequence=2) - nan
 
@@ -274,7 +274,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Open Source Intelligence Methodology 2019](https://phs.brage.unit.no/phs-xmlui/bitstream/handle/11250/2617479/master_Furuhaug.pdf?isAllowed=y&sequence=1) - nan
 
@@ -284,7 +284,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Defining Second Generation OSINT For The Defence Enterprise](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1900/RR1964/RAND_RR1964.pdf.) - nan
 
@@ -294,7 +294,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [CFCS Belgium - Incident response (PDF)](https://cybersecuritycoalition.be/content/uploads/cybersecurity-incident-management-guide-EN.pdf) - nan
 
@@ -304,7 +304,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Pdf](https://rentry.co/echlinkss/pdf) - nan
 
@@ -314,7 +314,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Pdf](https://rentry.co/4dqmi/pdf) - Links
 
@@ -324,7 +324,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Games - Google Drive](https://drive.google.com/drive/u/0/folders/1VZ53l_G3PpQriD8xvqH26gL0h0oHQ08f) - nan
 
@@ -334,7 +334,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [ARK - Google Drive](https://drive.google.com/drive/folders/1p0ovK4gyzPyw4SVrY-ISFbdp7PzOj3Ky) - nan
 
@@ -344,7 +344,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Links to Books and Resources.pdf](https://drive.google.com/file/d/1o4C013btq4j9ENuc8SnE4FUk6acw29wb/view?usp=drivesdk) - nan
 
@@ -354,7 +354,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [01 Sprp77's OSINT Resources Google Drive](https://drive.google.com/drive/folders/1CBcemFdorkAqJ-Sthsh67OVHgH4FQF05) - nan
 
@@ -364,7 +364,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Berg Google Drive](https://drive.google.com/drive/folders/16RI16Bq875K14DsZSTxf0twRC6HAYgKG) - nan
 
@@ -374,7 +374,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Windows 7.exe](https://drive.google.com/file/d/1Dn1AZTSljG1iNFvPzqHwHHSDORElcIGl/edit) - nan
 
@@ -384,7 +384,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Bar chart inside tabs](https://drive.google.com/file/d/1Fd-V0ulSiNGL9og_5H74VzNrsCVkbrwE/view?usp=drivesdk) - nan
 
@@ -394,7 +394,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Text Tools.md](https://drive.google.com/file/d/1POYaOnBtQvXk0gK7QGglkjK2uoQJ0KcW/view?usp=drivesdk) - nan
 
@@ -404,7 +404,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyJQeLMduYDzv44kuSvLDULGedYsPsx6-zFvcHGzG8kS0fwg5RoIl3chiQD_9WQ7uxCLeORyYmerILw3o7kYG9PkaY6OZ12IMiUoYZ1IZXl3=w1200-h630-p)
 
@@ -416,7 +416,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [APT Groups and Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml) - nan
 
@@ -426,7 +426,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyIg0NQe8fle5OEvz-NvH4SkjtZVNHO48qWxgzLPrGzWXCp9fFh13-TW7AVm6lpRbGHcAdYZunPQUEW3u_a7zgNPxYXHlGdwY_D1wME2WL4=w1200-h630-p)
 
@@ -438,7 +438,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [CTI & OSINT Online Resources](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/htmlview) - nan
 
@@ -448,7 +448,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [OSINT for Finding People](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/htmlview) - nan
 
@@ -458,7 +458,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [OSINT Tool Comparison Table](https://docs.google.com/spreadsheets/d/18U1qcaPaqIF8ERVLI-g5Or3gUbv0qP_-JUtc0pbEs0E/htmlview#gid=0) - nan
 
@@ -468,7 +468,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Public Information Opt-Out Guide - OSINT Ninja](https://docs.google.com/spreadsheets/d/1UY9U2CJ8Rnz0CBrNu2iGV3yoG0nLR8mLINcnz44XESI/htmlview#gid=1864750866) - nan
 
@@ -478,7 +478,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyKKoWHRol5lOyelQEaBtFpTEgtGBgwT9qOaIFAEYr37-rQ0qj1izlycbPrxYXsh0R8qQ-JTZYfkKZxXO5QJPkviLon0E5Mvc6bxCYj9Pj69=w1200-h630-p)
 
@@ -490,7 +490,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyKpVgMu_n_Mh4F-oFz1WkKV61VUYfARSKHel06cjbRpbzt_bwYElVvaZSbpCKQo7f0xapdsnf2sKLWdSMTK5uBeMembm4kVsQ2dCIJpKKQ=w1200-h630-p)
 
@@ -502,7 +502,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Temporary Links Megathread](https://docs.google.com/document/u/0/d/1HHl8Zzdfr9_nNT4HTpg9Udb80vQyDWenpm3OkEDNcVQ/mobilebasic) - nan
 
@@ -512,7 +512,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Offshore Hosting List (2022) - Google Sheets](https://docs.google.com/spreadsheets/d/1LJgDP-WfNxn604QfHU2MumdV7FvUQrDb5Ui7zgTYw9U/edit#gid=0) - Hosting List Offshore  Hosting Providers,Location(s),Offshore-Privacy,DMCA Ignored,Adult Content (Legal 18+),Freedom Speech Content,Privacy,DDoS Protected,Further Info Novogara.com,Netherlands,Yes,Yes,Allowed,Allowed,Yes,Unknown
 
@@ -522,7 +522,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyIWEYvu9ynim2Fyyg0F_Rep-gkIeghGRXY-2Gar5FvP6Ryce07qzoEdbYIzcCWDzYbSpbuni57ZUyui1h-B-tzZwl3cCzNr0cHiXDCsMV_3=w1200-h630-p)
 
@@ -534,7 +534,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyLU_Kob7ul1vD8_jsfqkc3yAtm3ZMktFnKW7mW-tsBO6vvqoa7qL5TNoS4h1xP3Jzyl_HSHddTagrnf0Bgv9dSZtcxvfm25RMimj_7Ij38j=w1200-h630-p)
 
@@ -546,7 +546,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyJHC-BlpRPbZTyYk3K8IMZnWJrZAWcefX8fIIz34cIQjcingg1rKzpJ-z0t7-Ygmgvcbahlwg12pU6tVmcfjqnzTTM11Va2AaNdXze82Wo=w1200-h630-p)
 
@@ -558,7 +558,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyL2fgTBizCzZOCrHL20LW0n1X0PzXqE5gzf7l45BTNCpqvG-hec2sKExAVrMohFzcZ-dmjaSn52T4D47ieu5sO5-zNNauD1OgrCoRfEjXsh=w1200-h630-p)
 
@@ -570,7 +570,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Bellingcats Online Investigation Toolkit [bit.ly/bcattools]](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1FrqWwMroBvZMm8sw5tvqLcrSLfYcDUizaQYrY-u1hr0%2Fedit&dsh=S1309184329%3A1661702429264305&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1FrqWwMroBvZMm8sw5tvqLcrSLfYcDUizaQYrY-u1hr0%2Fedit&ifkv=AQN2RmUzjVKS9L6Y0wjX1gf_4sqlLHeLH7euRBnodRBWV_dVdY21wPpIj8H8473cMIqPFBUq2UTy&ltmpl=sheets&osid=1&passive=1209600&service=wise#gid=930747607) - nan
 
@@ -580,7 +580,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AOD9vFqvL7ZY0h21LOXkeWkGS5Cf_jDrcDsLztqe1Fhsdds-KCf8HvjYVoQz_LkTNCbkx-wNdT9XhTf4xg_yxzzYOr0kJEK5e70irtwmnT6Upk2P=w1200-h630-p)
 
@@ -592,7 +592,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Osint Curious OSINT Resource List](https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/edit) - The OSINT Curious Project Resource List     Welcome to the OSINT Curious Project Resource List! Below you can find links to all the blog posts and 10 Minute Tips that weve created to help share knowledge and skills with the OSINT Community. The list is regularly updated as we create new content...
 
@@ -602,7 +602,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [GeorgeFloyd Protest police brutality videos](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA) - nan
 
@@ -612,7 +612,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyLMMmvEXiNDQqqNlXGxqE4Ikzn1eL7kzC0whqdf4ftsn6uP6R7v-sm1RFbxaGlXZqYStb30mMFSD307y8OniTV8UouVfkbz8Zd-kkeeo6QX=w1200-h630-p)
 
@@ -624,7 +624,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [OptOut Doc by @OsintNinja](https://docs.google.com/spreadsheets/d/1UY9U2CJ8Rnz0CBrNu2iGV3yoG0nLR8mLINcnz44XESI/edit#gid=1864750866) - nan
 
@@ -634,7 +634,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyIUgkjwDytWM0MoRNZkqxzku4RhP8lwg-_mdhTke9GhsL5GAFktts9lQFa_MhExb_RI7LCRfyUQrEUcfdAN3fUIiW-iEbmM0f96SUMrM4-K=w1200-h630-p)
 
@@ -646,7 +646,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyJ2et2o_ExUpmw0F6vpN2WvpDNwj6a97Qljd919OozwDgmqZMPYyip6buXjTNyZG9Qkwg9itxewDpfl31pbgRlBKKOuLFpFxwSz2ixMFlNX=w1200-h630-p)
 
@@ -658,7 +658,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyLEO6-FmQAC3f2Fya_4Z8DlK72cYg2O5gUcKCxnfpgv_v890yNrLYSkatMnSFXvhyz7KtYWRDJZdyTPLNLTkSidYCikGlo0X51q5e__BDK0=w1200-h630-p)
 
@@ -670,7 +670,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AOD9vFpPoCzjF4scQ8_HxszsdZDuCeuS21HwrGhsyaX38llxeFXGNkeBnPVk-G-G1ATJbKvruvUtFYK_WV8mVy6MSIdL6zyYHQeZqpmNpNXWMtg=w1200-h630-p)
 
@@ -682,7 +682,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyLN-CSC1c82_7RDRYT2vkr9VYX5Z7QMSaqy93ydOwniRedadgAE9YZJem9_-zdJ45sxfXEpPF4SxcJ5RGAM7SBTvaahuAGK-qpVzshaV-Y=w1200-h630-p)
 
@@ -694,7 +694,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AOD9vFqCxduX9g4AEArm40yi2XfW3eqOAzWs_3M7I-x8CH42GkvaMgxGHNb1HTb7spCwJ6eJDukFHq3pIu7YBIRtoVEYvtbx2m-xmPp5g8nxQw5M=w1200-h630-p)
 
@@ -706,7 +706,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyLziIfhJH0TdPxvtHYm5A12aJQxcRk2gmODzGFUdpT882BCWQpGQPXFQZKcQxi5-06wNv__qp52ntecyh5O531xIJMZj2CvR0bctmYKS4m_=w1200-h630-p)
 
@@ -718,7 +718,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyIveW4rD-i67CeqtgjxZ3k3vwaEHBNOK6XH3VD6844aMFHr_6DxAeeFTGbVr-EdiO9laxTU6uhATUrtHyQvc9kWdAaDiyWHf9K0uiFeECk=w1200-h630-p)
 
@@ -730,7 +730,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyJqwW-nA3KCfoCjt-8pc5K7DaXC8wr5xX38TUDwhWfWU1RmKiK2_xcWYHYAkNJuYoIgdbWVTESkyCCDLHsas6Hr55CV7jYftA7l-6lgv9N3=w1200-h630-p)
 
@@ -742,7 +742,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyL0wY7iJC3X0HtaXc3_s4gCTZhS2t6n_9tyZKDr7FG7JRuYU8vSWylyDr5QY5rdxu6BV8ufhdNd2R8MiRChK7Zoep6QFvwwGB3Lb4mX1Kaq=w1200-h630-p)
 
@@ -754,7 +754,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyKAbIbp2J6qKadBb9fDMKKS1Eb9HNbEirGeTMobhWuuHyrvfwCUAk6lJMzbP4gQSiHOKjKS_3FEXicyFoxJA3DqkkLHbCRAbMnie2gMRqsU=w1200-h630-p)
 
@@ -766,7 +766,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyKrOIwvlxLXAXlh7WhLyXhqAzEaz8j5T6HmA-4TcZ5pGTYOXoYTuB0wu3KxuleImdOKHRv1DeFyKV2qrEgsDTWvhjYAunNs5si6bMSqdMiF=w1200-h630-p)
 
@@ -778,7 +778,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://kstatic.googleusercontent.com/files/97ecc831526fbe8c60fe88ef0d7a6cbf06361809f0acf857326681f6a1f35740d3bd7d69bf4a5381f5c31a863bccace4d9d1660379182901f73d24ef137f6fb4)
 
@@ -790,7 +790,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Google forms 1](https://docs.google.com/forms/u/0) - nan
 
@@ -800,7 +800,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://kstatic.googleusercontent.com/files/adf55cdf4c7f8fb38efbf8df6c2792660fbeff2d05be05f2ec8e9c265a179b51c64b9679d8aee00e09cad19ce419d90a2d999b82cea4200abbe78c73e6bfaacf)
 
@@ -812,7 +812,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://kstatic.googleusercontent.com/files/deedce50760a1686790a49aaa7fac8d4a5cea4fd0fcdd19baef121569c47473a2398e063d2e68fe017ba73bc9088268d3f2758793bd9eb25a4cbdf62aea0adfc)
 
@@ -824,7 +824,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vQMvTHtsEwB5LPF1zipHIZaVsUrQQBBVLazZLr-aaFOwrGAGEEUtWg9KRgweYLwcHKnevpk8ATT7skN/pubhtml) - nan
 
@@ -834,7 +834,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AOD9vFqpWLFfyygUXQOFwwLtsrklOx9TtCzhFgafPF5DjVCWO8P9tnIWvsAN-X9bu5JEp3ocBxV9vJo-by7YLycG0RVPLxHn2AX6RyDkXhAqIG0=w1200-h630-p)
 
@@ -846,7 +846,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyJ_xFfrHm129g1C6s4QHEKiWIl-F8ZM_f59MVuXShLW0LkGaYEk8o1dsHBZF8Xcgg_6umHKmJmR4V7iUYcVtOfBJxvl9xnXEWDNMKqxjY1l=w1200-h630-p)
 
@@ -858,7 +858,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Htmlview#gid=0](https://docs.google.com/spreadsheets/d/1nc_A1VIJQ1AiZrY_Eet1ICtwNVRomNj6azU_DobKXIY/htmlview#gid=0) - nan
 
@@ -868,7 +868,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyLOi5EOmpYjtApI-oAU6RQtnok4l7YI6gqo5wkxpnjlFFqX1xYbzSIxyDmiR5XsNXwLAkz6M7iuvH9Z-ldNMqauzOcqU7fFotY6cRxkpgMy=w1200-h630-p)
 
@@ -880,7 +880,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyJ38roILuBOVptGVFK-siMXakI2YhUs6LCvqONYaHhwWQFm3yy-0-B40B6Xwz4sBiX03Qsh6o0A18wC3--TarWPoIozVlk9GKHRixaGeL2M=w1200-h630-p)
 
@@ -892,7 +892,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vQngQS6OcnUHJu9ldZoCva9749YW-dhaqfkbZtwu8Qw58rmYZeSCnye-lTQ8hT4dIi4q0Wdn3LK8ZZl/pubhtml) - nan
 
@@ -902,7 +902,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Mobilebasic](https://docs.google.com/document/d/1vplG5d3vQ8BH3zFsRAeHvhpUoUSEh_sA/mobilebasic) - nan
 
@@ -912,7 +912,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyLjwO8yVVT7314TbWGiKt20Ai6swgHHY5Nrq5Zl_0D2xeODBMK-BFb_8WGRDzk4_FRmCETFijlt3oCq-rRbNG-ojjfGu18OliYPOVLu8cxh=w1200-h630-p)
 
@@ -924,7 +924,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Bellingcat's Online Investigation Toolkit [bit.ly/bcattools] - Google Drive](https://docs.google.com/spreadsheets/u/0/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/htmlview?gxids=7757&urp=gmail_link#gid=930747607) - nan
 
@@ -934,7 +934,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyKJKYE8ZiqBrtF20DBM6jE_uYXDIy0j7xBXU2Sky6QfyQW3KNWqiH9RMz_pasoAHlE_NW2DrOkYUdxny1CJSSxgtG3YhCcs_etNPrgyAhoK=w1200-h630-p)
 
@@ -946,7 +946,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyK-8CukmCszcObD7Gvfd7pognWCt7DQBx0g4g8d4bFRVsqRWsmTZCnWq0ltdaMJ0tpb-ZDirgkDhqac_8pVOn7pJNQzzFfu2rK2qiN4ixs=w1200-h630-p)
 
@@ -958,7 +958,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [201 Rows GDrive](https://docs.google.com/spreadsheets/d/1Foy4rfzhg4LMLwbnWBccVKSR1Vi528h4Xnh3DzZGMSc/edit?usp=drivesdk) - nan
 
@@ -968,7 +968,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Receipts](https://docs.google.com/spreadsheets/d/1aHGuXX7S2NNCTJqE1WW44Xk2xNzxnNgIJLHYONA3Y_A/edit?usp=drivesdk) - nan
 
@@ -978,7 +978,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [label Receipts](https://docs.google.com/spreadsheets/d/1hOq8cTL_hno63bcjcnmL_uuoRGTqkXR4B5i5Girn00w/edit?usp=drivesdk) - nan
 
@@ -988,7 +988,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [Graphic Design Master List](https://docs.google.com/document/u/0/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/mobilebasic) - nan
 
@@ -998,7 +998,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyLjwO8yVVT7314TbWGiKt20Ai6swgHHY5Nrq5Zl_0D2xeODBMK-BFb_8WGRDzk4_FRmCETFijlt3oCq-rRbNG-ojjfGu18OliYPOVLu8cxh=w1200-h630-p)
 
@@ -1010,7 +1010,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents
+### Direct Documents
 
 [I am sharing '555 GB GRAPHICS COLLECTION' with you](https://drive.google.com/file/d/1l2zz-Bm-6LxjBsosghpNlDisgmS40f5Y/view) - nan
 
@@ -1020,9 +1020,9 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents-archive
-
 ### Direct Documents-archive
+
+#### Direct Documents-archive
 
 [User Account](https://archive.org/details/@kyndigs) - nan
 
@@ -1032,7 +1032,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 [User Account](https://archive.org/details/@manydumpedgames) - nan
 
@@ -1042,7 +1042,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 [User Account](https://archive.org/details/@storage_manager) - nan
 
@@ -1052,7 +1052,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 ![](https://archive.org/services/img/computermagazines)
 
@@ -1064,7 +1064,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 ![](https://archive.org/services/img/E-books_432/full/pct:200/0/default.jpg)
 
@@ -1076,7 +1076,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 [The Flash Emulation Repair Shop : Free Software : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/flash_repair_shop) - This collection consists of attempts to emulate flash items that run into issues with the Ruffle emulator currently in use at Internet Archive. Ruffle (at https://ruffle.rs) is constantly being updated and improved, so these items will work more effectively over time. Eventually, they will be moved...
 
@@ -1086,7 +1086,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 [The Magazine Rack : Free Texts : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/magazine_rack) - The Magazine Rack is a collection of digitized magazines and monthly publications.
 
@@ -1096,7 +1096,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 ![](https://archive.org/services/img/manga_library)
 
@@ -1108,7 +1108,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 [Newspapers : Free Books : Free Texts : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/newspapers) - The newspapers in this collection have been scanned as part of a pilot project using microfilm and microfiche. After using a microfilm/fiche scanner to create a digital image of each page, we process the resulting images so that each reel is contained in a single item with easily navigable files. ...
 
@@ -1118,7 +1118,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 ![](https://archive.org/services/img/no-intro_romsets/full/pct:200/0/default.jpg)
 
@@ -1130,7 +1130,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 ![](https://archive.org/services/img/No-Intro-Collection_2016-01-03_Fixed/full/pct:200/0/default.jpg)
 
@@ -1142,7 +1142,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 ![](https://archive.org/services/img/No-Intro-Collection_2016-09-06/full/pct:200/0/default.jpg)
 
@@ -1154,7 +1154,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 ![](https://archive.org/services/img/softwarelibrary_flash)
 
@@ -1166,7 +1166,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 ![](https://archive.org/services/img/tosec)
 
@@ -1178,7 +1178,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 ![](https://archive.org/services/img/vintagesoftware)
 
@@ -1190,7 +1190,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 ![](https://archive.org/services/img/wlsetup-all_201802/full/pct:200/0/default.jpg)
 
@@ -1202,7 +1202,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 [Madokami.Manga.0-E directory listing](https://archive.org/download/Madokami.Manga.0-E) - nan
 
@@ -1212,7 +1212,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 [Madokami.Manga.F-K directory listing](https://archive.org/download/Madokami.Manga.F-K) - nan
 
@@ -1222,7 +1222,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 [Madokami.Manga.L-Q directory listing](https://archive.org/download/Madokami.Manga.L-Q) - nan
 
@@ -1232,7 +1232,7 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-### Direct Documents-archive
+#### Direct Documents-archive
 
 [Madokami.Manga.R-Z directory listing](https://archive.org/download/Madokami.Manga.R-Z) - nan
 
@@ -1242,9 +1242,9 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Direct Documents-Important Documents
-
 ### Direct Documents-Important Documents
+
+#### Direct Documents-Important Documents
 
 [Slides-Company Template](https://docs.google.com/presentation/d/1Vyx2Kya37s2TmO1DBJSMeIFAOs5B_8eOTMWDeKvU33g/edit#slide=id.ge5fd6fbf24_2_17) - **For Internal Use Only** Please delete this slide before sharing Font Use the font weight, type, and sizes used in the template slides. If youre pasting text from another doc, choose, edit  paste without formatting. Respect the whitespace Maintain the spacing of elements in each slide to ensur...
 
@@ -1254,4 +1254,4 @@ my discord is not available. sorry,MOSTLY WINDOWS (will specify if mac) - not re
 
 ---
 
-## Financial
+### Financial

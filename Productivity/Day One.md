@@ -1,6 +1,6 @@
-# Day One
-
 ## Day One
+
+### Day One
 
 ![](https://i0.wp.com/dayoneapp.com/wp-content/uploads/2022/12/day-one-gift-certificate.png?fit=1600%2C900&quality=80&ssl=1)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Day One
+### Day One
 
 ![](https://i0.wp.com/dayoneapp.com/wp-content/uploads/2022/12/day-one-gift-certificate.png?fit=1600%2C900&quality=80&ssl=1)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Day One
+### Day One
 
 ![](https://forum.obsidian.md/uploads/default/original/3X/b/a/ba1a1301f580d34a881803aa5ed8cf7ff3cdf0ef.png)
 
@@ -36,7 +36,7 @@
 
 ---
 
-## Day One
+### Day One
 
 ![](https://149636932.v2.pressablecdn.com/wp-content/uploads/2021/12/ScreenShot2021-08-17at12.15.18PM.png)
 
@@ -48,7 +48,7 @@
 
 ---
 
-## Day One
+### Day One
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*1iiIrtlL-4Kfx07tvkeQqQ.jpeg)
 
@@ -60,7 +60,7 @@
 
 ---
 
-## Day One
+### Day One
 
 ![](https://cdn.blot.im/blog_89b569cdbab148fbbb602bcc7f20b0cf/_thumbnails/fdeb0335-d2df-47ec-8980-ffda2d2a6a8e/medium)
 
@@ -72,7 +72,7 @@
 
 ---
 
-## Day One
+### Day One
 
 [My Day One Setup](https://initialcharge.net/2019/06/day-one-journaling-setup) - Around this time each year, I find myself wanting to document my life a bit more. Its almost certainly because there are more vacations, family get-togethers, and various activities during the Sum
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Day One
+### Day One
 
 ![](https://mpudata.sfo2.digitaloceanspaces.com/original/1X/f6b38bf4122356003e73887a3e2fc50e3540c835.png)
 
@@ -94,7 +94,7 @@
 
 ---
 
-## Day One
+### Day One
 
 [26 - More Shortcuts with Rosemary Orchard! - Listen - The Day One Podcast](https://chartable.com/podcasts/the-day-one-podcast/episodes/32765167-26-more-shortcuts-with-rosemary-orchard) - Listen now to 26 - More Shortcuts with Rosemary Orchard! from The Day One Podcast on Chartable. See historical chart positions, reviews, and more.
 
@@ -104,7 +104,7 @@
 
 ---
 
-## Day One
+### Day One
 
 ![](https://michael.team/img/journal20.jpg)
 
@@ -116,9 +116,9 @@
 
 ---
 
-## Day One-Archived
-
 ### Day One-Archived
+
+#### Day One-Archived
 
 ![](https://opengraph.githubassets.com/01daaef07a529dc3e24249bdb21c448cd341c1791b55f43a4c6f301eeb1fdfe3/jfveronelli/sqink)
 
@@ -130,7 +130,7 @@
 
 ---
 
-### Day One-Archived
+#### Day One-Archived
 
 ![](https://opengraph.githubassets.com/0869af0c47746659b92c39d7de9d79f5009f6e4ab947eeff10f9916a67787337/maebert/jrnl)
 
@@ -142,7 +142,7 @@
 
 ---
 
-### Day One-Archived
+#### Day One-Archived
 
 [dayone package - github.com/jpoehls/go-dayone - pkg.go.dev](http://godoc.org/github.com/jpoehls/go-dayone) - Package dayone is for reading Day One (http://dayoneapp.com) journal files.
 
@@ -152,7 +152,7 @@
 
 ---
 
-### Day One-Archived
+#### Day One-Archived
 
 ![](https://opengraph.githubassets.com/000bac75f51d84dfd402c39acdd49e39db85990a243e0899c5ee6d9cd4b3463e/yyoon/Journaley/releases/tag/v2.0)
 
@@ -164,9 +164,9 @@
 
 ---
 
-## Day One-Blog & Articles
-
 ### Day One-Blog & Articles
+
+#### Day One-Blog & Articles
 
 ![](https://thesweetsetup.com/wp-content/uploads/2019/03/day-one-v3-review-update-3.jpeg)
 
@@ -178,7 +178,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 [Posts tagged &ldquo;ruby&rdquo;](https://christiantietze.de/posts/tags/ruby) - Blog and portfolio of Christian Tietze: developer of macOS and iOS apps, writer of programming books, and consultant of amazing devs.
 
@@ -188,7 +188,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://zettelkasten.de/img/blog/201402272240_find-thumbnail.jpg)
 
@@ -200,7 +200,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://forums.getdrafts.com/uploads/default/original/2X/a/a6df54107198f6f516b02a971b420764b87c6040.jpeg)
 
@@ -212,7 +212,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://forums.getdrafts.com/uploads/default/original/2X/0/0a439a31dfcb71f75503f90d1ad54ddc8ef30bca.png)
 
@@ -224,7 +224,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://paperfellows.com/assets/img/logo.svg)
 
@@ -236,7 +236,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://www.diarly.app/diarly-twitter-card.png)
 
@@ -248,7 +248,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 [Journaling for Self-Trackers and Quantified Self Enthusiasts](http://www.markwk.com/journaling-for-self-trackers.html) - nan
 
@@ -258,7 +258,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 [Lifelogging with DayOne](https://www.fezfox.com/lifelogging-with-editorial/amp) - As I've mentioned before, I like to use DayOne for my lifelogging. I do this in multiple ways. Most use twitter or IFTTT, but the the final common path is a small text file for each log entry in a folder in dropbox, that is monitored by hazel and passed
 
@@ -268,7 +268,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 [Manton Reece - Day One and microblogging](https://www.manton.org/2020/03/31/day-one-and.html) - nan
 
@@ -278,7 +278,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 [Search results for 'Day one' - MPU Talk](https://talk.macpowerusers.com/search?q=Day+one) - A place to discuss all things Mac Power Users.
 
@@ -288,7 +288,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://support.hogbaysoftware.com/uploads/db8375/original/2X/b/bcc8153d109b85b4a7214e2e6c42e01a6988ae79.png)
 
@@ -300,7 +300,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://talk.automators.fm/uploads/default/original/1X/a6448e3d407f60bb357124a0b8b36fc47052cce5.png)
 
@@ -312,7 +312,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://www.podfeet.com/blog/wp-content/uploads/2020/10/Day-One-Logo-in-Mac-App-Store.png)
 
@@ -324,7 +324,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 [Day One + Evernote: An Interesting Combination - Unhindered Creations LLC](https://www.unhinderedcreations.com/day-one-evernote-interesting-combination) - For the past few months, Ive been able to take inventory (as my grandmother would say) of what Im doing, and how Im using apps. One thing is for sure: If you are not careful, your devices can take up a LOT of your time, so its best to come up with a plan on just how you plan on ... Read More
 
@@ -334,7 +334,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://www.hologram.me.uk/wp-content/uploads/2019/10/kelly-sikkema-mdADGzyXCVE-unsplash-e1572482977460-1024x576.jpg)
 
@@ -346,7 +346,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](http://christopherjwilson.com/wp-content/uploads/2017/07/Image-24-07-2017-10-57.9b549df27ff4462ba66415fce65919dc.png)
 
@@ -358,7 +358,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://56243e3f6f46fe44a301-deabeb5f3878e3553d0b065ea974f9bf.ssl.cf1.rackcdn.com/256px.png)
 
@@ -370,7 +370,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://nebulous.files.wordpress.com/2014/12/lj-main-copper-v1-min.png)
 
@@ -382,7 +382,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://images.unsplash.com/photo-1633210155534-e43f00c1d627?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fGpvdXJuYWxpbmd8ZW58MHx8fHwxNjgxNjA3ODA5&ixlib=rb-4.0.3&q=80&w=2000)
 
@@ -394,7 +394,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](http://static1.squarespace.com/static/5e949a92e17d55230cd1d44f/5e949bf1af9d553df47e07b6/5feb95741dc0105c5030b461/1609525449840/Day13x2.png?format=1500w)
 
@@ -406,7 +406,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://ma.tt/wp-json/social-image-generator/v1/image/54355)
 
@@ -418,7 +418,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*1iiIrtlL-4Kfx07tvkeQqQ.jpeg)
 
@@ -430,7 +430,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 [Day One on MacRumors](https://www.macrumors.com/guide/day-one) - Day One articles on MacRumors.com
 
@@ -440,7 +440,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://thesweetsetup.com/wp-content/themes/thesweetsetup/img/day-one-in-depth-website-cover.jpg)
 
@@ -452,7 +452,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://www.josheaton.org/content/uploads/2016/07/2016-07-27-at-10.12-AM-1.png)
 
@@ -464,7 +464,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://talk.automators.fm/uploads/default/original/1X/a6448e3d407f60bb357124a0b8b36fc47052cce5.png)
 
@@ -476,7 +476,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://149636932.v2.pressablecdn.com/wp-content/uploads/2021/09/intro-devices402x.jpg)
 
@@ -488,7 +488,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://2672686a4cf38e8c2458-2712e00ea34e3076747650c92426bbb5.ssl.cf1.rackcdn.com/2018-10-15-00-44-52.png)
 
@@ -500,9 +500,9 @@
 
 ---
 
-## Day One-Day One Alternative Apps
-
 ### Day One-Day One Alternative Apps
+
+#### Day One-Day One Alternative Apps
 
 ![](https://friday.app/images/opengraph.png)
 
@@ -514,7 +514,7 @@
 
 ---
 
-### Day One-Day One Alternative Apps
+#### Day One-Day One Alternative Apps
 
 ![](https://journey.cloud/meta-journey.png)
 
@@ -526,7 +526,7 @@
 
 ---
 
-### Day One-Day One Alternative Apps
+#### Day One-Day One Alternative Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8e/d7/3e/8ed73e4f-9a1d-504e-5cdd-f5274b57135c/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/1200x630wa.png)
 
@@ -538,7 +538,7 @@
 
 ---
 
-### Day One-Day One Alternative Apps
+#### Day One-Day One Alternative Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/df/cf/9edfcf85-12e4-cbc4-98dc-7e0cbc93b70c/AppIconMac-0-2x-4-0-85-220.png/1200x630wa.png)
 
@@ -550,7 +550,7 @@
 
 ---
 
-### Day One-Day One Alternative Apps
+#### Day One-Day One Alternative Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/20/10/21/201021a0-82e3-c429-4d42-9d48d2c6bb0a/AppIcon-0-0-2x_U007euniversal-0-0-0-85-220.png/1200x630wa.png)
 
@@ -562,7 +562,7 @@
 
 ---
 
-### Day One-Day One Alternative Apps
+#### Day One-Day One Alternative Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/6d/bd/1e6dbd45-82ba-bee0-3826-db2b7e979024/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png)
 
@@ -574,9 +574,9 @@
 
 ---
 
-## Day One-Day One Integration Apps
-
 ### Day One-Day One Integration Apps
+
+#### Day One-Day One Integration Apps
 
 [Lifelogging with DayOne](https://www.fezfox.com/lifelogging-with-editorial) - As I've mentioned before, I like to use DayOne for my lifelogging. I do this in multiple ways. Most use twitter or IFTTT, but the the final common path is a small text file for each log entry in a folder in dropbox, that is monitored by hazel and passed
 
@@ -586,7 +586,7 @@
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 [HookPlugins/Day One.applescript at master kraigparkinson/HookPlugins](https://github.com/kraigparkinson/HookPlugins/blob/master/Day%20One/Day%20One.applescript) - Application scripts for Hook (https://hookproductivity.com) - HookPlugins/Day One.applescript at master  kraigparkinson/HookPlugins
 
@@ -596,7 +596,7 @@
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://agenda.community/uploads/db1357/original/2X/6/68a14cff338e2c5bba743ec1b207d0a728f37543.png)
 
@@ -608,7 +608,7 @@
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 [Building a Day One Journal as a Static Site](https://lukecod.es/2016/12/06/building-a-day-one-journal-as-a-static-site) - The code blog of Luke Karrys.
 
@@ -618,7 +618,7 @@
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://theme.zdassets.com/theme_assets/1907061/7b74d386c13bb0256f9e29764afd780bdde07af2.png)
 
@@ -644,7 +644,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://app-talk.com/meta-image.jpg)
 
@@ -656,7 +656,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://jrnl.sh/en/stable/img/banner_og.png)
 
@@ -668,7 +668,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://textexpander.com/wp-content/uploads/2016/12/teblog_header_dayone_1024.png)
 
@@ -680,7 +680,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://talk.automators.fm/uploads/default/original/1X/a6448e3d407f60bb357124a0b8b36fc47052cce5.png)
 
@@ -692,7 +692,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 [Logging throughout the day with Day One and iOS shortcuts - Jim Willis](https://www.jimwillis.org/logging-throughout-the-day-with-day-one-and-ios-shortcuts) - Spending some time on the Day One community page on Facebookit seems like for those who journal multiple times per dayadding notes, thoughts, activities throughout the daythere are two schools of thought for capturing throughout the day: 1.) create a new entry in Day One for each of the days multiple entries 2.) append to []
 
@@ -702,7 +702,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ef/59/5f/ef595fc4-1fda-8a3d-1602-62c64fa333ac/AppIcon-1x_U007emarketing-85-220-0-3.png/1200x630wa.png)
 
@@ -714,7 +714,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 [Editorial Workflow Create DayOne Entry from Template](http://www.editorial-workflows.com/workflow/5802981450579968/XNFxN5GXuW8) - nan
 
@@ -724,7 +724,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://mielygraphy.com/wp-content/uploads/2018/01/IMG_5369-169x300.png)
 
@@ -736,7 +736,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://devontech-discourse.s3.dualstack.us-east-1.amazonaws.com/uploads/original/2X/9/9a3a0f4965f5512b63b01aa2e7e45acf6ee6a45a.png)
 
@@ -748,7 +748,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://discourse.hookproductivity.com/uploads/default/optimized/1X/ad5a98a49246621554f1122957c8b15bf900f162_2_1024x601.jpeg)
 
@@ -760,7 +760,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://forums.getdrafts.com/uploads/default/original/2X/0/0a439a31dfcb71f75503f90d1ad54ddc8ef30bca.png)
 
@@ -772,7 +772,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://todoist.com/static/ogimages/en/og-image-integrations.jpg)
 
@@ -784,7 +784,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](http://cdn2.pearltrees.com/images/avatar/default/facebookDefault.jpg)
 
@@ -796,7 +796,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/2f/c4/ad/2fc4ad11-da54-fd34-0d9f-21fde4e5da7a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png)
 
@@ -808,7 +808,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/55/63/e05563fe-851b-bdf9-a81a-84ad056baf79/AppIcon_r-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png)
 
@@ -820,7 +820,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/42/1a/b3/421ab35e-77a3-e37d-7e87-5dda8d6ce6c2/AppIcon-1x_U007emarketing-0-5-0-85-220.png/1200x630wa.png)
 
@@ -832,7 +832,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/99/b2/2e/99b22e8f-f28f-8e83-adc9-fb3e0a9b5894/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png)
 
@@ -844,7 +844,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/15/f7/1d/15f71d3e-cb16-7635-ac07-4eae2b39888f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png)
 
@@ -856,7 +856,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/c7/6f/f7c76fd5-8379-d694-742d-ab67f49cd892/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/1200x630wa.png)
 
@@ -868,7 +868,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/2d/3b/742d3bcc-8a09-a871-b782-d32f3b9586c1/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png)
 
@@ -880,7 +880,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/17/c1/0d17c11c-f932-9c01-3ccc-9e761d702fdc/AppIcon-1x_U007emarketing-0-4-0-85-220.png/1200x630wa.png)
 
@@ -892,7 +892,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f2/62/0d/f2620d32-bc17-c029-c006-41134692cf16/AppIcon-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png)
 
@@ -904,7 +904,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6d/ae/47/6dae4725-45eb-4acd-7c60-26596e35efd3/AppIcon-0-0-1x_U007epad-0-0-85-220.png/1200x630wa.png)
 
@@ -916,7 +916,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/09/d8/f409d884-2093-b272-67ed-44685b60b1ac/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png)
 
@@ -928,7 +928,7 @@ Star se...
 
 ---
 
-### Day One-Day One Integration Apps
+#### Day One-Day One Integration Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/f0/cb/f7f0cb76-aee6-c7cf-504f-63eadf196e45/AppIconProd-0-1x_U007emarketing-0-10-0-85-220.png/1200x630wa.png)
 
@@ -940,9 +940,9 @@ Star se...
 
 ---
 
-## Day One-Developer Resources
-
 ### Day One-Developer Resources
+
+#### Day One-Developer Resources
 
 [context:global repo:dayone journal - Sourcegraph](https://sourcegraph.com/search?patternType=literal&q=context%3Aglobal+repo%3Adayone+journal) - Sourcegraph is a web-based code search and navigation tool for dev teams. Search, navigate, and review code. Find answers.
 
@@ -952,7 +952,7 @@ Star se...
 
 ---
 
-### Day One-Developer Resources
+#### Day One-Developer Resources
 
 ![](https://yarnpkg.com/img/social-preview.png)
 
@@ -964,7 +964,7 @@ Star se...
 
 ---
 
-### Day One-Developer Resources
+#### Day One-Developer Resources
 
 ![](https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png)
 
@@ -976,7 +976,7 @@ Star se...
 
 ---
 
-### Day One-Developer Resources
+#### Day One-Developer Resources
 
 ![](https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png)
 
@@ -988,7 +988,7 @@ Star se...
 
 ---
 
-### Day One-Developer Resources
+#### Day One-Developer Resources
 
 ![](https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png)
 
@@ -1000,7 +1000,7 @@ Star se...
 
 ---
 
-### Day One-Developer Resources
+#### Day One-Developer Resources
 
 ![](https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png)
 
@@ -1012,7 +1012,7 @@ Star se...
 
 ---
 
-### Day One-Developer Resources
+#### Day One-Developer Resources
 
 ![](https://devontech-discourse.s3.dualstack.us-east-1.amazonaws.com/uploads/original/2X/7/796c8e8e0b1b28180b50ccc06d7334c87c95408c.png)
 
@@ -1024,7 +1024,7 @@ Star se...
 
 ---
 
-### Day One-Developer Resources
+#### Day One-Developer Resources
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -1038,7 +1038,7 @@ I export my Day One 2 entries wi...
 
 ---
 
-### Day One-Developer Resources
+#### Day One-Developer Resources
 
 ![](https://christiantietze.de/posts/2020/10/export-day-one-journal-to-org-mode/202010161753_dayone-diary.png)
 
@@ -1050,7 +1050,7 @@ I export my Day One 2 entries wi...
 
 ---
 
-### Day One-Developer Resources
+#### Day One-Developer Resources
 
 ![](https://cdn.sstatic.net/Sites/emacs/Img/apple-touch-icon.png?v=eca278adddc6)
 
@@ -1072,9 +1072,9 @@ Example:
 
 ---
 
-## Day One-Github
-
 ### Day One-Github
+
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/455dd7676da391b2ed6b8a70c98d78b58ab56435f2c953cc9c7d9ebbdd2ebec4/vmogilev/dop)
 
@@ -1086,7 +1086,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/1b8d28196fef92f4a48e017aa01e44326cb235f2282b56bfd76428260efb763d/itsdanni/MOMO_desktop)
 
@@ -1098,7 +1098,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/e145ea708fcf90797246f00cfbbef676b71149a8c5ab37ed1f25534a5daf21fe/kalebhermes/day_one_quick_log)
 
@@ -1110,7 +1110,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/f6fa11e6c879ed73f74c6be5d687fb00b215e99081f0695b09124e48a264434d/cajacko/journal-to-photo)
 
@@ -1122,7 +1122,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/42651938825daf1377dfbf60b4940741a6e951c8f8c6a224a6627d103b1d010e/k-donn/pyqt-journal-times)
 
@@ -1134,7 +1134,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/7ce9952a8c3b32becc1c606358f20a548dcc77c3c598680b70bce882b0de9e4e/phillco/journalview)
 
@@ -1146,7 +1146,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/4825a134fa4875f5dfc40ac016e4b3789034dc3a5841236b4c0696dd7a91d160/vigneshrajsb/Day-One-Journal-Clone)
 
@@ -1158,7 +1158,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/dda71193f206b55a2f4f0da207689a3ea190628da922d9910859bfb5749d7145/digitalbias/journal_converter)
 
@@ -1170,7 +1170,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/a66666ea26d138fe501952414e5a4bc9d7fe3a0c4cfdd128f0bc162b0ebad941/cnicolai/bullet-journal-day-one)
 
@@ -1182,7 +1182,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/d821cca29ada182b9817a2f235936e59e5a1da1da5ab34a19d30339ab6bcee56/k-donn/journal-times)
 
@@ -1194,7 +1194,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://repository-images.githubusercontent.com/63539055/b27e6d80-dc82-11e9-88a8-f2d918b1139b)
 
@@ -1206,7 +1206,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/38bdf3d946e8e95714845cbac620aa1d0bb56f5fa6e507c33cfbe3a50af11c3e/onlurking/awesome-infosec)
 
@@ -1218,7 +1218,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/b0f36de68e5a66587624862c81315937bb91a49f3d0bd63c1bd9fd531d8076b7/taielab/awesome-hacking-lists)
 
@@ -1230,7 +1230,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/9497c92299e02829d69ba51685012064ce44b03ab52afae411f8e2636fd89669/overshare/overshare-kit)
 
@@ -1242,7 +1242,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/63c79514c957d7c6360212313003629e0f97daca0cc0d901dbea11d4f0786965/stamparm/maltrail)
 
@@ -1254,7 +1254,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/6e27c084b69ef78d52001b608ca0a33e7ab542640353141caca711463fb91a7d/kazuph/dayone.vim)
 
@@ -1266,7 +1266,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/944e8fb63d99e7fd236dbc45494aa60d807f55917a0489315bffb2c34737a87b/tompropst/dayone-parser)
 
@@ -1278,7 +1278,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/6348a9971a7f011b8278e188723f89d3590870b3e8f727f322b31b8b1a3d27ce/donnierayjones/dayone-jpeg-metadata)
 
@@ -1290,7 +1290,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/e1c970c47e42dcbfa6503867f26ba37400106c2b471c16cea38b268a423c5da2/alienlebarge/dayone-export-template)
 
@@ -1302,7 +1302,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/1aa7a634e247c88fb66c520de191dbfc6dc75e0d2cfe5646ccc3fcd7a7134d35/azu/dayone-to-quiver)
 
@@ -1314,7 +1314,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/f4069f90d6508d892750098b1d6eb0737a10d8fe103ab75a31b7a4e928b87735/voigt/dayone-to-ghost)
 
@@ -1326,7 +1326,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/686d636a7ccc6c55be1c37c6b8b3ba3f511a9f30d6dcb4e9fbdbca1c43503eb8/zsbenke/dayone-to-wordpress)
 
@@ -1338,7 +1338,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/e969f3a819267b5df775ed3ec125c4db452070bc05dd2c2ccdd9d29b14984ef5/mori-dev/emacs-dayone)
 
@@ -1350,7 +1350,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/51aba8f97f51da2758818a1682b4df78a14fbc7fd3f7dc9f4e28aaee9cf7daf4/lukekarrys/metalsmith-dayone)
 
@@ -1362,7 +1362,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/5939c242f3f5646e4cf956491225d1f6dc7d70bd74e7faadc50fff0e509c4882/jheddings/dayone2notion)
 
@@ -1374,7 +1374,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/5e5e3ca06bc31f9f4df35545058ec5f50e5a7eec3181c7895d809b33b8e44933/jverkoey/jekyll-dayone)
 
@@ -1386,7 +1386,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/f8b3abc188a328594d17293e55586b279183e9d2a1008baea0b72b256a031cd9/matthewrankin/tagdayone)
 
@@ -1398,7 +1398,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/0eae363bd4a42808d9040618f4ce2dfe3e2df362c896691d0f244794912f1133/mnich0ls/day-one-csv-importer)
 
@@ -1410,7 +1410,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/d266e410767651c6986b39aaa9e503d34a35b53130501375f0dac46f8690b113/rross101/dayonejournalsplitter)
 
@@ -1422,7 +1422,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/a480be5343fbb81902f69fa7ce8c299ef6b7b6626393416a05dd364789024b36/chanmadsen/JournalCoreDataDayOne)
 
@@ -1434,7 +1434,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/ad272a437c517f221b4b1e65f8c97fdcd9acb2ba78b2397083df28871a39e3a8/simonjefford/rdayone)
 
@@ -1446,7 +1446,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/4675db58992f4bbc60b4ae379f364a952f1bbcf2aebe09bbe655f092b9afd605/jerico/dayone-web-js)
 
@@ -1458,7 +1458,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/ea6eeaf3f5ea8834a200a78bdb083abc90aeea74450d5308700b2803d1650856/mfisher911/movies-to-dayone)
 
@@ -1470,7 +1470,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/afe8afa03c4ebbc1a61ebc65cd8a2e3f0ad634c05a611e80d80cd10f591d3b97/jheddings/dayone-import)
 
@@ -1482,7 +1482,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/27ba2a917812ece56a44a3cc7bc19cf7da05d38064487f03ae1d57c130f7c875/aivantg/journalbot)
 
@@ -1494,7 +1494,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/d84772dcdae3fb1b252b2a50cc0087d3eafdd83f3ab3832d3d1c1fb726148ae7/alxhslm/journey2dayone)
 
@@ -1506,7 +1506,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/215cc694fc0e74e4e3b11e4ca7d45721dfe70d6f766bc203c8d3ce559a744c30/johnvining/dayonealfred)
 
@@ -1518,7 +1518,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/129fd40c7bbc073f59a2bf52498348d3ec95215672af585db217d2d7e741d7e3/donnierayjones/dayone-html)
 
@@ -1530,7 +1530,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/1e1c4d8b64bf99b4bf90a110b6c8f5a87309ea6a35324126bfa0c74fb9296596/dduan/git2dayone)
 
@@ -1542,7 +1542,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/5f0f883aef8262dec1de02f12976d9fd116817e38d205c0bd4c560b34eba586a/akeemphilbert/joplin-dayone)
 
@@ -1554,7 +1554,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/0086461c77ca29e5254a45e71d07183d05947b4a7fdf86bb7fdbf62615015177/jlfwong/messenger-to-markdown)
 
@@ -1566,7 +1566,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/139b3f527c703041726deed7ac8e1d78ae5bfc6d2111f2709cfa872679b5a909/jpoehls/go-dayone)
 
@@ -1578,7 +1578,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 [elizabeth/DayOneExport.js at master pwaldhauer/elizabeth](https://github.com/pwaldhauer/elizabeth/blob/master/lib/output/DayOneExport.js) - Moves.app data exporter. Contribute to pwaldhauer/elizabeth development by creating an account on GitHub.
 
@@ -1588,7 +1588,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 [microblog-mac/RFDayOneExportController.m at master microdotblog/microblog-mac](https://github.com/microdotblog/microblog-mac/blob/master/Source/RFDayOneExportController.m) - Micro.blog for Mac. Contribute to microdotblog/microblog-mac development by creating an account on GitHub.
 
@@ -1598,7 +1598,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 [tree-tools/OmniFocusLogDone2DayOne.sh at master RobTrew/tree-tools](https://github.com/RobTrew/tree-tools/blob/master/OmniFocus%20scripts/Shell%20scripts%20for%20Geektool%20or%20logging/OmniFocusLogDone2DayOne.sh) - Various scripts for working with nested text outlines  - tree-tools/OmniFocusLogDone2DayOne.sh at master  RobTrew/tree-tools
 
@@ -1608,7 +1608,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/7132e62d8f19f78c0564eb81ea4061812dfb5fbf6f098a00b9918e5876f0248d/beingmrkenny/VesperToDayOne)
 
@@ -1620,7 +1620,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/5f06e2286541af2d7a587868fc5868ab5b4d40642dd9b2bfa67abd7092e25a70/kitykity/dotw)
 
@@ -1632,7 +1632,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/21315555f982193923ca6e779781a37d8433c1d7c5b1bc10f3e0f06959d80db1/kitykity/dowp)
 
@@ -1644,7 +1644,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/d9508a752daa7b64d49fbfb8a8c522d243b463d33872fcdfdb6837bce53c39e2/kitykity/doig)
 
@@ -1656,7 +1656,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg)
 
@@ -1668,7 +1668,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg)
 
@@ -1680,7 +1680,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg)
 
@@ -1692,7 +1692,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg)
 
@@ -1704,7 +1704,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/b5668b37ba92f7a051098187ff4bad47cbfc021157b8f85a8c6542d6b21cdcf7/jyruzicka/rb-dayone)
 
@@ -1716,7 +1716,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://avatars.githubusercontent.com/u/2158837?v=4?s=400)
 
@@ -1728,7 +1728,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://github.githubassets.com/images/modules/gists/gist-og-image.png)
 
@@ -1740,7 +1740,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/289701308bbac0cbc9335bc2619b452c7366d95929cb3bb567a3fe1e1cf28b41/kudanai/libDayOne)
 
@@ -1752,7 +1752,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/1e972c646b6df10c1765d2753fcd7dd01e75fc17a9bf460047bac4196dfe8820/mcholl/productivityscripts)
 
@@ -1764,7 +1764,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/d5d90973dddc0d9490970123e453e12661b12e7c2a65056bab7dfa093a8dbd5e/bodhiconnolly/python-day-one-client)
 
@@ -1776,7 +1776,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/cfd8ab3c1016c2ef87299b9a6623c66719e52f00413d50aa8788459410a99446/IsaacJG/emajourn)
 
@@ -1788,7 +1788,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/e62d7d9c3661ab1194adb5fd065c2390374d15e37d9ef21a10f1a328d88e005d/Bissenmann/txt-analysis)
 
@@ -1800,7 +1800,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/dc7635a6d744ab909a8302d61ce20c6d414f73cfdd723dfd389eab9b8cb0ba0e/jmscsns/DayOneLogging)
 
@@ -1812,7 +1812,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/17d3fa8b699ef2370d80bd31c15f72a8ee1c39b190c6015be9699e246849c39d/jmscsns/DayOneIt)
 
@@ -1824,7 +1824,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/2e19462ffe5d1a6632159294f51591614e974625fcd049b26a2511253a310b10/DaniilHarik/dayone-journal-py)
 
@@ -1836,7 +1836,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/7562ad63987b7262f80b4810094940b9fb2102aafbbcc3f6bb4abd2ed0357339/TPei/DayOne_Editor)
 
@@ -1848,7 +1848,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/b9699241581df72b854a2ef04f799b758f6d83d941bbfe207af558da2bf36fcc/sambev/reportermd)
 
@@ -1860,7 +1860,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/83460882ab34b680c91cbb1f602920cb131ac1274500e3513c977b223195cb55/yjpark/dayone2evernote)
 
@@ -1872,7 +1872,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/cf9a0038b505f9e613d6649e2b85b879ddc5fbc1acd4333ba983fbe9e3ddbcdd/lardissone/DayOneLogger)
 
@@ -1884,7 +1884,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/66adbe74a2aaa4a9106eb4fcd0da1408f08c67137ace3289d3f30ec1d1c4f51e/underscorephil/dayonelib)
 
@@ -1896,7 +1896,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/a0ce55c70313c7df8e1b0f5266bc3afbbe0f71f76c9e3a2f447bba5a666ddd8c/xdotcommer/momento2dayone)
 
@@ -1908,7 +1908,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/638cb61e473102d34a4345bacf1ff805d517b909c2bc0e04d24034c830d1b033/wlighting/DayOne3)
 
@@ -1920,7 +1920,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/d9555d7d4d799007d218a5ba60814ff653f5f7068bfb547d98ddfa48d3c442ca/hartlco/DayOneToMarkdownFiles)
 
@@ -1932,7 +1932,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/206660624c0ac2957e5e69ce9f827c20c1dc09b35f811e37fb7cb7eea387f324/mbrio/ulysses-style-dayone)
 
@@ -1944,7 +1944,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/705670ae60657813effe93b859b974833316dc1ab300d928cc856b69eede1c65/utkarshjaiswal/DayOne)
 
@@ -1956,7 +1956,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/87c524d4a4df7ca85c1138b937807a3010511b429a5b9be31d295861bc5c57b6/juniorbird/d1ista)
 
@@ -1968,7 +1968,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/9b41db51b0c2a842b15143df2175e618c1b4e179446b2e9a53c58eefdb54b277/corajr/dayone-convert)
 
@@ -1980,7 +1980,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/fcd1149d91461e90dda1ed558adce4b7d1732aebd30f22e81d864d678301d312/abruzzihraig/DayOneFlow)
 
@@ -1992,7 +1992,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/fbe8dee7efb2d6328b3bf2b2b1b2466f0e0e27b87fc84f6a453725f0023e24cd/danseethaler/dayone-companion)
 
@@ -2004,7 +2004,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/dd0d942bbe27a9491e371d20e2c63df2da9393d682c32dca19eee52ae3929211/nathangrigg/dayone_export)
 
@@ -2016,7 +2016,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/990c96c466abaa7c9139c58e018deb0e7fc858f599e51262375a46f8d2b90f21/yyoon/Journaley)
 
@@ -2028,7 +2028,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/909a2146c7de03b19c11d8a8dc0f201c9ad09588279b09b14e48fdf3d41109da/durden/dayonetools)
 
@@ -2040,7 +2040,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/4cbfa706ba362ce77de27aac52dc2deae37f6b49200b90b8a58dc337ab76f4bf/myles/dayone)
 
@@ -2052,7 +2052,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/54d28f81d691a723b28c206118c4d41aac49a6635ee9b4ac271ad88c2c3c9ed8/griffrawk/momento2dayone)
 
@@ -2064,7 +2064,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/237bc6eb112aa2cf21013b95be374fa8cd399eb1b9befd3fc1716e23e1fba0a9/elkrause/convert_dayone_json_2_markdown_files)
 
@@ -2076,7 +2076,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/872e0e5dbee4e0e05b569b2092170449163ba2622d744a0623b23e8d388d90dd/ohrie/convert-dayone2latex)
 
@@ -2088,7 +2088,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/aaeaca3539d00745dca2ffe567120317c81f03f89914498a981c7ed214dded3e/hyper-expanse/dayone-to-joplin)
 
@@ -2100,7 +2100,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/db20dfd633d7d4f419cdc634e8ae4068873baab49cd22799515b0b4b83922358/jaketrent/dayone-plist-to-markdown)
 
@@ -2112,7 +2112,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/360823c4c510e365a46c0297eaa18c935972557a941785d1badd7f96a2f01fbc/hollyxu/evernote2dayone)
 
@@ -2124,7 +2124,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/0f4049867bd2af86766b962ccdca1be972b2386bf80198e627ae1bf5daa22a42/quantumgardener/dayone-to-obsidian)
 
@@ -2136,7 +2136,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/5021bbaf121addb2d5a69c595af5cd3a825cb79dfa4905406389b122b858fe6c/jiuguangw/dayone2latex)
 
@@ -2148,7 +2148,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/d6b0e18907bcfe64c3e4362e37d024d995a150f55de0a86acd86a548f4039da3/mhejda/dayone2logseq-md)
 
@@ -2160,7 +2160,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/563d31cda2b8ea6d1916dd74274b29491861f1c48d871c7acb545f4dadae0bab/arcterex/dayone2csvimport)
 
@@ -2172,7 +2172,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/2196d54a914f1a34328315a0dcf927b46495350c3a147eea142b213393405d63/donnierayjones/dayone-js-html)
 
@@ -2184,7 +2184,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/b00dbd54e12790ffc4cb4c6672831c06040a50c56aecca8bc9038506660ad042/ploum/dayone2markdown)
 
@@ -2196,7 +2196,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/12fe8a200aa5e712c9ab29d8f32ad8ff13a7bb9701506dfb846d73c678324a2a/jbmorley/day-one-to-markdown)
 
@@ -2208,7 +2208,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/7def3d6a14a182658770e0be3f14ea10c7d7830f4b708768f306f46438f11aa7/yeefom/day-one-exporter)
 
@@ -2220,7 +2220,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/e909ada2573e913d233de95cce7d0b04294463bc97b33447fc7159458692c600/hakusaro/exist-to-dayone)
 
@@ -2232,7 +2232,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/b68f2b54b568eda2e56383bb2f9e6db1ac8fcbae904c104d829b4db884dfadfc/ezrahill/FBExport_DayOne)
 
@@ -2244,7 +2244,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/f73994748e80862930e6f0abd2a1c527ecb2ee89b50c36c09655a7737d4d628b/simrun/dayone-export)
 
@@ -2256,7 +2256,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/5d696f07153ff8c657a7e2ca537da2f18d6900fc14f20488a681803c34f45d28/camdez/org-dayone)
 
@@ -2268,7 +2268,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/e911901917959b4c443ad2abdbb8729be7ac3c76e3b7906ce6f7d1bfb555ffa0/tuxedocat/dayone2md)
 
@@ -2280,7 +2280,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/aedec91d3ca34087dec7c0092a247ddfe224fe23ef78a25f1fa49c5a8fa33757/wogong/dayone-to-roam)
 
@@ -2292,7 +2292,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://repository-images.githubusercontent.com/182852388/941c1680-6518-11e9-9427-0e1728aeb6f0)
 
@@ -2304,7 +2304,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/4eaf3fffe14e68e373ca8ee823291529129ad8f3317db9d73c6b76512217d57e/ginatrapani/jfp)
 
@@ -2316,7 +2316,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/3adc59a610154c3a5783f1b157cd8db69cc122280888d6052c6ac03449e7c946/dmk2014/momento2dayone)
 
@@ -2328,7 +2328,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://opengraph.githubassets.com/ae95bbfe7302b2bd350f5492c958327481bc849c40e45bdeecbd4bb3f63f1a06/bsingr/dayone2-textbundle)
 
@@ -2340,7 +2340,7 @@ Example:
 
 ---
 
-### Day One-Github
+#### Day One-Github
 
 ![](https://github.githubassets.com/images/modules/open_graph/github-logo.png)
 
@@ -2352,9 +2352,9 @@ Example:
 
 ---
 
-## Day One-Help & Tips
-
 ### Day One-Help & Tips
+
+#### Day One-Help & Tips
 
 ![](https://pypi.org/static/images/twitter.abaf4b19.webp)
 
@@ -2366,7 +2366,7 @@ Example:
 
 ---
 
-### Day One-Help & Tips
+#### Day One-Help & Tips
 
 ![](http://static1.squarespace.com/static/57f27708893fc0cfc2f3bfcb/t/5fb5e4185347e16dc5b40954/1605755934948/day+one+streak.jpg?format=1500w)
 
@@ -2378,7 +2378,7 @@ Example:
 
 ---
 
-### Day One-Help & Tips
+#### Day One-Help & Tips
 
 ![](https://zettt.com/images/d/8/7/0/8/d870863a18ae4a598e4a9466e71cb30b24d4870b-2015-04-23-day-one-automation.jpg)
 
@@ -2390,7 +2390,7 @@ Example:
 
 ---
 
-### Day One-Help & Tips
+#### Day One-Help & Tips
 
 [Learn - Journaling with Day One - TheMacU.com](https://themacu.com/all-tutorials/productivity-tutorials-apple/journaling-day-one) - Learn to Journal with Day One on your iPhone, iPad or Mac! See how to add photos, use the Day One Calendar & Map, share or export entires and much more!
 
@@ -2400,7 +2400,7 @@ Example:
 
 ---
 
-### Day One-Help & Tips
+#### Day One-Help & Tips
 
 ![](https://talk.automators.fm/uploads/default/original/1X/a6448e3d407f60bb357124a0b8b36fc47052cce5.png)
 
@@ -2412,7 +2412,7 @@ Example:
 
 ---
 
-### Day One-Help & Tips
+#### Day One-Help & Tips
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*hZmlkA6LKObVYz07kKd7jw.png)
 
@@ -2424,7 +2424,7 @@ Example:
 
 ---
 
-### Day One-Help & Tips
+#### Day One-Help & Tips
 
 ![](https://share.redd.it/preview/comment/gytnmg0)
 
@@ -2436,7 +2436,7 @@ Example:
 
 ---
 
-### Day One-Help & Tips
+#### Day One-Help & Tips
 
 ![](https://149636932.v2.pressablecdn.com/wp-content/uploads/2021/12/ScreenShot2021-10-06at11.00.58AM.png)
 
@@ -2448,7 +2448,7 @@ Example:
 
 ---
 
-### Day One-Help & Tips
+#### Day One-Help & Tips
 
 ![](https://i0.wp.com/dayoneapp.com/wp-content/uploads/2022/12/day-one-gift-certificate.png?fit=1600%2C900&quality=80&ssl=1)
 
@@ -2460,7 +2460,7 @@ Example:
 
 ---
 
-### Day One-Help & Tips
+#### Day One-Help & Tips
 
 ![](https://i0.wp.com/dayoneapp.com/wp-content/uploads/2022/12/day-one-gift-certificate.png?fit=1600%2C900&quality=80&ssl=1)
 
@@ -2472,9 +2472,9 @@ Example:
 
 ---
 
-## Day One-IFTTT
-
 ### Day One-IFTTT
+
+#### Day One-IFTTT
 
 ![](https://images.ctfassets.net/mrsnpomeucef/AYQXNIyZ7KiUr4J7KE2JS/67cd7bbbc19977aecd8210b24f3f1f10/IFTTT_Blog_post_DayOne_4320x2160.png?w=720&h=360)
 
@@ -2486,7 +2486,7 @@ Example:
 
 ---
 
-### Day One-IFTTT
+#### Day One-IFTTT
 
 ![](https://ifttt.com/applet_embeds/thZEcMSH/image?height=630&width=1200)
 
@@ -2498,7 +2498,7 @@ Example:
 
 ---
 
-### Day One-IFTTT
+#### Day One-IFTTT
 
 ![](https://ifttt.com/applet_embeds/AtLSjzCS/image?height=630&width=1200)
 
@@ -2510,7 +2510,7 @@ Example:
 
 ---
 
-### Day One-IFTTT
+#### Day One-IFTTT
 
 ![](https://ifttt.com/applet_embeds/rbHx6kmG/image?height=630&width=1200)
 
@@ -2522,7 +2522,7 @@ Example:
 
 ---
 
-### Day One-IFTTT
+#### Day One-IFTTT
 
 ![](https://ifttt.com/applet_embeds/DPBEDyXk/image?height=630&width=1200)
 
@@ -2534,9 +2534,9 @@ Example:
 
 ---
 
-## Day One-iOS Shortcuts
-
 ### Day One-iOS Shortcuts
+
+#### Day One-iOS Shortcuts
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/01/e0/06/01e006bc-feff-38d4-5619-1374b10dc587/AppIcon-0-0-2x_U007euniversal-0-4-85-220.png/1200x630wa.png)
 
@@ -2548,7 +2548,7 @@ Example:
 
 ---
 
-### Day One-iOS Shortcuts
+#### Day One-iOS Shortcuts
 
 [Shortcut Monday: Day One Shortcuts on iOS - Brian Renshaw](https://www.brianrenshaw.com/shortcut-monday-day-one-shortcuts-on-ios) - I was recently on the Day One podcast to discuss Siri Shortcuts, the Shortcuts app, and my use of Day One. I created a couple videos to accompany
 
@@ -2558,7 +2558,7 @@ Example:
 
 ---
 
-### Day One-iOS Shortcuts
+#### Day One-iOS Shortcuts
 
 [RoutineHub -](https://routinehub.co/app/1044867788) - RoutineHub is a community to find, share and version-control your Siri Shortcuts.
 
@@ -2568,7 +2568,7 @@ Example:
 
 ---
 
-### Day One-iOS Shortcuts
+#### Day One-iOS Shortcuts
 
 ![](https://www.icloud.com/shortcuts/api/icons/c77f51d4b48940918e8a45bc51c26b58)
 
@@ -2580,7 +2580,7 @@ Example:
 
 ---
 
-### Day One-iOS Shortcuts
+#### Day One-iOS Shortcuts
 
 ![](https://www.icloud.com/shortcuts/api/icons/2a303a590aea43e69bc805476ba5509b)
 
@@ -2592,7 +2592,7 @@ Example:
 
 ---
 
-### Day One-iOS Shortcuts
+#### Day One-iOS Shortcuts
 
 ![](https://www.icloud.com/shortcuts/api/icons/2db55295edc5412bb843d28e513878c2)
 
@@ -2604,7 +2604,7 @@ Example:
 
 ---
 
-### Day One-iOS Shortcuts
+#### Day One-iOS Shortcuts
 
 ![](https://www.icloud.com/shortcuts/api/icons/859855e802404f12b4ea849038c885e8)
 
@@ -2616,7 +2616,7 @@ Example:
 
 ---
 
-### Day One-iOS Shortcuts
+#### Day One-iOS Shortcuts
 
 ![](https://www.icloud.com/shortcuts/api/icons/4cc0637efdce4532ae5da8ac71fe6d06)
 
@@ -2628,7 +2628,7 @@ Example:
 
 ---
 
-### Day One-iOS Shortcuts
+#### Day One-iOS Shortcuts
 
 ![](https://www.icloud.com/shortcuts/api/icons/c90cdcc3735647149cf49309925775aa)
 
@@ -2640,7 +2640,7 @@ Example:
 
 ---
 
-### Day One-iOS Shortcuts
+#### Day One-iOS Shortcuts
 
 ![](https://www.icloud.com/shortcuts/api/icons/6af1d34f612a4742aa6bb45973452f8e)
 
@@ -2652,7 +2652,7 @@ Example:
 
 ---
 
-### Day One-iOS Shortcuts
+#### Day One-iOS Shortcuts
 
 ![](https://www.icloud.com/shortcuts/api/icons/ced77fa3e69a4737baa4d650b5ec4e38)
 
@@ -2664,7 +2664,7 @@ Example:
 
 ---
 
-### Day One-iOS Shortcuts
+#### Day One-iOS Shortcuts
 
 ![](https://www.icloud.com/shortcuts/api/icons/924bf85a7ac5406cbee1155ea9b4884e)
 
@@ -2676,4 +2676,4 @@ Example:
 
 ---
 
-## Direct Documents
+### Direct Documents

@@ -1,6 +1,6 @@
-# Deployment
-
 ## Deployment
+
+### Deployment
 
 ![](https://ainize.ai/images/cover_image.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Deployment
+### Deployment
 
 ![](https://www.ionos.com/logo.png)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Deployment
+### Deployment
 
 [Digger - One click AWS](https://digger.dev) - Digger helps you quickly deploy best-practice infrastructure to AWS without learning all the annoying details
 

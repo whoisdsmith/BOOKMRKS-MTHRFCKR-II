@@ -1,6 +1,6 @@
-# Dev Web
-
 ## Dev Web
+
+### Dev Web
 
 [Web Dev Resources-Joshua Pautanes](https://joshjoshuap-webdevresources.vercel.app) - My personal list of resources and developer tools to build and learn web development. Contains Documentation, websites, links and guides.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://experiments.p5aholic.me/og-image.png)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [Ant Design Landing Page - Ant Design Landing Templates and Specifications](https://landing.ant.design) - Ant Design Landing
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://github.com/bodhish/mytemplate.xyz/raw/master/src/assets/mytemplatemeta.png)
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [Vev](https://editor.vev.design/onboarding/create-project) - Create better websites than Ola Northman
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://htmlrev.com/images/free-html-templates.jpg)
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://static.octopus.do/og-image-03.png)
 
@@ -78,7 +78,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [Web Formatter](https://webformatter.com/?ref=whatdevsneed) - Paste your code into the text box, select the tab spacing that you want and click the format button.
 
@@ -88,7 +88,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://uploads-ssl.webflow.com/62780358b9ccf88491b6167e/6495ce2cae26ddd93909b5d7_2.png)
 
@@ -100,7 +100,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://markodenic.com/wp-content/uploads/2020/06/web-development-resources-e1613893654373.png)
 
@@ -112,7 +112,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://everywhere-8a59.kxcdn.com/img/social/facebook-banner.jpg)
 
@@ -124,7 +124,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [xWebTools - Free Online Web Tools for Webmasters, Web Developers, Web Development, and daily uses.](https://www.xwebtools.com) - xWebTools provides free online Web Tools for Web Professionals - IP Finder, URL Encoder-Decoder, Color Converter, Location Tracker, and many more useful online tools.
 
@@ -134,7 +134,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://webdesign-assistant.com/images/twitter-card.png)
 
@@ -146,7 +146,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/websiteplanet_image.png)
 
@@ -158,7 +158,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://lewdev.github.io/apps/meta-tag-gen/img/banner-1200x630.png)
 
@@ -170,7 +170,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://whatdevsneed.com/assets/img/thumbnail.png)
 
@@ -182,7 +182,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://raw.githubusercontent.com/pushkarydv/images/main/cards/devurl.jpg)
 
@@ -194,7 +194,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [WebDev Resources](https://siegblink.github.io/webdev-resources) - nan
 
@@ -204,7 +204,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [Odie](https://odie.us) - the Odie webnet ~~ make a webpage with the content of a google doc
 
@@ -214,7 +214,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://cutt.ly/img/pre_img.gif)
 
@@ -226,7 +226,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [Open Web Analytics](https://www.openwebanalytics.com) - nan
 
@@ -236,7 +236,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://laracasts.com/images/laracasts-twitter-card.png?v=12)
 
@@ -248,7 +248,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://abyss.to/)
 
@@ -260,7 +260,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://3perf.com/static/f43e995e8e0ce91de330d18106d67c75/cover-facebook.png)
 
@@ -272,7 +272,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [Free Tools for Network, DevOps and Site Reliability Engineers(SRE): Site24x7](https://www.site24x7.com/tools.html) - Use the best Network tools, DevOps tools and Site Reliability Engineer(SRE) tools to troubleshoot your issues using Site24x7.
 
@@ -282,7 +282,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [extension.dev - Custom Extensions](https://extension.dev) - The fastest way to build a custom Chrome Extension.
 
@@ -292,7 +292,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://avatars.githubusercontent.com/u/19211038?v=4)
 
@@ -304,7 +304,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://avatars.githubusercontent.com/u/7388088?v=4)
 
@@ -316,7 +316,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [Totally rocking websites-httpster](https://httpster.net/2022/may) - nan
 
@@ -326,7 +326,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://sympli.io/img/meta/og-image.png)
 
@@ -338,7 +338,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [Design & Development Related Blog](https://cssauthor.com) - CSS Author is a design and development blog. We offer topics on web design, WordPress, typography, CSS, HTML, Mockups, Design inspirations.
 
@@ -348,7 +348,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://tiny-helpers.dev/large-media-image.jpg)
 
@@ -360,7 +360,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [GRC's-DNS Nameserver Performance Benchmark](https://www.grc.com/dns/benchmark.htm) - DNS Nameserver Performance Benchmark
 
@@ -370,7 +370,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://www.dnsperf.com/img/bg-dnsperf.png)
 
@@ -382,7 +382,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://checkusernames.com/images/hotlink-ok/checkusernames-description.jpg)
 
@@ -394,7 +394,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://www.namecheckr.com/icon-192x192.png)
 
@@ -406,7 +406,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [Namechk - Username and Domain Name Checker - Search All Domain Names and User Names to see if they're available](https://namechk.com) - nan
 
@@ -416,7 +416,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://megaease.com/imgs/logo.png)
 
@@ -428,7 +428,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://vitejs.dev/og-image.png)
 
@@ -440,7 +440,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [Webhook.site - Test, process and transform emails and HTTP requests](https://webhook.site/#!/0c3f60d4-a527-4bf1-b1a7-e1e4be87f32b) - Instantly generate a free, unique URL and email address to test, inspect, and automate (with a visual workflow editor and scripts) incoming HTTP requests and emails
 
@@ -450,7 +450,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [Raito-Mini Markdown CMS-Raito](https://arnaud.at/raito?ref=producthunt#/) - nan
 
@@ -460,7 +460,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://hexometer.com/static/Hexometer-AI-sidekick-7602633add26a8f8098668ad72ccd4b0.png)
 
@@ -472,7 +472,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://uploads-ssl.webflow.com/60551bdf07fdbf5f634c5779/62536cc840aca0921bfdf9fa_Hookdeck%20image.jpg)
 
@@ -484,7 +484,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 [Drift](https://drift.maxleiter.com) - A self-hostable clone of GitHub Gist
 
@@ -494,7 +494,7 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
 ![](https://uploads-ssl.webflow.com/62e9199d4976608473849e5a/63fe362eddeb9b86e90ef3a9_og-image.webp)
 
@@ -506,6 +506,6 @@
 
 ---
 
-## Dev Web
+### Dev Web
 
-## DEV-MTHRFCKR
+### DEV-MTHRFCKR

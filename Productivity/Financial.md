@@ -1,6 +1,6 @@
-# Financial
-
 ## Financial
+
+### Financial
 
 ![](https://projectionlab.com/images/opengraph/home.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Financial
+### Financial
 
 ![](https://www.firefly-iii.org/assets/logo/wall.png)
 
@@ -24,4 +24,4 @@
 
 ---
 
-## Google
+### Google

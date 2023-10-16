@@ -1,6 +1,6 @@
-# Snippets
-
 ## Snippets
+
+### Snippets
 
 [Lepton - A Lean Snippet Manager powered by GitHub Gist](https://hackjutsu.com/Lepton) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Snippets
+### Snippets
 
 [Snippets.style - Code Snippets Made Easy!](https://snippets.style) - Snippets.style is a tool used to visualize code snippets in a way that makes them more accessible and delightful to read.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Snippets
+### Snippets
 
 ![](https://codesnip.net/Code-Snip-dashboard.jpg)
 

@@ -1,6 +1,6 @@
-# Code Editors
-
 ## Code Editors
+
+### Code Editors
 
 ![](https://masscode.io/og-image.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Avalonia UI - Home](https://avaloniaui.net) - nan
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://opengraph.githubassets.com/a75084ab4704e34c16be43fd281f9449c992ecd6cfa5f29e35dd1f1da372a12b/lapce/lapce)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Lapce](https://lapce.dev) - nan
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://img.itch.zone/aW1nLzI3MTA4NDAucG5n/original/NCPp1a.png)
 
@@ -56,7 +56,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Light Table](http://lighttable.com) - nan
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://repository-images.githubusercontent.com/42943612/2eab9a79-6cd3-4279-a1bf-5611784bd231)
 
@@ -78,7 +78,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [CudaText - Home](https://cudatext.github.io) - nan
 
@@ -88,7 +88,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://www.sublimetext.com/images/og-full.jpg)
 
@@ -100,7 +100,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [flo's freeware - Notepad2](https://www.flos-freeware.ch/notepad2.html) - nan
 
@@ -110,7 +110,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Spacemacs: Emacs advanced Kit focused on Evil](http://spacemacs.org) - nan
 
@@ -120,7 +120,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Textadept](https://foicica.com/textadept) - nan
 
@@ -130,7 +130,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://opengraph.githubassets.com/27f6cb0249f53400c1cfb9e926aed275cd36a4cddad50efc6ed4d2fffe55aa5f/Komodo/KomodoEdit)
 
@@ -142,7 +142,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Bluefish Editor : Home](http://bluefish.openoffice.nl/index.html) - nan
 
@@ -152,7 +152,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Micro - Home](https://micro-editor.github.io/index.html) - nan
 
@@ -162,7 +162,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Kakoune - Official site](http://kakoune.org) - nan
 
@@ -172,7 +172,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Lite XL](https://lite-xl.github.io) - nan
 
@@ -182,7 +182,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://emacsdocs.org/img/Banner.png)
 
@@ -194,7 +194,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [welcome home : vim online](https://www.vim.org) - nan
 
@@ -204,7 +204,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://opengraph.githubassets.com/5a8f9ed7fe76641f79c94b0b9bb9109c596df00d5fb78ba0020d2cf1bb086c4f/ggandor/lightspeed.nvim)
 
@@ -216,7 +216,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://opengraph.githubassets.com/c395c03d1cdd1f0704cbb23df7039f2de8c011f7e17548fec82adab0baa6fedd/rohit-px2/nvui)
 
@@ -228,7 +228,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Home - Neovim](https://neovim.io) - nan
 
@@ -238,7 +238,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://opengraph.githubassets.com/48e1013a914e12acc1c8215cd65958ef2ddeda9df152f5b5972f68f9be08ffc4/amix/vimrc)
 
@@ -250,7 +250,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Onivim 2 - Modal Editing from the Future](https://onivim.io) - nan
 
@@ -260,7 +260,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://img.spacevim.org/release-v2.2.0.png)
 
@@ -272,7 +272,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://skriper.dev/images/cover.jpg)
 
@@ -284,7 +284,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://www.codiga.io/social/open-graph.png)
 
@@ -296,7 +296,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://cpwebassets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png)
 
@@ -308,7 +308,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://codesandbox.io/new/images/og.jpg)
 
@@ -320,7 +320,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://brackets.io/img/hero@2x.png)
 
@@ -332,7 +332,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Helix](https://helix-editor.com) - A post-modern modal text editor.
 
@@ -342,7 +342,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [[Preview] README.md - conwnet/github1s - GitHub1s](https://github1s.com) - Vscode
 
@@ -352,7 +352,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://github.blog/wp-content/uploads/2022/06/Engineering-Product@2x.png?fit=2400%2C1260)
 
@@ -364,7 +364,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Vershd is the Effortless Git GUI](https://vershd.io/?ref=producthunt) - Vershd is the effortless Git GUI created to make using Git easier. Our innovative version control software helps prevent errors and accidental deletions, streamlining the entire Git process.
 
@@ -374,7 +374,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://prettier.io/icon.png)
 
@@ -386,7 +386,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://opengraph.githubassets.com/798a8479edd269f804dfe3f39c421227b31a791f913b9f6448c079dbdcb48e77/onivim/oni2)
 
@@ -398,7 +398,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 ![](https://c.staticblitz.com/assets/social_general-46c72e351133f2b4d1352d8d870ce851ab16a59b0b2f10e41e11e036a88b7273.jpg)
 
@@ -410,7 +410,7 @@
 
 ---
 
-## Code Editors
+### Code Editors
 
 [Org-roam](https://www.orgroam.com) - An Effortless PKM System.
 

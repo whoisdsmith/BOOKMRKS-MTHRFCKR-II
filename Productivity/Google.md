@@ -1,6 +1,6 @@
-# Google
-
 ## Google
+
+### Google
 
 [Google Drive DDL](https://gdl.viperadnan.ga) - A Google Drive direct download generator tool
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Google
+### Google
 
 ![](https://duforum.in/uploads/default/original/2X/1/14128784e8212c715f589d31220bdfc5ee9ab476.jpeg)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Google
+### Google
 
 [MirrorAce - Upload your files to multiple file hosting sites](https://mirrorace.com) - MirrorAce is a Mirrorcreator and it helps you create multiple mirrors for your files. Upload and store files simultaneously to free hosting providers. Files will be automatically mirrored to many free hosting providers.
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Google
+### Google
 
 [Home - Mirror Upload - MultiUp.org](https://multiup.eu) - Home page - MultiUp.org uploads your files to multiple file hosting websites such as Uptobox.com, Uploaded.net, Depositfiles.com, Dl.Free.fr, Rapidshare.com, UploadHero.com, ... You save time and efficiency.
 
@@ -42,7 +42,7 @@
 
 ---
 
-## Google
+### Google
 
 [Github releases](http://www.somsubhra.com/github-release-stats) - nan
 
@@ -52,7 +52,7 @@
 
 ---
 
-## Google
+### Google
 
 ![](https://googlecloudcheatsheet.withgoogle.com/gcs-fb.png)
 
@@ -64,7 +64,7 @@
 
 ---
 
-## Google
+### Google
 
 ![](https://uploads-ssl.webflow.com/5fa50271648a5aa841309ede/5fa62ec0fc6e359bc0b68095_neatly-with-waves.png)
 
@@ -76,7 +76,7 @@
 
 ---
 
-## Google
+### Google
 
 [Interappy - Google Workspace Marketplace](https://workspace.google.com/marketplace/app/interappy/1054213917544) - Supercharge your drive & document links into a navigational wizard. Bring a little zen to working in the cloud.
 
@@ -86,7 +86,7 @@
 
 ---
 
-## Google
+### Google
 
 [Kbee - Edit Space](https://dashboard.kbee.app/QXrR7frsKnYjjwRXYDdr/spaces/PUdvdTb9JfhoJ6tyZkiq?p=) - nan
 
@@ -96,7 +96,7 @@
 
 ---
 
-## Google
+### Google
 
 ![](https://www.maketecheasier.com/assets/uploads/2021/10/Featured-Image-Open-ZIP-RAR-Google-Drive.jpg)
 
@@ -108,9 +108,9 @@
 
 ---
 
-## Google-Google Cloud Platform
-
 ### Google-Google Cloud Platform
+
+#### Google-Google Cloud Platform
 
 [Cloud Computing Services &nbsp;|&nbsp; Google Cloud](https://cloud.google.com) - Meet your business challenges head on with cloud computing services from Google, including data management, hybrid & multi-cloud, and AI & ML.
 
@@ -120,7 +120,7 @@
 
 ---
 
-### Google-Google Cloud Platform
+#### Google-Google Cloud Platform
 
 ![](https://www.gstatic.com/identity/boq/accountsettingsmobile/dashboard_scene_v2_316x112-6ff0e72ef4daeeae091c2ff210e7b474.png)
 
@@ -132,7 +132,7 @@
 
 ---
 
-### Google-Google Cloud Platform
+#### Google-Google Cloud Platform
 
 [Home Location Google Cloud Platform](https://console.cloud.google.com/home/dashboard?project=location-336402) - nan
 
@@ -142,9 +142,9 @@
 
 ---
 
-## Google-Google Drive
-
 ### Google-Google Drive
+
+#### Google-Google Drive
 
 [GoIndex code builder](https://goindex.glitch.me) - A cool thing made with Glitch
 
@@ -154,7 +154,7 @@
 
 ---
 
-### Google-Google Drive
+#### Google-Google Drive
 
 ![](https://i0.wp.com/hurricanelabs.com/wp-content/uploads/google-drive-splunk-image1.png?w=1200&ssl=1)
 
@@ -166,7 +166,7 @@
 
 ---
 
-### Google-Google Drive
+#### Google-Google Drive
 
 [My groups](https://groups.google.com/u/1/my-groups) - nan
 
@@ -176,9 +176,9 @@
 
 ---
 
-## Google-Google Earth
-
 ### Google-Google Earth
+
+#### Google-Google Earth
 
 [Latitude and Longitude of a Point](https://itouchmap.com/?r=latlong) - Find the latitude and longitude of a point using Apple Maps.
 
@@ -188,7 +188,7 @@
 
 ---
 
-### Google-Google Earth
+#### Google-Google Earth
 
 ![](https://www.gstatic.com/earth/social/05_project_facebook-001.jpg)
 
@@ -200,4 +200,4 @@
 
 ---
 
-## Graphs
+### Graphs

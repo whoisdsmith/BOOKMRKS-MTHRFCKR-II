@@ -1,6 +1,6 @@
 {
-  "findText": "## BOOKMRKS-MTHRFCKR",
-  "replaceText": "",
+  "findText": "#illegal #services",
+  "replaceText": "#illegalservices",
   "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,

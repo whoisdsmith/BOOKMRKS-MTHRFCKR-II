@@ -1,6 +1,6 @@
-# OSX
-
 ## OSX
+
+### OSX
 
 ![](https://audioz.download/templates/Default/img/SM_Icon.jpg)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## OSX
+### OSX
 
 [Programmable Search Engine](https://cse.google.com/cse?cx=8741bcfbbc69912f4) - nan
 
@@ -22,7 +22,7 @@
 
 ---
 
-## OSX
+### OSX
 
 ![](https://ucarecdn.com/4d99c4d0-eaac-4749-8d7d-79f756096c3a/)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## OSX
+### OSX
 
 ![](https://nmac.to/wp-content/uploads/2017/09/FoneLab9-65x65.png%20%20%20%20%20%20%20%20%20%09%20%09%3Clink%20rel=)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## OSX
+### OSX
 
 ![](https://www.macupdate.com/img/mud6/mudlogo.png)
 
@@ -58,7 +58,7 @@
 
 ---
 
-## OSX
+### OSX
 
 [MacOS apps, utilities and programs Free Download - FileCR](https://filecr.com/macos?id=185763782232) - Free Download MacOS apps and utilities to programs for creatives and professionals because not all the best Mac apps will be found on the App Store.
 
@@ -68,7 +68,7 @@
 
 ---
 
-## OSX
+### OSX
 
 ![](https://avatars.githubusercontent.com/apple?size=460)
 
@@ -80,7 +80,7 @@
 
 ---
 
-## OSX
+### OSX
 
 [MacOS - Scnlog.me](https://scnlog.me/apps/macos) - nan
 
@@ -90,7 +90,7 @@
 
 ---
 
-## OSX
+### OSX
 
 ![](https://cdn.jsdelivr.net/gh/macoscrack8/pic@main/wp-content/uploads/2022/06/1-1-1.png)
 
@@ -102,7 +102,7 @@
 
 ---
 
-## OSX
+### OSX
 
 ![](https://macapps.link/img/social.png)
 
@@ -114,7 +114,7 @@
 
 ---
 
-## OSX
+### OSX
 
 [Mac Torrent Download - Torrents for Mac Apps, Games, Plugins](https://mac-torrent-download.net) - nan
 
@@ -124,7 +124,7 @@
 
 ---
 
-## OSX
+### OSX
 
 [Mac Informer - Application downloads and editorial reviews for macOS](https://macdownload.informer.com) - Biggest Mac apps library and your personal guide into the world of applications for macOS: latest news, free software downloads, editorial reviews.
 
@@ -134,7 +134,7 @@
 
 ---
 
-## OSX
+### OSX
 
 ![](https://indiecatalog.app/static/assets/catalogWideTwitterPreview.314a94f6df9e.png)
 
@@ -146,7 +146,7 @@
 
 ---
 
-## OSX
+### OSX
 
 ![](https://haxmac.cc/wp-content/uploads/2018/11/Haxmac.jpg)
 
@@ -158,7 +158,7 @@
 
 ---
 
-## OSX
+### OSX
 
 [For MacOSX Downarchive](https://downarchive.org/software/for-macosx) - Free Download , Full Software ,Full Game ,Free Tutorial ,Free Graphichs,Free Wallpaper,Full Crack,Keygens,Patch
 
@@ -168,7 +168,7 @@
 
 ---
 
-## OSX
+### OSX
 
 [Download software for Mac](https://en.softonic.com/mac) - Download software for Mac. Download VLC media player, Netflix, Microsoft Word and more
 
@@ -178,7 +178,7 @@
 
 ---
 
-## OSX
+### OSX
 
 [Cracked iOS & Mac App Store Apps Free Download-AppCake](https://www.iphonecake.com) - Free download of cracked iOS & Mac OSX Apps, works with or without Jailbreak!. Download AppCake for iOS.
 
@@ -188,7 +188,7 @@
 
 ---
 
-## OSX
+### OSX
 
 [Best Open Source Mac Software 2022](https://sourceforge.net/directory/os:mac) - Compare the best free open source Mac  Software at SourceForge. Free, secure and fast Mac  Software downloads from the largest Open Source applications and software directory
 
@@ -198,7 +198,7 @@
 
 ---
 
-## OSX
+### OSX
 
 ![](https://appstorrent.ru/templates/appstorrent-f9b118e57b/assets/img/og/og-image.jpg)
 
@@ -210,7 +210,7 @@
 
 ---
 
-## OSX
+### OSX
 
 [AppNee Freeware Group.](https://appnee.com/category/mac-software) - nan
 
@@ -220,7 +220,7 @@
 
 ---
 
-## OSX
+### OSX
 
 [Applications macOS - SoftArchive](https://sanet.st/applications/filter/page-1?subcategory%5B0%5D=mac-software) - nan
 
@@ -230,7 +230,7 @@
 
 ---
 
-## OSX
+### OSX
 
 [All Mac World - MAC Apps One Click Away](https://allmacworld.com) - MAC Apps One Click Away
 

@@ -1,6 +1,6 @@
-# Database
-
 ## Database
+
+### Database
 
 ![](https://framerusercontent.com/images/Wba0gGXwqnC0FilNjtvYNNY.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Database
+### Database
 
 [Cascade.io - transform data and trigger actions, without code](https://www.cascade.io/?ref=producthunt) - Cascade is the first no-code data transformation and automation toolkit built for the cloud, allowing ops teams and analysts to transform data and trigger actions without code.
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Database
+### Database
 
 ![](https://www.datensen.com/images/data-modeling-tool-for-sequelize-meteor-modeler.webp)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Database
+### Database
 
 ![](https://www.datensen.com/images/mongodb-er-diagram.jpg)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Database
+### Database
 
 ![](https://www.schemacrawler.com/images/schemacrawler_logo.png)
 
@@ -58,7 +58,7 @@
 
 ---
 
-## Database
+### Database
 
 ![](https://www.draxlr.comhttps//www.draxlr.com/images/covers/main.png)
 
@@ -70,7 +70,7 @@
 
 ---
 
-## Database
+### Database
 
 [Google Data Studio Dashboard Creation & Management - Datastryke](https://datastryke.com/?ref=producthunt) - Expert Google Data Studio consultants, specializing in Data Studio dashboard design, data integration and ongoing management.
 
@@ -80,7 +80,7 @@
 
 ---
 
-## Database
+### Database
 
 ![](https://website-prisma.vercel.app/og-images/og-image-prisma-data-platform.png)
 
@@ -92,4 +92,4 @@
 
 ---
 
-## Day One
+### Day One

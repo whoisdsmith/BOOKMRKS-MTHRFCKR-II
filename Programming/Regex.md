@@ -1,6 +1,6 @@
-# Regex
-
 ## Regex
+
+### Regex
 
 [Markdown Parser-Enqueue Zero](https://enqueuezero.com/markdown-parser.html) - Enqueue Zero is publishing code principles.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Regex
+### Regex
 
 [Automatic Generation of Text Extraction Patterns from Examples](http://regex.inginf.units.it) - nan
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Regex
+### Regex
 
 [Regular Expressions for Regular Folk](https://refrf.dev) - REFRF is a visual, example-based introduction to regular expressions in the form of an experimental e-book
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Regex
+### Regex
 
 [Regex Safe](https://regexsafe.vercel.app) - nan
 
@@ -40,7 +40,7 @@
 
 ---
 
-## Regex
+### Regex
 
 [Regex for Markdown Syntax](https://chubakbidpaa.com/interesting/2021/09/28/regex-for-md.html) - Preface
 
@@ -50,7 +50,7 @@
 
 ---
 
-## Regex
+### Regex
 
 ![](https://regexp.dev/cover.png)
 
@@ -62,7 +62,7 @@
 
 ---
 
-## Regex
+### Regex
 
 [RegulexJavaScript Regular Expression Visualizer](https://jex.im/regulex#!flags=&re=%5E(a%7Cb)*%3F%24) - nan
 
@@ -72,7 +72,7 @@
 
 ---
 
-## Regex
+### Regex
 
 [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.](https://www.debuggex.com) - Test your regex by visualizing it with a live editor. JavaScript, Python, and PCRE.
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Regex
+### Regex
 
 [RegEx Library](https://uibakery.io/regex-library) - nan
 
@@ -92,7 +92,7 @@
 
 ---
 
-## Regex
+### Regex
 
 [RegexBuddy: Learn, Create, Understand, Test, Use and Save Regular Expression](https://www.regexbuddy.com) - RegexBuddy is your perfect companion for working with regular expressions.  Learning, creating, understanding, testing, using and saving regular expressions has never been easier.
 
@@ -102,7 +102,7 @@
 
 ---
 
-## Regex
+### Regex
 
 ![](https://rubular.com/assets/rubular_og-4948f7355b502d134c18e9fade5bc2e39c3a343ae818f2f5bdf922d8dc9bd919.png)
 
@@ -114,7 +114,7 @@
 
 ---
 
-## Regex
+### Regex
 
 ![](https://regex101.com/preview/)
 
@@ -126,7 +126,7 @@
 
 ---
 
-## Regex
+### Regex
 
 ![](https://regexp.dev/cover.png)
 

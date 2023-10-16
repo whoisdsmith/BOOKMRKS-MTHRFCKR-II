@@ -1,6 +1,6 @@
-# Plots
-
 ## Plots
+
+### Plots
 
 ![](https://plotdigitizer.com/src/media/etc/cover.jpg)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Plots
+### Plots
 
 ![](https://images.prismic.io/plotly-marketing-website-2/45139d28-6d34-4168-9480-2c57ee3a81c8_plotly.png?auto=compress,format)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Plots
+### Plots
 
 [CSV Plot - Online CSV plots](https://www.csvplot.com) - Online CSV to graph tool.     The easiest way to plot your CSV data.
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Plots
+### Plots
 
 [Online Pivot CSV Tool](https://www.convertcsv.com/pivot-csv.htm) - Pivot CSV data
 
@@ -44,4 +44,4 @@
 
 ---
 
-## Productivity
+### Productivity

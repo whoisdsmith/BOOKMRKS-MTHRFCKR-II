@@ -1,6 +1,6 @@
-# soda
-
 ## soda
+
+### soda
 
 ![](https://cdnstatic.ventusky.com/images/social-app.jpg)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## soda
+### soda
 
 [subbrit.org.uk](https://www.subbrit.org.uk) - nan
 
@@ -22,7 +22,7 @@
 
 ---
 
-## soda
+### soda
 
 [pandunia.info](https://www.pandunia.info) - nan
 
@@ -32,7 +32,7 @@
 
 ---
 
-## soda
+### soda
 
 [mentalmodelsbox.com](https://www.mentalmodelsbox.com) - nan
 
@@ -42,7 +42,7 @@
 
 ---
 
-## soda
+### soda
 
 [doomworld.com/idgames](https://www.doomworld.com/idgames) - nan
 
@@ -52,7 +52,7 @@
 
 ---
 
-## soda
+### soda
 
 [archlinux.org](https://www.archlinux.org) - nan
 
@@ -62,7 +62,7 @@
 
 ---
 
-## soda
+### soda
 
 [tldp.org](https://tldp.org) - nan
 
@@ -72,7 +72,7 @@
 
 ---
 
-## soda
+### soda
 
 ![](https://time.is/img/shareable/time_is_110011.png)
 
@@ -84,7 +84,7 @@
 
 ---
 
-## soda
+### soda
 
 [tildeverse.org](https://tildeverse.org) - nan
 
@@ -94,7 +94,7 @@
 
 ---
 
-## soda
+### soda
 
 [templeos.org](https://templeos.org) - nan
 
@@ -104,7 +104,7 @@
 
 ---
 
-## soda
+### soda
 
 [temp.sh](https://temp.sh) - nan
 
@@ -114,7 +114,7 @@
 
 ---
 
-## soda
+### soda
 
 [szy.io/memeforth](https://szy.io/memeforth) - nan
 
@@ -124,7 +124,7 @@
 
 ---
 
-## soda
+### soda
 
 [simplifier.neocities.org](https://simplifier.neocities.org) - nan
 
@@ -134,7 +134,7 @@
 
 ---
 
-## soda
+### soda
 
 [sgi.neocities.org/index.html](https://sgi.neocities.org/index.html) - nan
 
@@ -144,7 +144,7 @@
 
 ---
 
-## soda
+### soda
 
 [s.neocities.org/projects.html](https://s.neocities.org/projects.html) - nan
 
@@ -154,7 +154,7 @@
 
 ---
 
-## soda
+### soda
 
 [rawtext.club](https://rawtext.club) - nan
 
@@ -164,7 +164,7 @@
 
 ---
 
-## soda
+### soda
 
 [perfectmotherfuckingwebsite.com](https://perfectmotherfuckingwebsite.com) - nan
 
@@ -174,7 +174,7 @@
 
 ---
 
-## soda
+### soda
 
 [outburst.it](https://outburst.it) - nan
 
@@ -184,7 +184,7 @@
 
 ---
 
-## soda
+### soda
 
 [omaera.org](https://omaera.org) - nan
 
@@ -194,7 +194,7 @@
 
 ---
 
-## soda
+### soda
 
 ![](https://d1rj41nx7uhz6c.cloudfront.net/nukemap2023/images/nukemapthumb_large.jpg)
 
@@ -206,7 +206,7 @@
 
 ---
 
-## soda
+### soda
 
 [g.sicp.me/books](https://g.sicp.me/books) - nan
 
@@ -216,7 +216,7 @@
 
 ---
 
-## soda
+### soda
 
 ![](https://assets.everytimezone.com/assets/etz-social-f8768bb415930e7247ce1b6af19aac6dab233638c78f34d5e8855900af920180.png)
 
@@ -228,7 +228,7 @@
 
 ---
 
-## soda
+### soda
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d2/Terry_A._Davis_%28cropped%29.jpg)
 
@@ -240,7 +240,7 @@
 
 ---
 
-## soda
+### soda
 
 [emotional.codes](https://emotional.codes) - nan
 
@@ -250,7 +250,7 @@
 
 ---
 
-## soda
+### soda
 
 [drewdevault.com](https://drewdevault.com) - nan
 
@@ -260,7 +260,7 @@
 
 ---
 
-## soda
+### soda
 
 [districts.neocities.org](https://districts.neocities.org) - nan
 
@@ -270,7 +270,7 @@
 
 ---
 
-## soda
+### soda
 
 [dangeru.us](https://dangeru.us) - nan
 
@@ -280,7 +280,7 @@
 
 ---
 
-## soda
+### soda
 
 [cyberpunked.org](https://cyberpunked.org) - nan
 
@@ -290,7 +290,7 @@
 
 ---
 
-## soda
+### soda
 
 ![](https://curlie.org/img/curlie-logo.png)
 
@@ -302,7 +302,7 @@
 
 ---
 
-## soda
+### soda
 
 ![](https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=e92f118)
 
@@ -314,7 +314,7 @@
 
 ---
 
-## soda
+### soda
 
 ![](https://absurdistvideo.files.wordpress.com/2011/07/prozac.jpg)
 
@@ -326,7 +326,7 @@
 
 ---
 
-## soda
+### soda
 
 [erzo.org/shannon/writing/csua/encyclopedia.html](http://www.erzo.org/shannon/writing/csua/encyclopedia.html) - nan
 
@@ -336,7 +336,7 @@
 
 ---
 
-## soda
+### soda
 
 [doshaven.eu](http://www.doshaven.eu) - nan
 
@@ -346,7 +346,7 @@
 
 ---
 
-## soda
+### soda
 
 [catb.org/~esr/faqs/smart-questions.html](http://www.catb.org/~esr/faqs/smart-questions.html) - nan
 
@@ -356,7 +356,7 @@
 
 ---
 
-## soda
+### soda
 
 [catb.org/esr](http://www.catb.org/esr) - nan
 
@@ -366,7 +366,7 @@
 
 ---
 
-## soda
+### soda
 
 ![](https://www.astronomerstelegram.org/favicon.ico)
 
@@ -378,7 +378,7 @@
 
 ---
 
-## soda
+### soda
 
 [txtchan.org](http://txtchan.org) - nan
 
@@ -388,7 +388,7 @@
 
 ---
 
-## soda
+### soda
 
 [sqdmc.net](http://sqdmc.net:3301) - nan
 
@@ -398,7 +398,7 @@
 
 ---
 
-## soda
+### soda
 
 [example.com](http://example.com) - nan
 
@@ -408,7 +408,7 @@
 
 ---
 
-## soda
+### soda
 
 [dankmaymays.com](http://dankmaymays.com) - nan
 
@@ -418,7 +418,7 @@
 
 ---
 
-## soda
+### soda
 
 [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com) - nan
 
@@ -428,7 +428,7 @@
 
 ---
 
-## soda
+### soda
 
 ![](https://aem1k.com/preview.png)
 
@@ -440,7 +440,7 @@
 
 ---
 
-## soda
+### soda
 
 [aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com) - nan
 
@@ -450,7 +450,7 @@
 
 ---
 
-## soda
+### soda
 
 [4-ch.net/4ch](http://4-ch.net/4ch) - nan
 

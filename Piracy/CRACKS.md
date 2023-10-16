@@ -1,6 +1,6 @@
-# CRACKS
-
 ## CRACKS
+
+### CRACKS
 
 ![](https://unblockit.esq/img/android-chrome-144x144.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [AvaxHome](https://avxhm.se) - AvaxHome  Your End Place
 
@@ -22,7 +22,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [BaDshaH Uploads - Rapidgator, Nitroflare, Uploadgig & Uptobox Free Links](https://badshahuploads.xyz) - BaDshaH Uploads Free Download Softwares, Ebooks, VideoTutorial, Tv Shows and much more in 100% Best Quality With Rapidgator, Nitroflare, Uploadgig & Uptobox Free Links.
 
@@ -32,7 +32,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [The Pirate List](https://thepiratelist.com) - The best most complete torrent and download site index list, most streaming and download websites with analytics and more features. Best torrent site list.
 
@@ -42,7 +42,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://vstorrent.org/wp-content/uploads/2021/07/8f3d7d4171889156dd9a4e8ddd7a3ce5.jpg)
 
@@ -54,7 +54,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Crackit Indonesia](https://crackitindonesia.com) - Anythings you want for internet marketing tools here!
 
@@ -64,7 +64,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg)
 
@@ -76,7 +76,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Volno](https://volno.org/portal.php) - nan
 
@@ -86,7 +86,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png)
 
@@ -98,7 +98,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Crack Software Premium Apps, Plugins, Audio, Multimedia Free Download](https://cracksoftwaress.net) - Crack Software Free Download - MAC - VST - VST, Plugins, Audio, Free, Download, Pc Software, Design" 3D
 
@@ -108,7 +108,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Downloadraw - Software downloads](https://safitech.net) - Software downloads
 
@@ -118,7 +118,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://discord.com/invite/undefined//discord.com/assets/652f40427e1f5186ad54836074898279.png)
 
@@ -130,7 +130,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [misc - freemediaheckyeah](https://saidit.net/s/freemediaheckyeah/wiki/misc) - Saidit.net - say your truth.
 
@@ -140,7 +140,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://lemmy.ml/pictrs/image/a4iR00tyEv.png)
 
@@ -152,7 +152,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [WebOas.is-WebOasis-The Ultimate Startpage, Homepage, Web Portal!](https://oasis.h7x.co/wo) - Startpage, Homepage, All-in-One Web Portal For Internet & Tech Enthusiasts Who Love Exploring & Learning About The Digital Underground.
 
@@ -162,7 +162,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [WebOas.is-WebOasis-The Ultimate Startpage, Homepage, Web Portal!](https://weboasis.app) - Startpage, Homepage, All-in-One Web Portal For Internet & Tech Enthusiasts Who Love Exploring & Learning About The Digital Underground.
 
@@ -172,7 +172,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [behu.io-beinghuman-The Ultimate Startpage, Homepage, Web Portal!](https://behu.io) - Startpage, Homepage, All-in-One Web Portal For Internet & Tech Enthusiasts Who Love Exploring & Learning About The Digital Underground.
 
@@ -182,7 +182,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [r/Piracy - Webby, lead admin and owner of the encrypted search engine site WebOasis, killed himself yesterday. This was his final message, as well as the first reply to his thread.](https://www.reddit.com/r/Piracy/comments/rx4gxj/webby_lead_admin_and_owner_of_the_encrypted) - 1,041 votes and 197 comments so far on Reddit
 
@@ -192,7 +192,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://share.redd.it/preview/post/rxju68)
 
@@ -204,7 +204,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [KickASSCracks.COM](https://kickasscracks.com) - KickAssCracks Provides Working Cracks, Keygens, Activators, Patches, Serial Keys For Any Premium Software With Direct Download Links.
 
@@ -214,7 +214,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://haxpc.net/wp-content/uploads/2019/12/cover.png)
 
@@ -226,7 +226,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://haxnode.net/wp-content/uploads/2019/09/cropped-haxnode.png)
 
@@ -238,7 +238,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg)
 
@@ -250,7 +250,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Free4PC](https://free4pc.co) - free4pc Provides Working Cracks Fastest Links To Download. All Free Cracked Software For Pc, keygen and other activation tools.
 
@@ -260,7 +260,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Download Bull - Portable Apps, Software and Programs](https://downloadbull.com) - Download Bull - Portable Apps, Software and Programs
 
@@ -270,7 +270,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Dl4All - Download For All](https://dl4all.org) - Download Free Applications, Ebooks, Tutorials, Magazines, Music  Movies, Games, TV Shows and Related stuff from DL4ALL
 
@@ -280,7 +280,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Free Download - DownTR](https://downtr.cc) - Download Free Applications, Ebooks, Tutorials, Magazines, Music  Movies, Games, TV Shows and Related stuff from DownTR
 
@@ -290,7 +290,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [CrackingCity](https://www.crackingcity.com) - If you are looking for any crack or patch like IDM crack, you are in the right place. Download the latest crack or patch from here.
 
@@ -300,7 +300,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Cracking Pro](https://www.crackingpro.com) - CrackingPro is a cracking forum and community We offer premium accounts, configs, combolists, tutorials, tools, leaks and many more!
 
@@ -310,7 +310,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://onehack.us/uploads/default/original/3X/7/1/7142e96387380d64f4e9edb5fd147a12947baac8.png)
 
@@ -322,7 +322,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [DDLSite - Full Downloads: Software, Games, Movies, TV, Music & More!](http://www.ddlsite.com) - Find all your full version downloads by searching thousands of downloads using our search engine.
 
@@ -332,7 +332,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [All Pc Softwares-Warez Cracks](http://warezcrack.net) - A site where you can download pc softwares cracks, patch serial keys, keygen and activation keys for free
 
@@ -342,7 +342,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Tool](https://crackedwin.com/category/tool) - nan
 
@@ -352,7 +352,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [kCrack.com - Download Latest PC Software](https://kcrack.com) - Download Latest Cracked Software Games With Patch Keygen Crack Full Version Free Download, Sadeem PC, SadeemPC, IDM Crack
 
@@ -362,7 +362,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Uncategorised - Mjcracks](https://mjcracks.co/category/uncategorised) - nan
 
@@ -372,7 +372,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [MAZTERIZE-Download Software Full Version](https://www.mazterize.com) - MAZTERIZE former MASTERkreatif - Direct Download Software Full Version, Download Games Full Crack, Serial Key, Patch, Activator, keygen, portable.
 
@@ -382,7 +382,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [GFxtra](https://www.gfxtra31.com) - Download now the free PSD, AI, Vector most popular on GFxtra. Discover thousands of free graphic resources on GFxtra.
 
@@ -392,7 +392,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [SadeemPC](https://www.sadeempc.com) - SadeemPC Provide Cracked Software Games With Patch Keygen Crack Full Version Free Download. IDM Crack
 
@@ -402,7 +402,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [CrackingPatching - Believe us we can do it!](https://crackingpatching.com) - Believe us we can do it!
 
@@ -412,7 +412,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Download Software, Games, TV, Movies, eBooks & More - Apps4all.com](http://www.apps4all.com) - nan
 
@@ -422,7 +422,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [0Dayhome](http://0dayhome.net) - 0DayHome Your Source of 0day Releases... Apps, Audio Softwares, ISO, Fonts, eBooks, Games
 
@@ -432,7 +432,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [RARBG Torrents , filmi , download](https://rarbg.to/torrents.php?r=70144659) - nan
 
@@ -442,7 +442,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [PiratePC-Cracked PC Software](https://piratepc.me/?fbclid=IwAR3TGfVtxILT7yNsLb6uGESnMbGSKIuPnkiSrlT0mjQaIEJRm1o7MWlizZU) - PiratePC Provides World Famous Cracks, Serial Keys, Patches for any PC software without surveys. PiratePC is a New Way Of Tech for absolutely free.
 
@@ -452,7 +452,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [downTURK - Download Fresh Hidden Object Games](https://downturk.net) - nan
 
@@ -462,7 +462,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Crack Software Premium Apps, Plugins, Audio, Multimedia Free Download](https://cracksoftwaress.com) - Crack Software Free Download - MAC - VST - VST, Plugins, Audio, Free, Download, Pc Software, Design" 3D
 
@@ -472,7 +472,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Crackedfine.com](https://crackedfine.com) - Free Activator
 
@@ -482,7 +482,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Curated list of Windows utilities-orga.cat](https://orga.cat/windows-utilities) - An opinionated compilation of GUI software I use on Windows.
 
@@ -492,7 +492,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [CyberMania](https://www.cybermania.ws) - nan
 
@@ -502,7 +502,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Downarchive](http://downarchive.org) - Free Download , Full Software ,Full Game ,Free Tutorial ,Free Graphichs,Free Wallpaper,Full Crack,Keygens,Patch
 
@@ -512,7 +512,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [All You Like-allyoulike download the latest movies, software, ebooks, games and tutorials](https://www.allyoulike.com) - All You Like - allyoulike  download the latest movies, software, ebooks, games and tutorials
 
@@ -522,7 +522,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [FileCR - The Biggest Software Store](https://filecr.com) - nan
 
@@ -532,7 +532,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Free Full Version Software Cracks Download](http://www.cracksfiles.com) - Download full version software with working crack, license, activation & Serial key and Activator. Windows 8.1 & RemoveWat Activator download link.
 
@@ -542,7 +542,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Latest Software (46,638 Results) Page 1 - EzyCracks](http://ezycracks.com/software) - nan
 
@@ -552,7 +552,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png)
 
@@ -564,7 +564,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Download Free Movies Games MP3 Albums and Softwares!](http://www.downduck.com) - Download Rapidshare Mediafire Letitbit Extabit Free Files
 
@@ -574,7 +574,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [FileHippo.com - Download Free Software](http://filehippo.com) - Looking to download safe free versions of the latest software, freeware, shareware and demo programs from a reputable download site? Visit FileHippo today.
 
@@ -584,7 +584,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://en.downloadastro.com/wp-content/themes/comparison/assets/img/share-image.png)
 
@@ -596,7 +596,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Dr.FarFar Best Premium Software Full For Free Giveaway Free Licenced Software](https://www.dr-farfar.com) - nan
 
@@ -606,7 +606,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Soft Warez Best Latest Full Version Software](https://softwarez.best) - nan
 
@@ -616,7 +616,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Windows - SoftArchive](https://sanet.st/windows) - nan
 
@@ -626,7 +626,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [storage - FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage) - .
 
@@ -636,7 +636,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [DDLValley ~ Rapidgator , Uploaded , Go4up & Openload links](https://www.ddlvalley.me) - nan
 
@@ -646,7 +646,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [megathread - Piracy](https://www.reddit.com/r/Piracy/wiki/megathread) - A community dedicated to the discussion of digital piracy.
 
@@ -656,7 +656,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_audio_tools) - .
 
@@ -666,7 +666,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://linksnappy.com/img/lselogo-big.png)
 
@@ -678,7 +678,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Wrldsource](https://www.worldsrc.net) - WorldSrc Website, Provides Free services, Watching and downloading Movies, PC Programs Direct Download With Crack, Full Games With Crack, Mod & Paid Apk, Mp3 Music .. And More,WorldSrc, worldsrc, worldsrc movies, worldsrc apk, worldsrc software, worldsrc games, worldsrc pc games, worldsrc pc programs, worldsrc programs crack, worldsrc mp3, worldsrc music, worldsrc series, worldsrc watch movies, worldsrc download movies, worldsrc download games, worldsrc fitgirl games, worldsrc movies subtiltes,movies free, movies download, movies free download, movies subtitles, Download Free Music, Games, Movies
 
@@ -688,7 +688,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Izofile](https://izofile.com) - izofile is a place to Download Software Full Version for free, activated software, games full versions for windows and mac
 
@@ -698,7 +698,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://discord.com/invite/undefined//discord.com/assets/652f40427e1f5186ad54836074898279.png)
 
@@ -710,7 +710,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://rentry.co/static/icons/512.png)
 
@@ -722,7 +722,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://odcrawler.xyz/ODCrawler%20Logo.png)
 
@@ -734,7 +734,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [scenerules.org](https://scenerules.org) - nan
 
@@ -744,7 +744,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Leak.sx-Accounts leecher](https://leak.sx/dispenser.php) - Leak.sx - The best account leecher website you always wanted.
 
@@ -754,7 +754,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Crack 4 PC - Download Software Full Crack](https://crack4pc.com) - nan
 
@@ -764,7 +764,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Download Full Version Cracked Pc Softwares PirateCity](https://www.piratecity.cc) - nan
 
@@ -774,7 +774,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Free Download - Freshwap](https://www.freshwap.us) - nan
 
@@ -784,7 +784,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](http://1.bp.blogspot.com/-VVW5HlQv9c8/UiZ3sb5ghII/AAAAAAAABDU/sQClazPnP5g/w1200-h630-p-k-no-nu/Microsoft+Windows+8.1+Language.png)
 
@@ -796,7 +796,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [PiratePC-Cracked PC Software](https://piratepc.net/?fbclid=IwAR3TGfVtxILT7yNsLb6uGESnMbGSKIuPnkiSrlT0mjQaIEJRm1o7MWlizZU) - nan
 
@@ -806,7 +806,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Cracksurl.com](https://cracksurl.com) - Better Place for Full Windows and Android Softwares, Serial Keys, License, Activation, Patch, Keygen, Cracks, Moded Apps and More
 
@@ -816,7 +816,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [FTUApps.Dev - Developers' Ground](https://ftuapps.dev/?1=) - Download Programming Tools like .Net, Delphi, Database, Applications, Web and Scripts, Tutorials etc - FTUApps.Dev - Developers' Ground
 
@@ -826,7 +826,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [CyberSpace](https://cyberspace.world) - nan
 
@@ -836,7 +836,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [PC Wonderland - Your ultimate source to download free pc software.](https://pcwonderland.com) - Your ultimate source to download free PC software.
 
@@ -846,7 +846,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Downloadly Free Software Download](https://downloadly.net) - nan
 
@@ -856,7 +856,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [CracksHash - Peace Out Restrictions!](https://crackshash.com) - nan
 
@@ -866,7 +866,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Windows Pirate4All](https://www.pirate4all.com/category/windows) - nan
 
@@ -876,7 +876,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [ALL PC World - Free Apps One Click Away](https://allpcworld.com) - Download latest software in one click with complete Installation guide
 
@@ -886,7 +886,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://pesktop.com/css/img/goimg_en.jpg)
 
@@ -898,7 +898,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://getintopc.com/wp-content/uploads/2014/04/GetIntoPC.jpg)
 
@@ -910,7 +910,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [FC Portables](https://www.fcportables.com) - Portable Software for USB, Flash and Cloud Drives and Bootable ISO images for CD/DVD and USB devices.
 
@@ -920,7 +920,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://programs.themicrotech.net/images/default_share_image.png)
 
@@ -932,7 +932,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 ![](https://creditcardgenerator.app/img/creditcardgenerator-image.jpeg)
 
@@ -944,7 +944,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Windows software, drivers & operating system](https://filecr.com/ms-windows?id=161023581184&page=4) - nan
 
@@ -954,7 +954,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Soft Famous - Free Download Software and Games](https://softfamous.com) - nan
 
@@ -964,7 +964,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [Free Best PC Software](https://mr9soft.com) - nan
 
@@ -974,7 +974,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [FileCR - THE BIGGEST SOFTWARE STORE](https://filecr.com/en?id=96755454432) - nan
 
@@ -984,7 +984,7 @@
 
 ---
 
-## CRACKS
+### CRACKS
 
 [ArmaanPC Download PC Software With Crack For free](https://www.armaanpc.com) - nan
 

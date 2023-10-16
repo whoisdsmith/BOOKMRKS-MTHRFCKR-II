@@ -1,6 +1,6 @@
-# Charts
-
 ## Charts
+
+### Charts
 
 ![](https://quickchart.io/images/og_image.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Charts
+### Charts
 
 ![](https://global-uploads.webflow.com/5e74e2639194e2571d9fd099/6394fae2a689c7b81407a3ea_OpenGraph%20Dec%2010.webp)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Charts
+### Charts
 
 ![](https://cdn2.chartbrew.com/chartbrew_visualize_banner_6.png)
 
@@ -36,7 +36,7 @@
 
 ---
 
-## Charts
+### Charts
 
 [Canopy Charts](https://canopycharts.com) - Design and deploy world-class data visualizations, backed by live data, from your browser.
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Charts
+### Charts
 
 ![](https://www.anychart.com/_design/img/static/features/features-laptop.png)
 
@@ -58,7 +58,7 @@
 
 ---
 
-## Charts
+### Charts
 
 [ApexCharts.js - Open Source JavaScript Charts for your website](https://apexcharts.com) - ApexCharts is a a free and open-source modern charting library that helps developers to create beautiful and interactive visualizations for web pages.
 
@@ -68,7 +68,7 @@
 
 ---
 
-## Charts
+### Charts
 
 [ChartBlocks](https://app.chartblocks.com) - nan
 
@@ -78,7 +78,7 @@
 
 ---
 
-## Charts
+### Charts
 
 [CSV2Chart Online - Turn any CSV into a nice looking chart](https://csv2chart.com) - CSV2Chart Chart Genertor - Turn any CSV into a nice looking chart online.
 
@@ -88,7 +88,7 @@
 
 ---
 
-## Charts
+### Charts
 
 [Charts.css](https://chartscss.org) - CSS data visualization framework
 
@@ -98,4 +98,4 @@
 
 ---
 
-## Dashboards
+### Dashboards

@@ -1,6 +1,6 @@
-# Notetaking
-
 ## Notetaking
+
+### Notetaking
 
 ![](https://softr-prod.imgix.net/applications/21f22e2d-cfd9-4952-8225-346703ba3a1f/assets/9e9082bb-b1ef-461d-9a83-ea8eec7a09ba.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://infranodus.com/images/front/infranodus-screenshot.jpg)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://www.notion.so/images/meta/default.png)
 
@@ -36,7 +36,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://orgpad.com/static/img/social-media/link-preview.png)
 
@@ -48,7 +48,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://www.loggly.com/wp-content/uploads/2019/02/Loggly_Logo_New_Square.jpg)
 
@@ -60,7 +60,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 [Pocket](https://app.getpocket.com) - nan
 
@@ -70,7 +70,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://yastatic.net/s3/home-static/_/90/9034470dfcb0bea0db29a281007b8a38.png)
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 [Lightshot](https://prnt.sc) - nan
 
@@ -92,7 +92,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://bear.app/images/website-icons/card.jpg)
 
@@ -104,7 +104,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://brainio.com/assets/social-facebook.png)
 
@@ -116,7 +116,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 [Cintanotes](https://cintanotes.com) - A windows notes app for organizing your thoughts and ideas
 
@@ -126,7 +126,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://photos.collectednotes.com/embed.png)
 
@@ -138,7 +138,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://www.inkdrop.app/og-cover-image.jpg)
 
@@ -150,7 +150,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 [Joplin](https://joplinapp.org) - Joplin, the open source note-taking application
 
@@ -160,7 +160,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 [KeepNote: Note taking and organization](https://keepnote.org) - KeepNote: note-taking and organization.  KeepNote is a note taking application that works on Windows, Linux, and  MacOS X.  With KeepNote, you can store your class notes, TODO lists, research notes, journal entries, paper outlines, etc in a simple notebook hierarchy with rich-text formatting, images, and more. Using full-text search, you can retrieve any note for later reference.
 
@@ -170,7 +170,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 [Kl1p.com](https://kl1p.com) - nan
 
@@ -180,7 +180,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 [Laverna](https://laverna.cc) - Markdown note taking app focused on privacy.
 
@@ -190,7 +190,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://site-cdn.onenote.net/161691140453_Images/onenoteicon-256.png)
 
@@ -202,7 +202,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://images.prismic.io/milanote/1a8246ff-245a-46e8-9aba-8cc185ad9ce7_milanote-link-image.png?auto=compress,format)
 
@@ -214,7 +214,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 [Outlinely - Outliner for iPhone, iPad](https://glamdevelopment.com/outlinely/ios) - Outlining app for macOs
 
@@ -224,7 +224,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 [Pear Note for Mac - Useful Fruit Software](https://www.usefulfruit.com/pearnote) - Pear Note for Mac is a note-taking utility for Mac that records audio, video, and slides while you take your notes, so later you can find what was being said when you typed something.
 
@@ -234,7 +234,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://relanote.com/wp-content/uploads/2020/06/youtube-cover.png)
 
@@ -246,7 +246,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://simplenoteblog.files.wordpress.com/2020/07/simplenote_hero.png?w=1200)
 
@@ -258,7 +258,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://global-uploads.webflow.com/5f84417443f34a30444f52d3/64242d922f7b0ed9b22c15f5_Open%20graph-2.jpg)
 
@@ -270,7 +270,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 [SomNote](https://somcloud.com/about/somnote) - Record and save important information, brilliant ideas, and moments of everyday life easily and securely with SomNote.
 
@@ -280,7 +280,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 [squid](https://squidnotes.com) - Take digital handwritten notes for class, work, or fun with Squid on your Android or Chromebook! Markup PDFs, sign documents, & more
 
@@ -290,7 +290,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://assets.standardnotes.com/media/SN-Icon-500.png)
 
@@ -302,7 +302,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://www.tagspaces.org/content/videos/hero-video-poster.jpg)
 
@@ -314,7 +314,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 [Apps/Tomboy - GNOME Wiki!](https://wiki.gnome.org/Apps/Tomboy) - nan
 
@@ -324,7 +324,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 [Typelink.net](https://typelink.net) - nan
 
@@ -334,7 +334,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://assets.website-files.com/5fd91be1f828cf2dfee59347/63348608357b323384a73f47_workflowy-opengraph.png)
 
@@ -346,7 +346,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://www.zohowebstatic.com/sites/zweb/images/ogimage/notebook-logo.png)
 
@@ -358,7 +358,7 @@
 
 ---
 
-## Notetaking
+### Notetaking
 
 ![](https://octo.app/img/og.png)
 
@@ -370,4 +370,4 @@
 
 ---
 
-## Obsidian
+### Obsidian
