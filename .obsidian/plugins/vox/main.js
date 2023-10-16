@@ -4805,7 +4805,7 @@ var AudioOutputExtension;
 })(AudioOutputExtension || (AudioOutputExtension = {}));
 
 // src/constants.ts
-var PUBLIC_API_ENDPOINT = "http://64.176.214.184:1337";
+var PUBLIC_API_ENDPOINT = "http://api.obsidian-vox.org:1337";
 var FILENAME_DATE_FORMAT = "yyyyMMdd-hh:mm";
 var MARKDOWN_DATE_FORMAT = "yyyy-MM-dd hh:mm";
 var VALID_HOST_REGEX = new RegExp("^http(s)?://[a-z0-9-]*.[a-z0-9-]*.?([a-z0-9-]*)?.?([a-z0-9-]*)?:[0-9]{2,6}$", "gmi");
@@ -13208,7 +13208,11 @@ var TranscriptionProcessor = class {
     } catch (error) {
       console.warn(error);
       if (isAxiosError2(error)) {
-        new import_obsidian5.Notice("Error connecting to transcription host. Please check your settings.");
+        if (error.response?.status === HttpStatusCode2.TooManyRequests) {
+          new import_obsidian5.Notice("You've reached your transcription limit for today.");
+        } else {
+          new import_obsidian5.Notice("Error connecting to transcription host. Please check your settings.");
+        }
         this.queue.pause();
       }
     }

@@ -31,11 +31,12 @@ var import_obsidian3 = require("obsidian");
 
 // src/utils/api.ts
 var import_obsidian = require("obsidian");
-function getAPI(accessToken) {
+function getAPI(accessToken, customServerURL) {
+  const baseURL = customServerURL != null && customServerURL !== "" ? customServerURL : "https://linkshelf.fly.dev";
   function requestFactory(method) {
     return async (url, requestParams) => {
       return await (0, import_obsidian.requestUrl)({
-        url: `${"https://linkshelf.fly.dev"}${url}`,
+        url: `${baseURL}${url}`,
         method,
         headers: { "X-Api-Token": accessToken },
         ...requestParams
@@ -159,7 +160,8 @@ var DEFAULT_SETTINGS = {
   accessToken: "",
   linksFolderPath: "links",
   templateFilePath: "",
-  syncOnLoad: false
+  syncOnLoad: false,
+  customServerURL: ""
 };
 var LinkStowrPlugin = class extends import_obsidian3.Plugin {
   async onload() {
@@ -188,7 +190,10 @@ var LinkStowrPlugin = class extends import_obsidian3.Plugin {
     await this.saveData(this.settings);
   }
   async sync() {
-    const api = getAPI(this.settings.accessToken);
+    const api = getAPI(
+      this.settings.accessToken,
+      this.settings.customServerURL
+    );
     try {
       const response = await api.get("/api/links");
       console.log("[LinkStowr] Got response: ", response);
@@ -270,6 +275,14 @@ var LinkStowrSettingTab = class extends import_obsidian3.PluginSettingTab {
     new import_obsidian3.Setting(containerEl).setName("Sync on load").setDesc("Run the Sync command when Obsidian loads").addToggle(
       (toggle) => toggle.setValue(this.plugin.settings.syncOnLoad).onChange(async (value) => {
         this.plugin.settings.syncOnLoad = value;
+        await this.plugin.saveSettings();
+      })
+    );
+    new import_obsidian3.Setting(containerEl).setName("Custom server URL").setDesc(
+      "Add this if you are self-hosting LinkStowr and would like to use a custom server. Make sure the URL does not end in a `/` e.g. https://www.myserver.com"
+    ).addText(
+      (text) => text.setPlaceholder("https://www.myserver.com").setValue(this.plugin.settings.customServerURL).onChange(async (value) => {
+        this.plugin.settings.customServerURL = value;
         await this.plugin.saveSettings();
       })
     );

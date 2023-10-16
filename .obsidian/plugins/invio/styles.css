@@ -118,6 +118,16 @@
   margin: auto 0;
 }
 
+.settings-config-section {
+  box-shadow: 0 0 2px 2px #000000;
+  padding: 8px 12px;
+  background-color: black;
+  border-radius: 8px;
+}
+.theme-light .settings-config-section {
+  box-shadow: 3px 3px 4px #c5ccda, -3px -3px 4px #c5ccda;
+  background-color: #c5ccda30;
+}
 
 .settings-pub-header {
   display: block;

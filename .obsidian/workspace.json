@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "32a909c40c65d89e",
+        "id": "3ac6e6c6c4e16c16",
         "type": "tabs",
         "children": [
           {
-            "id": "cb79ff260c4e5a9d",
+            "id": "54a30e53a738274b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Terminal.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -149,6 +145,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dbfolder:Create a new database table": false,
+      "remotely-save:Remotely Save": false,
       "obisidian-note-linker:Note Linker": false,
       "obsidian42-brat:BRAT": false,
       "vault-2-book:Obsidian 2 Book: Generate a book from a specified folder": false,
@@ -158,12 +156,12 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "bulk-exporter:Bulk Exporter Preview": false,
       "tags-overview:Tags overview": false,
-      "tag-page-md:Refresh tag page": false
+      "tag-page-md:Refresh tag page": false,
+      "bulk-exporter:Bulk Exporter Preview": false
     }
   },
-  "active": "cb79ff260c4e5a9d",
+  "active": "54a30e53a738274b",
   "lastOpenFiles": [
     "Programming/Snippets.md",
     "Programming/Regex.md",

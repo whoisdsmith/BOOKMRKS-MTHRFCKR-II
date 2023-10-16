@@ -23319,12 +23319,14 @@ var DigitalGardenSiteManager = class {
       const theme = JSON.parse(this.settings.theme);
       const baseTheme = this.settings.baseTheme;
       const siteName = this.settings.siteName;
+      const mainLanguage = this.settings.mainLanguage;
       let gardenBaseUrl = "";
       if (this.settings.gardenBaseUrl && !this.settings.gardenBaseUrl.startsWith("ghp_") && !this.settings.gardenBaseUrl.startsWith("github_pat") && this.settings.gardenBaseUrl.contains(".")) {
         gardenBaseUrl = this.settings.gardenBaseUrl;
       }
       const envValues = {
         SITE_NAME_HEADER: siteName,
+        SITE_MAIN_LANGUAGE: mainLanguage,
         SITE_BASE_URL: gardenBaseUrl,
         SHOW_CREATED_TIMESTAMP: this.settings.showCreatedTimestamp,
         TIMESTAMP_FORMAT: this.settings.timestampFormat,
@@ -28265,6 +28267,14 @@ var SettingView = class {
           yield this.saveSettings();
         }))
       );
+      new import_obsidian13.Setting(themeModal.contentEl).setName("Main language").setDesc(
+        "Language code (ISO 639-1) for the main language of your site. This is used to set the correct language on your site to assist search engines and browsers."
+      ).addText(
+        (text2) => text2.setValue(this.settings.mainLanguage).onChange((value) => __async(this, null, function* () {
+          this.settings.mainLanguage = value;
+          yield this.saveSettings();
+        }))
+      );
       new import_obsidian13.Setting(themeModal.contentEl).setName("Favicon").setDesc(
         "Path to an svg in your vault you wish to use as a favicon. Leave blank to use default."
       ).addText((tc) => {
@@ -28790,6 +28800,7 @@ var DEFAULT_SETTINGS = {
   faviconPath: "",
   noteSettingsIsInitialized: false,
   siteName: "Digital Garden",
+  mainLanguage: "en",
   slugifyEnabled: true,
   // Note Icon Related Settings
   noteIconKey: "dg-note-icon",
