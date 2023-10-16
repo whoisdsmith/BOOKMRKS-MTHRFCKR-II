@@ -1,9 +1,0 @@
-{
-  "outputFolder": "Static",
-  "exportQuery": "",
-  "emptyTargetFolder": false,
-  "assetPath": "assets",
-  "outputFormat": "${blog}/${slug}",
-  "lastExport": {},
-  "shell": ""
-}

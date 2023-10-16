@@ -1,9 +1,0 @@
-{
-	"id": "obisidian-note-linker",
-	"name": "Note Linker",
-	"version": "1.1.2",
-	"description": "Automatically find and link notes in Obsidian",
-	"author": "Alexander Weichart",
-	"authorUrl": "https://github.com/AlexW00",
-	"isDesktopOnly": true
-}

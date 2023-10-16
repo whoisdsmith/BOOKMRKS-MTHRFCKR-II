@@ -1,7 +1,0 @@
-{
-  "deduplicateUrls": true,
-  "useAlias": true,
-  "showFavicon": true,
-  "cacheMode": "diskCache",
-  "noticeMode": "successful"
-}
