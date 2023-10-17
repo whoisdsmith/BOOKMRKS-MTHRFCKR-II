@@ -1,6 +1,6 @@
-# Ebooks
-
 ## Ebooks
+
+### Ebooks
 
 [Pirate Library Mirror](http://pilimi.org) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Annas Archive](https://annas-archive.org) - Search engine of shadow libraries: books, papers, comics, magazines.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://mega.nz/rich-folder.png)
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://static.uloz.to/ul3/images/social/logo-meta.png)
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Z-lib.org](https://z-lib.org) - Contains 10,870,000+ books and 84,837,000+ articles for free.
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Read Books Online - Free Novels Online - Novels80](https://novels80.com) - We are offering thousands of free novels online read! Read books online from your iPhone, iPad, android, Pc or Mobile - Novels77-Novels80
 
@@ -64,7 +64,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Audio Books Online Download, Free Unabridged Audiobook Torrent on AudioBook Bay (ABB)](https://audiobookbay.fi) - Download unabridged audiobook for free or share your audio books, safe, fast and high quality! Safe to get and share audio book here and downloading speed is great on AudioBook Bay (ABB)!
 
@@ -74,7 +74,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [ForCoder - Ebooks & Elearning For Programming](https://forcoder.su) - IT Ebooks Free Download PDF, EPUB, MOBI! Elearning Video For Programming Free Download MP4, AVI!
 
@@ -84,7 +84,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Download Free EBooks-Ebook777.com](https://www.ebooks777.net) - Free Ebooks Download Websites,pdf,epu, mobi,azw,azw3
 
@@ -94,7 +94,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Download PDF magazines - Magazines Commumity!](https://downmagaz.net) - Its free pdf magazines community, where dear users can familiarize and more to know about world magazines.
 
@@ -104,7 +104,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [IT eBooks - Free Download - New Releases](https://it-ebooks.info) - IT eBooks - Free Download eBooks Library
 
@@ -114,7 +114,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Index of /public/Books/](https://the-eye.eu/public/Books) - nan
 
@@ -124,7 +124,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Ebookee: Free Download eBooks Search Engine!](https://ebookee.com) - EBOOKEE is a free ebooks search engine, the best free ebooks download library. It's the open directory for free ebooks and download links, and the best place to read ebooks and search free download ebooks.
 
@@ -134,7 +134,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://ravebooksearch.com/img/ravesearch.png)
 
@@ -146,7 +146,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [index-eng: summary: 629,187 rows](https://eng.calishot.xyz/index-eng/summary) - nan
 
@@ -156,7 +156,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Electronic library. Download books free. Finding books](https://b-ok.cc) - Electronic library. Download books free. Finding books-Z-Library. Download books for free. Find books
 
@@ -166,7 +166,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Electronic library. Download books free. Finding books](http://b-ok.xyz) - Electronic library. Download books free. Finding books-Z-Library. Download books for free. Find books
 
@@ -176,7 +176,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Home - Ubooquity](http://vaemendis.net/ubooquity) - Ubooquity is a free, lightweight and easy-to-use home server for your comics and ebooks. Use it to access your files from anywhere, with a tablet, an e-reader, a phone or a computer.
 
@@ -186,9 +186,9 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
-[Knowledge Is Power: Exploring Over 1,800 Calibre E-Book Servers.](https://blog.chrisbonk.ca/2018/12/knowledge-is-power-exploring-over-1800.html?m=1) - TLDR;   Shodan can be used to find Calibre servers.  I wrote an nmap script for identification and metadata analysis  2.5 million titles a...
+[Knowledge Is Power: Exploring Over 1,800 Calibre E-Book Servers.](https://blog.chrisbonk.ca/2018/12/knowledge-is-power-exploring-over-1800.html?m=1) - TLDR;   Shodan can be used to find Calibre servers.  I wrote an nmap script for identification and metadata analysis  2.5 million titles a…
 
 2022-09-14T12:49:19.000Z
 
@@ -196,7 +196,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [calibre - E-book management](https://calibre-ebook.com) - calibre: The one stop solution for all your e-book needs. Comprehensive e-book software.
 
@@ -206,7 +206,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco](https://cse.google.com/cse?cx=000661023013169144559%3Aa1-kkiboeco) - nan
 
@@ -216,11 +216,11 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://opengraph.githubassets.com/d45b60ebfb189936b856625141d46b92a95a9637b63e482fd9e36007c9fa1c8f/janeczku/calibre-web)
 
-[GitHub - janeczku/calibre-web: Web app for browsing, reading and downloading eBooks stored in a Calibre database](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database - GitHub - janeczku/calibre-web: Web app for browsing, reading and downloading eBooks stored in a Calibre d...
+[GitHub - janeczku/calibre-web: Web app for browsing, reading and downloading eBooks stored in a Calibre database](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database - GitHub - janeczku/calibre-web: Web app for browsing, reading and downloading eBooks stored in a Calibre d…
 
 2022-09-14T12:49:19.000Z
 
@@ -228,11 +228,11 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://opengraph.githubassets.com/1d4da5edcb97964e98c0201f7134c69c106f44b18dcfc519d526ab03a55ddb5f/seblucas/cops)
 
-[GitHub - seblucas/cops: Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server-Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server-Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...) - GitHub - seblucas/cops: Calibre OPDS (and HTML) PH...
+[GitHub - seblucas/cops: Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server-Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server-Calibre2OPDS to serve ebooks (epub, mobi, pdf, …) - GitHub - seblucas/cops: Calibre OPDS (and HTML) PH…
 
 2022-09-14T12:49:19.000Z
 
@@ -240,7 +240,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Online Reading Books for Free - ReadAnyBook](https://readanybook.com) - ReadAnyBook - Best e-Library for reading books online
 
@@ -250,7 +250,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [BookStack](https://www.bookstackapp.com) - BookStack is a simple, open-source, self-hosted, easy-to-use platform for organising and storing information.
 
@@ -260,7 +260,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://share.redd.it/preview/post/2oftbu)
 
@@ -272,7 +272,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://share.redd.it/preview/post/bm837l)
 
@@ -284,7 +284,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://zlibrary.to/images/thumbnail.png)
 
@@ -296,7 +296,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [eBook Chase](https://ebookchase.com) - Download Free PDF/ePub eBooks for reading Offline with One Click Download Link. It is the best platform for download Books in soft copy
 
@@ -306,7 +306,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://share.redd.it/preview/post/k15b3z)
 
@@ -318,7 +318,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://share.redd.it/preview/post/k15oe1)
 
@@ -330,7 +330,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://share.redd.it/preview/post/k15q5j)
 
@@ -342,7 +342,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://share.redd.it/preview/post/k15say)
 
@@ -354,7 +354,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://share.redd.it/preview/post/k16w2x)
 
@@ -366,7 +366,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://share.redd.it/preview/post/k17xl5)
 
@@ -378,7 +378,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://share.redd.it/preview/post/k182m0)
 
@@ -390,7 +390,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://share.redd.it/preview/post/k185at)
 
@@ -402,7 +402,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://share.redd.it/preview/post/k186vg)
 
@@ -414,7 +414,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://share.redd.it/preview/post/k18df2)
 
@@ -426,7 +426,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [(3) Ebook-related TOR, FTP, VK, and IRC sites (+ guide) : EBook_Resources](https://www.reddit.com/r/EBook_Resources/comments/k3co0e/ebookrelated_tor_ftp_vk_and_irc_sites_guide) - 1 vote and 0 comments so far on Reddit
 
@@ -436,7 +436,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://share.redd.it/preview/post/k15k7m)
 
@@ -448,7 +448,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Free Books - Bookyards.com - Free Online Library](https://www.bookyards.com/en/welcome) - Free pdf books from Bookyards, one of the world's first online libraries to offer ebooks to be downloaded for free.
 
@@ -458,7 +458,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Page not found |](https://www.freebooksy.com/Lots) - nan
 
@@ -468,7 +468,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://www.pdfdrive.com/assets/img/logo-og-2-tn.png)
 
@@ -480,7 +480,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Wikibooks](https://en.wikibooks.org/wiki/Main_Page) - nan
 
@@ -490,7 +490,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Wikisource, the free library](https://en.wikisource.org/wiki/Main_Page) - nan
 
@@ -500,7 +500,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://epdf.pub/assets/img/epdf_logo.png)
 
@@ -512,7 +512,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [eBook Releases by Category-Mobilism](https://forum.mobilism.org/viewforum.php?f=120Mobilism) - nan
 
@@ -522,7 +522,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Magazines & Newspapers-Mobilism](https://forum.mobilism.org/viewforum.php?f=123&sid=094962) - nan
 
@@ -532,7 +532,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://mega.nz/rich-folder.png)
 
@@ -544,7 +544,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://oceanofpdf.com/wp-content/uploads/2022/11/donate.png)
 
@@ -556,7 +556,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Open Textbook Library - Open Textbook Library](https://open.umn.edu/opentextbooks) - Open textbooks are licensed by authors and publishers to be freely used and adapted. Download, edit and distribute them at no cost.
 
@@ -566,7 +566,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://assets.openstax.org/oscms-prodcms/media/images/Turning_textbook_highlighting_into_time_well-sp.original.jpg)
 
@@ -578,7 +578,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://smallpdf.com/assets/img/fb/delete.png)
 
@@ -590,7 +590,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://smallpdf.com/assets/img/fb/jpg.png)
 
@@ -602,7 +602,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [The Literature Network: Online classic literature, poems, and quotes. Essays & Summaries](https://www.online-literature.com) - Searchable online literature. Books by famous authors. Author Biography's. Literature Quotes
 
@@ -612,7 +612,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://www.onlineprogrammingbooks.com/wp-content/uploads/2019/04/fb.png)
 
@@ -624,7 +624,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://external-preview.redd.it/mDcytZOdfsgIWlQw6Jg1tx1KjMlZEvC-ifmzeuL8qbc.jpg?auto=webp&s=e3d2ca596703eed78934a5fd680ceeb8454ea870)
 
@@ -636,7 +636,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://bythefireplace.com/assets/img/BTF-OG-image.png)
 
@@ -648,7 +648,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [EPUB to PDF-CloudConvert](https://cloudconvert.com/epub-to-pdf) - EPUB to PDF Converter - CloudConvert is a free & fast online file conversion service.
 
@@ -658,7 +658,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [eBookBB - Find Yourself Something New to Read](https://ebookbb.in) - eBookBB is a free service for readers to find books across many genres. You can discover a new author and find a good book to fill up your reading device in just a few clicks.
 
@@ -668,7 +668,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 [Free eBooks Download - ebook3000.com](http://www.ebook3000.com) - nan
 
@@ -678,7 +678,7 @@
 
 ---
 
-## Ebooks
+### Ebooks
 
 ![](https://www.freetechbooks.com/uploads/logo_left.gif)
 

@@ -1,6 +1,7 @@
 ## Misc
-
 ### Misc
+
+#### Misc
 
 [Teknik](https://www.teknik.io) - privacy based wordpress
 
@@ -10,7 +11,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://img.stackshare.io/introducing-stackshare.png)
 
@@ -22,7 +23,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Kore - An easy to use web platform for C and Python](https://kore.io) - An easy to use web platform for C and Python
 
@@ -32,7 +33,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://analysis-tools.dev/assets/images/social.png)
 
@@ -44,7 +45,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://carbon.now.sh/static/brand/banner.png)
 
@@ -56,7 +57,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Just For Fun](https://justforfun.io) - Showcasing creating coding projects
 
@@ -66,7 +67,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://static.jsbin.com/images/logo.png)
 
@@ -78,7 +79,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [The Go Play Space](https://goplay.space) - Alternative Go (Golang) Playground with syntax highlighting, turtle graphics and more
 
@@ -88,7 +89,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [pkg.go.dev](https://pkg.go.dev) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 
@@ -98,7 +99,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://pypi.org/static/images/twitter.abaf4b19.webp)
 
@@ -110,7 +111,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -124,7 +125,7 @@ If I have to use some API I would rather use a .NET based one. Can you
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://codesandbox.io/api/v1/sandboxes/n094ypklvl/screenshot.png)
 
@@ -136,7 +137,7 @@ If I have to use some API I would rather use a .NET based one. Can you
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://thewebdev.info/wp-content/uploads/2020/09/o3qw2wzpcyc-scaled.jpg)
 
@@ -148,7 +149,7 @@ If I have to use some API I would rather use a .NET based one. Can you
 
 ---
 
-### Misc
+#### Misc
 
 [timeline - vis.js - A dynamic, browser based visualization library.](https://visjs.github.io/vis-timeline/docs/timeline) - nan
 
@@ -158,7 +159,7 @@ If I have to use some API I would rather use a .NET based one. Can you
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://opengraph.githubassets.com/03683a501f752ce81cf8fd410934d3c23293486ac575bcd053ff4dde625c2e24/andresjpulido/tutorial-timeline)
 
@@ -170,7 +171,7 @@ If I have to use some API I would rather use a .NET based one. Can you
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://miro.medium.com/v2/resize:fit:784/1*sjXBIMyY4h95fKxNs4Hafw.png)
 
@@ -182,9 +183,9 @@ If I have to use some API I would rather use a .NET based one. Can you
 
 ---
 
-### Misc
+#### Misc
 
-[Vertical timeline and json](https://processwire.com/talk/topic/5523-vertical-timeline-and-json) - I have to create a "vertical" timeline made by photo posts, blog posts, gallery and other kinds of entries with the "load more" button at the bottom (to not refresh entire page). Press "load more" and see a new (old) month (February 2014, January 2014, December 2013 ans so on). Probably I'll use ...
+[Vertical timeline and json](https://processwire.com/talk/topic/5523-vertical-timeline-and-json) - I have to create a "vertical" timeline made by photo posts, blog posts, gallery and other kinds of entries with the "load more" button at the bottom (to not refresh entire page). Press "load more" and see a new (old) month (February 2014, January 2014, December 2013 ans so on). Probably I'll use …
 
 2022-01-20T22:24:07.458Z
 
@@ -192,7 +193,7 @@ If I have to use some API I would rather use a .NET based one. Can you
 
 ---
 
-### Misc
+#### Misc
 
 [Timeline documentation](https://almende.github.io/chap-links-library/js/timeline/doc) - nan
 
@@ -202,7 +203,7 @@ If I have to use some API I would rather use a .NET based one. Can you
 
 ---
 
-### Misc
+#### Misc
 
 [Timeline - A responsive, jQuery-based timeline generator](https://ryanfitzgerald.github.io/vertical-timeline) - nan
 
@@ -212,7 +213,7 @@ If I have to use some API I would rather use a .NET based one. Can you
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://opengraph.githubassets.com/7478d90f769f597f64ab074b5f62885f526be3c5aa2b6ad1ac09eef8d30f3c91/Albejr/jquery-albe-timeline)
 
@@ -224,7 +225,7 @@ If I have to use some API I would rather use a .NET based one. Can you
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 

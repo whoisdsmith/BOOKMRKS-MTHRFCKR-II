@@ -1,6 +1,6 @@
-# Dev-Sites
-
 ## Dev-Sites
+
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/520575152732393473/8H2OpyMZ_normal.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://cdn.sanity.io/images/a389kcxn/gdevelop/bb7347a19cd361ee11790de1f9e055c660cec223-2107x2160.png?h=600&w=800&fit=crop)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Abhijeet prasad](https://www.linkedin.com/in/abhijeet-prasad) - nan
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://about.me/cdn-cgi/image/q=80,dpr=1,f=auto,fit=cover,w=1200,h=630,gravity=auto/https://assets.about.me/background/users/a/l/e/alexey.palazhchenko_1378826640_41.jpg)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [UVviewsoft - Home](http://uvviewsoft.com) - Home of UVviewsoft
 
@@ -56,7 +56,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://alisoftware.github.io/apple-touch-icon-180x180.png)
 
@@ -68,7 +68,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Amruth Pillai - Resume on the Web](https://www.amruthpillai.com) - nan
 
@@ -78,7 +78,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Hadrien Croubois](http://hadriencroubois.com) - nan
 
@@ -88,7 +88,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Anduin Xue](https://anduin.aiursoft.com) - let today = new Beginning();
 
@@ -98,7 +98,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [arrival](https://anuken.github.io) - nan
 
@@ -108,7 +108,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Vaadin - An open platform for building web apps in Java](http://vaadin.com) - Vaadin is an open-source platform for modern web apps. It has a large library of components and an intuitive Java API. Works with Spring.
 
@@ -118,7 +118,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1087953643456946176/BX8Y6F-q_normal.jpg)
 
@@ -130,7 +130,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://opengraph.cluster.fun/opengraph/?siteTitle=Marcus%20Noble&title=Blog&tags=&image=https%3A%2F%2Fmarcusnoble.co.uk%2Fimages%2Fmarcus.jpg&twitter=Marcus_Noble_&github=AverageMarcus&website=www.MarcusNoble.co.uk&bgColor=%23ffffff&fgColor=%23263943)
 
@@ -142,7 +142,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://www.giantpandacv.com](https://www.giantpandacv.com) - nan
 
@@ -152,7 +152,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.bretfisher.com/content/images/2020/01/IMG_1013-1.jpeg)
 
@@ -164,7 +164,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [About Me - Andrew Gallant's Blog](https://burntsushi.net) - I blog mostly about my own programming projects.
 
@@ -174,7 +174,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://cdn.beacons.ai/user_content/6WC5hfsDL7MkAfVskJO82w9UOcq2/profile_castagnait.png?t=1634062723999)
 
@@ -186,7 +186,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Horace He](http://horace.io) - nan
 
@@ -196,7 +196,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Hemantjain1](https://www.linkedin.com/in/hemantjain1) - nan
 
@@ -206,7 +206,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [RealTime Data Compression](http://fastcompression.blogspot.fr) - Development blog on compression algorithms
 
@@ -216,7 +216,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.howett.net/img/favicon/blue.png)
 
@@ -228,7 +228,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1419143125486903296/YvRLK68O_normal.jpg)
 
@@ -240,7 +240,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://danielmschmidt.de/profilbild.jpg)
 
@@ -252,7 +252,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1648475486635569152/QCl-vhZi_normal.jpg)
 
@@ -264,7 +264,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://freshidea.com/jonah/assets/img/icons/JL.png)
 
@@ -276,7 +276,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Didier lopes](https://www.linkedin.com/in/didier-lopes) - nan
 
@@ -286,7 +286,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Dario Nieuwenhuis](https://dirba.io) - Dario Nieuwenhuis's website
 
@@ -296,7 +296,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://github-production-user-asset-6210df.s3.amazonaws.com/78784850/265197173-858e48ca-fbb3-46fc-b18a-269c00e141ec.jpg)
 
@@ -308,7 +308,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jogging](https://ebazhanov.com) - Web site created using create-react-app
 
@@ -318,7 +318,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://picx.zhimg.com/v2-7c17035a6b4a758fd7ad73cf5c6ce41f_720w.jpg?source=d16d100b)
 
@@ -330,7 +330,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://maximomussini.com/images/posts.jpg)
 
@@ -342,7 +342,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Emil Hvitfeldt](https://www.emilhvitfeldt.com) - Im a Software Engineer at RStudio PBC, teaching adjunct professor at American University, and co-author of [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) with [Julia Silge](https://juliasilge.com/). My interests include developing tools for natural language processing, machine learning using tidymodels, education, and the use of colors in data visualizations.
 
@@ -352,7 +352,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://res.cloudinary.com/victoreke/image/upload/v1692635746/victoreke/og.png)
 
@@ -364,7 +364,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Filippo Valsorda](https://filippo.io) - nan
 
@@ -374,7 +374,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Fred K. Schott](https://www.fredkschott.com) - nan
 
@@ -384,7 +384,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Frederik Bolding](https://frederikbolding.com) - Frederik Bolding - Student, Gamer & Programmer.
 
@@ -394,7 +394,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Zeon Federated](https://zeonfederated.com) - nan
 
@@ -404,7 +404,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Unhandledexpression](http://unhandledexpression.com) - nan
 
@@ -414,7 +414,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Nhirschfeld](https://www.linkedin.com/in/nhirschfeld) - nan
 
@@ -424,7 +424,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://gourav.io/og.png)
 
@@ -436,7 +436,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Grimler.se](https://grimler.se) - Henrik Grimler's personal website
 
@@ -446,7 +446,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Hari sekhon](https://www.linkedin.com/in/HariSekhon) - nan
 
@@ -456,7 +456,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.harshcasper.com/static/images/twitter-banner.png)
 
@@ -468,7 +468,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Indrajeet Patil](https://sites.google.com/site/indrajeetspatilmorality) - About Me  I have become an enigma to myself. And herein lies my sickness.  (St. Augustine)  As a dreamy teenager growing up in India, I wished to be a Theoretical Particle Physicist, so I did my B.Sc. (Fergusson College) and M.Sc. (University of Pune) in Physics. When I realized Quantum Field
 
@@ -478,7 +478,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [暗之城！科学之城！](https://jack-works.github.io) - nan
 
@@ -488,7 +488,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Home](https://jbee.io) - Blog posted about front end development.
 
@@ -498,7 +498,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://jameshenry.blog/images/jameshenry.blog-fb-banner.png)
 
@@ -510,7 +510,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [James Newton-King](http://james.newtonking.com) - nan
 
@@ -520,7 +520,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Home-Oh My Posh](https://ohmyposh.dev) - A prompt theme engine for any shell.
 
@@ -530,7 +530,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [jarredsumner.com](https://jarredsumner.com) - nan
 
@@ -540,7 +540,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.thinkmill.com.au/_astro/seo-thinkmill-cover.2338ea6c.png)
 
@@ -552,7 +552,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [SZW -](https://szw.cnblogs.com) - nan
 
@@ -562,7 +562,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://qph.cf2.quoracdn.net/main-thumb-6528516-200-yjgrwqdshguiacpdtkcsecfotdpmgblc.jpeg)
 
@@ -574,7 +574,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1580142214851842048/jf8j2yMS_normal.jpg)
 
@@ -586,7 +586,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jonny Burger](https://jonny.io) - nan
 
@@ -596,7 +596,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [PIHRT.NET - Home](http://pihrt.net) - nan
 
@@ -606,7 +606,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://joshvanl.com](https://joshvanl.com) - nan
 
@@ -616,7 +616,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://froggi.es/assets/img/frog.png)
 
@@ -628,7 +628,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [v0.0.1 - Write Less, Think More](https://www.1stg.me) - nan
 
@@ -638,7 +638,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [KATTCORP LTD.](https://katt.dev) - nan
 
@@ -648,7 +648,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://s0.wp.com/i/blank.jpg)
 
@@ -660,7 +660,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [KendallDoesCoding - Portfolio](https://kendalldoescoding.gq) - nan
 
@@ -670,7 +670,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Kevin Musgrave](https://kevinmusgrave.com) - nan
 
@@ -680,7 +680,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://kikobeats.com/images/resume.png)
 
@@ -692,7 +692,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Felix Krause](https://krausefx.com) - nan
 
@@ -702,7 +702,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Lea Verou Life at the bleeding edge (of web standards)](http://lea.verou.me) - nan
 
@@ -712,7 +712,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jim Home](https://africans.cn) - VSCode
 
@@ -722,7 +722,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [开源最佳实践](https://linuxsuren.github.io/open-source-best-practice) - nan
 
@@ -732,7 +732,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Wrangling Code and Poetry](https://lucasbustamante.dev) - nan
 
@@ -742,7 +742,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Maklesoft](http://maklesoft.com) - MaKleSoft - Transforming the Web
 
@@ -752,7 +752,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.maartengrootendorst.com/assets/images/social.png)
 
@@ -764,7 +764,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [The DexterX Developer](https://dexterx.dev) - Uncovering better ways of building cross-platform applications in this increasily agile and mobile world
 
@@ -774,7 +774,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [George Mamadashvili](https://mamaduka.com) - A web developer extraordinaire
 
@@ -784,7 +784,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://s0.wp.com/i/blank.jpg)
 
@@ -796,7 +796,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [MaskRay](http://maskray.me) - nan
 
@@ -806,7 +806,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [TypeGraphQL Modern framework for GraphQL API in Node.js](https://typegraphql.com) - Modern framework for GraphQL API in Node.js
 
@@ -816,7 +816,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Michal Strehovsky: home](http://migeel.sk) - nan
 
@@ -826,7 +826,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://astroautomata.com//assets/images/personal_logo.jpg)
 
@@ -838,7 +838,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://muniftanjim.dev/avatar.png)
 
@@ -850,7 +850,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1682874149847412741/zGo36Aqh_normal.jpg)
 
@@ -862,7 +862,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Nick Craver - Software Imagineering](https://nickcraver.com) - Website home for various things created by Nick Craver
 
@@ -872,7 +872,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Alex Rudenko](https://alex-rudenko.com) - Software Engineer
 
@@ -882,11 +882,11 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://yt3.googleusercontent.com/oYjghBMAgMjsPEzbCsAIsr16U74sJa_hEntQ6wz0nhso877gNRb8pFI1XtMuCPtgYoqEdQVtXYg=s900-c-k-c0x00ffffff-no-rj)
 
-[Patrick Collins](https://www.youtube.com/c/patrickcollins) - Linktree: https://linktr.ee/PatrickAlphaC  Smart Contracts, Blockchain, Defi, Fintech, Solidity, Python, Golang, Javascript...  We do a lot of stuff here!  Im a developer advocate on the Chainlink project, founder and CEO of my own blockchain infrastructure company, and lover of web3!
+[Patrick Collins](https://www.youtube.com/c/patrickcollins) - Linktree: https://linktr.ee/PatrickAlphaC  Smart Contracts, Blockchain, Defi, Fintech, Solidity, Python, Golang, Javascript…  We do a lot of stuff here!  Im a developer advocate on the Chainlink project, founder and CEO of my own blockchain infrastructure company, and lover of web3!
 
 2022-09-01T01:58:04.000Z
 
@@ -894,7 +894,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Xiaoji Chen's Design Weblog](https://www.xiaoji-chen.com) - nan
 
@@ -904,7 +904,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Shanes Blog](http://shaneneuville.com) - A place to remind myself of how I once solved something that I will forget about at a later date.
 
@@ -914,11 +914,11 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://repository-images.githubusercontent.com/140614233/b1327c00-8320-11eb-8e4d-25dff36db261)
 
-[GitHub - PySimpleGUI/PySimpleGUI: Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples for Machine Learning(OpenCV Integration, Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs - PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.](https://www.pysimplegui.com) - Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applicati...
+[GitHub - PySimpleGUI/PySimpleGUI: Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples for Machine Learning(OpenCV Integration, Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs - PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.](https://www.pysimplegui.com) - Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applicati…
 
 2022-09-01T01:58:04.000Z
 
@@ -926,7 +926,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [ralfj.de](https://www.ralfj.de) - nan
 
@@ -936,7 +936,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://ralimtek.com/android-chrome-512x512.png)
 
@@ -948,7 +948,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://redth.codes/api/og/home?og=eyJ0aXRsZSI6InJlZHRoLmNvZGVzIiwiZG9tYWluIjoicmVkdGguY29kZXMiLCJmb2xsb3dlcnMiOjE1LCJwaG90byI6Imh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjY2MzU2MDg2NDI1L0RlU3ZtTmFSTjQuanBlZyIsImJnY29sb3IiOiIjMjljZmZmIiwibWV0YSI6IlByaW5jaXBhbCUyMFNvZnR3YXJlJTIwRW5naW5lZXJpbmclMjBNYW5hZ2VyJTIwJTQwJTIwTWljcm9zb2Z0JTIwJUYwJTlGJUFBJUI3JTIwLk5FVCUyME1BVUklMjBFbmdpbmVlcmluZyUyMCUyRiUyMFRlYW0lMjBMZWFkJTIwJUVGJUI4JThGJTIwQWxsJTIwaG90JTIwdGFrZXMlMjBhcmUlMjBteSUyMG93biUyMHBhbmNha2VzIiwiYXJ0aWNsZXMiOjMzfQ==)
 
@@ -960,7 +960,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/557940120184041473/bFyXy8Pu_normal.jpeg)
 
@@ -972,7 +972,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Rob Wu's home page](https://robwu.nl) - Rob Wu: open-source contributor, software engineer (browser extensions, web apps, browsers) and information security enthusiast.
 
@@ -982,7 +982,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://avatars.githubusercontent.com/u/25086?v=4?s=400)
 
@@ -994,7 +994,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://github.com/RobinMalfait.png)
 
@@ -1006,7 +1006,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1194989151902453761/j81Itkcj_normal.jpg)
 
@@ -1018,7 +1018,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Samyak Sarnayak](https://samyaks.xyz) - Hello there. I'm Samyak Sarnayak. I like systems and programming languages.
 
@@ -1028,7 +1028,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://gal.hagever.com/_next/static/media/header.b18a1617.jpg)
 
@@ -1040,7 +1040,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [My Corner Of The Net](https://stebalien.com) - nan
 
@@ -1050,7 +1050,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Steve Macenski](https://www.steve.macenski.com) - nan
 
@@ -1060,7 +1060,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Blog](https://blog.zhuangty.com) - Across the GreatWall we can reach every corner in the world
 
@@ -1070,7 +1070,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png)
 
@@ -1082,7 +1082,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [The Three of Wands](https://threeofwands.com) - My free software stuff.
 
@@ -1092,7 +1092,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Thomas Muller](https://tom94.net) - nan
 
@@ -1102,7 +1102,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [n8.io](https://n8.io) - nan
 
@@ -1112,7 +1112,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://dittmann.dev/api/og/home?og=eyJ0aXRsZSI6IlRvcnN0ZW4lMjBEaXR0bWFubidzJTIwQmxvZyIsImRvbWFpbiI6ImRpdHRtYW5uLmRldiIsImZvbGxvd2VycyI6MCwicGhvdG8iOiJodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0NTk3MzkyNzkyOC9QV3c3ck9RbGkuanBnIiwiaXNEZWZhdWx0TW9kZURhcmsiOnRydWV9)
 
@@ -1124,7 +1124,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Tyler Leonhardt](https://tylerleonhardt.com) - nan
 
@@ -1134,7 +1134,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.growingwiththeweb.com/images/general/logo.png)
 
@@ -1146,7 +1146,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Vanessa](https://vanessa.b3log.org) - Vanessa
 
@@ -1156,7 +1156,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Westbrookjohnson](http://westbrookjohnson.com) - nan
 
@@ -1166,7 +1166,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Wilfred Hughes::Blog](http://www.wilfred.me.uk) - programming, language design, and human factors
 
@@ -1176,7 +1176,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://avatars.githubusercontent.com/u/7054676?v=4)
 
@@ -1188,7 +1188,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://entgo.io/img/undraw_online.svg)
 
@@ -1200,7 +1200,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Startpage - boffinHouse](http://boffinhouse.com) - nan
 
@@ -1210,7 +1210,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://yt3.googleusercontent.com/kXhp0q_y7W_KDSjaTruJDdAXhq7tuNgSrQjnJyMuonfOz8ksDene2X_RmIEfKSIe_ODEh9UIaw=s900-c-k-c0x00ffffff-no-rj)
 
@@ -1222,7 +1222,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Abiola Ibrahim](https://abio.la) - nan
 
@@ -1232,7 +1232,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://cdn.abranhe.com/abraham/@abranhe.png)
 
@@ -1244,7 +1244,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Home](https://rikki.dev) - The development blog for Rikki Schulte
 
@@ -1254,7 +1254,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://aakansha.dev/api/og/home?og=eyJ0aXRsZSI6IkFha2Fuc2hhJ3MlMjBCbG9nIiwiZG9tYWluIjoiYWFrYW5zaGEuZGV2IiwiZm9sbG93ZXJzIjo1OSwicGhvdG8iOiJodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYyNDYwODIyMDk1Mi95YlBMQUlCSGkuanBlZyIsImJnY29sb3IiOiIjMGM4ZDlmIiwibWV0YSI6IkJ1aWxkaW5nJTIwRXhjYWxpZHJhdyUyMCUyQyUyMGV4JTIwSGFja2VyUmFuayUyMCU3QyUyMCVFRiVCOCU4RiUyMG9wZW5zb3VyY2UlMjAlRUYlQjglOEYiLCJhcnRpY2xlcyI6NCwiaXNEZWZhdWx0TW9kZURhcmsiOnRydWV9)
 
@@ -1266,7 +1266,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Adam Pritchard's blog and miscellany](https://crypti.cc) - nan
 
@@ -1276,7 +1276,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://adamj.eu/assets/global/img/apple-touch-icon-144-precomposed.png)
 
@@ -1288,7 +1288,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Anna #blm (@addaleax)-Twitter](https://twitter.com/addaleax) - nan
 
@@ -1298,7 +1298,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Adi's website](https://adi.pizza) - Adi Dahiya's website
 
@@ -1308,7 +1308,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Alan Donovan](https://alandonovan.net) - Alan Donovans home page
 
@@ -1318,7 +1318,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Adriendeperetti](https://www.linkedin.com/in/adriendeperetti) - nan
 
@@ -1328,7 +1328,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/831759247230791681/6c7xVxqV_normal.jpg)
 
@@ -1340,7 +1340,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://af.codes/images/preview3.png)
 
@@ -1352,7 +1352,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Adam Geitgey](http://adamgeitgey.com) - nan
 
@@ -1362,7 +1362,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Agniva](https://agniva.me) - nan
 
@@ -1372,7 +1372,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Ahmet Alp Balkan](https://ahmet.dev) - nan
 
@@ -1382,7 +1382,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Andrey Sitnik](https://sitnik.ru) - Contacts and projects of Andrey Sitnik
 
@@ -1392,7 +1392,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [1unicorn2](https://blog.oneunicorn.com) - More thoughts from a member of the Entity Framework team.
 
@@ -1402,7 +1402,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://opengraph.githubassets.com/76a93818cfeffa7ceeee72c3a7ad58ff994042ee4f8ec3bd50c27d807916c0d3/akaszynski/resume)
 
@@ -1414,7 +1414,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://nomic.foundation/card.jpg)
 
@@ -1426,7 +1426,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Alessandro Ros](https://alessandroros.com) - Software and robotics engineer.
 
@@ -1436,7 +1436,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Alex Gaynor](https://alexgaynor.net) - Hi, I'm Alex. I'm a software resilience engineer. I care about building systems that work. I've worked for the government, in the private sector, and on open source. I'm based in Washington, DC.
 
@@ -1446,7 +1446,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://alexpage.dev/images/site.jpg)
 
@@ -1458,7 +1458,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Fissionlabs](https://fissionlabs.io) - nan
 
@@ -1468,7 +1468,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Alex Eagle](http://alexeagle.github.io) - Personal GitHub Pages
 
@@ -1478,7 +1478,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://clickhouse.com/images/social_share.png)
 
@@ -1490,7 +1490,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Alex Weininger](https://alexweininger.com) - nan
 
@@ -1500,7 +1500,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Maruan Al-Shedivat](http://maruan.alshedivat.com) - about
 
@@ -1510,7 +1510,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Alvaro Trigo-Portfolio](http://alvarotrigo.com) - Alvaro Trigo porfolio. Here you can take a look at some of my works on web programming, design and marketing.
 
@@ -1520,7 +1520,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Amin Alaee](https://aminalaee.dev) - nan
 
@@ -1530,7 +1530,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://ammarahmed6506@gmail.com](https://gmail.com) - nan
 
@@ -1540,7 +1540,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [evcc - Sonne tanken - PV-Uberschussladen fur steuerbare Wallboxen](https://evcc.io) - evcc ermoglicht es Elektrofahrzeuge mit moglichst viel selbsterzeugten Solarstrom zu laden.
 
@@ -1550,7 +1550,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://andrewlock.net/content/images/cover.jpg)
 
@@ -1562,7 +1562,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [The Dragon Code](https://dragon-code.pro) - The Dragon Code Ecosystem for web-developers
 
@@ -1572,7 +1572,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Hi there!](http://www.fernandocejas.com) - Welcome! Im Fernando Cejas, Head of Engineering @TignumEng, former Director of Mobile @Wire, @SoundCloud Alumni, former @IBM Developer Advocate and @Tuenti Alumni. Im a geek/nerd, huge fan of Mobile Development, Artificial Intelligence, Quantum Computing and Software Engineering in general. Here I share my experiences and expose my ideas but all views, posts and opinions are my own.
 
@@ -1582,7 +1582,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Andy's Blog](https://andschwa.com) - nan
 
@@ -1592,7 +1592,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Andy zhang a7bb9676](https://www.linkedin.com/in/andy-zhang-a7bb9676) - nan
 
@@ -1602,7 +1602,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](http://images.ctfassets.net/aq13lwl6616q/3hCjtHJrJiFhMJ9nZl9eUh/c85aa7adb3804648cc99605b88ddbbfa/1._Sitewide_-_GIF.gif)
 
@@ -1614,7 +1614,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [ankane.org](https://ankane.org) - nan
 
@@ -1624,7 +1624,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Zero ASIC](https://www.zeroasic.com) - nan
 
@@ -1634,7 +1634,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Martin Atkins](http://martin.atkins.me.uk) - Ponderer. Investigator. Maker.
 
@@ -1644,7 +1644,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://lh3.googleusercontent.com/jsocHCR9A9yEfDVUTrU0m42_aHhTEVDGW5p5PsQSx7GSlkt3gLjohfXH3S7P7p982332ruU_e-EtW0LwmiuZjvN65VIcyME-zE35C6EM0IV1nqY6KoNw3dwW2djjid3F-T5YgnJothA=w1920-h1080)
 
@@ -1656,7 +1656,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://storage.googleapis.com/atoms-sandbox.google.com.a.appspot.com/og_gif.gif)
 
@@ -1668,7 +1668,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [ariya.io](https://ariya.io) - nan
 
@@ -1678,7 +1678,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1468881894062317572/Wpd5UqeG_normal.jpg)
 
@@ -1690,7 +1690,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Arman Bilge](https://www.armanbilge.com) - nan
 
@@ -1700,7 +1700,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1519825339215581184/-r5rZNeu_normal.jpg)
 
@@ -1712,7 +1712,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Brilliantly wrong (blog by Alex Rogozhnikov)](https://arogozhnikov.github.io) - Brilliantly Wrong  Alex Rogozhnikov's blog about math, machine learning, programming, physics and biology.
 
@@ -1722,7 +1722,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://linktr.ee/_next/static/logo-assets/default-meta-image.png)
 
@@ -1734,7 +1734,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Chris Arriola](http://chrisarriola.me) - nan
 
@@ -1744,7 +1744,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1215809971297890307/NPyjFnpg_normal.jpg)
 
@@ -1756,7 +1756,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [The Smallest Angular Performance Cookbook](https://ng-guru.io) - nan
 
@@ -1766,7 +1766,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Waleed Khan](https://waleedkhan.name) - This page is an activity feed of my internet presence, updated once a day.
 
@@ -1776,7 +1776,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png)
 
@@ -1788,7 +1788,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Matt Kane](https://mk.gg) - Matt Kane's blog
 
@@ -1798,7 +1798,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://crystal-lang.org/assets/icon.png)
 
@@ -1810,7 +1810,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Aston Zhang](https://www.astonzhang.com) - nan
 
@@ -1820,7 +1820,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://res.cloudinary.com/atapas/image/upload/v1690878250/profile/og-image_cog3hf.png)
 
@@ -1832,7 +1832,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://2.bp.blogspot.com/-kcZ7-zhJNTg/V0QDk6VzkeI/AAAAAAAAAMY/fHBfByvzfvIN-XM2-ZeOWUtLEMc1UtFSgCLcB/w1200-h630-p-k-no-nu/down.png)
 
@@ -1844,7 +1844,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://aviatesk.github.io/assets/what_about_the_dead_fish.jpeg)
 
@@ -1856,7 +1856,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Avinash Sajjanshetty](http://avi.im) - Avinash Sajjanshetty: Go and Python programmer from India.
 
@@ -1866,7 +1866,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Ayke van Laethem](https://aykevl.nl) - nan
 
@@ -1876,7 +1876,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Aylei's Blog](https://www.aleiwu.com) - Aylei Wu's blog, embracing cloud-native!
 
@@ -1886,7 +1886,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [fnordig.de](https://fnordig.de) - Personal website of Jan-Erik Rediger
 
@@ -1896,7 +1896,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Bane Sullivan](https://banesullivan.com) - nan
 
@@ -1906,7 +1906,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://cdn4.telegram-cdn.org/file/ixw4E4ukLpq4HizA2rzV9fpcYomLBqPBunTUvpfp1Mdh-63ajYUyfoV5cmXr3F9HF1do_HG2ZcvVSMdAq8NaWHbsAU6_8KVoMsiY8jf_kcemXuRwfL2Uk3VhDj6Gf8dzJXuMNFSdA63sjVbv5V-f1b6M-1ZrAtAWL0Ufdzjhjwv24yy_2Q41B_4B86Z516fXKOIRxZts7efSJFhlJKFuYGcaK3qbepQtLkiGybxCGPSgNIMDYk-W6MRfvyn5NVSvQ68QcujdU9ePFj_apD541aRbO1OHwTtoT4aIsrYme8HH5PziMimQEPscHeqlvZEdwD4gjMJpNr7vKjr_6Mx7TA.jpg)
 
@@ -1918,7 +1918,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [index-Kevin Sheppard](http://www.kevinsheppard.com) - Kevin Sheppard's site: research, teaching, code, and more
 
@@ -1928,7 +1928,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.ansible.com/hubfs/AF22_open-graph-image.png)
 
@@ -1940,7 +1940,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1088992703554207744/PobqQvVn_normal.jpg)
 
@@ -1952,7 +1952,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Join the bdlukaa Discord Server!](https://discord.gg/VhDsNvhbhc) - Check out the bdlukaa community on Discord - hang out with 190 other members and enjoy free voice and text chat.
 
@@ -1962,7 +1962,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://bdougie.live/social.png)
 
@@ -1974,7 +1974,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [aleksandra.codes](https://aleksandra.codes) - Aleksandra Sikora's personal blog on computer science and programming.
 
@@ -1984,7 +1984,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Benmanes](https://www.linkedin.com/in/benmanes) - nan
 
@@ -1994,7 +1994,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Ben Frederickson](https://www.benfrederickson.com) - nan
 
@@ -2004,7 +2004,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [The Homepage of Benjamin Peterson](https://www.locrian.net) - Benjamin Petersons homepage, containing his writing, contact information, and manifold idiosyncrasies.
 
@@ -2014,7 +2014,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Ben McCann](http://www.benmccann.com) - nan
 
@@ -2024,7 +2024,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Benoit Grelard](https://benoit.works) - Lead frontend developer-London, UK
 
@@ -2034,7 +2034,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [noxa.org](http://noxa.org) - The personal website of Ben Vanik
 
@@ -2044,7 +2044,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Ben Firshman](https://fir.sh) - nan
 
@@ -2054,7 +2054,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://bgoonz-blog.netlify.app/images/code.png)
 
@@ -2066,7 +2066,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://bigtree-tech.com/cdn/shop/files/For_Makers._By_Makers._1_1200x1200.png?v=1691493099)
 
@@ -2078,7 +2078,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Bilal Elmoussaoui](https://belmoussaoui.com) - Personal blog & portfolio
 
@@ -2088,7 +2088,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Philipp's Tech Blog](https://heckel.io) - Hi, my name is Philipp C. Heckel and this is my tech blog.
 
@@ -2098,7 +2098,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://alex.bio/images/og-image.jpg)
 
@@ -2110,7 +2110,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Steven silvester 90318721](https://www.linkedin.com/in/steven-silvester-90318721) - nan
 
@@ -2120,7 +2120,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Bjorn Lu](https://bjornlu.com) - Bjorn Lu is a frontend web developer and open-source enthusiast
 
@@ -2130,7 +2130,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Brian McFee](https://brianmcfee.net) - nan
 
@@ -2140,7 +2140,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://cdn-images-1.medium.com/max/1200/1*mNmxddJJTzkiBfK77mWuGA.png)
 
@@ -2152,7 +2152,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Home](https://bobheadxi.dev) - Source for Roberts site, blog and portfolio - https://bobheadxi.dev/
 
@@ -2162,7 +2162,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://code.visualstudio.com/opengraphimg/opengraph-home.png)
 
@@ -2174,7 +2174,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Brad Fitzpatrick [bradfitz.com]](https://bradfitz.com) - nan
 
@@ -2184,7 +2184,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Brad Cornes](https://bradley.dev) - nan
 
@@ -2194,7 +2194,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [E-commerce specialisten-High performance Magento webshops - Emico](https://www.emico.nl) - Emico is gespecialiseerd in het ontwikkelen van high performance Magento, Shopware & Headless webshops & het oplossen van technische vraagstukken.
 
@@ -2204,7 +2204,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://avatars.githubusercontent.com/u/40968415?v=4?s=400)
 
@@ -2216,7 +2216,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Brillout](https://brillout.com) - nan
 
@@ -2226,7 +2226,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1483465111222337539/ATtwhjxl_normal.jpg)
 
@@ -2238,7 +2238,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [My External Storage - My External Storage](https://budougumi0617.github.io) - nan
 
@@ -2248,7 +2248,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://cdn-images-1.medium.com/max/1200/1*KxbAv7O_DslI1VbuljHmuQ.png)
 
@@ -2260,7 +2260,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Cloud API Management & Microservices Connectivity Platform-Kong](https://konghq.com) - Kong is the cloud connectivity company for API & Microservice management. Our platform unifies API gateway, Ingress, and Service Mesh in one developer solution.
 
@@ -2270,7 +2270,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Briandavidvaughn](http://www.briandavidvaughn.com) - nan
 
@@ -2280,7 +2280,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://wiernik.org/img/wiernik_photo_small.jpg)
 
@@ -2292,7 +2292,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Artin's Blog](https://bytem.io) - Python-React-Nodejs
 
@@ -2302,7 +2302,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [CORNELTEK |](http://corneltek.com) - nan
 
@@ -2312,7 +2312,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://calstephens.tech/assets/img/header.jpg)
 
@@ -2324,7 +2324,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Code Poets - Software Development for Blockchain and Bioinformatics](https://codepoets.it) - Code Poets is a team of experts in software development for life science, bioinformatics, and cheminformatics companies, with vast blockchain expertise.
 
@@ -2334,7 +2334,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jordan Eldredge](https://jordaneldredge.com) - nan
 
@@ -2344,7 +2344,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://captnemo.in/img/favicon.png)
 
@@ -2356,7 +2356,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://about.me/cdn-cgi/image/q=80,dpr=1,f=auto,fit=cover,w=1200,h=630,gravity=0.152x0.164/https://assets.about.me/background/users/c/a/r/carlosantoniodasilva_1527110744_107.jpg)
 
@@ -2368,7 +2368,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Noumenal Dr. Carlton Gibson](https://noumenal.es) - nan
 
@@ -2378,7 +2378,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Carol's 10 Cents](http://carol-nichols.com) - nan
 
@@ -2388,7 +2388,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [R O D A R M O R](https://rodarmor.com) - nan
 
@@ -2398,7 +2398,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.cberner.com/images/logo.png)
 
@@ -2410,7 +2410,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [cderv's blog](https://cderv.rbind.io) - A blog to share tips, tricks & findings about R ecosystem
 
@@ -2420,7 +2420,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [ctrl-c: a friendly interruption](https://ctrl-c.us) - nan
 
@@ -2430,7 +2430,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Pay what you want books, by Ninja Squad](https://books.ninja-squad.com) - Books and ebooks about Angular & Vue.js, at 'pay what you want' price, DRM-free, and with optional support to charity, by Ninja Squad
 
@@ -2440,7 +2440,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [dein.fr - Charles-Axel Dein](http://www.dein.fr) - Charles-Axel Dein's personal website.
 
@@ -2450,7 +2450,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Chi-Hsuan Huang Blog](https://blog.chihsuan.me) - nan
 
@@ -2460,7 +2460,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [http://chingr.com](http://chingr.com) - nan
 
@@ -2470,7 +2470,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Chris Banes - Chris Banes](https://chris.banes.dev) - Android Software Engineer with a love of writing user interfaces
 
@@ -2480,7 +2480,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Sympolymathesy, by Chris Krycho](https://www.chriskrycho.com) - Learning in public: on theology, technology, ethics, software, politics, art, and more.
 
@@ -2490,7 +2490,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [cipherboy~](https://cipherboy.com) - nan
 
@@ -2500,7 +2500,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Charles Kerr's Blog](https://www.charleskerr.com) - nan
 
@@ -2510,7 +2510,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Chris Lalancette](http://clalance.blogspot.com) - nan
 
@@ -2520,7 +2520,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Clare Macrae](https://claremacrae.co.uk) - nan
 
@@ -2530,7 +2530,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Codebyte](http://codebyte.re) - nan
 
@@ -2540,7 +2540,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Cole Bemis](https://colebemis.com) - Building things for people who build things. Design Systems Engineer at GitHub. Living in San Francisco, CA.
 
@@ -2550,7 +2550,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://christianoliff.com/img/header/header-factory.png)
 
@@ -2562,7 +2562,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://colinhacks.com/logo.png)
 
@@ -2574,7 +2574,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Connor Peet](https://peet.io) - Learn how to build a personal website using Next.js
 
@@ -2584,7 +2584,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Connor Clark](https://hoten.cc) - nan
 
@@ -2594,7 +2594,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://coolaj86.com/media/coolaj86-logo.png)
 
@@ -2606,7 +2606,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.craftz.dog/card.png)
 
@@ -2618,7 +2618,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [crepererum](https://crepererum.net) - nan
 
@@ -2628,7 +2628,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Home Mior Muhammad Zaki](https://crynobone.com) - Home
 
@@ -2638,7 +2638,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Biopragmatics](https://cthoyt.com) - Unraveling complex biology with biological knowledge graphs
 
@@ -2648,7 +2648,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Daniel Agar (dagar.ca)](http://dagar.ca) - nan
 
@@ -2658,7 +2658,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Daishi Kato's blog](https://blog.axlight.com) - nan
 
@@ -2668,7 +2668,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://secure.gravatar.com/blavatar/3e721e5246d5d8e1e390fd6017a26f6bd339a6d4269bc74d47a9c36482637d0e?s=200&ts=1695726467)
 
@@ -2680,7 +2680,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.danielhu.cn/logo.png)
 
@@ -2692,7 +2692,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Resume](https://daniloab.github.io) - nan
 
@@ -2702,7 +2702,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://danilowoz.com//og-image.png)
 
@@ -2714,7 +2714,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [DAPPLION](https://dapplion.github.io) - nan
 
@@ -2724,7 +2724,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://meedu.app/banner.jpg)
 
@@ -2736,7 +2736,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Dave's Tech Blog](http://www.davidbritch.com) - A blog about cross-platform software development for iOS and Android using Xamarin.Forms.
 
@@ -2746,7 +2746,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Anton Davydov](http://davydovanton.com) - nan
 
@@ -2756,7 +2756,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://daybrush.com/logo.png)
 
@@ -2768,7 +2768,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Daniel D. Sjoberg](https://www.danieldsjoberg.com) - nan
 
@@ -2778,7 +2778,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [delvedor](http://delved.org) - Tomas Della Vedova is a Software Engineer.
 
@@ -2788,7 +2788,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Denis Isidoro](https://denisidoro.github.io) - nan
 
@@ -2798,7 +2798,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Denys Dovhan](https://denysdovhan.com) - nan
 
@@ -2808,7 +2808,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://files.mastodon.social/accounts/avatars/000/363/789/original/923d075045f9bb3f.jpg)
 
@@ -2820,7 +2820,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [JASON Format](https://jasonformat.com) - WMR App
 
@@ -2830,7 +2830,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://parceljs.org/assets/home-og.png)
 
@@ -2842,7 +2842,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [- Jeon Suyeol](https://xoul.kr) - I'm a software engineer in Seoul.
 
@@ -2852,7 +2852,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://yt3.googleusercontent.com/ytc/APkrFKa8FSy-h9UhY-Smy5MOKIctdZ-htZZTuTTNYVOk4HioFg=s900-c-k-c0x00ffffff-no-rj)
 
@@ -2864,7 +2864,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://it.schwarz/var/site/storage/images/_aliases/16_9_xs_12_2x/4/0/8/9/69804-11-ger-DE/32f3ab350b35-MicrosoftTeams-image-13-.png)
 
@@ -2876,7 +2876,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [硬盘在歌唱](https://disksing.com) - nan
 
@@ -2886,7 +2886,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1602579228163248133/BglVXjzP_normal.jpg)
 
@@ -2898,7 +2898,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Donne Martin](http://donnemartin.com) - nan
 
@@ -2908,7 +2908,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://open-graph-image.theguild.workers.dev/?product=GUILD&title=GraphQL%20Tools)
 
@@ -2920,7 +2920,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -2932,7 +2932,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://avatars.githubusercontent.com/u/6354026?v=4?s=400)
 
@@ -2944,7 +2944,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Dy1an](https://dy1an.xyz) - nan
 
@@ -2954,7 +2954,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://dylburger.com/favicon.ico)
 
@@ -2966,7 +2966,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Evan Huus - Home](https://eapache.github.io) - nan
 
@@ -2976,7 +2976,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Edenhill services](http://www.edenhill.se) - nan
 
@@ -2986,7 +2986,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Edmorley](https://www.linkedin.com/in/edmorley) - nan
 
@@ -2996,7 +2996,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Articles-Eric Fritz](http://www.eric-fritz.com) - nan
 
@@ -3006,7 +3006,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [EGOIST](https://egoist.sh) - nan
 
@@ -3016,7 +3016,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [emersion](https://emersion.fr) - nan
 
@@ -3026,7 +3026,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [I Like Big Bits](http://www.ilikebigbits.com) - nan
 
@@ -3036,7 +3036,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Nick Raienko](http://enaqx.com) - nan
 
@@ -3046,7 +3046,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://ozturkenes.s3.eu-central-1.amazonaws.com/og.png)
 
@@ -3058,7 +3058,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Enjoy-Digital FPGA-based design services and Open-Source](http://www.enjoy-digital.fr) - nan
 
@@ -3068,7 +3068,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [About me - Erez Rokah](https://erezro.com/pages/about-me) - nan
 
@@ -3078,7 +3078,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.erezsh.com/me2.jpg)
 
@@ -3090,7 +3090,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [| posts](https://ericchiang.github.io) - nan
 
@@ -3100,7 +3100,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://ericclemmons.com/api/og.png?title=Home)
 
@@ -3112,7 +3112,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Erik Bernhardsson](https://erikbern.com) - nan
 
@@ -3122,7 +3122,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Machine Learns - Eren Golge's blog](https://www.erogol.com) - nan
 
@@ -3132,7 +3132,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Made by Evan](http://madebyevan.com) - nan
 
@@ -3142,7 +3142,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://facundoolano.github.io/assets/img/inchequeable.png)
 
@@ -3154,7 +3154,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jacobgadikian](https://linkedin.com/in/jacobgadikian) - nan
 
@@ -3164,7 +3164,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://arslan.io/content/images/2022/09/IMG_0099-2.jpeg)
 
@@ -3176,7 +3176,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Favonia](https://favonia.org) - nan
 
@@ -3186,7 +3186,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg)
 
@@ -3198,7 +3198,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Feisky](https://feisky.xyz) - nan
 
@@ -3208,7 +3208,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://felipeelia.dev/wp-content/uploads/2017/09/query-posts.jpg)
 
@@ -3220,7 +3220,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://felipefialho.com/assets/og-image.jpg)
 
@@ -3232,7 +3232,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://cdn.nlark.com/yuque/0/2019/png/84137/1554109476473-avatar/12333ad4-130b-4a3f-9750-485fed0ea928.png)
 
@@ -3244,7 +3244,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [|](https://chenfengyuan.com) - nan
 
@@ -3254,7 +3254,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [& - wORdPRes5](https://yooooo.us) - wORdPRes5
 
@@ -3264,7 +3264,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [inicio](https://fiatjaf.com) - Voces veem? Veem a historia? Veem alguma coisa? Me parece que estou tentando lhes contar um sonho  fazendo uma tentativa inutil, porque nenhum relato de sonho pode transmitir a sensacao de sonho, aquela mistura de absurdo, surpresa e espanto numa excitacao de revolta tentando se impor, aquela noca
 
@@ -3274,7 +3274,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://filiph.net/img/share-image.jpg)
 
@@ -3286,7 +3286,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Felix kling](https://felix-kling.de) - nan
 
@@ -3296,7 +3296,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Flavio F Lima - Developer](https://flavioflima.com) - Frontend and Mobile Developer experienced with ReactJS, Angular, React-Native and Ionic 3
 
@@ -3306,7 +3306,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://nandovieira.com/images/logo-fb.png)
 
@@ -3318,7 +3318,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [fonsp.com](https://fonsp.com) - My homepage https://fonsp.com/
 
@@ -3328,7 +3328,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Philip Jagenstedt](https://foolip.org) - Pretentious Nonsense
 
@@ -3338,7 +3338,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [marekfort.com - marekfort Resources and Information.](https://marekfort.com) - marekfort.com is your first and best source for all of the information youre looking for. From general topics to more of what you would expect to find here, marekfort.com has it all. We hope you find what you are searching for!
 
@@ -3348,7 +3348,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://francislavoie.me](https://francislavoie.me) - nan
 
@@ -3358,7 +3358,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://frenck.dev/wp-content/uploads/2019/05/frenck-600x315-cropped.jpg)
 
@@ -3370,7 +3370,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Frgfm](https://linkedin.com/in/frgfm) - nan
 
@@ -3380,7 +3380,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://frostming.com/api/og)
 
@@ -3392,7 +3392,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Francisco Souza](https://fsouza.blog) - nan
 
@@ -3402,7 +3402,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Fulmicoton, Paul Masurel's blog](http://fulmicoton.com) - nan
 
@@ -3412,7 +3412,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [FuWei](https://fuweid.com) - nan
 
@@ -3422,7 +3422,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Marmelab](https://marmelab.com) - nan
 
@@ -3432,7 +3432,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Georgios Konstantopoulos-CTO & Research Partner at Paradigm](https://gakonst.com) - The personal website of Georgios Konstantopoulos
 
@@ -3442,7 +3442,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://s0.wp.com/i/blank.jpg)
 
@@ -3454,7 +3454,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://1m2019.com](https://1m2019.com) - nan
 
@@ -3464,7 +3464,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://live.staticflickr.com/65535/50361219813_ca58f690ee_b.jpg)
 
@@ -3476,7 +3476,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [gopherhub.org](https://blog.gopherhub.org) - nan
 
@@ -3486,7 +3486,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Yoni Goldberg](https://www.goldbergyoni.com) - nan
 
@@ -3496,7 +3496,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://greweb.me//logo.svg)
 
@@ -3508,7 +3508,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://anl.gg/api/og/home?og=eyJ0aXRsZSI6IkFzayUyMGFuZCUyMExlYXJuIiwiZG9tYWluIjoiYW5sLmdnIiwiZm9sbG93ZXJzIjoxMSwicGhvdG8iOiJodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0MTE3OTM2MzM0MS9TeWZNajVBRVkucG5nIiwibWV0YSI6ImdyZWF0Z2hvdWwlMjAlRTclOUElODQlRTQlQjglQUElRTQlQkElQkElRTUlOEQlOUElRTUlQUUlQTIlRUYlQkMlOEMlRTglQUUlQjAlRTUlQkQlOTUlRTclOTQlOUYlRTYlQjQlQkIlRUYlQkMlOEMlRTUlQUQlQTYlRTQlQjklQTAlRUYlQkMlOEMlRTclQkMlOTYlRTclQTglOEIlRTQlQkIlQTUlRTUlOEYlOEElRTUlQjclQTUlRTUlODUlQjclRTMlODAlODIiLCJmYXZpY29uIjoiaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDE4NzAxMzkyMjAvamtrSFUtMHUwLnBuZyIsImFydGljbGVzIjo5N30=)
 
@@ -3520,7 +3520,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://greyli.com/wp-content/uploads/2020/07/avatar.jpg)
 
@@ -3532,7 +3532,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Pierre-Louis Guidez](https://guidez.pl) - Pierre-Louis Guidez' website
 
@@ -3542,7 +3542,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Gunnar Morling](https://www.morling.dev) - nan
 
@@ -3552,7 +3552,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Guolinke](https://www.linkedin.com/in/guolinke) - nan
 
@@ -3562,7 +3562,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Gabriel Volpe](https://gvolpe.com) - nan
 
@@ -3572,7 +3572,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Home](https://hacdias.com) - Henrique is nearly graduating from his Master's in Computer Science and Engineering while working on decentralizing the web at Protocol Labs.
 
@@ -3582,7 +3582,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Hadley Wickham](http://hadley.nz) - nan
 
@@ -3592,7 +3592,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://hamel.dev/quarto.png)
 
@@ -3604,11 +3604,11 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://hanxiao.io/wechaticon.png)
 
-[Han Xiao Tech Blog - Neural Search & AI Engineering](https://hanxiao.io) - Read more about "5x Speedup on CICD via Github Action's Strategy.Matrix" published in 2021, and "Primitive Data Types in Neural Search System" published in 2020, and "Benchmark a Decentralized Search System on 79 Past Releases" published in 2020, and "Mindspore-Powered Neural Search in Jina" publish... and more deep learning on Han Xiao Tech Blog - Neural Search & AI Engineering
+[Han Xiao Tech Blog - Neural Search & AI Engineering](https://hanxiao.io) - Read more about "5x Speedup on CICD via Github Action's Strategy.Matrix" published in 2021, and "Primitive Data Types in Neural Search System" published in 2020, and "Benchmark a Decentralized Search System on 79 Past Releases" published in 2020, and "Mindspore-Powered Neural Search in Jina" publish… and more deep learning on Han Xiao Tech Blog - Neural Search & AI Engineering
 
 2022-09-01T01:58:04.000Z
 
@@ -3616,7 +3616,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Home - Hassan Habib](http://www.hassanhabib.com) - nan
 
@@ -3626,7 +3626,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Tiny USB](https://www.tinyusb.org) - nan
 
@@ -3636,7 +3636,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://elizas.website](https://elizas.website) - nan
 
@@ -3646,7 +3646,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Hemanth.HM's paws on tech.](http://h3manth.com) - Experiments on web, cli and more!
 
@@ -3656,7 +3656,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://iscinumpy.dev/images/avatar.jpg)
 
@@ -3668,7 +3668,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1493002552061067265/Z4w6fydn_normal.jpg)
 
@@ -3680,7 +3680,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Hoang Vo-Full-stack Developer](https://hoangvvo.com) - I am a Full-stack developer focused on building beautiful and high-performance system using cutting-edge technologies.
 
@@ -3690,7 +3690,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Henrik Rydgard](http://www.henrikrydgard.com) - nan
 
@@ -3700,7 +3700,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Technical Blog of Richard Hughes Blog about geeky stuff](https://blogs.gnome.org/hughsie) - nan
 
@@ -3710,7 +3710,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Humitos](https://elblogdehumitos.com) - el blog de Manuel Kaufmann -- comunicando mi vida a la sociedad
 
@@ -3720,7 +3720,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://huozhi.im/opengraph-image.png?013655a49dbb499d)
 
@@ -3732,7 +3732,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [dooboolab](https://dooboolab.com) - Opensource community and startup accelerator
 
@@ -3742,7 +3742,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://connortumbleson.com/content/images/2020/11/connor-tumbleson-speaking.x36254-2.jpg)
 
@@ -3754,7 +3754,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [「日常」](http://yuuko.cn) - nan
 
@@ -3764,7 +3764,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Xinzhao's Blog](https://xinzhao.me) - nan
 
@@ -3774,7 +3774,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Ibraheem Ahmed-Software Developer](https://ibraheem.ca) - Freelance software developer interested in concurrency, systems programming, and web servers.
 
@@ -3784,7 +3784,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://cdn.armbian.com/wp-content/uploads/2022/01/xfcezaslon.png)
 
@@ -3796,7 +3796,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [JJ Kasper](https://jjsweb.site) - JJ Kasper's personal website
 
@@ -3806,7 +3806,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Flutter 4 Fun](https://flutter4fun.com) - nan
 
@@ -3816,7 +3816,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Ben's front door page](https://imbushuo.net) - Ben (imbushuo)'s front page to blog and projects.
 
@@ -3826,7 +3826,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://miro.medium.com/v2/resize:fit:650/1*9h05j8qC6sNrZqrYSOVPHw.png)
 
@@ -3838,7 +3838,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Andreas Kloeckner](http://andreask.cs.illinois.edu/aboutme) - nan
 
@@ -3848,7 +3848,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/932637040474316801/mhtK0Y2u_normal.jpg)
 
@@ -3860,7 +3860,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [codeotaku](http://www.codeotaku.com) - nan
 
@@ -3870,7 +3870,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Ibrahim Serdar's Blog](http://isacikgoz.me) - I am somewhere in space & time. On top of it, I literally wonder  where do I actually exist! So, here you are and wondering what is  this all about? This is my personal blog that I would like to share
 
@@ -3880,7 +3880,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Geoffs Braindump](https://itzg.github.io) - A spot on the internet where I post random articles, notes, and things I have figured out.
 
@@ -3890,7 +3890,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jackson Harper](https://jacksonh.org) - nan
 
@@ -3900,7 +3900,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jacob Bednarz Caffeine fueled rants on all things PHP, Ruby and DevOps related.](https://jacobbednarz.com) - nan
 
@@ -3910,7 +3910,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [jacogr.info](https://jacogr.info) - nan
 
@@ -3920,7 +3920,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jake VanderPlas](http://www.vanderplas.com) - Home page of Jake VanderPlas
 
@@ -3930,7 +3930,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [jamie: the website](https://jamie.build) - nan
 
@@ -3940,7 +3940,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [jamil bou kheir](http://jamilbk.com) - nan
 
@@ -3950,7 +3950,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [jaraco.com](https://www.jaraco.com) - Personal website of Jason R. Coombs
 
@@ -3960,7 +3960,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jared Palmer](https://jaredpalmer.com) - Principal Software Engineer at Vercel. Founder of Turborepo (acquired by Vercel). Creator of Formik, Razzle, Backpack, After.js, The Platform, and Dozens of Other Open Source Projects in the React and Node Ecosystems.
 
@@ -3970,7 +3970,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://i0.wp.com/jasontaylor.dev/wp-content/uploads/2017/03/cropped-jason.jpg?fit=512%2C512&ssl=1)
 
@@ -3982,7 +3982,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://ccrma.stanford.edu/~jatin/images/kelso.png)
 
@@ -3994,7 +3994,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Julius Busecke](http://www.juliusbusecke.com) - Julius Busecke is an Associate Research Scientist, studying Oceanography with a focus on oceanic eddy mixing and biogechemistry.
 
@@ -4004,7 +4004,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [jcesarmobile](http://www.jcesarmobile.com) - nan
 
@@ -4014,7 +4014,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jim Crist-Harif](https://jcristharif.com) - nan
 
@@ -4024,7 +4024,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jakub T. Jankiewicz - Web Developer](https://jcubic.pl/me) - My name is Jakub T. Jankiewicz. I'm Web Developer from Poland. I Love to work with JavaScript, jQuery library and CSS.
 
@@ -4034,7 +4034,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [jdhao's digital space](https://jdhao.github.io) - A blog for the patient and curious people
 
@@ -4044,7 +4044,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://jeffy.info/static/34.png)
 
@@ -4056,11 +4056,11 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://i0.wp.com/jeremy.hu/wp-content/uploads/site-logo.png?fit=1200%2C514&quality=80&ssl=1)
 
-[Jeremy Herve-That's me. And my blog. In English and in French.](https://jeremy.hu) - I am a Jetpack Mechanic at Automattic. I blog about Jetpack and WordPress, but also about many random things: TV Series, Music, movies...
+[Jeremy Herve-That's me. And my blog. In English and in French.](https://jeremy.hu) - I am a Jetpack Mechanic at Automattic. I blog about Jetpack and WordPress, but also about many random things: TV Series, Music, movies…
 
 2022-09-01T01:58:04.000Z
 
@@ -4068,7 +4068,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://jennybryan.org/twitter-card.jpg)
 
@@ -4080,7 +4080,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jeremybarbet](http://www.jeremybarbet.com) - nan
 
@@ -4090,11 +4090,11 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://blog.jessfraz.com/img/share.png)
 
-[Ramblings from Jessie: Home](https://blog.jessfraz.com) - The blog of Jessie Frazelle, hacker of all things: systems, kernels, operating systems, etc...
+[Ramblings from Jessie: Home](https://blog.jessfraz.com) - The blog of Jessie Frazelle, hacker of all things: systems, kernels, operating systems, etc…
 
 2022-09-01T01:58:04.000Z
 
@@ -4102,7 +4102,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jake Zimmerman](https://jez.io) - Types enthusiast. I write code and blog.
 
@@ -4112,7 +4112,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [John Hawthorn](https://jhawthorn.com) - John Hawthorn's blog
 
@@ -4122,7 +4122,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jhumphries131](https://www.linkedin.com/in/jhumphries131) - nan
 
@@ -4132,7 +4132,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Joel Hawksley](https://hawksley.org) - Joel Hawksley is a software engineer based in Colorado.
 
@@ -4142,7 +4142,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [The Koster lab: Algorithms for reproducible bioinformatics](https://koesterlab.github.io) - nan
 
@@ -4152,7 +4152,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [John Kerl's home page](http://johnkerl.org) - Home page of John Kerl
 
@@ -4162,7 +4162,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [午夜咖啡](http://jolestar.com) - Jolestar   jolestar-blog
 
@@ -4172,7 +4172,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jonatan Kosko](https://jonatanklosko.com) - nan
 
@@ -4182,7 +4182,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://miro.medium.com/v2/resize:fit:2400/1*NyyJU7w23Itjr15RYCawRA.jpeg)
 
@@ -4194,7 +4194,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jon Gjengset](https://thesquareplanet.com) - PhD Student, Software Engineer and problem solver
 
@@ -4204,7 +4204,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jose Diaz-Gonzalez](http://josediazgonzalez.com) - nan
 
@@ -4214,7 +4214,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Don't Panic](https://commaok.xyz) - Words about Go
 
@@ -4224,7 +4224,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://s3-ap-southeast-1.amazonaws.com/joshen.me/assets/banner.png)
 
@@ -4236,7 +4236,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://joaopedro.dev/content/images/2021/02/OG-Template.png)
 
@@ -4248,7 +4248,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jpillora](https://jpillora.com) - nan
 
@@ -4258,7 +4258,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Josh Larson](https://jplhomer.org) - nan
 
@@ -4268,7 +4268,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [J-P Nurmi](https://jpnurmi.github.io) - nan
 
@@ -4278,7 +4278,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [JP Simard - Swift Developer](https://www.jpsim.com) - tl;dr; Implementing SwiftLint using SwiftSyntax instead of SourceKitten would make it run over 20x slower  Update: Since writing this post, I learnt
 
@@ -4288,7 +4288,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Advies en zo - Meedenken en -doen](http://adviesenzo.nl) - Advies en zo - Meedenken en -doen. Consultancy en advies voor midden- en kleinbedrijf alsmede non-profit organisaties. Webdesign en webbouw die voldoet aan de wereldwijde standards.
 
@@ -4298,7 +4298,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://res.cloudinary.com/jsjoeio/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_760,c_fit,co_rgb:ffffff,g_south_west,x_480,y_254,l_text:Heebo_64_bold:Vim%20for%20VSCode%3A%20Learn%20to%20use%20Vim%20inside%20your%20favorite%20editor/vim-for-vscode-og-template)
 
@@ -4310,7 +4310,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://jspahrsummers.com/wp-content/uploads/2021/04/justin-spahr-summers.jpg)
 
@@ -4322,7 +4322,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://s0.wp.com/i/blank.jpg)
 
@@ -4334,7 +4334,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jesse Szwedko Jesse Szwedko](http://jesseszwedko.com) - Blogging about Golang, continuous deployment, and whatever else I happen to be working on.
 
@@ -4344,7 +4344,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Blog - Jeremy Tuloup](https://jtp.io) - nan
 
@@ -4354,7 +4354,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Official](https://xraph.com) - Rex Isaac Raphael a senior fullstack web-mobile developer, with over 9 years experience
 
@@ -4364,7 +4364,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://juliasilge.com/img/illustrated_blog_avatar.png)
 
@@ -4376,7 +4376,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1108502565925326850/zPsBf2BI_normal.png)
 
@@ -4388,7 +4388,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Julien Schmidt](https://julienschmidt.com) - Julien Schmidt - Backend Engineer, Go Developer, Computer Science Student in Munich
 
@@ -4398,7 +4398,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://miro.medium.com/v2/resize:fit:2400/1*SEq7BnmpsLOUtf7s85YRGA.png)
 
@@ -4410,7 +4410,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [sink](https://sink.io) - Old hopes retirement home
 
@@ -4420,7 +4420,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1018607115/4c22b3702bddafirefox_normal.jpg)
 
@@ -4432,7 +4432,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Lost in Technopolis](http://www.newartisans.com) - Musings on technology and other joyful subjects
 
@@ -4442,7 +4442,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://rainbow.me/profile/images/social-card.png)
 
@@ -4454,7 +4454,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Kadir nar](https://www.linkedin.com/in/kadir-nar) - nan
 
@@ -4464,7 +4464,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://kamilogorek.com/assets/images/photo.jpg)
 
@@ -4476,7 +4476,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://upleveled.io/social-img.jpg)
 
@@ -4488,7 +4488,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Kazuho's Weblog](http://blog.kazuhooku.com) - nan
 
@@ -4498,7 +4498,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://kdy1.dev/api/og/home?og=eyJ0aXRsZSI6ImtkeTEuZGV2IiwiZG9tYWluIjoia2R5MS5kZXYiLCJmb2xsb3dlcnMiOjAsImJnY29sb3IiOiIjNkQ0QzQxIiwiaXNUZWFtIjp0cnVlLCJhcnRpY2xlcyI6Nn0=)
 
@@ -4510,7 +4510,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Keith Smiley](https://smileykeith.com) - nan
 
@@ -4520,7 +4520,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Kenji miyake](https://www.linkedin.com/in/kenji-miyake) - nan
 
@@ -4530,7 +4530,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://kennykerr.ca/image.jpg)
 
@@ -4542,7 +4542,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://res.cloudinary.com/kentcdodds-com/image/upload/$th_1256,$tw_2400,$gw_$tw_div_24,$gh_$th_div_12/co_white,c_fit,g_north_west,w_$gw_mul_10,h_$gh_mul_7,x_$gw_mul_1.3,y_$gh_mul_1.5,l_text:kentcdodds.com:Matter-Regular.woff2_110:Helping%2520people%2520make%2520the%2520world%2520a%2520better%2520place%2520through%2520quality%2520software./c_fit,g_north_west,r_max,w_$gw_mul_4,h_$gh_mul_3,x_$gw,y_$gh_mul_8,l_kent:profile-transparent/co_rgb:a9adc1,c_fit,g_north_west,w_$gw_mul_5.5,h_$gh_mul_4,x_$gw_mul_4.5,y_$gh_mul_9,l_text:kentcdodds.com:Matter-Regular.woff2_70:Kent%20C.%20Dodds/co_rgb:a9adc1,c_fit,g_north_west,w_$gw_mul_5.5,x_$gw_mul_4.5,y_$gh_mul_9.8,l_text:kentcdodds.com:Matter-Regular.woff2_40:kentcdodds.com/c_fit,g_east,w_$gw_mul_11,h_$gh_mul_11,x_$gw,l_kentcdodds.com:illustrations:kody-flying_blue/c_fill,w_$tw,h_$th/kentcdodds.com/social-background.png)
 
@@ -4554,7 +4554,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Ken Wheeler](http://kenwheeler.github.io) - nan
 
@@ -4564,7 +4564,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Keon's Blog](https://keon.github.io) - A blog about deep learning, reinforcement learning, distributed computing and web technologies.
 
@@ -4574,7 +4574,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Kevin Chappell Web Consultant](https://kevin-chappell.com) - nan
 
@@ -4584,7 +4584,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://64.media.tumblr.com/avatar_48ef05974d93_128.pnj)
 
@@ -4596,7 +4596,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://ik.imagekit.io/fpjzhqpv1/dendron_vector-1200_HWGf65kj5.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663095495206)
 
@@ -4608,7 +4608,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Indoor Vivants](https://blog.indoorvivants.com) - nan
 
@@ -4618,7 +4618,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Kianenigma](https://kianenigma.nl) - nan
 
@@ -4628,7 +4628,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Kishikawa Katsumi - iOS Developer](https://kishikawakatsumi.com) - nan
 
@@ -4638,7 +4638,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Full Stack Developer and Entrepreneur-Paul Copplestone](https://paul.copplest.one) - Techie and entrepreneur
 
@@ -4648,7 +4648,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Klaus Post](http://klauspost.com) - nan
 
@@ -4658,7 +4658,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://www.garret.ru](https://www.garret.ru) - nan
 
@@ -4668,9 +4668,9 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
-[Home](https://knolleary.net) - Hello.   {% for post in site.posts %}     {% unless post.next %}         {{ post.date-date: '%Y' }}              {% else %}         {% capture year %}{{ post.date-date: '%Y' }}{% endcapture %} ...
+[Home](https://knolleary.net) - Hello.   {% for post in site.posts %}     {% unless post.next %}         {{ post.date-date: '%Y' }}              {% else %}         {% capture year %}{{ post.date-date: '%Y' }}{% endcapture %} …
 
 2022-09-01T01:58:04.000Z
 
@@ -4678,7 +4678,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Krasimir Tsonev - developer with over 15 years of experience](http://krasimirtsonev.com) - Krasimir Tsonev - developer with over 10 years of experience
 
@@ -4688,7 +4688,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/413843118031503360/xCeRq7Oc_normal.jpeg)
 
@@ -4700,7 +4700,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [nivenly.com](https://nivenly.com) - Kris Nova is a computer scientist, alpinist, author, public speaker and transgender advocate best known for her work on Linux and Kubernetes.
 
@@ -4710,7 +4710,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Codi](http://codi.sh) - nan
 
@@ -4720,7 +4720,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.merowing.info/content/images/2022/07/ORG_DSC01370-6.JPG)
 
@@ -4732,7 +4732,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://images.velog.io/velog.png)
 
@@ -4744,7 +4744,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Python for Network Engineers](http://pynet.twb-tech.com) - nan
 
@@ -4754,7 +4754,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Kyle Carberry](https://carberry.com) - I work at Coder.
 
@@ -4764,7 +4764,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Kyle Conroy's Personal Blog](https://conroy.org) - nan
 
@@ -4774,7 +4774,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Kyle Fuller](https://fuller.li) - nan
 
@@ -4784,7 +4784,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [卡瓦邦噶！-无法自制的人得不到自由。](https://www.kawabangga.com) - SRE  Linux, Vim, Tmux, NixOS, Python, TCP/IP, Docker, Ansible, Git, Redis, Prometheus, Shell, GNU, C, Unix, Nginx, Lua, Django, React
 
@@ -4794,7 +4794,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [| a.programming.blog](https://who.ldelossa.is) - nan
 
@@ -4804,7 +4804,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://archsofty.files.wordpress.com/2020/04/cropped-screen-shot-2020-04-28-at-12.33.18-pm.png?w=200)
 
@@ -4816,7 +4816,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://leerob.io/opengraph-image.jpg?08cbfb4bd54383b5)
 
@@ -4828,7 +4828,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://leighmcculloch.com/images/c-bg-lightsshadow-square-500.png)
 
@@ -4840,7 +4840,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Leo Cavalcante - Developer](https://leocavalcante.dev) - Talk is cheap. Show me the code.
 
@@ -4850,7 +4850,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://miro.medium.com/v2/resize:fit:2400/1*bRzPJhcsIZVKzvdoJIhMTQ.jpeg)
 
@@ -4862,7 +4862,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [lewisr.dev](https://lewisr.dev) - GitHub: lewis6991 Linkedin: profile Email: me@lewisr.dev
 
@@ -4872,7 +4872,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Lewis Tunstalls Blog](https://lewtun.github.io/blog) - Posts on machine learning, physics, and topology at irregularly spaced intervals.
 
@@ -4882,7 +4882,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Homepag](https://gladdy.uk) - nan
 
@@ -4892,7 +4892,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Liam DeBeasi-Software Engineer](http://liamdebeasi.com) - Liam DeBeasi is a software engineer working at Ionic
 
@@ -4902,7 +4902,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [liamg](https://www.liam-galvin.co.uk) - A disjointed blog about security, engineering, open source, and linux
 
@@ -4912,7 +4912,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [lidel-Marcin Rataj](https://lidel.org) - How I learned to stop worrying and love converting oxygen into carbon dioxide
 
@@ -4922,7 +4922,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jimmy Lin Homepage](https://cs.uwaterloo.ca/~jimmylin) - nan
 
@@ -4932,7 +4932,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://gravatar.com/avatar/a8518c33a76987dd41dd26497563fee9?d=identicon&r=x&s=512)
 
@@ -4944,7 +4944,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1403728787011948546/Xde0L7Tk_normal.jpg)
 
@@ -4956,7 +4956,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.paypalobjects.com/webstatic/paypalme/images/social/pplogo384.png)
 
@@ -4968,7 +4968,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Lachlan Miller](https://lachlan-miller.me) - Technical articles, projects and general musings about software by Lachlan Miller.
 
@@ -4978,7 +4978,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Damodar Lohani-Mentor, Trainer & Tech Consultantr-Damodar Lohani](https://dlohani.com.np) - Description will go into a meta tag in
 
@@ -4988,7 +4988,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [long2ice's homepage](https://www.long2ice.io) - nan
 
@@ -4998,7 +4998,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://hyperbo.la/hyperbola-logo.png)
 
@@ -5010,7 +5010,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [About](https://univalence.me) - nan
 
@@ -5020,7 +5020,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://lovell.info/lovell-192.jpg)
 
@@ -5032,7 +5032,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://simon.lecoq.io/@/hotlink-ok/icon-og.png)
 
@@ -5044,7 +5044,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Luke Melas-Kyriazi](https://lukemelas.github.io) - nan
 
@@ -5054,7 +5054,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Watzmann.Blog - Home](http://watzmann.net) - nan
 
@@ -5064,7 +5064,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Lutz Roeder](https://lutzroeder.com) - Software Architect at Microsoft. Working on Visual Studio. Creator of the Netron AI visualizer
 
@@ -5074,7 +5074,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Marcin Gebala](https://marcingebala.com) - A software engineer building web apps in Python, GraphQL and React. Based in Wrocaw, Poland.
 
@@ -5084,7 +5084,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Maciej Walkowiak - Freelance Java Spring Developer - Maciej Walkowiak - Freelance Java Spring Developer](https://maciejwalkowiak.com) - Senior Software Consultant specializing in Java and Spring
 
@@ -5094,7 +5094,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://mathias.fi/mathias-fredriksson.jpg)
 
@@ -5106,7 +5106,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://jlwagner.net/img/social/jeremy-thumb-social.jpg)
 
@@ -5118,7 +5118,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [ManateeLazyCat](https://manateelazycat.github.io) - nan
 
@@ -5128,7 +5128,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Blag](https://manicminer.io) - nan
 
@@ -5138,7 +5138,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Mark Dalgleish](https://markdalgleish.com) - Web Components are going to fundamentally change the nature of HTML. At first glance, they may seem like a complicated set of new technologies, but
 
@@ -5148,7 +5148,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [mbonnin's blog-rabbits, computer science and the meaning of life](https://mbonnin.net) - nan
 
@@ -5158,7 +5158,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [About me](https://martinfleischmann.net) - nan
 
@@ -5168,7 +5168,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Matthew Feickert](http://www.matthewfeickert.com) - Matthew is a postdoctoral researcher in experimental high energy physics and data science at the American Family Insurance Data Science Institute at the University of Wisconsin-Madison working on the ATLAS experiment and IRIS-HEP.
 
@@ -5178,7 +5178,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://standupjack.com/static/images/card-wide.png)
 
@@ -5190,7 +5190,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://dotnetdevaddict.files.wordpress.com/2016/09/addict.png)
 
@@ -5202,7 +5202,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://avatars.githubusercontent.com/u/8210?v=4?s=400)
 
@@ -5214,7 +5214,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Logan McAnsh](https://mcan.sh) - personal website for logan mcansh
 
@@ -5224,7 +5224,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Matt Solomon](https://mattsolomon.dev) - Matt Solomon's Website
 
@@ -5234,7 +5234,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.paloaltonetworks.com/etc/clientlibs/pan-templates/seoimages/social-panw.png)
 
@@ -5246,7 +5246,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Lianmin Zheng](http://lmzheng.net) - About me
 
@@ -5256,7 +5256,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://s3.amazonaws.com/keybase_processed_uploads/0409ce055885eacc522beb744c4ff305_360_360.jpg)
 
@@ -5268,7 +5268,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Mfridman](https://mfridman.com) - Containerized and rewritten in Go. Build things. Teamwork.
 
@@ -5278,7 +5278,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Imposter!](https://mfrw.github.io) - Notes from someone pretending!
 
@@ -5288,7 +5288,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Personal weblog about programming, linux, life, the universe and everything](https://zignar.net) - nan
 
@@ -5298,7 +5298,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://blog.mgechev.com/images/myself.jpg)
 
@@ -5310,7 +5310,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://novemberain.com](https://novemberain.com) - nan
 
@@ -5320,7 +5320,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Michael Osthege](https://mosthege.net) - Timeline of Projects-CV
 
@@ -5330,7 +5330,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Miguel de Icaza](http://tirania.org/blog) - Miguel de Icaza's Blog
 
@@ -5340,7 +5340,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Psychoinformatics Psychoinformatics](http://psychoinformatics.de) - nan
 
@@ -5350,7 +5350,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [mikecao.com](https://mikecao.com) - nan
 
@@ -5360,7 +5360,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Mikermcneil](https://linkedin.com/in/mikermcneil) - nan
 
@@ -5370,7 +5370,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://mingrammer.com/images/avatar.png)
 
@@ -5382,7 +5382,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://github.com/mishmanners/PubImages/blob/main/WebsiteImages/MishMannersInfo2.png?raw=true)
 
@@ -5394,7 +5394,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Mislav's website](https://mislav.net) - Mislav makes open source software.
 
@@ -5404,7 +5404,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1186496936771084288/5DoO0opd_normal.jpg)
 
@@ -5416,7 +5416,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Mkm](https://mkm.pub) - nan
 
@@ -5426,7 +5426,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://s3.amazonaws.com/mokacoding/mokacoding_og_image.jpg)
 
@@ -5438,7 +5438,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://static.magnum.graphics/img/blog/announcements/a-decade-of-magnum.jpg)
 
@@ -5450,7 +5450,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.dotenv.org/assets/img/default-cover-image.png)
 
@@ -5462,7 +5462,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://agafonkin.com/me.png)
 
@@ -5474,7 +5474,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Mike Perham](https://www.mikeperham.com) - Ruby, OSS and the Internet
 
@@ -5484,7 +5484,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Raible Designs-Enterprise Open Source Consulting](https://raibledesigns.com) - Raible Designs is an Enterprise Open Source Consulting company. We specialize in UI and Full Stack Architectures using HTML5, CSS, JavaScript and Java. We love HTML5, Angular, Bootstrap, Spring Boot and especially JHipster.
 
@@ -5494,7 +5494,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Thorsten Ball - Home](https://thorstenball.com) - nan
 
@@ -5504,7 +5504,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Home Mark Saroufim](http://www.marksaroufim.com) - My personal blog
 
@@ -5514,7 +5514,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://avatars.githubusercontent.com/u/312246?v=4?s=400)
 
@@ -5526,7 +5526,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [mtlynch.io](https://mtlynch.io) - Updates about my life and what I learn about creating software
 
@@ -5536,7 +5536,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [fastblog](https://muellerzr.github.io/fastblog) - An easy to use blogging platform with support for Jupyter Notebooks.
 
@@ -5546,7 +5546,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [fribbledom's Journal](https://fribbledom.com) - Geek, Gopher, Software Developer, Maker, Opensource Advocate, Tech Enthusiast, Photographer, Board and Card Gamer.
 
@@ -5556,7 +5556,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [journal.stuffwithstuff.com](http://journal.stuffwithstuff.com) - nan
 
@@ -5566,7 +5566,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Daniel Marti - mvdan.cc](https://mvdan.cc) - Personal site of Daniel Marti
 
@@ -5576,7 +5576,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Michael Waskom, PhD-About](https://mwaskom.github.io) - nan
 
@@ -5586,7 +5586,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [mwleeds](https://twitter.com/mwleeds) - nan
 
@@ -5596,7 +5596,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://avatars.githubusercontent.com/u/14338007?v=4?s=400)
 
@@ -5608,7 +5608,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [npf.io](https://npf.io) - nan
 
@@ -5618,7 +5618,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](http://www.gravatar.com/avatar/9eecfabc23fd999927fa7989a7eaff5f.png?v=2&amp;s=300)
 
@@ -5630,7 +5630,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [neilalexander.dev](https://neilalexander.dev) - nan
 
@@ -5640,7 +5640,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://i247365.net](https://i247365.net) - nan
 
@@ -5650,7 +5650,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Nilshomer](https://www.linkedin.com/in/nilshomer) - nan
 
@@ -5660,7 +5660,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Home-Charcoal Design](http://charcoaldesign.co.uk) - nan
 
@@ -5670,7 +5670,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Metaklass](http://www.metaklass.org) - nan
 
@@ -5680,7 +5680,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://nikolovlazar.com/ogimage.png)
 
@@ -5692,7 +5692,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Baby Steps](https://smallcultfollowing.com/babysteps) - nan
 
@@ -5702,7 +5702,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://secure.gravatar.com/blavatar/86a4db4d496aa2fad7e47b11a865e80cfbbbac38285b65ff518b9c98aa47f7d7?s=200&ts=1695726472)
 
@@ -5714,7 +5714,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [The thoughts of Norman Maurer and more](http://normanmaurer.me) - nan
 
@@ -5724,7 +5724,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://nornagon.net](https://nornagon.net) - nan
 
@@ -5734,7 +5734,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://040code.github.io/images/cover.jpg)
 
@@ -5746,7 +5746,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Nuclearsandwich!](http://nuclearsandwich.com) - nan
 
@@ -5756,7 +5756,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://nvbn.github.io/assets/default_card_image.png)
 
@@ -5768,7 +5768,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Blog by hung.dev](https://hung.dev) - hung.dev
 
@@ -5778,7 +5778,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://i.imgur.com/RpYJmWX.png)
 
@@ -5790,7 +5790,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://orhun.dev/img/crow.png)
 
@@ -5802,7 +5802,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Vallified - Philip O'Toole](https://www.philipotoole.com) - Philip O'Toole
 
@@ -5812,7 +5812,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://miro.medium.com/v2/resize:fit:2400/1*50xhFpycfThSltB4RsvlpA.jpeg)
 
@@ -5824,7 +5824,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://paco.me/twitter-sm.png)
 
@@ -5836,7 +5836,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [pajlada.se](https://pajlada.se) - nan
 
@@ -5846,7 +5846,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [pan.blog](https://blog.pan93.com) - nan
 
@@ -5856,7 +5856,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [patak-patak](https://patak.dev) - A VitePress site
 
@@ -5866,7 +5866,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Paulbeusterien](https://www.linkedin.com/in/paulbeusterien) - nan
 
@@ -5876,7 +5876,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Paul Irish](https://paul.irish) - nan
 
@@ -5886,7 +5886,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Paul Miller](https://paulmillr.com) - Paul Miller. I make projects which help developers to build awesome things
 
@@ -5896,7 +5896,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://paulrberg.com](https://paulrberg.com) - nan
 
@@ -5906,7 +5906,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://pbrisbin.com](https://pbrisbin.com) - nan
 
@@ -5916,7 +5916,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://penberg.org/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png)
 
@@ -5928,7 +5928,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://peterevans.dev/img/og-image.jpg)
 
@@ -5940,7 +5940,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [phaazon.net](https://phaazon.net) - nan
 
@@ -5950,7 +5950,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Oleg Grenrus - @phadej](https://oleg.fi) - nan
 
@@ -5960,7 +5960,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [JankariTech](https://www.jankaritech.com) - Creating Skills Creating Software Creating Jobs
 
@@ -5970,7 +5970,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Home Philip Walton](https://philipwalton.com) - Thoughts on web development, open source, software architecture, and the future.
 
@@ -5980,7 +5980,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.philschmid.de/static/images/twitter-card.png)
 
@@ -5992,7 +5992,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1575006844137115648/uQhan-t1_normal.jpg)
 
@@ -6004,7 +6004,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Pietro Albini](https://www.pietroalbini.org) - nan
 
@@ -6014,7 +6014,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pomb.us/static/278edcb5c9a1852fe966bf71f2cf65e5/7e0ad/screenshot.jpg)
 
@@ -6026,7 +6026,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Writing](https://no.lol) - Lauren Tan's personal blog
 
@@ -6036,7 +6036,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Paul Querna](https://paul.querna.org) - nan
 
@@ -6046,7 +6046,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Marco Pracucci](https://pracucci.com) - nan
 
@@ -6056,7 +6056,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://prakhar.me/images/skydive2.jpg)
 
@@ -6068,7 +6068,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://prideout.net/assets/sitethumb.png)
 
@@ -6080,7 +6080,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Hiroki Osame](https://hirok.io) - Hiroki Osame's personal website & blog
 
@@ -6090,7 +6090,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.zaproxy.org/img/zap-banner.png)
 
@@ -6102,7 +6102,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Sanity, Inc. sanity, inc.](https://www.sanityinc.com) - nan
 
@@ -6112,7 +6112,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1645348115996631042/TltyPssi_normal.jpg)
 
@@ -6124,7 +6124,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Hello](https://rachelandrew.co.uk) - nan
 
@@ -6134,7 +6134,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Rappasoft-Home](https://www.rappasoft.com) - Im a Full Stack/Certified Laravel Developer from Long Island, New York. I have been programming for more than 15 years and hold a B.S. in Computer Programming and Information Systems.
 
@@ -6144,7 +6144,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://razonyang.com](https://razonyang.com) - nan
 
@@ -6154,7 +6154,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [revolunet.com](https://revolunet.com) - nan
 
@@ -6164,7 +6164,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [- GolangPythonDBcluster](http://xiaorui.cc) - nan
 
@@ -6174,7 +6174,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [let author = Rudi Grinberg](http://rgrinberg.com) - nan
 
@@ -6184,7 +6184,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Rijk van Zanten](https://rijks.website) - nan
 
@@ -6194,7 +6194,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [R.I.Pienaar |](http://devco.net) - nan
 
@@ -6204,7 +6204,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Ritchie Vink](https://www.ritchievink.com) - nan
 
@@ -6214,9 +6214,9 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
-[Robert Mosolgo](http://rmosolgo.github.io) - Books I Read In 2021            January  5, 2022   Boy, its hard to believe 2021 is already over. At least there was some ...
+[Robert Mosolgo](http://rmosolgo.github.io) - Books I Read In 2021            January  5, 2022   Boy, its hard to believe 2021 is already over. At least there was some …
 
 2022-09-01T01:58:04.000Z
 
@@ -6224,7 +6224,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://robertohuertas.com/assets/images/logo.png)
 
@@ -6236,7 +6236,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://robincornett.com/wp-content/uploads/2019/12/supersideme-smtwo.jpg)
 
@@ -6248,7 +6248,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://avatars.githubusercontent.com/u/13857929?v=4?s=400)
 
@@ -6260,7 +6260,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Robmarkcole](https://www.linkedin.com/in/robmarkcole) - nan
 
@@ -6270,7 +6270,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [rob.co](https://xn--rb-fka.co) - nan
 
@@ -6280,7 +6280,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Roj](https://roj.is-a.dev) - nan
 
@@ -6290,7 +6290,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Romain Beaumont](http://rom1504.fr) - nan
 
@@ -6300,7 +6300,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [These are the wrong sort of bees](http://www.romange.com) - The wrong sort of bees
 
@@ -6310,7 +6310,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://s3.us-west-2.amazonaws.com/social-images.manning.com/rfeldman/twitter.png)
 
@@ -6322,7 +6322,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Matthias Fey-PhD student @ TU Dortmund University](https://rusty1s.github.io) - nan
 
@@ -6332,7 +6332,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Ryan Dahl](http://tinyclouds.org) - nan
 
@@ -6342,7 +6342,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Ruby on Rails Screencasts - RailsCasts](http://railscasts.com) - Short Ruby on Rails screencasts containing tips, tricks and tutorials. Great for both novice and experienced web developers.
 
@@ -6352,7 +6352,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.paritydeals.com/parity-deals.png)
 
@@ -6364,7 +6364,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Better Call Saghul](https://bettercallsaghul.com) - saghul's personal website.
 
@@ -6374,7 +6374,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://sagikazarmark.hu/img/me.jpg)
 
@@ -6386,7 +6386,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Samalba](http://www.linkedin.com/in/samalba) - nan
 
@@ -6396,7 +6396,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://uploads-ssl.webflow.com/646b4f31599a311972aa26d7/64f08d829e3b0aa4a30ce692_screeb.png)
 
@@ -6408,7 +6408,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [SAMEER NAIK](http://www.damagehead.com) - Deploying a DNS Server using Docker April 28, 2015 Hello World! October 31, 2014
 
@@ -6418,7 +6418,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Samuel Colvin](http://scolvin.com) - nan
 
@@ -6428,7 +6428,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Santiago Soler](https://www.santisoler.com) - nan
 
@@ -6438,7 +6438,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [green.sapphi.red](https://green.sapphi.red) - nan
 
@@ -6448,7 +6448,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://satwikkansal.xyz/assets/images/card.jpg?v=c37f9d5a)
 
@@ -6460,7 +6460,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1426585051379159040/RG8CUmff_normal.jpg)
 
@@ -6472,7 +6472,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [http://superduper.net/](http://superduper.net) - nan
 
@@ -6482,7 +6482,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://miro.medium.com/v2/resize:fit:2400/0*erEv4dyA5Si7iu6O.jpeg)
 
@@ -6494,7 +6494,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Aurelie Vache : Cloud Developer-DevRel-DevOps-Lead Developer-Speaker-Sketchnoter-Women in Tech-CKAD - Toulouse](http://www.scraly.com) - CV de Aurelie Vache - Developpeuse Web multi casquette et multi taches a Toulouse. Dev Java/Java EE (J2EE), HTML5/CSS3 - DevOps (Developpement et Exploitation/Production), Gestion de projet, QOS et UX.
 
@@ -6504,7 +6504,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [xmplaylist - Recently played songs and playlists from xm radio](https://xmplaylist.com) - nan
 
@@ -6514,7 +6514,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://64.media.tumblr.com/avatar_fb001f95c6f6_128.pnj)
 
@@ -6526,7 +6526,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://github.githubassets.com/images/modules/gists/gist-og-image.png)
 
@@ -6538,7 +6538,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Dimforge Home-Dimforge](https://dimforge.com) - Description will go into a meta tag in
 
@@ -6548,7 +6548,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1536383051038597121/yC2UDgyv_normal.jpg)
 
@@ -6560,7 +6560,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [SeisMan](https://seisman.info) - nan
 
@@ -6570,7 +6570,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1029254419697659904/z1QLBcPA_normal.jpg)
 
@@ -6582,7 +6582,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://seokho-son.github.io/assets/img/seokho-square-2.jpg)
 
@@ -6594,7 +6594,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Seth Michael Larson](https://sethmlarson.dev) - Blogging about Python and the Internet
 
@@ -6604,7 +6604,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.sethvargo.com/assets/images/seth-vargo.jpg)
 
@@ -6616,7 +6616,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://blog.shahednasser.com/static/d5aa518ea784e1b659b6bf9a69bd6f76/site-meta.png)
 
@@ -6628,7 +6628,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://avatars.githubusercontent.com/u/1571086?v=4?s=400)
 
@@ -6640,7 +6640,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1481072550570381315/hMBPQ9K-_normal.jpg)
 
@@ -6652,7 +6652,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://about.me/cdn-cgi/image/q=80,dpr=1,f=auto,fit=cover,w=1200,h=630,gravity=0.143x0.202/https://assets.about.me/background/users/s/i/m/simonbasle_1486462645_47.jpg)
 
@@ -6664,7 +6664,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [foolord.com](http://foolord.com) - Payton Swick. Web developer. Vegan. Tea explorer. Writes code at Automattic.
 
@@ -6674,7 +6674,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Simon Eskildsen - Sirupsen](http://sirupsen.com) - Personal website and blog of Simon Hrup Eskildsen about napkin math, computers, books, ideas, and whatever else interests me.
 
@@ -6684,7 +6684,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://miro.medium.com/v2/resize:fit:2400/1*7fu9WRY8LfME38uMh21qtA.png)
 
@@ -6696,7 +6696,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.skyzh.dev/images/skyzh.jpeg)
 
@@ -6708,7 +6708,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Romain Tartiere](https://romain.blogreen.org) - nan
 
@@ -6718,7 +6718,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [sobolevn's personal blog](https://sobolevn.me) - On good software, mediocre software, and bad software. Also rants about management and development processes.
 
@@ -6728,7 +6728,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [sorrycc's website](https://sorrycc.com) - nan
 
@@ -6738,7 +6738,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Ivanov Maksim](https://splincode.github.io) - Ivanov Maksim - splincode
 
@@ -6748,7 +6748,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [squat](https://squat.ai) - The homepage of Lucas Serven Marin, @squat on GitHub.
 
@@ -6758,7 +6758,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Main](http://rush-nlp.com) - nan
 
@@ -6768,7 +6768,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Andre Staltz](http://staltz.com) - Open Source Freelancer
 
@@ -6778,7 +6778,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Welcome to nginx!](https://stedolan.net) - nan
 
@@ -6788,7 +6788,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Stephen Celis](http://stephencelis.com) - Stephen Celis personal website
 
@@ -6798,7 +6798,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Draconian Overlord](http://draconianoverlord.com) - Oppressing Software Entropy
 
@@ -6808,7 +6808,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://stephenroller.com/ogimage.jpg)
 
@@ -6820,7 +6820,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Faed79c56de3a4ef3bf3234a52e2e3d04?width=1200)
 
@@ -6832,7 +6832,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Home Steve's Blog n Stuff](https://stevebauman.ca) - nan
 
@@ -6842,7 +6842,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1168059539406512129/oDYJjXCf_normal.jpg)
 
@@ -6854,7 +6854,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Professor Steven G. Johnson](http://math.mit.edu/~stevenj) - Home page for Professor Steven G. Johnson in the Department of Mathematics at the Massachusetts Institute of Technology (MIT)
 
@@ -6864,7 +6864,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://gis.utah.gov/images/twittercard.png)
 
@@ -6876,7 +6876,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Santos Gallegos](https://stsewd.dev) - Personal blog
 
@@ -6886,7 +6886,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Mladen Macanovic](https://mladenmacanovic.com) - Personal page and a blog.
 
@@ -6896,7 +6896,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://cdn.image.st-hatena.com/image/scale/7ac94183dc49d3e6e04b335207168623f3ae388c/backend=imager;enlarge=0;height=1000;version=1;width=1200/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F73783608%2F1514252157390461)
 
@@ -6908,7 +6908,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://crvx.fr/social_icon.jpg)
 
@@ -6920,7 +6920,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [sunfishcode's blog](https://blog.sunfishcode.online) - A blog by sunfishcode
 
@@ -6930,7 +6930,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Shunsuke Suzuki's Profile-Profile](https://suzuki-shunsuke.github.io/profile) - GitHub followers GitHub last commit
 
@@ -6940,7 +6940,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://publicobject.com/content/images/2014/Apr/butters_2.jpg)
 
@@ -6952,7 +6952,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://swharden.com/blog/img/og.png)
 
@@ -6964,7 +6964,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [debian-server-tools/CV.md at master szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools/blob/master/CV.md) - Tools and living docs  for Debian-based servers and Web Applications - debian-server-tools/CV.md at master  szepeviktor/debian-server-tools
 
@@ -6974,7 +6974,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.gravatar.com/avatar/a6e788b969834d7855749036edb5f62d?s=640)
 
@@ -6986,7 +6986,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Vojtech Miksu](https://miksu.cz) - nan
 
@@ -6996,7 +6996,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Blog metallic](https://metallic.software) - nan
 
@@ -7006,7 +7006,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://thekevinwang.com/api/og/og/Keep%20Software%20Engineering%20Soft/A%20blog%20about%20software%2C%20tech%2C%20and%20other%20stuff.)
 
@@ -7018,7 +7018,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [https://thomasloven.com](https://thomasloven.com) - nan
 
@@ -7028,7 +7028,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Dr. Thomas Rausch](https://thrau.at) - nan
 
@@ -7038,11 +7038,11 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAxOC8wMy9mMDYzZTkyODlhOTRkMGU4YmJjZWEzZTE4ZWQ2ZWUyMS5wbmdAMzAwd18wZS5qcGc%3D&creator=Micha%20Pierzchaa&design_code=2&design_color=%23FFDD00&slug=thymikee)
 
-[Micha Pierzchaa](https://www.buymeacoffee.com/thymikee) - Just writing/maintaining some open source whenever I can.Welcome to my BMC page. If you like my content, please consider buying me a coffee. Thank you for your...
+[Micha Pierzchaa](https://www.buymeacoffee.com/thymikee) - Just writing/maintaining some open source whenever I can.Welcome to my BMC page. If you like my content, please consider buying me a coffee. Thank you for your…
 
 2022-09-01T01:58:04.000Z
 
@@ -7050,7 +7050,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Tianon's Ramblings](https://tianon.xyz) - nan
 
@@ -7060,7 +7060,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://asset.logseq.com/static/img/social-banner-230118.png)
 
@@ -7072,7 +7072,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://timacdonald.me/images/pages/fallback.png)
 
@@ -7084,7 +7084,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [line37](https://line37.com) - Freelance web developer who has a passion for solving problems and making things work
 
@@ -7094,7 +7094,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Hello](https://tim.paine.nyc) - Developer, NYC
 
@@ -7104,7 +7104,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [distanz.ch - home](https://distanz.ch) - nan
 
@@ -7114,7 +7114,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1089417696066686977/PPe7YcIE_normal.jpg)
 
@@ -7126,7 +7126,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Tom](https://tom.thesnail.org) - nan
 
@@ -7136,7 +7136,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [awkweb](https://awkweb.com) - awkweb is a computer programmer based in Brooklyn.
 
@@ -7146,7 +7146,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Toby Mao](http://tobymao.com) - nan
 
@@ -7156,7 +7156,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Tom Moor](https://www.tommoor.com) - nan
 
@@ -7166,7 +7166,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [tpope](https://tpo.pe) - nan
 
@@ -7176,7 +7176,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [t11s](https://xn--2-kmb.com) - the personal website of transmissions11
 
@@ -7186,7 +7186,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Trent Mick](https://trentm.com) - Trent Mick's site
 
@@ -7196,7 +7196,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [radare](http://www.radare.org) - nan
 
@@ -7206,7 +7206,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Tuliren](https://linkedin.com/in/tuliren) - nan
 
@@ -7216,7 +7216,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Tushar Gupta-Software Developer](https://tushar5526.github.io) - Software Developer
 
@@ -7226,7 +7226,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://twiecki.io/assets/images/twiecki-headshot.jpg)
 
@@ -7238,7 +7238,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Tom Payne](http://twpayne.blogspot.com) - Paragliding Cross Country and Competitions
 
@@ -7248,7 +7248,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://marinatanasov.com/images/open-graph/marin-atanasov.jpg)
 
@@ -7260,7 +7260,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://yt3.ggpht.com/ykQ3L3OEZISlyv7GXP9o-tI7MHp3s1q4bYYkz0ORlDaucuwEZi0_GJnONlNxHG5ccbOisncvlA=s800-c-k-c0x00ffffff-no-rj)
 
@@ -7272,7 +7272,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://unixorn.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E)
 
@@ -7284,7 +7284,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Land of Unknwon](https://unknwon.io) - Unknwon's personal website
 
@@ -7294,7 +7294,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://www.utam0k.jp/img/logo.png)
 
@@ -7306,7 +7306,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Home utilForever's Programming Life!](https://utilforever.github.io) - nan
 
@@ -7316,7 +7316,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Uyarn](https://uyarn.me) - nan
 
@@ -7326,7 +7326,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://selfie-api-production.up.railway.app/selfie?url=https://vadimdemedes.com)
 
@@ -7338,7 +7338,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://github.com/opengraph.png)
 
@@ -7350,7 +7350,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Welcome](https://vchuravy.dev) - nan
 
@@ -7360,7 +7360,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Hi, I'm Vincent Demeester](https://vincent.demeester.fr) - nan
 
@@ -7370,7 +7370,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Etienne BAUDOUX](http://www.velersoftware.com) - My name is Etienne BAUDOUX, I am 30 years old and I am glad to welcome you on my personal web site.
 
@@ -7380,7 +7380,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [It is what it is!](https://blog.julienviet.com) - nan
 
@@ -7390,7 +7390,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Distributed Traces, Logs & Errors (tracing, monitoring, observability, APM)](https://uptrace.dev) - nan
 
@@ -7400,7 +7400,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [VeighNa -](https://www.vnpy.com) - nan
 
@@ -7410,7 +7410,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Costa Huang's Website](https://costa.sh) - Notablog can generate a blog from a Notion table.
 
@@ -7420,7 +7420,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Mattias Wadman](https://inwader.com) - nan
 
@@ -7430,7 +7430,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [blog -](https://kumo.xn--q9jyb4c) - nan
 
@@ -7440,7 +7440,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://start-react-native.dev/start-react-native.png)
 
@@ -7452,7 +7452,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1470817138004959238/3ytvecUX_normal.jpg)
 
@@ -7464,7 +7464,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Simon Warta](https://warta.it) - I build digital infrastructure, fell down the blockchain rabbit hole and feel comfortable there.
 
@@ -7474,7 +7474,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://ronan.eth.limo/preview.png)
 
@@ -7486,7 +7486,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Home](https://williamdurand.fr) - Hi! Im Will. Lifelong learner. OSS evangelist. (Traveler.) Cyclist. (Runner.) (Speaker.) Firefox dev. He/him. will@drnd.me-0xa509bcf1c1274f3b
 
@@ -7496,7 +7496,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Where there is a Will](https://www.willmcgugan.com) - nan
 
@@ -7506,7 +7506,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Kentaro Wada](https://wkentaro.com) - nan
 
@@ -7516,7 +7516,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [william woodruff](https://yossarian.net) - The personal website of william woodruff
 
@@ -7526,7 +7526,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [My Life](https://wsdjeg.spacevim.org) - nan
 
@@ -7536,7 +7536,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [acrimon.dev: Home](https://acrimon.dev) - nan
 
@@ -7546,7 +7546,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://avatars2.githubusercontent.com/u/70274?s=460&v=4)
 
@@ -7558,7 +7558,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [XINTAO](https://xinntao.github.io) - nan
 
@@ -7568,7 +7568,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Running Page](https://yihong.run) - Personal site and blog
 
@@ -7578,7 +7578,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://yihui.org/images/logo.png)
 
@@ -7590,7 +7590,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [iconfont-](https://www.iconfont.cn) - iconfont-
 
@@ -7600,7 +7600,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://pbs.twimg.com/profile_images/1632835786772193280/nPjr7I5G_normal.jpg)
 
@@ -7612,9 +7612,9 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
-[LoveSyKun](https://lovesykun.cn) - Just So So ...
+[LoveSyKun](https://lovesykun.cn) - Just So So …
 
 2022-09-01T01:58:04.000Z
 
@@ -7622,7 +7622,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://zeux.io/images/avatar.jpg)
 
@@ -7634,7 +7634,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 [Jamie York - I build web software and websites.](https://www.jamieyork.net) - I'm Jamie York. I build web software and websites.
 
@@ -7644,7 +7644,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/6eb31f49-99b3-4dc7-b163-cf580bd7f33f/alpacasay/public)
 
@@ -7656,7 +7656,7 @@
 
 ---
 
-## Dev-Sites
+### Dev-Sites
 
 ![](https://zserge.com/logo.png)
 

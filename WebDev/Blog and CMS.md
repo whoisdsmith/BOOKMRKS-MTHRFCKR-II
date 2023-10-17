@@ -1,6 +1,6 @@
-# Blog and CMS
-
 ## Blog and CMS
+
+### Blog and CMS
 
 [Blot A blogging platform with no interface.](https://blot.im) - Turns a folder into a blog automatically. Use your favorite text-editor to write. Text and Markdown files, Word Documents, images, bookmarks and HTML in your folder become blog posts.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Blog and CMS
+### Blog and CMS
 
 ![](https://cms.payloadcms.com/media/og-image.jpg)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Blog and CMS
+### Blog and CMS
 
 ![](https://www.drupal.org/sites/all/themes/bluecheese/images/og.jpg)
 

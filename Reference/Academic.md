@@ -1,6 +1,6 @@
-# Academic
-
 ## Academic
+
+### Academic
 
 ![](https://d20ohkaloyme4g.cloudfront.net/img/facebook/default-studocu.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Academic
+### Academic
 
 ![](https://opengraph.githubassets.com/bb026c55595051ee35b2f4f3308deaa7a3bdc620624fbfb99755b66b7bb13b4a/isanchop/stuhack)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Academic
+### Academic
 
 [Copyscape Plagiarism Checker - Duplicate Content Detection Software](https://www.copyscape.com) - Copyscape is a free plagiarism checker. The software lets you detect duplicate content and check if your text is original.
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Academic
+### Academic
 
 [iSEEK - Education](https://education.iseek.com/iseek/home.page) - nan
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Academic
+### Academic
 
 [lumendatabase.org](https://lumendatabase.org) - nan
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Academic
+### Academic
 
 [Sci-hub.ru](https://sci-hub.ru) - nan
 
@@ -64,7 +64,7 @@
 
 ---
 
-## Academic
+### Academic
 
 [ArnetMiner - Academic Researcher Social Network Search](http://arnetminer.org) - AMiner3.2/1.33
 
@@ -74,7 +74,7 @@
 
 ---
 
-## Academic
+### Academic
 
 [Google Scholar](http://scholar.google.de) - Google Scholar provides a simple way to broadly search for scholarly literature. Search across a wide variety of disciplines and sources: articles, theses, books, abstracts and court opinions.
 
@@ -84,7 +84,7 @@
 
 ---
 
-## Academic
+### Academic
 
 [Microsoft Academic Search](http://academic.research.microsoft.com) - nan
 
@@ -94,7 +94,7 @@
 
 ---
 
-## Academic
+### Academic
 
 [AcademicIndex](http://www.academicindex.net) - Academic search engine for students and researchers. Locates relevant academic search results from web pages, books, encyclopedias, and journals.
 
@@ -104,7 +104,7 @@
 
 ---
 
-## Academic
+### Academic
 
 [Free Online Legal Research-Lexis Web](http://lexisweb.com) - LexisNexis users sign in here. Click here to login and begin conducting your legal research now.
 
@@ -114,7 +114,7 @@
 
 ---
 
-## Academic
+### Academic
 
 [Zetoc: Homepage](http://zetoc.jisc.ac.uk) - Following a review of Zetoc and in consultation with the British Library, we have retired the service as of 1 August 2022.
 
@@ -124,7 +124,7 @@
 
 ---
 
-## Academic
+### Academic
 
 ![](https://10minutesemail.net/uploads/cover.png)
 
@@ -136,7 +136,7 @@
 
 ---
 
-## Academic
+### Academic
 
 [Temporary Email - Ma Jianjun University Free Education Email](https://mail.mjj.edu.ge) - What is a temporary education mailbox?
 
@@ -150,7 +150,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 [Crafton Hills College-CCC MyPath](https://www.cccmypath.org/uPortal/f/u7859l1s1000/normal/render.uP#session_state=fe5d7586-21c2-44e9-9e1b-19509decc737&code=24e56c0f-b3f4-4ef0-9b09-510b3f5e911d.fe5d7586-21c2-44e9-9e1b-19509decc737.1a9e2586-6f11-4403-8d0b-8f07b75d1ab8) - CCCMyPath: Follow your dreams
 
@@ -160,7 +160,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 ![](https://colab.research.google.com/img/colab_favicon_256px.png)
 
@@ -172,7 +172,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 [Msearch.io](https://msearch.io) - Find treatment guidelines, comprehensive reviews, and medical journal articles from credible sources. msearch.io employs advanced analytics to display relevant results for the clinical setting.
 
@@ -182,7 +182,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 [RefSeek - Academic Search Engine](https://www.refseek.com) - Academic search engine for students and researchers. Locates relevant academic search results from web pages, books, encyclopedias, and journals.
 
@@ -192,7 +192,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 [BASE](https://www.base-search.net) - More than 200 mio. scientfic documents from more than 8000 content providers. BASE is one of the world's most voluminous search engines for academic web resources.
 
@@ -202,9 +202,9 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
-[Dimensions](https://app.dimensions.ai/discover/publication) - Re-imagining discovery and access to research: grants, datasets, publications, citations, clinical trials, patents and policy documents in one place. With more than 100 million publications...
+[Dimensions](https://app.dimensions.ai/discover/publication) - Re-imagining discovery and access to research: grants, datasets, publications, citations, clinical trials, patents and policy documents in one place. With more than 100 million publications…
 
 2022-02-24T13:17:34.000Z
 
@@ -212,7 +212,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 [Google Scholar](https://scholar.google.com/schhp?as_sdt=0%2C5&hl=en) - nan
 
@@ -222,7 +222,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 [Microsoft Academic](https://academic.microsoft.com/home) - Explore Microsoft products and services for your home or business. Shop Surface, Microsoft 365, Xbox, Windows, Azure, and more. Find downloads and get support.
 
@@ -232,7 +232,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 ![](https://www.mysciencework.com/bundles/core/images/Logo_MSW_medium.png)
 
@@ -244,7 +244,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 [Researchgate](https://www.researchgate.net/search/publication?q=) - nan
 
@@ -254,7 +254,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 [Scilit.net](https://www.scilit.net) - Scilit is a centralized platform for all published research literature, articles with a DOI or in PubMed are indexed within hours
 
@@ -264,7 +264,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 ![](https://www.edumedia-sciences.com/bundles/edumediafront/image/logotype-www.png)
 
@@ -276,7 +276,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu) - nan
 
@@ -286,7 +286,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 [Top 70,000 Educational YouTube Channels Organized By Category](https://limnology.co) - nan
 
@@ -296,7 +296,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 [SCRIBD.VPDFS.COM](https://scribd.vpdfs.com) - Scribd.VPDFS.com is a scribd downloader online service allow user to get the documents from scribd instantly.
 
@@ -306,7 +306,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic
+### Academic
 
 [Library Genesis](https://libgen.lc) - nan
 
@@ -316,9 +316,9 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-## Academic-Academic and Grey Literature Research Tools
-
 ### Academic-Academic and Grey Literature Research Tools
+
+#### Academic-Academic and Grey Literature Research Tools
 
 [ASCE Library](https://ascelibrary.org) - ASCE Library is your platform for the latest in civil engineering practice and research. This core collection covers all areas of civil engineering including structures, geotechnics, environment and water resources, construction, transportation and urban development, coasts, oceans, ports, and rivers, architecture, and engineering mechanics. ASCEs scholarly publications include books, peer-reviewed journals, conference proceedings, and magazines.
 
@@ -328,7 +328,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [citeseer.ist.psu.edu/](https://citeseer.ist.psu.edu) - Scientific Literature Digital Library incorporating autonomous citation indexing, awareness and tracking, citation context, related document retrieval, similar document identification, citation graph analysis, and query-sensitive document summaries. Advantages in terms of availability, coverage, timeliness, and efficiency. Isaac Councill and C. Lee Giles.
 
@@ -338,7 +338,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [Research Guides: Gray Literature: Gray Literature](https://csulb.libguides.com/graylit) - Grey Literature, Preprints, E-prints, Technical Reports
 
@@ -348,7 +348,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [Dissertation.com](https://dissertation.com) - nan
 
@@ -358,7 +358,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [Europe PMC](https://europepmc.org) - Europe PMC is an archive of life sciences journal literature.
 
@@ -368,7 +368,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [Get The Research](https://gettheresearch.org) - nan
 
@@ -378,7 +378,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [Greyguide.isti.cnr.it](https://greyguide.isti.cnr.it) - Repository and Portal to Good Practices and Resources in Grey Literature
 
@@ -388,7 +388,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [Greylitstrategies.info](https://greylitstrategies.info) - nan
 
@@ -398,7 +398,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [A-Z Databases](https://guides.uflib.ufl.edu/az.php) - nan
 
@@ -408,7 +408,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [Open Access Journals Search Engine (OAJSE) : Social Sciences](https://oajse.com/subjects/social_sciences.html) - nan
 
@@ -418,7 +418,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [Research.omicsgroup.org](https://research.omicsgroup.org) - nan
 
@@ -428,7 +428,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 ![](https://www.academicjournals.org/img/aj.png)
 
@@ -440,7 +440,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [African Journals Online (AJOL)](https://www.ajol.info) - nan
 
@@ -450,7 +450,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [Library (Getty Research Institute)](https://www.getty.edu/research/library) - The Research Library at the Getty Research Institute.
 
@@ -460,7 +460,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [Greylit.org](https://www.greylit.org) - nan
 
@@ -470,7 +470,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [Greynet.org](https://www.greynet.org) - The Grey Literature Network Service, widely known as GreyNet, facilitates dialog, research, and communication between persons and organisations in the field of grey literature. GreyNet further seeks to identify and distribute information on and about grey literature in networked environments. Its main activities include the International Conference Series on Grey Literature, the creation and maintenance of web-based resources, the establishment of a moderated Listserv, GL Compendium, The Grey Journal, and Course curricula for LIS Colleges and Schools.
 
@@ -480,7 +480,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [Ispybio.com](https://www.ispybio.com) - iSpyBio, An intelligent search engine that compares products from suppliers such as antibodies, ELISA kits, proteins, biomolecules, inhibitors, cDNA, lysates and others
 
@@ -490,7 +490,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 ![](https://www.loadb.org/img/loadb_fb_banner.jpg)
 
@@ -502,7 +502,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [Biosearch.berkeley.edu](https://biosearch.berkeley.edu) - nan
 
@@ -512,7 +512,7 @@ The difference between this mailbox and other temporary mailboxes is that the ed
 
 ---
 
-### Academic-Academic and Grey Literature Research Tools
+#### Academic-Academic and Grey Literature Research Tools
 
 [LibGuides Community](https://community.libguides.com) - nan
 

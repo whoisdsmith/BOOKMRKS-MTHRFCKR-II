@@ -1,6 +1,6 @@
-# Papers and Journals
-
 ## Papers and Journals
+
+### Papers and Journals
 
 [cb2Bib-MOLspaces](https://www.molspaces.com/cb2bib) - cb2Bib: Bibliographic Reference Extracting and Managing Tool
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Papers and Journals
+### Papers and Journals
 
 [Preda Qualis](https://predaqualis.netlify.app) - Potentially predatory journals in QUALIS-CAPES
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Papers and Journals
+### Papers and Journals
 
 [Eigenfactor: Index of Open Access Fees](http://eigenfactor.org/projects/openAccess/oa.php) - Eigenfactor: Cost Effectiveness
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Papers and Journals
+### Papers and Journals
 
 [Journal-Author Name Estimator](http://jane.biosemantics.org) - nan
 
@@ -40,7 +40,7 @@
 
 ---
 
-## Papers and Journals
+### Papers and Journals
 
 [SciRev - Review the scientific review process](http://scirev.org) - nan
 
@@ -50,7 +50,7 @@
 
 ---
 
-## Papers and Journals
+### Papers and Journals
 
 ![](http://image.thum.io/get/ogImage/https://scite.ai?bannerClosed=true)
 
@@ -62,7 +62,7 @@
 
 ---
 
-## Papers and Journals
+### Papers and Journals
 
 [Publishers](https://beallslist.net) - nan
 
@@ -72,7 +72,7 @@
 
 ---
 
-## Papers and Journals
+### Papers and Journals
 
 [Papers We Love](https://paperswelove.org) - A repository of computer science papers and a community of people who love reading them
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Papers and Journals
+### Papers and Journals
 
 [Built for data miners-Sysrev](https://sysrev.com) - Sysrev is a platform for collaborative extraction of data from documents.
 
@@ -92,7 +92,7 @@
 
 ---
 
-## Papers and Journals
+### Papers and Journals
 
 [Home](https://www.equator-network.org) - nan
 
@@ -102,7 +102,7 @@
 
 ---
 
-## Papers and Journals
+### Papers and Journals
 
 ![](https://litmaps.com/site-seo.png)
 
@@ -114,7 +114,7 @@
 
 ---
 
-## Papers and Journals
+### Papers and Journals
 
 [ResearchGate-Find and share research](https://www.researchgate.net) - Access 130+ million publications and connect with 20+ million researchers. Join for free and gain visibility by uploading your research.
 
@@ -124,7 +124,7 @@
 
 ---
 
-## Papers and Journals
+### Papers and Journals
 
 ![](http://static1.squarespace.com/static/5dee82c56fcd7b0290640db5/t/5ec5d7e574c928572d67702f/1590024166895/ResearchRabbit+Circular.png?format=1500w)
 
@@ -136,7 +136,7 @@
 
 ---
 
-## Papers and Journals
+### Papers and Journals
 
 [SJR : Scientific Journal Rankings](https://www.scimagojr.com/journalrank.php) - nan
 

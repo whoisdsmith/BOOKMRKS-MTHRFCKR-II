@@ -1,6 +1,7 @@
 ## Java
-
 ### Java
+
+#### Java
 
 ![](http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/08/javascript-loops-2.jpg)
 
@@ -12,7 +13,7 @@
 
 ---
 
-### Java
+#### Java
 
 [JSCompress - The JavaScript Compression Tool](https://jscompress.com) - JSCompress is an online JavaScript compressor that allows you to compress and minify all of your JS files by up to 80% of their original size.
 

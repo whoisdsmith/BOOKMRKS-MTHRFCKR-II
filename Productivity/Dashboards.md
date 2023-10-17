@@ -1,6 +1,7 @@
 ## Dashboards
-
 ### Dashboards
+
+#### Dashboards
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fd0f81c7d85047591e1d7f216f8804e76.cdn.bubble.io%2Ff1652301579799x546609248962345700%2FThe%2520full%2520toolkit%2520lower%2520res.jpg?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -12,7 +13,7 @@
 
 ---
 
-### Dashboards
+#### Dashboards
 
 ![](https://artyy.io/wp-content/uploads/2016/08/dummy-1-1.jpg)
 
@@ -24,7 +25,7 @@
 
 ---
 
-### Dashboards
+#### Dashboards
 
 ![](https://webdash.xyz/assets/poster.png)
 
@@ -36,4 +37,4 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis

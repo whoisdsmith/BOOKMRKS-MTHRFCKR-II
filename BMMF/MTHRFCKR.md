@@ -1,6 +1,7 @@
 ## MTHRFCKR
-
 ### MTHRFCKR
+
+#### MTHRFCKR
 
 [twitter-stats](https://www.archivestats.click) - nan
 
@@ -10,7 +11,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 ![](https://up.raindrop.io/collection/thumbs/215/981/30/IMG_8445.PNG)
 
@@ -22,7 +23,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 ![](http://web-assets.ifttt.com/packs/media/shared/ifttt-banner-287889aa7d44e76a8d08.png)
 
@@ -34,7 +35,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 ![](https://opengraph.githubassets.com/1808cd325f7d69b467ec57ec4363137e73f8b33b2ba8fc0cd1c189a1165ba537/onflapp/TextSerPlugins)
 
@@ -46,7 +47,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 [Obsidian Plugins](https://raindrop.io/OldTownEast/obsidian-plugins-26841076) - nan
 
@@ -56,7 +57,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 ![](https://mrfreetools.com/wp-content/uploads/2023/07/MFT-Homepage.png)
 
@@ -68,11 +69,11 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 ![](https://repository-images.githubusercontent.com/233472199/7f86712b-fee6-4659-a2cf-c967d6b0d733)
 
-[massgravel/Microsoft-Activation-Scripts: A Windows and Office activator using HWID-KMS38-Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID-KMS38-Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. - GitHub - massgravel/Microsoft-Activation-Script...
+[massgravel/Microsoft-Activation-Scripts: A Windows and Office activator using HWID-KMS38-Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID-KMS38-Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. - GitHub - massgravel/Microsoft-Activation-Script…
 
 2022-12-11T06:10:20.000Z
 
@@ -80,7 +81,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 [ManualsRepo](https://manualsrepo.com) - nan
 
@@ -90,7 +91,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 ![](https://up.raindrop.io/collection/thumbs/219/572/74/8ab7b96f184ccc00a9682d70fd0129a6.png)
 
@@ -102,7 +103,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 ![](https://app.writesonic.com/images/writesonic-krishna.jpg)
 
@@ -114,7 +115,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 ![](https://up.raindrop.io/collection/thumbs/164/695/27/6f8b59e11889f3817c2d601071f5f4a4.png)
 
@@ -126,7 +127,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 ![](https://up.raindrop.io/collection/thumbs/296/737/48/5226d42f2341b8d1aa599dbbfc3d1308.png)
 
@@ -138,7 +139,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 [Image Hosting-Viewing](https://raindrop.io/whoisdsmith/image-hosting-viewing-29673797) - nan
 
@@ -148,7 +149,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 [Image Generation](https://raindrop.io/whoisdsmith/image-generation-29673747) - nan
 
@@ -158,7 +159,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 ![](http://web-assets.ifttt.com/packs/media/shared/ifttt-banner-287889aa7d44e76a8d08.png)
 
@@ -170,7 +171,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 [CSDIY.wiki](https://csdiy.wiki/en) - CS
 
@@ -180,7 +181,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 ![](https://up.raindrop.io/collection/thumbs/137/872/11/1f27ab5e25d78b29afe935ee4dcf1bc7.png)
 
@@ -192,7 +193,7 @@
 
 ---
 
-### MTHRFCKR
+#### MTHRFCKR
 
 ![](https://console-ninja.com/images/social-poster.png?v=3)
 
@@ -204,9 +205,9 @@
 
 ---
 
-## MF
-
 ### MF
+
+#### MF
 
 [Timelines](https://mthrfckr.static.app) - nan
 
@@ -216,7 +217,7 @@
 
 ---
 
-### MF
+#### MF
 
 [rclone: From Basics to Encryption Andy Ibanez](https://www.andyibanez.com/posts/rclone-basics-encryption) - Learn to use rclone, a command line tool for cloud storage with support for encryption.
 
@@ -226,11 +227,11 @@
 
 ---
 
-### MF
+#### MF
 
 ![](https://www.robinwieruch.de/static/8785e3a15852819d7a8d5c5e61a03abf/9842e/banner.jpg)
 
-[Mac Setup for Web Development [2023]](https://www.robinwieruch.de/mac-setup-web-development) - How I set up my new M1 MacBook Pro as a web developer for professional web development ...
+[Mac Setup for Web Development [2023]](https://www.robinwieruch.de/mac-setup-web-development) - How I set up my new M1 MacBook Pro as a web developer for professional web development …
 
 2023-05-13T17:40:12.000Z
 
@@ -238,11 +239,11 @@
 
 ---
 
-### MF
+#### MF
 
 ![](https://rentry.co/static/icons/512.png)
 
-[Helpful Links](https://rentry.co/PygmalionLinks) - Website  Matrix  Github  Twitter  HuggingFace  Reddit profile  Subreddit  Telegram   Discord  Wiki  The Pygmalion Docs  If you're new to Pygmalion, please read this first. This will answer most of your basic questions.  To run Pygmalion on the cloud, choose one of the links below and...
+[Helpful Links](https://rentry.co/PygmalionLinks) - Website  Matrix  Github  Twitter  HuggingFace  Reddit profile  Subreddit  Telegram   Discord  Wiki  The Pygmalion Docs  If you're new to Pygmalion, please read this first. This will answer most of your basic questions.  To run Pygmalion on the cloud, choose one of the links below and…
 
 2023-05-14T20:03:13.000Z
 
@@ -250,7 +251,7 @@
 
 ---
 
-### MF
+#### MF
 
 [Guides](https://piratezparty.club/guides) - nan
 
@@ -260,9 +261,9 @@
 
 ---
 
-## MF-Creative
-
 ### MF-Creative
+
+#### MF-Creative
 
 [The Ultimate Canva Cheatsheet](https://western-wallet-71d.notion.site/The-Ultimate-Canva-Cheatsheet-3ee095b0e56e48aba128cd8916fe4209) - Hello! Hope you are having a great day and welcome to the Ultimate Canva Cheatsheet.  This is for Content Creators & Solopreneurs who are looking to enhance their designing skills on Canva.
 
@@ -272,7 +273,7 @@
 
 ---
 
-### MF-Creative
+#### MF-Creative
 
 ![](https://signal.vercel.app/twitter-card.png)
 
@@ -284,9 +285,9 @@
 
 ---
 
-## MF-GB
-
 ### MF-GB
+
+#### MF-GB
 
 ![](https://www.gitbook.com/cdn-cgi/image/width=1280,dpr=2,height=640,fit=contain,format=auto/https%3A%2F%2F1281662436-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F6BDY6nNhn1nxGzoUE150%252Fsocialpreview%252F6lowuUnZjtTVGoKitD7O%252FDefault_a_modern_day_journal_for_a_time_traveler_banner_vector_1_f632deb3-0381-41bc-b5dc-aca178063c1b_1.jpg%3Falt%3Dmedia%26token%3D0a69c04b-45fa-4139-9274-4f08a15aca4c)
 
@@ -298,7 +299,7 @@
 
 ---
 
-### MF-GB
+#### MF-GB
 
 ![](https://www.gitbook.com/cdn-cgi/image/width=1280,dpr=2,height=640,fit=contain,format=auto/https%3A%2F%2F1281662436-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYgjretECFQf4h6I9wuzI%252Fsocialpreview%252FIEi63lOg7Z0Ald3TKpJG%252FBPBanner.PNG%3Falt%3Dmedia%26token%3D2491cf4e-12c5-44e8-b011-c449f5d796c8)
 
@@ -310,9 +311,9 @@
 
 ---
 
-## MF-Gitbooks
-
 ### MF-Gitbooks
+
+#### MF-Gitbooks
 
 [FMHY - MTHRFCKR](https://fckr.gitbook.io/marx/v/fmhy) - nan
 
@@ -322,7 +323,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 [Piracy Subreddit Wiki](https://fckr.gitbook.io/marx/v/piracy-wiki) - nan
 
@@ -332,7 +333,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 ![](https://www.gitbook.com/cdn-cgi/image/width=1280,dpr=2,height=640,fit=contain,format=auto/https%3A%2F%2F1281662436-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQWn26tg5e0KfDL19U9Uj%252Fsocialpreview%252FGEpsFpboK8DIYfS4XFkY%252FMFDRK.png%3Falt%3Dmedia%26token%3Db639f5bc-2a4a-47f8-8d23-203e0b663601)
 
@@ -344,7 +345,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 ![](https://1281662436-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FFDRv52XBBte89h1IVg82%2Fsocialpreview%2FdtQy0x7Ve1wN7ikogGCe%2Fpirate3.svg?alt=media&token=c922bd96-43ab-4655-935d-0f59330911ab)
 
@@ -356,7 +357,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 ![](https://1281662436-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWYuIavj5w3l1qTzYtuiK%2Fsocialpreview%2FnKt7yt0PNIImMpdyq55d%2Fpirate.svg?alt=media&token=bf45222a-3428-41c0-8e4a-9371f92160f7)
 
@@ -368,7 +369,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 ![](https://www.gitbook.com/cdn-cgi/image/width=1280,dpr=2,height=640,fit=contain,format=auto/https%3A%2F%2F1281662436-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FDKOpielDCufNc3oD9thx%252Fsocialpreview%252FS8YALe6BwBdRfuBNKJ7A%252FFREESOURCES-github-header.png%3Falt%3Dmedia%26token%3D50c4a4ce-60c5-44be-bc5d-e04836d4eb4d)
 
@@ -380,7 +381,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 ![](https://www.gitbook.com/cdn-cgi/image/width=1280,dpr=2,height=640,fit=contain,format=auto/https%3A%2F%2F1281662436-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeXbxkSTjBDicIN9vfYJs%252Fsocialpreview%252FmWpaZtv1r9nwTBiDu7j3%252FFMHY%2520Banner%2520(1280%2520%25C3%2597%2520520%2520px).png%3Falt%3Dmedia%26token%3D5d6acf36-2e64-40e8-925c-3b04230fb6b2)
 
@@ -392,7 +393,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 ![](https://www.gitbook.com/cdn-cgi/image/width=1280,dpr=2,height=640,fit=contain,format=auto/https%3A%2F%2F1281662436-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH1D0EMhn0dS1IryBq6wS%252Fsocialpreview%252Fn6nQUvhKLIcxIv96anbj%252Fpngwing.com%2520(5).png%3Falt%3Dmedia%26token%3D76719c38-6ec2-4ad7-ae57-dc421f940fdb)
 
@@ -404,7 +405,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 ![](https://www.gitbook.com/cdn-cgi/image/width=1280,dpr=2,height=640,fit=contain,format=auto/https%3A%2F%2F1281662436-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FDyDu7FLjScfBP0XtcPSz%252Fsocialpreview%252FcnIt16r16Ww1mMwlnF7g%252FDEV-STAX-header-image.png%3Falt%3Dmedia%26token%3D20cdc9f4-633c-49b9-8476-6b749f0c612b)
 
@@ -416,7 +417,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 ![](https://www.gitbook.com/cdn-cgi/image/width=1280,dpr=2,height=640,fit=contain,format=auto/https%3A%2F%2F1281662436-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH1D0EMhn0dS1IryBq6wS%252Fsocialpreview%252Fn6nQUvhKLIcxIv96anbj%252Fpngwing.com%2520(5).png%3Falt%3Dmedia%26token%3D76719c38-6ec2-4ad7-ae57-dc421f940fdb)
 
@@ -428,7 +429,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 ![](https://www.gitbook.com/cdn-cgi/image/width=1280,dpr=2,height=640,fit=contain,format=auto/https%3A%2F%2F1281662436-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FztmRhbIUzfCt7K7yze45%252Fsocialpreview%252Fj9TCljsrRf87dNqrGLXJ%252FBMMF%2520Banner.png%3Falt%3Dmedia%26token%3D1675669f-3734-47bb-a36b-59e710df4a0c)
 
@@ -440,7 +441,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 ![](https://www.gitbook.com/cdn-cgi/image/width=1280,dpr=2,height=640,fit=contain,format=auto/https%3A%2F%2F1281662436-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH1D0EMhn0dS1IryBq6wS%252Fsocialpreview%252Fn6nQUvhKLIcxIv96anbj%252Fpngwing.com%2520(5).png%3Falt%3Dmedia%26token%3D76719c38-6ec2-4ad7-ae57-dc421f940fdb)
 
@@ -452,7 +453,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 ![](https://www.gitbook.com/cdn-cgi/image/width=1280,dpr=2,height=640,fit=contain,format=auto/https%3A%2F%2F1281662436-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FDKOpielDCufNc3oD9thx%252Fsocialpreview%252FS8YALe6BwBdRfuBNKJ7A%252FFREESOURCES-github-header.png%3Falt%3Dmedia%26token%3D50c4a4ce-60c5-44be-bc5d-e04836d4eb4d)
 
@@ -464,7 +465,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 [DEV-STAX](https://fckr.gitbook.io/marx/v/dev-stax) - nan
 
@@ -474,7 +475,7 @@
 
 ---
 
-### MF-Gitbooks
+#### MF-Gitbooks
 
 ![](https://www.gitbook.com/cdn-cgi/image/width=1280,dpr=2,height=640,fit=contain,format=auto/https%3A%2F%2F1281662436-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FerdNnpws86AwoZQQwxqm%252Fsocialpreview%252FZMchiqvTcLwIcPLErhmT%252FAI2.png%3Falt%3Dmedia%26token%3D3ca3661a-2776-44f3-b2d3-898edf004599)
 
@@ -486,9 +487,9 @@
 
 ---
 
-## MF-GPT
-
 ### MF-GPT
+
+#### MF-GPT
 
 ![](https://chatgpt-tokenizer.com/css/images/partversion.png)
 
@@ -500,9 +501,9 @@
 
 ---
 
-## MF-Personal
-
 ### MF-Personal
+
+#### MF-Personal
 
 [AI from Dustin M Smith on Inoreader](https://www.inoreader.com/stream/user/1005643751/tag/AI/view/html?cs=m%3Fref%3DMTHRFCKR) - nan
 
@@ -512,7 +513,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 [MTHRFCKR](https://ctrlaltback.space/mthrfckr) - I Am Chaos, In Every Single Way.
 
@@ -522,7 +523,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 ![](http://s3.amazonaws.com/gather.fandalism.com/3000x3000-3255762--D6728418-C2B7-479C-A4F960292CE1B3A4--0--529044--20191031120217.JPG)
 
@@ -534,7 +535,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 ![](http://s3.amazonaws.com/gather.fandalism.com/3000x3000-3255762--0C06C436-4CCF-4C75-A7532B2F17C46583--0--12530184--PARADOX.jpg)
 
@@ -546,7 +547,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 ![](http://s3.amazonaws.com/gather.fandalism.com/3000x3000-3255762--247C9310-D031-436B-A314DD3D84BBEEBD--0--2044771--IntoTheUnknownofTheCosmos.jpg)
 
@@ -558,7 +559,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 ![](http://s3.amazonaws.com/gather.fandalism.com/3000x3000-3255762--7342B4A6-D98A-453C-BFB0000324E12613--1629167756843--IMG28160.jpg)
 
@@ -570,7 +571,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 [Posts MTHRFCKR WordPress](https://ctrlaltback.space/mthrfckr/wp-admin/edit.php) - nan
 
@@ -580,7 +581,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 [Pages MTHRFCKR WordPress](https://ctrlaltback.space/mthrfckr/wp-admin/edit.php?post_type=page) - nan
 
@@ -590,7 +591,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 [Media Library MTHRFCKR WordPress](https://ctrlaltback.space/mthrfckr/wp-admin/upload.php) - nan
 
@@ -600,7 +601,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 [Dashboard MTHRFCKR WordPress](https://ctrlaltback.space/mthrfckr/wp-admin/index.php) - nan
 
@@ -610,7 +611,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 ![](https://replit.com/public/images/ogBanner.png)
 
@@ -622,7 +623,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 [Dustin Smith](https://whoisdsmith.smugmug.com) - Powered by SmugMug
 
@@ -632,7 +633,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 ![](https://repository-images.githubusercontent.com/605249570/5c88dd11-3e1e-460a-9ed2-68fb0f356ec9)
 
@@ -644,7 +645,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 ![](https://opengraph.githubassets.com/46d79375e62c26ea439e1f83bb513e3bfb5c1a79dbbd9c3d405214008cbe5782/whoisdsmith/MTHRFCKR-AI)
 
@@ -656,11 +657,11 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 ![](https://repository-images.githubusercontent.com/627249566/77ac65e7-081f-43ac-bdb1-398378ec818b)
 
-[Blueprints-Site](https://github.com/whoisdsmith/Blueprints-Site) - A collection of notes, thoughts, ideas, wisdom and schematics to create a better future for yourself. - GitHub - whoisdsmith/Blueprints-Site: A collection of notes, thoughts, ideas, wisdom and sche...
+[Blueprints-Site](https://github.com/whoisdsmith/Blueprints-Site) - A collection of notes, thoughts, ideas, wisdom and schematics to create a better future for yourself. - GitHub - whoisdsmith/Blueprints-Site: A collection of notes, thoughts, ideas, wisdom and sche…
 
 2023-04-13T13:00:22.000Z
 
@@ -668,11 +669,11 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 ![](https://opengraph.githubassets.com/65cff55d55c3d02f9c892144c3196dcbc495282142d1d233ca1e8abbfeb3c8bc/whoisdsmith/Blueprints)
 
-[Blueprints](https://github.com/whoisdsmith/Blueprints) - A collection of notes, thoughts, ideas, wisdom and schematics to create a better future for yourself. - GitHub - whoisdsmith/Blueprints: A collection of notes, thoughts, ideas, wisdom and schematic...
+[Blueprints](https://github.com/whoisdsmith/Blueprints) - A collection of notes, thoughts, ideas, wisdom and schematics to create a better future for yourself. - GitHub - whoisdsmith/Blueprints: A collection of notes, thoughts, ideas, wisdom and schematic…
 
 2023-04-13T03:29:59.000Z
 
@@ -680,7 +681,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 ![](https://c.start.me/screenshots/p/ek9l1z)
 
@@ -692,7 +693,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 ![](https://c.start.me/screenshots/p/wMkPgP)
 
@@ -704,7 +705,7 @@
 
 ---
 
-### MF-Personal
+#### MF-Personal
 
 ![](https://c.start.me/screenshots/p/1kY0jj)
 
@@ -716,9 +717,9 @@
 
 ---
 
-## MF-Piracy
-
 ### MF-Piracy
+
+#### MF-Piracy
 
 [Leaf Guides](https://leafguides.xyz) - A community dedicated to the discussion of digital piracy. Piracy is ethical.
 
@@ -728,7 +729,7 @@
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 ![](https://cdn.jsdelivr.net/gh/rippedpiracy/site/custom_theme/pix/ripped.png)
 
@@ -740,7 +741,7 @@
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [Search-Leaf Guides](https://leafguides.xyz/search) - search
 
@@ -750,7 +751,7 @@
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy) - nan
 
@@ -760,7 +761,7 @@
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 ![](https://app.writesonic.com/images/writesonic-krishna.jpg)
 
@@ -772,7 +773,7 @@
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 ![](https://cryptpad.fr/customize/images/opengraph_preview/og-pad.png)
 
@@ -784,7 +785,7 @@
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [Shadow Libraries](https://shadowlibraries.github.io) - Pirate libraries archive
 
@@ -794,7 +795,7 @@
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 ![](https://rentry.co/static/icons/512.png)
 
@@ -806,7 +807,7 @@ Creating the server
 
 Go to the Oracle Free Tier page.
 
-Scroll down under What are Always Free cloud services? and check the resources included in the always free offer: Arm-based Ampere...
+Scroll down under What are Always Free cloud services? and check the resources included in the always free offer: Arm-based Ampere…
 
 2023-01-06T01:44:45.296Z
 
@@ -814,7 +815,7 @@ Scroll down under What are Always Free cloud services? and check the resources i
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [Shiba Inu Uploads V2 - /](https://shibauploads.xyz) - nan
 
@@ -824,7 +825,7 @@ Scroll down under What are Always Free cloud services? and check the resources i
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 ![](https://media.discordapp.net/attachments/1015131233824538624/1074400941584957580/k9YZj99.png?width=1440&height=360)
 
@@ -860,11 +861,11 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 ![](https://cloudflare-ipfs.com/ipfs/QmUcz97ZL9qFgX1ZD896b5GtsxfKbYXqsXHXtgSyLzkaxd)
 
-[Filter Stalker](https://rentry.co/FilterStalker) - @LukeThighStalker's Filter List To use, simply select "import" at the bottom of uBlocks "Filter lists" tab. Default lists that you may enable : A note about Adblock test sites from Gorhill Gorhill's note on adblock test sites Original Post Anti Adblock Detection Lists FuckFuck...
+[Filter Stalker](https://rentry.co/FilterStalker) - @LukeThighStalker's Filter List To use, simply select "import" at the bottom of uBlocks "Filter lists" tab. Default lists that you may enable : A note about Adblock test sites from Gorhill Gorhill's note on adblock test sites Original Post Anti Adblock Detection Lists FuckFuck…
 
 2023-04-20T17:29:51.000Z
 
@@ -872,7 +873,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - nan
 
@@ -882,7 +883,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [Esoterica Avenue](https://ori5000.github.io) - Esoterica Avenues github repo
 
@@ -892,7 +893,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 ![](https://cdn.apollo.moe/img/cover.png)
 
@@ -904,7 +905,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [Champagne Piracy Wiki](https://champagne.surge.sh) - This wiki attempts to provide access to a diverse range of piracy resources spanning multiple genres. Use the sidebar to navigate.
 
@@ -914,7 +915,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [OSX CSE](https://cse.google.com/cse?cx=8741bcfbbc69912f4#gsc.tab=0&gsc.sort=date) - nan
 
@@ -924,7 +925,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b#gsc.tab=0) - nan
 
@@ -934,7 +935,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [Chrome Extensions CSE](https://cse.google.com/cse?cx=006205189065513216365%3Apn3lumi80ne#gsc.tab=0) - nan
 
@@ -944,7 +945,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [OSX](https://raindrop.io/whoisdsmith/osx-26657196) - 23 bookmarks
 
@@ -954,7 +955,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [Windows DL CSE](https://cse.google.com/cse?cx=ca4c91f63fa53d51c) - nan
 
@@ -964,7 +965,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 ![](https://cdn.apollo.moe/img/cover.png)
 
@@ -976,7 +977,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [PiratezParty](https://piratezparty.club) - nan
 
@@ -986,7 +987,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 [Guides](https://www.fmhy.ml/guides) - nan
 
@@ -996,7 +997,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 ![](https://blooem.pages.dev/static/mainlogo.png)
 
@@ -1008,7 +1009,7 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 ![](https://champagne.pages.dev/static/cheers.gif)
 
@@ -1020,11 +1021,11 @@ Sec
 
 ---
 
-### MF-Piracy
+#### MF-Piracy
 
 ![](https://rentry.co/static/icons/512.png)
 
-[Beginners Guide to Piracy](https://rentry.org/Piracy-BG) - Table of Contents FAQ  Pirate Windows  Linux-MacOS Piracy Linux  MacOS  Browser  Adblocking  Anti-virus  Privacy  Streaming  Downloading  Torrenting  Reading  Mobile  Useful Stuff  FAQ  How do I tell if a site or download is safe? Any tips?  Check out Booty Guard our basic safety...
+[Beginners Guide to Piracy](https://rentry.org/Piracy-BG) - Table of Contents FAQ  Pirate Windows  Linux-MacOS Piracy Linux  MacOS  Browser  Adblocking  Anti-virus  Privacy  Streaming  Downloading  Torrenting  Reading  Mobile  Useful Stuff  FAQ  How do I tell if a site or download is safe? Any tips?  Check out Booty Guard our basic safety…
 
 2023-05-13T17:38:30.000Z
 
@@ -1032,9 +1033,9 @@ Sec
 
 ---
 
-## MF-PKM
-
 ### MF-PKM
+
+#### MF-PKM
 
 [Younger Self](https://chat.youngerself.ai/chat/5497a14f-8dee-42f6-b3aa-8c45d7bbe090) - nan
 
@@ -1044,7 +1045,7 @@ Sec
 
 ---
 
-### MF-PKM
+#### MF-PKM
 
 [Chat AI](https://chat.ai) - nan
 
@@ -1054,7 +1055,7 @@ Sec
 
 ---
 
-### MF-PKM
+#### MF-PKM
 
 [Boo.ai](https://boo.ai/edit/6444d44f4cb0786411071e88) - nan
 
@@ -1064,9 +1065,9 @@ Sec
 
 ---
 
-## MF-Search
-
 ### MF-Search
+
+#### MF-Search
 
 [GitHub Search](https://github.com/search?q=&type=repositories) - GitHub is where people build software. More than 100 million people use GitHub to discover, fork, and contribute to over 330 million projects.
 
@@ -1076,7 +1077,7 @@ Sec
 
 ---
 
-### MF-Search
+#### MF-Search
 
 ![](https://ravesoftwaresearch.pages.dev/img/ravesearch.png)
 
@@ -1088,7 +1089,7 @@ Sec
 
 ---
 
-### MF-Search
+#### MF-Search
 
 [Nixsearch](https://nixsearch.neocities.org) - The ultimate search engine for software
 
@@ -1098,9 +1099,9 @@ Sec
 
 ---
 
-## MF-Text Tools-Online Tools
-
 ### MF-Text Tools-Online Tools
+
+#### MF-Text Tools-Online Tools
 
 [Voyant Tools](https://voyant-tools.org) - nan
 
@@ -1110,7 +1111,7 @@ Sec
 
 ---
 
-### MF-Text Tools-Online Tools
+#### MF-Text Tools-Online Tools
 
 [Textometrica](http://textometrica.humlab.umu.se) - nan
 
@@ -1120,7 +1121,7 @@ Sec
 
 ---
 
-### MF-Text Tools-Online Tools
+#### MF-Text Tools-Online Tools
 
 [Readable's Text Lab](https://app.readable.com/tools/labs) - nan
 
@@ -1130,7 +1131,7 @@ Sec
 
 ---
 
-### MF-Text Tools-Online Tools
+#### MF-Text Tools-Online Tools
 
 ![](https://www.bytesview.com/images/global/bytesview-social.png)
 
@@ -1142,9 +1143,9 @@ Sec
 
 ---
 
-## MF-Text Tools Software
-
 ### MF-Text Tools Software
+
+#### MF-Text Tools Software
 
 ![](https://raw.githubusercontent.com/UnitexGramLab/unitexgramlab-org/master/themes/unitexgramlab/og_630x630.png)
 
@@ -1156,7 +1157,7 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 ![](http://www.ssesetup.com/SM-Downloads1-whitebg.png)
 
@@ -1168,7 +1169,7 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 [TextCrawler](https://www.digitalvolcano.co.uk/textcrawler.html) - TextCrawler - search and replace across files.
 
@@ -1178,7 +1179,7 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 [TextConverter](https://www.sttmedia.com/textconverter) - The TextConverter can be used to edit multiple text files at once. Replacements in HTML docs, CSV editing, encoding, regular expressions, transcriptions, defined actions or deleting are only a small part of the possibilities
 
@@ -1188,9 +1189,9 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
-[Textbrowser](http://www.alternate-tools.com/pages/c_textbrowser.php?lang=ENG) - This program makes it easy to browse through text-files and also allows you to edit them (HTML and XML-files, too). A syntax highlighting for several programming languages/file-types is available and may be configured for different file-extensio...
+[Textbrowser](http://www.alternate-tools.com/pages/c_textbrowser.php?lang=ENG) - This program makes it easy to browse through text-files and also allows you to edit them (HTML and XML-files, too). A syntax highlighting for several programming languages/file-types is available and may be configured for different file-extensio…
 
 2023-04-21T13:57:59.000Z
 
@@ -1198,7 +1199,7 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 [TextAnalysisTool.NET](https://textanalysistool.github.io) - TextAnalysisTool.NET: A program designed to excel at viewing, searching, and navigating large files quickly and efficiently.
 
@@ -1208,7 +1209,7 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 [Text Stats](https://textstats.sourceforge.net) - nan
 
@@ -1218,7 +1219,7 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 [Text Mine](https://textmine.sourceforge.net/install.html) - nan
 
@@ -1228,7 +1229,7 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 [Refinator](https://refinator.xyz) - refinator.xyz
 
@@ -1238,7 +1239,7 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 ![](https://assets.website-files.com/60e5b561711f560e5892d031/624c93c0a46ea313372626da_Osmos%20Open%20Graph.png)
 
@@ -1250,7 +1251,7 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 [Meaning Extraction Helper](https://www.ryanboyd.io/software/meh) - nan
 
@@ -1260,7 +1261,7 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 [Data Quality Apps](https://www.dataqualityapps.com) - Software for cleaning, comparing, enhancing and selecting data from address lists and databases (Execl, Access, MySQL, MS SQL Server)
 
@@ -1270,11 +1271,11 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 ![](https://www.linguisticanalysistools.org/uploads/1/3/9/3/13935189/8946951_1.png)
 
-[CRAT](https://www.linguisticanalysistools.org/crat.html) - CRAT is an easy to use tool that includes over 700 indices related to lexical sophistication, cohesion and source text/summary text overlap. CRAT is particularly well suited for the exploration of...
+[CRAT](https://www.linguisticanalysistools.org/crat.html) - CRAT is an easy to use tool that includes over 700 indices related to lexical sophistication, cohesion and source text/summary text overlap. CRAT is particularly well suited for the exploration of…
 
 2023-04-21T14:12:28.000Z
 
@@ -1282,7 +1283,7 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 [BigTextFileSplitter](https://withdata.com/big-text-file-splitter/index.html) - Want to split big text file to smaller text files? You just found it! BigTextFileSplitter let you do these quickly.
 
@@ -1292,7 +1293,7 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 ![](https://www.biggorilla.org/imgs/og-image.png)
 
@@ -1304,7 +1305,7 @@ Sec
 
 ---
 
-### MF-Text Tools Software
+#### MF-Text Tools Software
 
 [TextTransformer](https://www.texttransformer.com/TextTransformer_en.html) - Analyse, transform and convert text, program source code, and text documents automatically with TextTransformer. TextTransformer performs language conversion, data extraction, code instrumentation, linguistic analysis and other tasks with its powerful lexer and parser and simple to use interface.
 

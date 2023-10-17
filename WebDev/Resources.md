@@ -1,6 +1,6 @@
-# Resources
-
 ## Resources
+
+### Resources
 
 [the biggest directory of tools on the web (updated daily)](https://tools.et) - the simpler + easier version of g2, capterra, getapp and crozdesk. click here!
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Awesome Guidelines](https://awesome-guidelines.com) - A curated list of high quality coding style conventions and standards.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Home Page - BoxCoding](https://avabucks.it/index.php?page=home&pageid=0009995002498750624) - We share free resources about web design and development to inspire design-focused frontend developers and to improve your coding skills.
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://equals.com/images/social-media/social--import-scripts.png)
 
@@ -42,7 +42,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Make Magic - Rookih](https://www.rookih.com) - Artificial Intelligence for global educational parity and progress
 
@@ -52,7 +52,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://static.wixstatic.com/media/793325_0a4ae3b56dcc40dbaf9d777e9811c989~mv2.png/v1/fill/w_2500,h_1621,al_c/793325_0a4ae3b56dcc40dbaf9d777e9811c989~mv2.png)
 
@@ -64,7 +64,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://uploads-ssl.webflow.com/62f82c7bfd7b993cbf40986a/62f9d4d518d02f286b796d00_CopySymbol%20SEO.png)
 
@@ -76,7 +76,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://aviyel.com/aviyel.png)
 
@@ -88,7 +88,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://www.slant.co/images/share-logo.png)
 
@@ -100,11 +100,11 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://devtales.tech/assets/img/avatar-icon.png)
 
-[DevTales](https://devtales.tech/?ref=producthunt) - Technical blogs related to Web Development, Data Science and more...
+[DevTales](https://devtales.tech/?ref=producthunt) - Technical blogs related to Web Development, Data Science and more…
 
 2022-07-31T00:57:57.000Z
 
@@ -112,7 +112,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Discover useful PHP development resources-bestofphp](https://bestofphp.com) - Discover useful PHP development resources
 
@@ -122,7 +122,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Mapedia.org](https://mapedia.org/?ref=producthunt) - nan
 
@@ -132,11 +132,11 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://repository-images.githubusercontent.com/215599579/f3b71b00-f9ae-11e9-8b54-3aafcab0f9e7)
 
-[Tikam02/DevOps-Guide at producthunt](https://github.com/Tikam02/DevOps-Guide?ref=producthunt) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently. - GitHub - Tikam02/DevOps-Guide: DevOps Guide - Development to Production all configurations with...
+[Tikam02/DevOps-Guide at producthunt](https://github.com/Tikam02/DevOps-Guide?ref=producthunt) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently. - GitHub - Tikam02/DevOps-Guide: DevOps Guide - Development to Production all configurations with…
 
 2022-07-17T00:12:07.000Z
 
@@ -144,7 +144,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://global-uploads.webflow.com/5e6ea34775d1ae77aaa491ca/621d4d9200b912085ee9f806_og-card-2022.png)
 
@@ -156,7 +156,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [javascript array create (Interactive Example)](https://www.quackit.com/html/html_editors/scratchpad?example=%2Fjavascript%2Fexamples%2Fjavascript_array_create) - Edit and preview HTML code with this online HTML viewer. javascript array create.
 
@@ -166,7 +166,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [javascript for in loop (Interactive Example)](https://www.quackit.com/html/html_editors/scratchpad?example=%2Fjavascript%2Fexamples%2Fjavascript_for_in_loop) - Edit and preview HTML code with this online HTML viewer. javascript for in loop.
 
@@ -176,7 +176,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [JavaScript Examples](https://www.quackit.com/javascript/examples) - Basic JavaScript examples, including popups, status bar messages, dropdown menus, image rollovers, and more.
 
@@ -186,7 +186,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Development](https://raindrop.io/whoisdsmith/development-21859292) - 1332 bookmarks
 
@@ -196,7 +196,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://www.svgviewer.dev/images/svgviewer-og-image.png)
 
@@ -208,7 +208,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [All Sites - Stack Exchange](https://stackexchange.com/sites) - We make Stack Overflow and 170+ other community-powered Q&A sites.
 
@@ -218,7 +218,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [React DevTools tutorial](https://react-devtools-tutorial.vercel.app) - React DevTools tutorial
 
@@ -228,7 +228,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Introduction - Rust and WebAssembly](https://rustwasm.github.io/docs/book) - nan
 
@@ -238,7 +238,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Explained Visually](https://setosa.io/ev) - nan
 
@@ -248,7 +248,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://fullstackopen.com/static/EYE_green_wide-0a72f74a959f54d0f3e4bb8c67f6f158.jpg)
 
@@ -260,7 +260,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Crontab.guru - The cron schedule expression editor](https://crontab.guru) - An easy to use editor for crontab schedules.
 
@@ -270,7 +270,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://catonmat.net/images/preview/cookbook-curl.png)
 
@@ -282,7 +282,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Fancy Font Generator](https://qwerty.dev/fancy-font-generator#beautiful-dingbats) - Quickly create fancy, eye-catching text that works in social media posts, bios, instant messages, and lots more
 
@@ -292,7 +292,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://books.goalkicker.com/goalkicker_books.png)
 
@@ -304,7 +304,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [cdecl: C gibberish English](https://cdecl.org) - nan
 
@@ -314,7 +314,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](http://www.metacademy.org/static/images/meta-square.png)
 
@@ -326,7 +326,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://libraries.io/apple-touch-icon-152x152.png)
 
@@ -338,7 +338,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://leetcode.com/static/images/LeetCode_Sharing.png)
 
@@ -350,7 +350,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Know it all](https://know-it-all.io) - A big list of all the props, values, methods, functions, interfaces, modules, constants, constructors, events, attributes, parameters, return values, variables, elements, statements, operators, declarations, types, primatives, selectors and units of all the APIs related to web development.
 
@@ -360,7 +360,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://www.toptal.com/developers/keycodeog-image.png)
 
@@ -372,7 +372,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://hackr.io/sites/programming/og_image)
 
@@ -384,7 +384,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://github.com/compiler-explorer/infra/blob/main/logo/favicon.png?raw=true)
 
@@ -396,7 +396,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Home - glot.io](https://glot.io) - Run code online in the browser. 39 languages supported: Assembly,ATS,Bash,C,Clojure,COBOL,CoffeeScript,C++,Crystal,C#,D,Elixir,Elm,Erlang,F#,Go,Groovy,Haskell,Idris,Java,JavaScript,Julia,Kotlin,Lua,Mercury,Nim,Nix,Ocaml,Perl,PHP,Python,Raku,Ruby,Rust,SaC,Scala,Swift,TypeScript,Plaintext
 
@@ -406,7 +406,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://assets.exercism.org/meta/og.png)
 
@@ -418,7 +418,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1637345011/egghead-next-pages/home-page/root-og_2x.png)
 
@@ -430,7 +430,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://www.digitalocean.com/_next/static/media/social-share-default.e8530e9e.jpeg)
 
@@ -442,7 +442,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://q9k6x7m8.stackpathcdn.com/assets/shared/devpost_social_icon_large-38941770f44d42b3c9fcef216bc93b6c82a7476add533a97640e3db5b6b66698.jpg)
 
@@ -454,7 +454,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png)
 
@@ -466,7 +466,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://devurls.com/images/preview-image-devurls.png)
 
@@ -478,7 +478,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://images.codecademy.com/social/logo-codecademy-social.png)
 
@@ -490,7 +490,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://codecombat.com/images/pages/home/play_img.png)
 
@@ -502,7 +502,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://www.pluralsight.com/content/pluralsight/en/codeschool/jcr:content/image-res.transform/share-image/image.img.1f264558-5b58-486f-a090-20edf5a4f264.png)
 
@@ -514,7 +514,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Codementor-Get live 1:1 coding help, hire a developer, & more](https://www.codementor.io) - Codementor is the largest community for developer
 
@@ -530,7 +530,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [CoderProg - Ebooks & Elearning For Programming](https://coderprog.com) - IT Ebooks Free Download PDF, EPUB, MOBI! Elearning Video For Programming Free Download MP4, AVI!
 
@@ -540,7 +540,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://codesandbox.io/static/img/banner.png)
 
@@ -552,7 +552,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://uploads-ssl.webflow.com/62e3ee10882dc50bcae8d07a/634816d46fc4a32b2a583416_codewars-og-image.png)
 
@@ -564,7 +564,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Developer Training-Test Coding Skills Online - Codility](https://app.codility.com/programmers) - Become a better programmer. Develop your coding skills with our programming lessons. Take part in our programming challenges.
 
@@ -574,7 +574,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://files.codingame.com/codingame/codingame_share_pics_new.png)
 
@@ -586,7 +586,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [explainshell.com - match command-line arguments to their help text](https://explainshell.com) - match command-line arguments to their help text
 
@@ -596,7 +596,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://www.libhunt.com/assets/logo/logo-og-ed809256db5b35139bc05c225c0616a376d0c37b00af28e0e797f1cacccdfa48.png)
 
@@ -608,7 +608,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [TopAnswers Knowledge Communities](https://topanswers.xyz) - nan
 
@@ -618,7 +618,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [dyrobooks](https://dyrobooks.com) - nan
 
@@ -628,7 +628,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [HEROTURKO.NET More Than You Need!](https://www.heroturko.net) - Download Games, Movies, TV Shows, Music, Software, ebooks, Magazines, Tutorialls and Graphics
 
@@ -638,7 +638,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Home](https://www.gfxnerds.com) - Best graphic resources for free.
 
@@ -648,11 +648,11 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://onehack.us/uploads/default/original/3X/7/1/7142e96387380d64f4e9edb5fd147a12947baac8.png)
 
-[Massive List Of Tools To Enhance Your Flickr Experience - Tools & Scripts - OneHack.Us-Tutorials For Free, Guides, Articles & Community Forum](https://onehack.us/t/massive-list-of-tools-to-enhance-your-flickr-experience/214544) - Being a popular online image platform, Flickr is a revolution for photo sharing and management plus it has a huge community of photographers who showcase their work the world to see.  And so to help you make the most of Flickrs amazing platform, there are a number of tools that can add a lot to your experience. So, no matter you are a casual user or a regular one, here are 30+ tools to enhance your Flickr experience.   Flickr Uploadr  A useful tool to backup your photo collections from your com...
+[Massive List Of Tools To Enhance Your Flickr Experience - Tools & Scripts - OneHack.Us-Tutorials For Free, Guides, Articles & Community Forum](https://onehack.us/t/massive-list-of-tools-to-enhance-your-flickr-experience/214544) - Being a popular online image platform, Flickr is a revolution for photo sharing and management plus it has a huge community of photographers who showcase their work the world to see.  And so to help you make the most of Flickrs amazing platform, there are a number of tools that can add a lot to your experience. So, no matter you are a casual user or a regular one, here are 30+ tools to enhance your Flickr experience.   Flickr Uploadr  A useful tool to backup your photo collections from your com…
 
 2022-02-24T13:17:34.000Z
 
@@ -660,7 +660,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Photoshop, Mock-Up, Add-ons, Actions](https://gfxmountain.com/photoshop) - Fonts, Vectors, Stock Photos, Photoshop PSD, PowerPoint PPT, InDesign INDD, After Effects AEP - Free Download
 
@@ -670,11 +670,11 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://community.codenewbie.org/images/icMThiMcjXgFnHYVl9i2QNQkCDgIG7WUwe7EKnFJt64/rs:fill:1000:500/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvcGc5NWxuZWN0/NjJwejBieGJpbjIu/cG5n)
 
-[[On-Demand Talk] A Programmer's Guide to Mental Health](https://community.codenewbie.org/codeland2022/on-demand-talk-a-programmers-guide-to-mental-health-54bn?signin=true) - About this talk   Starting your first software development job is very rewarding. You get to...
+[[On-Demand Talk] A Programmer's Guide to Mental Health](https://community.codenewbie.org/codeland2022/on-demand-talk-a-programmers-guide-to-mental-health-54bn?signin=true) - About this talk   Starting your first software development job is very rewarding. You get to…
 
 2022-11-26T19:54:48.606Z
 
@@ -682,7 +682,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://ooh.directory/static/oohdir/img/site_icon.png)
 
@@ -694,7 +694,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Create your link page 0ls.me](https://0ls.me) - In a few clicks and no signup, create your link page and share it with the world!
 
@@ -704,7 +704,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://calmcode.io/images/landing.png)
 
@@ -716,7 +716,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://stroo.app/images/seo-image.png)
 
@@ -728,7 +728,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://academy.truts.xyz/favicon.png)
 
@@ -740,7 +740,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://polywork-images-proxy.imgix.net/https%3A%2F%2Fwww.polywork.com%2Fassets%2Ffavicon%2Fpolywork-burple-icon-918d4dd32b0f254e4ba8e06cf1a216d6223db6ba2adc5b9521f35911a05d520c.png?ixlib=rails-4.3.1&auto=format&s=806faecda42926b5f165b566b37ef924)
 
@@ -752,7 +752,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [devSwag](https://devswag.io) - swag opportunities for developers
 
@@ -762,7 +762,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://appwrite.io/images/logo.png?v=510)
 
@@ -774,7 +774,7 @@
 
 ---
 
-## Resources
+### Resources
 
 ![](https://aviyel.com/aviyel.png)
 
@@ -786,7 +786,7 @@
 
 ---
 
-## Resources
+### Resources
 
 [Your all-in-one developer page-dev.page](https://dev.page) - Claim your dev.page username and build an amazing page in 2 minutes!
 
@@ -798,7 +798,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 ![](https://devdocs.io/images/icon-320.png)
 
@@ -810,7 +810,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 ![](https://assets.devhints.io/previews/index.jpg?t=20230720110605)
 
@@ -822,7 +822,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 [GitHub Training Kit](https://training.github.com) - Github Git Cheat Sheets Training Kit
 
@@ -832,7 +832,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 ![](https://supabase.com/images/og/og-image-v2.jpg)
 
@@ -844,7 +844,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 ![](https://social-cards.sst.dev/serverless-stack-lander/QnVpbGQrbW9kZXJuK2Z1bGwtc3RhY2srYXBwbGljYXRpb25zK29uK0FXUy4l%0AMEE%3D%0A.png)
 
@@ -856,7 +856,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 [Sourcegraph](https://sourcegraph.com/search) - nan
 
@@ -866,7 +866,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 ![](https://raw.githubusercontent.com/danielcranney/repo-storage/main/profile-me-social-image.png)
 
@@ -878,7 +878,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 [Caffe-Deep Learning Framework](http://caffe.berkeleyvision.org) - nan
 
@@ -888,7 +888,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 ![](https://cdn.statically.io/og/theme=dark/%7Bname%7D.thedev.id.jpg)
 
@@ -900,7 +900,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 [is-a.dev-Free sub-domains for developers](https://www.is-a.dev) - nan
 
@@ -910,7 +910,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fconsole.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-276972924%26version%3D9)
 
@@ -922,7 +922,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 ![](https://beta.firefiles.app/firefiles-preview.png)
 
@@ -934,7 +934,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 ![](https://typefully.com/cards/card.png)
 
@@ -946,7 +946,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 [Turndown Demo](https://mixmark-io.github.io/turndown) - nan
 
@@ -956,7 +956,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 ![](https://d4.alternativeto.net/HdAbi-1B5Xbaoch3R4gzGlmBv04dFn0sHM3fZ5VJ_Ng/rs:fit:1200:1200:0/g:ce:0:0/YWJzOi8vZGlzdC9zL2dpdGJvb2tfODQ1Mjk4X2Z1bGwucG5n.jpg)
 
@@ -968,7 +968,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 ![](https://www.jamstack.org/img/og/default-og-image.png)
 
@@ -980,7 +980,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 [[Sample] Dashboard - Dashboard-UI Bakery](https://cloud.uibakery.io/mthrfckr/eTnIfe0HDB/dashboard) - nan
 
@@ -990,7 +990,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 [Web Hosting Discussion Forums, Tutorials, Reviews & Services](https://forumweb.hosting) - Learn web hosting from tips, tutorials on our best web hosting forums and find best web hosting services for your websites.
 
@@ -1000,7 +1000,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources
+### Resources
 
 ![](https://i.ytimg.com/vi/N6zjv40zuIY/maxresdefault.jpg)
 
@@ -1012,9 +1012,9 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources-Cheetsheet
-
 ### Resources-Cheetsheet
+
+#### Resources-Cheetsheet
 
 ![](https://cheats.dhr.wtf/android-chrome-512x512.png)
 
@@ -1026,7 +1026,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-Cheetsheet
+#### Resources-Cheetsheet
 
 ![](https://eshantrivedi21.github.io/Git-CheatSheet/ASSETS/favicon.png)
 
@@ -1038,7 +1038,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-Cheetsheet
+#### Resources-Cheetsheet
 
 [Cheatsheets - roy4801's cheatsheet](https://docs.roy4801.tw/cheatsheets) - A place to dump memory from my brain
 
@@ -1048,7 +1048,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-Cheetsheet
+#### Resources-Cheetsheet
 
 ![](https://rentry.co/static/logo-border.png)
 
@@ -1060,7 +1060,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-Cheetsheet
+#### Resources-Cheetsheet
 
 [OverAPI.com-Collecting all the cheat sheets](https://overapi.com) - OverAPI.com is a site collecting all the cheatsheets,all!
 
@@ -1070,7 +1070,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-Cheetsheet
+#### Resources-Cheetsheet
 
 [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets) - Designed for the ones who enjoy dark interfaces as much as we do. Using the best UX practices for great conversion rates.
 
@@ -1080,7 +1080,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-Cheetsheet
+#### Resources-Cheetsheet
 
 [1541 Programming Cheat Sheets - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/programming) - nan
 
@@ -1090,7 +1090,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-Cheetsheet
+#### Resources-Cheetsheet
 
 [cppreference.com](https://en.cppreference.com/w) - nan
 
@@ -1100,7 +1100,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-Cheetsheet
+#### Resources-Cheetsheet
 
 [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell](https://www.bigocheatsheet.com) - nan
 
@@ -1110,9 +1110,9 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources-Git
-
 ### Resources-Git
+
+#### Resources-Git
 
 [Git - Downloading Package](https://git-scm.com/download/mac) - nan
 
@@ -1122,9 +1122,9 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-## Resources-How-To's and Continious Learning
-
 ### Resources-How-To's and Continious Learning
+
+#### Resources-How-To's and Continious Learning
 
 [Riju](https://riju.codes) - fast online playground for every programming language
 
@@ -1134,7 +1134,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [WebGL & GLSL A Primer](https://mattdesl.github.io/workshop-webgl-glsl#/) - This is the interactive guidebook for a workshop on WebGL and GLSL.
 
@@ -1144,7 +1144,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [Agent CLI-Your Self-Sovereign Assistant-Powered By Animo](https://agent-cli.animo.id/?ref=producthunt) - Agent CLI is the most convenient way for self-sovereign identity (SSI) developers to interact with SSI agents.
 
@@ -1154,11 +1154,11 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://opengraph.githubassets.com/65553a87fab4f5261bb4a9452be7d60dec0b2a1831c77154829be271968f0219/alebcay/awesome-shell)
 
-[alebcay/awesome-shell: A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. - GitHub - alebcay/awesome-shell: A curated list of awesome command-line frameworks, toolkit...
+[alebcay/awesome-shell: A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. - GitHub - alebcay/awesome-shell: A curated list of awesome command-line frameworks, toolkit…
 
 2022-07-02T14:46:44.000Z
 
@@ -1166,7 +1166,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [bro: just get to the point!](http://bropages.org) - nan
 
@@ -1176,7 +1176,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [cheat.sh/:firstpage](https://cheat.sh) - nan
 
@@ -1186,7 +1186,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [Command Challenge!](https://cmdchallenge.com) - One-line shell challenges, to help improve your skill on the commandline.
 
@@ -1196,7 +1196,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://www.hitlist.dev/images/preview.jpeg)
 
@@ -1208,7 +1208,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [Ken Favors . com Information Systems-Technology-Business Intelligence-Investment-Art & Design](https://kenfavors.com) - nan
 
@@ -1218,7 +1218,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://krinql.com/banner.png)
 
@@ -1230,7 +1230,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [Learn the basics of the CLI through an interactive tutorial.](https://shell-ninja.chimppen.com) - Learn the basics of the Bash CLI through an interactive tutorial.
 
@@ -1240,7 +1240,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [showthedocs](http://showthedocs.com) - nan
 
@@ -1250,7 +1250,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [tldr pages](https://tldr.sh) - Simplified and community-driven man pages
 
@@ -1260,7 +1260,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Fmeta%2Fmeta-default.png?auto=format&ixlib=php-4.1.0&s=a980b3b7b5c83a15eac6da49bbbbc182)
 
@@ -1272,7 +1272,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [Chemdiary](https://chemdiary.com) - Chemdiary, a tool to track your drug, nootropic and research chemicals use
 
@@ -1282,7 +1282,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://brilliant.org/site_media/version-0/images/open-graph/logged-out-home-pix-v2.png)
 
@@ -1296,7 +1296,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [Advent of Code 2021](https://adventofcode.com) - nan
 
@@ -1306,7 +1306,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [ACME Laboratories](http://www.acme.com) - nan
 
@@ -1316,7 +1316,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://javascript.info/img/site_preview_en_1200x630.png)
 
@@ -1328,7 +1328,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://cdn.devdojo.com/images/september2022/devdojo-og.jpeg?w=1280&w=720)
 
@@ -1340,11 +1340,11 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png)
 
-[Want to learn about git and GitHub in a more fun way?](https://dev.to) - We always watch tons of videos and tutorials and skim through lots of documentation to learn some...
+[Want to learn about git and GitHub in a more fun way?](https://dev.to) - We always watch tons of videos and tutorials and skim through lots of documentation to learn some…
 
 2022-01-25T02:24:39.227Z
 
@@ -1352,7 +1352,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://djypu4f6dk6i2.cloudfront.net/static/images/opengraph-logo.png)
 
@@ -1364,7 +1364,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://alcamy.org/image/alcamy-banner-3.png)
 
@@ -1376,7 +1376,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [Quanta Magazine-Science and Math News](https://www.quantamagazine.org) - Illuminating mathematics, physics, biology and computer science research through public service journalism.
 
@@ -1386,7 +1386,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [Learn Anything](https://learn-anything.xyz) - Search Interactive Mind Maps to learn anything
 
@@ -1396,7 +1396,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [FreeTutorials.eu - Download Udemy Paid Courses For Free](https://www.freetutorialseu.com) - Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music and more - FreeTutorialsEU.com
 
@@ -1406,11 +1406,11 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://freesoff.com/uploads/default/optimized/2X/1/1b4b57223404264ce919b260aec0589fb6270aa0_2_1024x685.png)
 
-[Lynda Library Card Free Account - Tutorials & Methods - Freesoff.com - Free Courses, Software and Useful Methods](https://freesoff.com/t/lynda-library-card-free-account/1468) - Lynda Free Account    Step 1 :   Use USA vpn. Go to Registration Page   Step 2 :   Fill all the details with fake information Get fake information from here : fakeaddressgenerator   Step 3 :   Click on Register  Step 4:    Your library card number will be generated.       Step 5 :   Go to lynda.com  Click on Sign In  Step 6 :    Click on Sign in with your organization portal       Step 7 :    Enter Organizaton URL as detroitpubliclibrary.org and click continue       Step 8 :   Now, Enter your Li...
+[Lynda Library Card Free Account - Tutorials & Methods - Freesoff.com - Free Courses, Software and Useful Methods](https://freesoff.com/t/lynda-library-card-free-account/1468) - Lynda Free Account    Step 1 :   Use USA vpn. Go to Registration Page   Step 2 :   Fill all the details with fake information Get fake information from here : fakeaddressgenerator   Step 3 :   Click on Register  Step 4:    Your library card number will be generated.       Step 5 :   Go to lynda.com  Click on Sign In  Step 6 :    Click on Sign in with your organization portal       Step 7 :    Enter Organizaton URL as detroitpubliclibrary.org and click continue       Step 8 :   Now, Enter your Li…
 
 2022-03-12T20:45:52.427Z
 
@@ -1418,7 +1418,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [FreeCoursesOnline.Me](https://www.freecoursesonline.me/?1=) - Free Courses Online Free Download Torrent of Phlearn, Pluralsight, Lynda, CBTNuggets, Laracasts, Coursera, Linkedin, Teamtreehouse etc. - FreeCoursesOnline.Me
 
@@ -1428,7 +1428,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://www.edx.org/contentful/ii9ehdcj88bc/24nI9FEfxhYsu4JtOI8esA/6405f3a237472501ca21a3ffcfa1cdc4/edx-homepage-preview.png?w=1116&h=585&fm=webp)
 
@@ -1440,7 +1440,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://www.educative.io/static/imgs/logos/LinkImageV3.png)
 
@@ -1452,7 +1452,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [GigaCourse - Download Premium Udemy Courses For Free](https://gigacourse.com/?1=) - Download Paid Premium Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, and more.
 
@@ -1462,7 +1462,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png)
 
@@ -1474,7 +1474,7 @@ Include your info, bio (markdown supported), skills, and links to your GitHub, S
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://cdn.sstatic.net/Sites/superuser/Img/apple-touch-icon.png?v=0ad5b7a83e49)
 
@@ -1498,7 +1498,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide) - nan
 
@@ -1508,7 +1508,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://twobithistory.org/images/logo.png)
 
@@ -1520,7 +1520,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://opengraph.githubassets.com/15df3e9bd9ead9470fa183501923ad7573182bf46e8ad03a6ca2fad024b1983e/mhinz/vim-galore)
 
@@ -1532,7 +1532,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [Org Mode tools!](https://orgmode.org/worg/org-tools/index.html) - nan
 
@@ -1542,7 +1542,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [dyrobooks](https://dyrobooks.com/blog/2018/07/29/pandoc-and-hanging-indents) - nan
 
@@ -1552,7 +1552,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [dyrobooks](https://dyrobooks.com/blog/2018/06/30/batch-convert-files-with-pandoc) - nan
 
@@ -1562,7 +1562,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [dyrobooks](https://dyrobooks.com/blog/2018/07/29/wrapping-code-blocks-in-print) - nan
 
@@ -1572,7 +1572,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [Master Keyboard Shortcuts with KeyCombiner](https://keycombiner.com) - Organize, learn, and practice keyboard shortcuts. Create your own shortcut collections by importing from a large public database of shortcuts and master them using interactive practice sessions, advanced statistics, and spaced repetition methods.
 
@@ -1582,7 +1582,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://assets-global.website-files.com/62f4eac458bbe25718add8a2/63288360a3b3e63ceacc55c9_Group%207186.png)
 
@@ -1594,7 +1594,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://regexlearn.com//images/og-regexlearn-image.jpg)
 
@@ -1606,7 +1606,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html) - nan
 
@@ -1616,7 +1616,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://www.computerhope.com/cdn/linux/apt.gif)
 
@@ -1628,7 +1628,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2d3081a-5a36-4763-9b94-13bf7d1cb5d6/powerful-terminal-commandline-tools-modern-web-development.jpg)
 
@@ -1640,7 +1640,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [A Framework meant for the exploitation of iOS devices.-PythonRepo](https://pythonrepo.com/repo/0x1CA3-iPwn) - 0x1CA3/iPwn, iPwn A Framework meant for the exploitation of iOS devices. ! REMEMBER: THE IPHONE YOU ARE ATTEMPTING TO GET INTO USING THIS TOOL MUST BE JAILBROKEN
 
@@ -1650,7 +1650,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://www.cobalt.io/hubfs/Imported_Blog_Media/Image1-1.jpeg#keepProtocol)
 
@@ -1662,7 +1662,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://kubadownload.com/site/assets/files/2660/newterm2-iphone.jpg)
 
@@ -1674,7 +1674,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 [Using AsciiDoc and Asciidoctor to write documentation - Tutorial](https://www.vogella.com/tutorials/AsciiDoc/article.html) - nan
 
@@ -1684,11 +1684,11 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://cdn.sstatic.net/Sites/superuser/Img/apple-touch-icon.png?v=0ad5b7a83e49)
 
-[List all installed software on PC](https://superuser.com/questions/447277/list-all-installed-software-on-pc) - Is there anything built in to Windows that would allow me to list all of the installed software on a computer in a fashion that can be copy/pasted to a spreadsheet?  I know there is software that c...
+[List all installed software on PC](https://superuser.com/questions/447277/list-all-installed-software-on-pc) - Is there anything built in to Windows that would allow me to list all of the installed software on a computer in a fashion that can be copy/pasted to a spreadsheet?  I know there is software that c…
 
 2021-12-21T20:37:25.032Z
 
@@ -1696,7 +1696,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://theitbros.com/wp-content/uploads/2016/06/list_installed_apps_windows10.jpg)
 
@@ -1708,7 +1708,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://opengraph.githubassets.com/2c90bc5ebfb6fe71a64ceb2aea67de4a1fc94f763da7d128754557ac3c8ab658/arangodb-foxx/ifttt-example)
 
@@ -1720,7 +1720,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1685995916/hevo-learn-1/Ifttt-Webhook-Integration-A-Complete-7-Step-Guide-To-Connect-Your-Favourite-Apps/Ifttt-Webhook-Integration-A-Complete-7-Step-Guide-To-Connect-Your-Favourite-Apps.png?_i=AA)
 
@@ -1732,7 +1732,7 @@ I am trying to make a script that saves every line as a separate new file
 
 ---
 
-### Resources-How-To's and Continious Learning
+#### Resources-How-To's and Continious Learning
 
 ![](https://www.freecodecamp.org/news/content/images/2020/03/how-to-start-and-create-your-first-repository.png)
 

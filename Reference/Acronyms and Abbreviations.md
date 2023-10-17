@@ -1,6 +1,6 @@
-# Acronyms and Abbreviations
-
 ## Acronyms and Abbreviations
+
+### Acronyms and Abbreviations
 
 [Acronyms.silmaril.ie](https://acronyms.silmaril.ie) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Acronyms and Abbreviations
+### Acronyms and Abbreviations
 
 ![](http://img.tfd.com/TFDlogo1200x1200.png)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Acronyms and Abbreviations
+### Acronyms and Abbreviations
 
 ![](https://assets.ltkcontent.com/images/1813401/articles-default-placeholder_27c5571306.png)
 

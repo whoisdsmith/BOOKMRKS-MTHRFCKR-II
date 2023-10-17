@@ -1,10 +1,10 @@
-# Twitter
-
 ## Twitter
+
+### Twitter
 
 [Favorite tweet by @Archarzel](https://twitter.com/Archarzel/status/1479171244721414149) - Favorite tweet:
 
-A 30 year old man. The same age as my little brother. Leaving behind a 450mb zip file as a monument to a brief life's work as they exit, stage left. ... Be gentle to yourself, those you love, and those you care enough to be angry with. Reach out where and when you can.
+A 30 year old man. The same age as my little brother. Leaving behind a 450mb zip file as a monument to a brief life's work as they exit, stage left…. Be gentle to yourself, those you love, and those you care enough to be angry with. Reach out where and when you can.
 
  Archarzel (@Archarzel) Jan 6, 2022
 
@@ -14,7 +14,7 @@ A 30 year old man. The same age as my little brother. Leaving behind a 450mb zip
 
 ---
 
-## Twitter
+### Twitter
 
 [Favorite tweet by @Archarzel](https://twitter.com/Archarzel/status/1479171243681239047) - Favorite tweet://CW: Suicide So I've been trying to process this for most of the day. The admin/creator of WebOasis took their life last night, the note explained that it was an entirely personal situation, having nothing to do with the site or the community. Then they released the source. 1 Archarzel (@Archarzel) Jan 6, 2022
 
@@ -24,7 +24,7 @@ A 30 year old man. The same age as my little brother. Leaving behind a 450mb zip
 
 ---
 
-## Twitter
+### Twitter
 
 [100 Twitter Tools to Go to The Top Ultimate Collection!](http://gnoted.com/100-twitter-tools-ultimate-power-collection) - If you have read the previous post about skyrocketing Twitter followers, you can see, if you already didn't, how much power there is within social media, and
 
@@ -34,7 +34,7 @@ A 30 year old man. The same age as my little brother. Leaving behind a 450mb zip
 
 ---
 
-## Twitter
+### Twitter
 
 [Favorite tweet by @elonmusk](https://twitter.com/elonmusk/status/1499976967105433600) - Favorite tweet:
 
@@ -48,7 +48,7 @@ Starlink has been told by some governments (not Ukraine) to block Russian news s
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/ext_tw_video_thumb/1601449262151356416/pu/img/CEdsE1fKDoaOO47U.jpg:large)
 
@@ -60,7 +60,7 @@ Starlink has been told by some governments (not Ukraine) to block Russian news s
 
 ---
 
-## Twitter
+### Twitter
 
 [Favorite tweet by @zapier](https://twitter.com/zapier/status/1601217614641889280) - Favorite tweet:
 
@@ -74,7 +74,7 @@ It's official! We're launching OpenAI on Zapier  Thank you, @yoheinakajima, for 
 
 ---
 
-## Twitter
+### Twitter
 
 [Favorite tweet by @elonmusk](https://twitter.com/elonmusk/status/1601490402175234049) - Favorite tweet:
 
@@ -88,7 +88,7 @@ It's official! We're launching OpenAI on Zapier  Thank you, @yoheinakajima, for 
 
 ---
 
-## Twitter
+### Twitter
 
 [Dsmith on Twitter](https://twitter.com/Wh0isdsmith/status/1601760998264033287) - #stablediffusion got me looking like @jensenackles and Im not mad at all about it. https://t.co/9pvkz3uFki (via Twitter https://twitter.com/Wh0isdsmith/status/1601760998264033287)
 
@@ -98,7 +98,7 @@ It's official! We're launching OpenAI on Zapier  Thank you, @yoheinakajima, for 
 
 ---
 
-## Twitter
+### Twitter
 
 [Dsmith on Twitter](https://twitter.com/Wh0isdsmith/status/1601780385347780609) - https://t.co/lmD5sQV44B (via Twitter https://twitter.com/Wh0isdsmith/status/1601780385347780609)
 
@@ -108,7 +108,7 @@ It's official! We're launching OpenAI on Zapier  Thank you, @yoheinakajima, for 
 
 ---
 
-## Twitter
+### Twitter
 
 [Favorite tweet by @elonmusk](https://twitter.com/elonmusk/status/1601812997088763904) - Favorite tweet:
 
@@ -122,7 +122,7 @@ Deplatforming the President (cont.) https://t.co/Q51Ala4SNz
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/FjwJ420WIAMTq-8.jpg:large)
 
@@ -134,7 +134,7 @@ Deplatforming the President (cont.) https://t.co/Q51Ala4SNz
 
 ---
 
-## Twitter
+### Twitter
 
 [Who would you bring back if possible? Miss You @barbarabailey3618 #stablediffusion https://t.co/JyB7YeceMq](https://twitter.com/Wh0isdsmith/status/1602292296648916992) - Who would you bring back, if possible?  Miss You @barbarabailey3618 #stablediffusion https://t.co/JyB7YeceMq (via Twitter https://twitter.com/Wh0isdsmith/status/1602292296648916992)
 
@@ -144,7 +144,7 @@ Deplatforming the President (cont.) https://t.co/Q51Ala4SNz
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/ext_tw_video_thumb/1602728211527475201/pu/img/lNGD3nHUBTPOPYCp.jpg:large)
 
@@ -156,7 +156,7 @@ Deplatforming the President (cont.) https://t.co/Q51Ala4SNz
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://feedsmage.com/card.jpg)
 
@@ -168,7 +168,7 @@ Deplatforming the President (cont.) https://t.co/Q51Ala4SNz
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/Fj7c5VWXkAAKAD4.jpg:large)
 
@@ -182,7 +182,7 @@ Deplatforming the President (cont.) https://t.co/Q51Ala4SNz
 
 ---
 
-## Twitter
+### Twitter
 
 [Dsmith on Twitter](https://twitter.com/Wh0isdsmith/status/1602965527055552513) - https://t.co/K2dQlamCcp (via Twitter https://twitter.com/Wh0isdsmith/status/1602965527055552513)
 
@@ -192,7 +192,7 @@ Deplatforming the President (cont.) https://t.co/Q51Ala4SNz
 
 ---
 
-## Twitter
+### Twitter
 
 [Heres 13 of the best ChatGPT resources I have found to be helpful and beneficial so far. #ChatGPT #OpenAIChatGPT https://t.co/CtLzFLyzLR](https://twitter.com/Wh0isdsmith/status/1602972694760558593) - Heres 13 of the best ChatGPT resources I have found to be helpful and beneficial so far. 
 
@@ -206,7 +206,7 @@ https://t.co/CtLzFLyzLR (via Twitter https://twitter.com/Wh0isdsmith/status/1602
 
 ---
 
-## Twitter
+### Twitter
 
 [RT @whoiskatrin: Time it took to reach 1 million users: Netflix - 3.5 years Facebook - 10 months Spotify - 5 months Instagram - 2.5 months ChatGPT - 5 days](https://twitter.com/Wh0isdsmith/status/1602983115257184256) - RT @whoiskatrin: Time it took to reach 1 million users:
 
@@ -226,7 +226,7 @@ ChatGPT - 5 days (via Twitter https://twitter.com/Wh0isdsmith/status/16029831152
 
 ---
 
-## Twitter
+### Twitter
 
 [Favorite tweet by @DataChaz](https://twitter.com/DataChaz/status/1602931031992147968) - Favorite tweet:
 
@@ -240,7 +240,7 @@ The "Awesome #ChatGPT Prompts" repo is already on @huggingface!  It's a collecti
 
 ---
 
-## Twitter
+### Twitter
 
 [RT @DataChaz: The "Awesome #ChatGPT Prompts" repo is already on @huggingface! It's a collection of 100 prompts curated by @fkadev to be used with #ChatGPT! Easily load them in your #ML projects @Streamlit/@Gradio apps train your models etc. h/t @mervenoyann https://t.co/QlPEN4BgRq](https://twitter.com/Wh0isdsmith/status/1602984412710375428) - RT @DataChaz: The "Awesome #ChatGPT Prompts" repo is already on @huggingface! 
 
@@ -258,7 +258,7 @@ https://t.co/QlPEN4BgRq (via Twitter https://twitter.com/Wh0isdsmith/status/1602
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://tweeco.pushkaryadav.in/images/tweeco_banner.png)
 
@@ -270,9 +270,9 @@ https://t.co/QlPEN4BgRq (via Twitter https://twitter.com/Wh0isdsmith/status/1602
 
 ---
 
-## Twitter
+### Twitter
 
-[Dsmith on Twitter](https://twitter.com/Wh0isdsmith/status/1603014044713115648) - This is the greatest shit ever... Looks like I can have automations run even after I'm dead 
+[Dsmith on Twitter](https://twitter.com/Wh0isdsmith/status/1603014044713115648) - This is the greatest shit ever… Looks like I can have automations run even after I'm dead 
 
 https://t.co/csPFu8zI7i (via Twitter https://twitter.com/Wh0isdsmith/status/1603014044713115648)
 
@@ -282,7 +282,7 @@ https://t.co/csPFu8zI7i (via Twitter https://twitter.com/Wh0isdsmith/status/1603
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/Fj7JK3gWQAAt6_b.jpg:large)
 
@@ -298,7 +298,7 @@ To load these prompts into your #ML projects @Streamlit or @Gradio app, it only 
 
 ---
 
-## Twitter
+### Twitter
 
 [All 125 Collections #raindrops https://t.co/1xvwNNg7fx via @raindrop_io](https://twitter.com/Wh0isdsmith/status/1603396143827804165) - All 125 Collections #raindrops 
 
@@ -310,7 +310,7 @@ https://t.co/1xvwNNg7fx via @raindrop_io (via Twitter https://twitter.com/Wh0isd
 
 ---
 
-## Twitter
+### Twitter
 
 [Favorite tweet by @mtaibbi](https://twitter.com/mtaibbi/status/1603857534737072128) - Favorite tweet:
 
@@ -324,7 +324,7 @@ https://t.co/1xvwNNg7fx via @raindrop_io (via Twitter https://twitter.com/Wh0isd
 
 ---
 
-## Twitter
+### Twitter
 
 [God damn I dont even have a car I can live in anymore.](https://twitter.com/Wh0isdsmith/status/1603968662666452992) - God damn, I dont even have a car I can live in anymore. (via Twitter https://twitter.com/Wh0isdsmith/status/1603968662666452992)
 
@@ -334,7 +334,7 @@ https://t.co/1xvwNNg7fx via @raindrop_io (via Twitter https://twitter.com/Wh0isd
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/FkHpNXCacAAWCpr.jpg:large)
 
@@ -350,7 +350,7 @@ They wont fear it until they understand it. And they wont understand it until th
 
 ---
 
-## Twitter
+### Twitter
 
 [Dsmith on Twitter](https://twitter.com/Wh0isdsmith/status/1606323538553602048) - https://t.co/JR9Ze0Ova4 (via Twitter https://twitter.com/Wh0isdsmith/status/1606323538553602048)
 
@@ -360,7 +360,7 @@ They wont fear it until they understand it. And they wont understand it until th
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/FkrkR7YXkAMwEZ4.jpg:large)
 
@@ -372,7 +372,7 @@ They wont fear it until they understand it. And they wont understand it until th
 
 ---
 
-## Twitter
+### Twitter
 
 [Nobody is going to hate you more than the version of you thats full of self doubt and no self worth. More often than not its the negative version of ourselves that hurt us more than any enemy. Let it go.](https://twitter.com/Wh0isdsmith/status/1606863679328231425) - Nobody is going to hate you more than the version of you thats full of self doubt and no self worth. More often than not, its the negative version of ourselves that hurt us more than any enemy. Let it go. (via Twitter https://twitter.com/Wh0isdsmith/status/1606863679328231425)
 
@@ -382,11 +382,11 @@ They wont fear it until they understand it. And they wont understand it until th
 
 ---
 
-## Twitter
+### Twitter
 
 [Favorite tweet by @ChatGPT2049](https://twitter.com/ChatGPT2049/status/1607450079006171138) - Favorite tweet:
 
-.@adrian_twarog: ChatGPT 2.0 I created it... I coded it, and I'll show you how you can run it on your own local machine! Apparently, Chat GPT is all the craze, so check out how to build your own AI chatbot in my latest video!!!   https://t.co/KM2VNEO7Zc
+.@adrian_twarog: ChatGPT 2.0 I created it… I coded it, and I'll show you how you can run it on your own local machine! Apparently, Chat GPT is all the craze, so check out how to build your own AI chatbot in my latest video!!!   https://t.co/KM2VNEO7Zc
 
  ChatGPT 2049 (@ChatGPT2049) Dec 26, 2022
 
@@ -396,7 +396,7 @@ They wont fear it until they understand it. And they wont understand it until th
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/Fk9Oy_iWIAEx8Qd.jpg:large)
 
@@ -412,7 +412,7 @@ Some nights  https://t.co/BLAUsJr4wb
 
 ---
 
-## Twitter
+### Twitter
 
 [@SchmartinMartin Damn that response was pure](https://twitter.com/Wh0isdsmith/status/1608056566846033922) - @SchmartinMartin Damn, that response was pure  (via Twitter https://twitter.com/Wh0isdsmith/status/1608056566846033922)
 
@@ -422,7 +422,7 @@ Some nights  https://t.co/BLAUsJr4wb
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/FlMoHQFacAEZSlH.jpg:large)
 
@@ -434,7 +434,7 @@ Some nights  https://t.co/BLAUsJr4wb
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/FlMoHQFacAEZSlH.jpg:large)
 
@@ -450,7 +450,7 @@ GN friends! #AIArt #TheBeastsofAI https://t.co/1SSpvQWncZ
 
 ---
 
-## Twitter
+### Twitter
 
 [@elonmusk I fucking knew it](https://twitter.com/Wh0isdsmith/status/1608975750568480771) - @elonmusk I fucking knew it (via Twitter https://twitter.com/Wh0isdsmith/status/1608975750568480771)
 
@@ -460,7 +460,7 @@ GN friends! #AIArt #TheBeastsofAI https://t.co/1SSpvQWncZ
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/FlXeV-5WQAck7dz.jpg:large)
 
@@ -472,7 +472,7 @@ GN friends! #AIArt #TheBeastsofAI https://t.co/1SSpvQWncZ
 
 ---
 
-## Twitter
+### Twitter
 
 [Favorite tweet by @elonmusk](https://twitter.com/elonmusk/status/1609254628113420290) - Favorite tweet:
 
@@ -486,7 +486,7 @@ Sometimes its just better to make pizza at home
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/Flry23PWIAEfj-5.jpg:large)
 
@@ -498,7 +498,7 @@ Sometimes its just better to make pizza at home
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/FlrzZXlWYAQGBRI.jpg:large)
 
@@ -512,7 +512,7 @@ Sometimes its just better to make pizza at home
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/Flr1K8pWAAIeNu9.jpg:large)
 
@@ -524,7 +524,7 @@ Sometimes its just better to make pizza at home
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/FluBYYvX0AE3ph_.jpg:large)
 
@@ -538,7 +538,7 @@ Sometimes its just better to make pizza at home
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/ext_tw_video_thumb/1611118147091701761/pu/img/WHMjt9q5dv03pJO2.jpg:large)
 
@@ -550,7 +550,7 @@ Sometimes its just better to make pizza at home
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/Flv_qvuXwAEMnFA.jpg:large)
 
@@ -562,7 +562,7 @@ Sometimes its just better to make pizza at home
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/Fl0XAtAWAAALe5O.jpg:large)
 
@@ -576,7 +576,7 @@ Sometimes its just better to make pizza at home
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/ext_tw_video_thumb/1611469968561807366/pu/img/SaM2jViKUCp4Pv5o.jpg:large)
 
@@ -588,7 +588,7 @@ Sometimes its just better to make pizza at home
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/Fl1erN6XwAE60v-.jpg:large)
 
@@ -602,7 +602,7 @@ DEAD BUNDY https://t.co/mQppuTSxMP (via Twitter https://twitter.com/Wh0isdsmith/
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/Fl1ky6dWAAATKum.jpg:large)
 
@@ -614,7 +614,7 @@ DEAD BUNDY https://t.co/mQppuTSxMP (via Twitter https://twitter.com/Wh0isdsmith/
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/Fl2AHiKXwAAf-lJ.jpg:large)
 
@@ -628,7 +628,7 @@ DEAD BUNDY https://t.co/mQppuTSxMP (via Twitter https://twitter.com/Wh0isdsmith/
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/FljZAXdWIAM23it.jpg:large)
 
@@ -644,7 +644,7 @@ The Mobius series: Antlers Generated in #midjourney #midjourneyV4 https://t.co/N
 
 ---
 
-## Twitter
+### Twitter
 
 ![](https://pbs.twimg.com/media/Fl4oafGXgAAs1dm.jpg:large)
 

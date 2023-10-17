@@ -1,6 +1,6 @@
-# Direct Download
-
 ## Direct Download
+
+### Direct Download
 
 ["Meganzsearch.com](https://www.meganzsearch.com) - Mega.nz premium account, mega nz file search engine,Mega.nz file download, Mega.nz link generator, Mega.nz premium account 2020, Mega.nz movies download. mega.nz premium link generator,      mega.nz fast free download.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Direct Download
+### Direct Download
 
 ![](https://www.dedigger.com/img/logo.png)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Direct Download
+### Direct Download
 
 ![](https://filepursuit.com/assets/images/fp_500x500.png)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Direct Download
+### Direct Download
 
 ![](https://filesearch.link/wp-content/themes/filesearch/img/filesearch_logo_s.png)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Direct Download
+### Direct Download
 
 ![](https://zippysharesearch.com/images/ZippyshareSearch.com.png)
 

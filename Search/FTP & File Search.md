@@ -1,6 +1,6 @@
-# FTP & File Search
-
 ## FTP & File Search
+
+### FTP & File Search
 
 ["Napalm FTP Indexer](https://www.searchftps.net) - The most advanced FTP Indexer and FTP Search Engine service maintained by members. Search and download files from public FTP servers
 
@@ -10,7 +10,7 @@
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
 [site:workers.dev goindex - Google Search](https://www.google.com/search?lr=lang_en&q=site%3Aworkers.dev+goindex) - nan
 
@@ -20,7 +20,7 @@
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
 ![](https://football.kulichki.net/interface/fnk_logo.jpg)
 
@@ -32,7 +32,7 @@
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
 [FreewareWeb](https://www.freewareweb.com/ftpsearch.shtml) - FreewareWeb - Your Source to Freeware on the Web. Windows articles, freeware, tips and more.
 
@@ -42,7 +42,7 @@
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
 [Gegereka.com](https://www.gegereka.com) - nan
 
@@ -52,9 +52,9 @@
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
-![](https://www.kali.org/images/kali-logo.svg)
+![](https://www.kali.org/images/kali-logo.svg)  
 [goofile](https://tools.kali.org/information-gathering/goofile) - Video goofile Usage Example Search for files from a domain (-d kali.org) of the PDF filetype (-f pdf): root@kali:~# goofile -d kali.org -f pdf 
 
 
@@ -75,13 +75,13 @@
 
 
 
-- Searching in kali.org for pdf ======================================== Files found: ==================== docs.kali.org/pdf/kali-book-fr.pdf docs.kali.org/pdf/kali-book-es.pdf docs.
-2022-10-03T05:06:16.000Z
+- Searching in kali.org for pdf ======================================== Files found: ==================== docs.kali.org/pdf/kali-book-fr.pdf docs.kali.org/pdf/kali-book-es.pdf docs.  
+2022-10-03T05:06:16.000Z  
 #search #ftp #file
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
 [IntelligenceX-Files](https://intelx.io/tools?tab=file) - We provide free open source intelligence tools to help with investigations. Use the tools to search on 3rd party sites and perform social media intelligence on Facebook, Twitter, LinkedIn, Telegram and YouTube.
 
@@ -91,7 +91,7 @@
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
 [MegaSearch](https://megasearch.co) - nan
 
@@ -101,7 +101,7 @@
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
 [MMNT](https://www.mmnt.ru) - .      .         FTP
 
@@ -111,7 +111,7 @@
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
 [Search Files](https://searchfiles.de) - nan
 
@@ -121,7 +121,7 @@
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
 ![](https://www.searchshared.info/wp-content/uploads/2018/04/logo.png)
 
@@ -133,7 +133,7 @@
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
 [MegaSearch](http://ww7.megasearch.co) - nan
 
@@ -143,7 +143,7 @@
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
 [Google Drive: Sign-in](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fsearch%3Fq%3D%2525s&dsh=S772622272%3A1668003275685873&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fsearch%3Fq%3D%2525s&ifkv=ARgdvAsTL_53JulSLpXIoTNnr0Ex9QOwgYLuAaw0NJ4NfZhWjjkpFhctxRTFAwMW99BQkEPskisLEw&osid=1&passive=1209600&service=wise) - Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).
 
@@ -153,9 +153,9 @@
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
-![](https://www.kali.org/images/kali-logo.svg)
+![](https://www.kali.org/images/kali-logo.svg)  
 [goofile](https://www.kali.org/tools/goofile) - Video goofile Usage Example Search for files from a domain (-d kali.org) of the PDF filetype (-f pdf): root@kali:~# goofile -d kali.org -f pdf 
 
 
@@ -176,13 +176,13 @@
 
 
 
-- Searching in kali.org for pdf ======================================== Files found: ==================== docs.kali.org/pdf/kali-book-fr.pdf docs.kali.org/pdf/kali-book-es.pdf docs.
-2022-11-10T17:02:19.000Z
+- Searching in kali.org for pdf ======================================== Files found: ==================== docs.kali.org/pdf/kali-book-fr.pdf docs.kali.org/pdf/kali-book-es.pdf docs.  
+2022-11-10T17:02:19.000Z  
 #search
 
 ---
 
-## FTP & File Search
+### FTP & File Search
 
 ![](https://www.aware-online.com/wp-content/uploads/Aware-Online-Cover.jpg)
 

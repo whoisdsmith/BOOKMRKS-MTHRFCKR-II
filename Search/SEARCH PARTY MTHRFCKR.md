@@ -1,6 +1,6 @@
-# SEARCH PARTY MTHRFCKR
-
 ## SEARCH PARTY MTHRFCKR
+
+### SEARCH PARTY MTHRFCKR
 
 [fmac's SearXNG](https://searx.fmac.xyz/) - SearXNG — a privacy-respecting, open metasearch engine
 
@@ -10,7 +10,7 @@
 
 ---
 
-## SEARCH PARTY MTHRFCKR
+### SEARCH PARTY MTHRFCKR
 
 [Disroot SearX](https://search.disroot.org/) - SearXNG — a privacy-respecting, open metasearch engine
 
@@ -20,7 +20,7 @@
 
 ---
 
-## SEARCH PARTY MTHRFCKR
+### SEARCH PARTY MTHRFCKR
 
 [SearXNG - mha.fi](https://searx.mha.fi/) - SearXNG — a privacy-respecting, open metasearch engine
 
@@ -30,7 +30,7 @@
 
 ---
 
-## SEARCH PARTY MTHRFCKR
+### SEARCH PARTY MTHRFCKR
 
 [ononoki's SearXNG](https://search.ononoki.org/) - SearXNG — a privacy-respecting, open metasearch engine
 
@@ -40,7 +40,7 @@
 
 ---
 
-## SEARCH PARTY MTHRFCKR
+### SEARCH PARTY MTHRFCKR
 
 [PaulGO](https://paulgo.io/) - SearXNG — a privacy-respecting, open metasearch engine
 
@@ -50,7 +50,7 @@
 
 ---
 
-## SEARCH PARTY MTHRFCKR
+### SEARCH PARTY MTHRFCKR
 
 [SearXNG](https://baresearch.org/) - SearXNG — a privacy-respecting, open metasearch engine
 

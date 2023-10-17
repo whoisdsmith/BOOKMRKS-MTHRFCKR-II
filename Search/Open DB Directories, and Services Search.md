@@ -1,6 +1,6 @@
-# Open DB Directories, and Services Search
-
 ## Open DB Directories, and Services Search
+
+### Open DB Directories, and Services Search
 
 [FileChef - Open Directory Search Engine](https://www.filechef.com) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Open DB Directories, and Services Search
+### Open DB Directories, and Services Search
 
 ![](https://knoema.com/img/v5/facebook-share.jpg)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Open DB Directories, and Services Search
+### Open DB Directories, and Services Search
 
 [Open data USA gov](https://catalog.data.gov/dataset) - nan
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Open DB Directories, and Services Search
+### Open DB Directories, and Services Search
 
 ![](https://africaopendata.org/images/logos/open-africa.png)
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Open DB Directories, and Services Search
+### Open DB Directories, and Services Search
 
 [Open data Australia](https://data.gov.au/search) - nan
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Open DB Directories, and Services Search
+### Open DB Directories, and Services Search
 
 ![](https://opendata.cityofnewyork.us/wp-content/themes/opendata-wp/assets/img/nyc-opendata-logo-og-facebook.png)
 
@@ -66,11 +66,11 @@
 
 ---
 
-## Open DB Directories, and Services Search
+### Open DB Directories, and Services Search
 
 ![](https://opengraph.githubassets.com/9ed663778a8b580e8727d492f993c7dc173b1bc0abcbebaecc50a037c9420890/jordanpotti/CloudScraper)
 
-[GitHub - jordanpotti/CloudScraper: CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.](https://github.com/jordanpotti/CloudScraper) - CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space. - GitHub - jordanpotti/CloudScraper: CloudScraper: Tool to enumerate targ...
+[GitHub - jordanpotti/CloudScraper: CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.](https://github.com/jordanpotti/CloudScraper) - CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space. - GitHub - jordanpotti/CloudScraper: CloudScraper: Tool to enumerate targ…
 
 2022-10-03T05:06:16.000Z
 
@@ -78,7 +78,7 @@
 
 ---
 
-## Open DB Directories, and Services Search
+### Open DB Directories, and Services Search
 
 [Giit It](https://giitit.com) - nan
 
@@ -88,7 +88,7 @@
 
 ---
 
-## Open DB Directories, and Services Search
+### Open DB Directories, and Services Search
 
 ![](https://opengraph.githubassets.com/fb35490353ec5eb8aa913f5017f757d9b2f9858a10b329440137313357ad2732/woj-ciech/LeakLooker)
 
@@ -100,7 +100,7 @@
 
 ---
 
-## Open DB Directories, and Services Search
+### Open DB Directories, and Services Search
 
 ![](https://lh4.googleusercontent.com/OBdiATV0ofLtWF0X2gL12Fn2mrJBKE4vOXwUzL9KCdTnkPatEVsup7_shzS6tsj12DNWZA=w16383)
 
@@ -112,7 +112,7 @@
 
 ---
 
-## Open DB Directories, and Services Search
+### Open DB Directories, and Services Search
 
 ![](https://opengraph.githubassets.com/12ce1ac9f7244e8c07c14e295f505e25373092c812fdd45945ddda95a39776a1/sa7mon/S3Scanner)
 
@@ -124,7 +124,7 @@
 
 ---
 
-## Open DB Directories, and Services Search
+### Open DB Directories, and Services Search
 
 [r/opendirectories](https://www.reddit.com/r/opendirectories) - r/opendirectories: **Welcome to /r/OpenDirectories**  Unprotected directories of pics, vids, music, software and otherwise interesting files.
 
@@ -134,7 +134,7 @@
 
 ---
 
-## Open DB Directories, and Services Search
+### Open DB Directories, and Services Search
 
 ![](https://rentry.co/static/icons/512.png)
 

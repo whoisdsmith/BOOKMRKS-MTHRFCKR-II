@@ -1,6 +1,6 @@
-# EDU
-
 ## EDU
+
+### EDU
 
 [Free math resources](https://free-math-resources.netlify.app) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Booksonic](https://booksonic.org) - Booksonic is a Subsonic Server and Android client aimed at audiobooks
 
@@ -20,7 +20,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Electronic library. Download books free. Finding books](https://booksc.org) - Electronic library. Download books free. Finding books-BookSC. Download books for free. Find books
 
@@ -30,7 +30,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [California Community Colleges](https://account.cccmypath.org/auth/realms/OpenCCC/protocol/openid-connect/auth?cccMisCode=981&client_id=mypath-services&kc_idp_hint=OpenCCC&redirect_uri=https%3A%2F%2Fwww.cccmypath.org%2FuPortal%2Fopenid_connect_login%3FcccMisCode%3D981%26target%3Dp%2Fadvisor-cards%3FadvisorCardId%3D14375214&response_mode=fragment&response_type=code&scope=openid) - Sign up for free .edu accounts
 
@@ -40,7 +40,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Open Access Journals-De Gruyter](https://www.degruyter.com/publishing/publications/openaccess/open-access-articles/our-oa-journals) - De Gruyter-270 years of academic publishing
 
@@ -50,7 +50,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://opengraph.githubassets.com/d4dfe96ca10e316a59d6a60296222bb52090c25c7285901329553c7570d9a936/firmai/awesome-google-colab)
 
@@ -62,7 +62,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Digital.library server at Penn Libraries](http://digital.library.upenn.edu) - nan
 
@@ -72,7 +72,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [The Online Books Page](http://digital.library.upenn.edu/books) - nan
 
@@ -82,7 +82,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Index of /library/](http://erewhon.superkuh.com/library) - nan
 
@@ -92,7 +92,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Free Medical Books-by Amedeo.com](http://freebooks4doctors.com) - FreeBooks4Doctors: over 300 free medical books and book-like websites. Daily presentations of new books. Free subscription to the book alerts.
 
@@ -102,7 +102,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [scientificmagazines](http://scientificmagazines.top) - Free Download Scientific Magazines
 
@@ -112,7 +112,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [TextBookGo.com - Free Online Textbooks For College](http://textbookgo.com) - TextBookGo.com is your number one source for free etextbooks. We bring you free digital textbooks from all sources and for all courses! We offer free etextbooks for many subject categories and for all tablet and digital textbook viewing devices.
 
@@ -122,7 +122,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Businessbookmall](http://www.businessbookmall.com) - nan
 
@@ -132,7 +132,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Digital Book Index - Your guide to 165,000 eBooks](http://www.digitalbookindex.org) - nan
 
@@ -142,7 +142,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [You are being redirected...](http://www.freebookcentre.net) - nan
 
@@ -152,7 +152,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [PupilGarage.com - Download Free Books for Computer Science, Electronics, Communications, Electrical, Mechanical, Chemical, Civil, Fiction, Literature, Mathematics](http://www.pupilgarage.com) - PupilGarage.com consists of a huge collection of Free Computer, Engineering, Technical, Medical and Management books available online for free download.
 
@@ -162,7 +162,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Textbooksfree](http://www.textbooksfree.org) - nan
 
@@ -172,7 +172,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://academictorrents.com/res/img/logo--1200x630.jpg)
 
@@ -184,7 +184,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Books-AccessMedicine-McGraw Hill Medical](https://accessmedicine.mhmedical.com/books.aspx?view=library) - Connect to AccessMedicines unparalleled digital library and access the most updated versions of McGraw Hills trusted, authoritative titles.
 
@@ -194,7 +194,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Open Textbook Initiative](https://aimath.org/textbooks) - nan
 
@@ -204,7 +204,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Allitebooks](https://allitebook.xyz) - Download Free IT E-books
 
@@ -214,7 +214,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Free Medical Books](https://am-medicine.com) - Download the Medical Book : Am-medicine Website Provides Free Medical Books PDF For all, In many different Subjects: Dentistry, Anatomy..
 
@@ -224,7 +224,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [arXiv.org e-Print archive](https://arxiv.org) - nan
 
@@ -234,7 +234,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://brill.com/fileasset/fileasset/appbar/logo-brill-300x100-transparent-desktop.png)
 
@@ -246,7 +246,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [https://cse.google.com/cse?cx=001639227550064093264:dznewka3cca](https://cse.google.com/cse?cx=001639227550064093264%3Adznewka3cca) - nan
 
@@ -256,7 +256,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers](https://cse.google.com/cse/publicurl?cx=011394183039475424659%3A5bfyqg89ers) - nan
 
@@ -266,7 +266,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://discord.com/invite/undefined//discord.com/assets/652f40427e1f5186ad54836074898279.png)
 
@@ -278,7 +278,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Dl](https://dl.acm.org) - nan
 
@@ -288,7 +288,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://i2.wp.com/easyengineering.net/wp-content/uploads/2018/02/imageedit_59_6308991037.png?fit=512%2C512&ssl=1)
 
@@ -300,7 +300,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Education Books](https://edubookpdf.com) - Free Education Books give you various of free ebooks that you can download to support your study.
 
@@ -310,7 +310,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Wikibooks](https://en.wikibooks.org) - nan
 
@@ -320,7 +320,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) - nan
 
@@ -330,7 +330,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Free PLR Downloads-Download Free PLR & MRR Products](https://freeplrdownloads.com) - Download Free PLR and MRR Products Now! Instant Download, Unlimited Download, No Sign Up and No BS! Free eBooks, Articles, Software, Videos and Many More!
 
@@ -340,7 +340,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://opengraph.githubassets.com/e6fbddfd77ddbc894152cdbe73443a68418aa78ea33b31ab62e731293417de85/learn-anything/books)
 
@@ -352,11 +352,11 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://opengraph.githubassets.com/841de2e4f3be3edb9910115ea53c131b73a55e431a927fc35f9ecdeda595f9c6/mytechnotalent/Reverse-Engineering)
 
-[GitHub - mytechnotalent/Reverse-Engineering: A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.](https://github.com/mytechnotalent/reverse-engineering-tutorial) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures. - GitHub - mytechnotalent/Reverse-Engineering: A FREE comprehensive reverse engin...
+[GitHub - mytechnotalent/Reverse-Engineering: A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.](https://github.com/mytechnotalent/reverse-engineering-tutorial) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures. - GitHub - mytechnotalent/Reverse-Engineering: A FREE comprehensive reverse engin…
 
 2022-09-14T12:49:32.000Z
 
@@ -364,11 +364,11 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://opengraph.githubassets.com/c2a636ec6e28e70c5b718f7f2f0feb9b94eda2d87de1b4721a80c0c0974b3944/owainlewis/awesome-artificial-intelligence)
 
-[GitHub - owainlewis/awesome-artificial-intelligence: A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.](https://github.com/owainlewis/awesome-artificial-intelligence#free-content) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. - GitHub - owainlewis/awesome-artificial-intelligence: A curated list of Artificial Intelligence (AI) cours...
+[GitHub - owainlewis/awesome-artificial-intelligence: A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.](https://github.com/owainlewis/awesome-artificial-intelligence#free-content) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. - GitHub - owainlewis/awesome-artificial-intelligence: A curated list of Artificial Intelligence (AI) cours…
 
 2022-09-14T12:49:32.000Z
 
@@ -376,7 +376,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [The Bash Guide](https://guide.bash.academy) - A complete guide for newcomers and advanced users to correct usage and deep understanding of the bash shell language.
 
@@ -386,7 +386,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://ivypanda.com/blog/wp-content/uploads/2016/06/old-university-library-faculty-geography-history.jpg)
 
@@ -398,7 +398,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://img.tradepub.com/free/@@pubcode@@/images/@@pubcode@@c8w.jpg)
 
@@ -410,7 +410,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://resources.saylor.org/og/default-1200x1200.png)
 
@@ -422,7 +422,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [learncreative - IIT JEE NEET Materials & Engineering Notes](https://learncreative.net) - Free download - Mechanical, Electrical, Electronics and Civil Engineering Notes ,handwritten notes, exam not, previous year questions,IITJEE Study materials
 
@@ -432,9 +432,9 @@
 
 ---
 
-## EDU
+### EDU
 
-[Lib Ebooks Free PDF EPUB Books](https://lib-ebooks.com) - Download EBooks For free : Lib Ebooks Website Provides Free PDF Books and more.. For all, In many different Subjects: Dentistry, Anatomy,...
+[Lib Ebooks Free PDF EPUB Books](https://lib-ebooks.com) - Download EBooks For free : Lib Ebooks Website Provides Free PDF Books and more.. For all, In many different Subjects: Dentistry, Anatomy,…
 
 2022-09-14T12:49:32.000Z
 
@@ -442,7 +442,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Memory of the World Library](https://library.memoryoftheworld.org/#/books/) - nan
 
@@ -452,7 +452,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [LibreTexts - Free The Textbook](https://libretexts.org) - LibreTexts is developing the next generation of open-access texts. Open. Free. Accessible to all.
 
@@ -462,7 +462,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://libribook.com/Content/images/logo.jpg)
 
@@ -474,7 +474,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Index of /](https://lit.gfax.ch) - nan
 
@@ -484,7 +484,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://64.media.tumblr.com/avatar_425249ac74e1_128.pnj)
 
@@ -496,7 +496,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://yt3.googleusercontent.com/ytc/APkrFKYkBSbJKPFqThp49B2n7U_lUVLwhxclKIYjjKNE=s900-c-k-c0x00ffffff-no-rj)
 
@@ -508,7 +508,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Explanations](https://magcius.github.io/xplain/article) - nan
 
@@ -518,7 +518,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://masterwiki.how/social/facebook.png)
 
@@ -530,7 +530,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://i2.wp.com/mcn.edu/wp-content/uploads/2020/02/mcn-denver-1-1024x547-1.jpg?fit=1024%2C547&ssl=1)
 
@@ -542,7 +542,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Medical Study Zone](https://medicalstudyzone.com) - Guides And Notes For Medical Students
 
@@ -552,7 +552,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Monoskop Log](https://monoskop.org/log) - Digital library of arts and humanities
 
@@ -562,7 +562,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://oapen.org/static-assets/images/oapenlogo-banner.png)
 
@@ -574,7 +574,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://www.oedb.org/wp-content/uploads/2014/01/photo-featured-default.png)
 
@@ -586,7 +586,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [The Online Books Page](https://onlinebooks.library.upenn.edu) - nan
 
@@ -596,7 +596,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [The Online Books Page: Search](https://onlinebooks.library.upenn.edu/search.html) - nan
 
@@ -606,7 +606,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Home](https://open.bccampus.ca) - nan
 
@@ -616,7 +616,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Home - PickPDFs](https://pickpdfs.com) - Latest posts Williams Gynecology 3rd Edition PDF Free Download Source Code Meditation PDF Free Download Edible and Medicinal Mushrooms PDF Free Download Chinese Medical Herbology & Pharmacology PDF Free Download Genetics Analysis and Principles 6th Edition PDF Oxford Handbook of Epidemiology for Clinicians PDF  Free PDF EPUB Medical Books Clinical Manual of Cultural Psychiatry
 
@@ -626,7 +626,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Group selection](https://powerinbooks.xyz/temp) - nan
 
@@ -636,7 +636,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Buttericks Practical Typography](https://practicaltypography.com) - nan
 
@@ -646,7 +646,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://rationalwiki.org/w/images/6/6e/Rw_logo.png)
 
@@ -658,7 +658,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Free Math Resources - Textbooks, Lectures Notes, Videos and Online Courses](https://realnotcomplex.com) - Discover incredible free resources to study mathematics - textbooks, lecture notes, video and online courses.
 
@@ -668,7 +668,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://share.redd.it/preview/post/smm6ib)
 
@@ -680,7 +680,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [r/csbooks](https://reddit.com/r/csbooks) - r/csbooks:
 
@@ -690,7 +690,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [r/econbooks](https://reddit.com/r/econbooks) - r/econbooks:
 
@@ -700,7 +700,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [r/eebooks](https://reddit.com/r/eebooks) - r/eebooks: An archive of links to **published** electrical/computer engineering textbooks that have been released online for free by their
 
@@ -710,7 +710,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [r/mathbooks](https://reddit.com/r/mathbooks) - r/mathbooks:
 
@@ -720,7 +720,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://b.thumbs.redditmedia.com/lmo96dzw-3cQrmUngwJ-HIVfHwYfoWWi9AVg6uw1NIQ.png)
 
@@ -732,7 +732,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [r/textbook_piracy](https://reddit.com/r/textbook_piracy) - r/textbook_piracy: This subreddit collects resources and links to pirated textbooks that are made available free of charge.
 
@@ -742,7 +742,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [r/textbookfinder](https://reddit.com/r/textbookfinder) - r/textbookfinder: All the textbooks you need at great prices! For any new request, PM the moderator.
 
@@ -752,7 +752,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [r/textbookrequest](https://reddit.com/r/textbookrequest) - r/textbookrequest: My goal for this subreddit is to have users post a request for a specific textbook and if you see a request that you have a pdf
 
@@ -762,7 +762,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [A Collection of 500+ Philosophy Course Syllabi Organised by Topic - The Daily Idea](https://thedailyidea.org/philosophy-syllabi-collection) - A collection of over 500 philosophy course syllabi. Quickly find syllabi on over 100 different philosophical topics.
 
@@ -772,11 +772,11 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07WHBQQ82&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=philosophyf09-20)
 
-[A collection of over 120 philosophy reading lists organised by topic - The Daily Idea](https://thedailyidea.org/reading-lists) - One of the most common questions people ask when learning about philosophy is: what should I read first? Unfortunately, it can also be a difficult question to answer. Philosophy is an incredibly broad subject and there is no single starting point that will be best for everyone. The best place to start will depend heavily on your preferred learning style, the topics youre interested in, and the amount of time and energy youre willing to spend reading. Instead of recommending a single best starting point, these lists aim to provide ... Read More
+[A collection of over 120 philosophy reading lists organised by topic - The Daily Idea](https://thedailyidea.org/reading-lists) - One of the most common questions people ask when learning about philosophy is: what should I read first? Unfortunately, it can also be a difficult question to answer. Philosophy is an incredibly broad subject and there is no single starting point that will be best for everyone. The best place to start will depend heavily on your preferred learning style, the topics youre interested in, and the amount of time and energy youre willing to spend reading. Instead of recommending a single best starting point, these lists aim to provide … Read More
 
 2022-09-14T12:49:32.000Z
 
@@ -784,7 +784,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Table of Contents](https://ultimateelectronicsbook.com) - A free, interactive book for electronics hobbyists and electrical engineering students: Practical Circuit Design and Analysis.
 
@@ -794,7 +794,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Welcome to OpenDOAR - v2.sherpa](https://v2.sherpa.ac.uk/opendoar) - nan
 
@@ -804,7 +804,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://vdoc.pub/static/img/og-image.png)
 
@@ -816,7 +816,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](http://sun6-20.userapi.com/s/v1/if1/EhGT6IYcJRxaeXQDeVbr9x4Foky8RvYSfZ-ltlnBAHm5hpN8ky7SFmZry4C3nEmgxEMRN6c9.jpg?size=200x200&quality=96&crop=0,0,417,417&ava=1)
 
@@ -828,7 +828,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [My Knowledge Wiki-Everything I know](https://wiki.nikiv.dev) - This is my personal wiki where I share everything I know about this world in form of an online wiki built with Docusaurus on GitHub.
 
@@ -838,7 +838,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://www.allaboutcircuits.com/images/site/og_default.png)
 
@@ -850,7 +850,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [https://www.apaonline.org/](https://www.apaonline.org) - nan
 
@@ -860,7 +860,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [bioRxiv](https://www.biorxiv.org) - Welcome to the bioRxiv homepage.
 
@@ -870,7 +870,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://www.bookgoldmine.com/Content/Images/Logo.gif)
 
@@ -882,7 +882,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [CK12-Foundation](https://www.ck12.org) - nan
 
@@ -892,7 +892,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://www.degruyter.com/assets/images/0c3f27a68e6e1af8499f72e7a0c99438-dg-og-logo.png)
 
@@ -904,7 +904,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Open Access Journals-De Gruyter](https://www.degruyter.com/page/2045) - De Gruyter-270 years of academic publishing
 
@@ -914,7 +914,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](http://doabooks.org/static-assets/images/layout/doablogo-banner.png)
 
@@ -926,7 +926,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Engineering Books PDF-Download Free Past Papers, PDF Notes, Manuals & Templates, we have 4382 Books & Templates for free |](https://www.engineeringbookspdf.com) - Download Free Engineering PDF Books, Owner's Manual and Excel Templates, Word Templates PowerPoint Presentations
 
@@ -936,7 +936,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [HathiTrust Digital Library-Millions of books online](https://www.hathitrust.org) - nan
 
@@ -946,7 +946,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://cdn.hswstatic.com/gif/hsw-logo-120x90.jpg)
 
@@ -958,7 +958,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Intechopen](https://www.intechopen.com) - nan
 
@@ -968,7 +968,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [JEENEETBooks : Download Free IIT JEE, NEET Books PDF-Study Materials-MindMaps](https://www.jeeneetbooks.in) - Download Free IIT JEE (Main and Advanced), NEET Books PDF-Test Series-DPPs-Study Materials-Video Lectures-Coaching Modules-Rank Boosters |
 
@@ -978,7 +978,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [JSTOR Home](https://www.jstor.org) - JSTOR is a digital library of academic journals, books, and primary sources.
 
@@ -988,7 +988,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [The Ergonomic Development of Video Game Controllers](https://www.longdom.org/open-access/the-ergonomic-development-of-video-game-controllers-2165-7556-1000209.pdf) - nan
 
@@ -998,7 +998,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [medRxiv](https://www.medrxiv.org) - the preprint service for Health Sciences
 
@@ -1008,7 +1008,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://www.metmuseum.org/-/media/images/art/metpublication/teasers/metpubs-teaser.jpg?sc_lang=en)
 
@@ -1020,7 +1020,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Login-My Anonamouse](https://www.myanonamouse.net) - nan
 
@@ -1030,7 +1030,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Invite Application-My Anonamouse](https://www.myanonamouse.net/inviteapp.php) - nan
 
@@ -1040,7 +1040,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [OpenEdition: four platforms for electronic resources in the humanities and social sciences: OpenEdition Books, OpenEdition Journals, Hypotheses, Calenda](https://www.openedition.org) - OpenEdition gathers OpenEdition Books, OpenEdition Journals, Hypotheses.org and Calenda, four platforms dedicated to electronic resources in the humanities and social sciences. OpenEdition est un portail de ressources electroniques en sciences humaines et sociales (OpenEdition Books, OpenEdition Journals, Hypotheses, Calenda).
 
@@ -1050,7 +1050,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [PDF Books Library To download free eBooks](https://www.pdfbooksworld.com) - PDF Books World offers free eBooks on fiction, non-fiction, academic, textbooks and children's categories for download online in high quality PDF format.
 
@@ -1060,7 +1060,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://www.pdfiles.net/assets/images/favicon/favicon.png)
 
@@ -1072,7 +1072,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [tools-misc - freemediaheckyeah](https://www.reddit.com/r/freemediaheckyeah/wiki/tools-misc#wiki_.25b7_language_learning) - r/FREEMEDIAHECKYEAH:
 
@@ -1082,11 +1082,11 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://resources.saylor.org/wwwresources/wp-content/uploads/20210302112211/Default-1200x1200-1.png)
 
-[Saylor Academy Open Textbooks-Saylor Academy](https://www.saylor.org/books) - Saylor Academy Open Textbooks Were about so much more than just these textbooks. Students: We have almost 100 free, full-length certificate courses ready for you to take right now. Many of our courses can connect to zero-tuition college credit through our dozens of partner colleges and universities. Educators: Want more resources for your classroom? Saylor [...]Read More... from Saylor Academy Open Textbooks
+[Saylor Academy Open Textbooks-Saylor Academy](https://www.saylor.org/books) - Saylor Academy Open Textbooks Were about so much more than just these textbooks. Students: We have almost 100 free, full-length certificate courses ready for you to take right now. Many of our courses can connect to zero-tuition college credit through our dozens of partner colleges and universities. Educators: Want more resources for your classroom? Saylor […]Read More… from Saylor Academy Open Textbooks
 
 2022-09-14T12:49:32.000Z
 
@@ -1094,7 +1094,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Science Forums](https://www.scienceforums.net) - nan
 
@@ -1104,7 +1104,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://mediaproxy.snopes.com/width/1200/https://www.snopes.com/tachyon/2019/11/2019-snopes-open-graph-default.png)
 
@@ -1116,7 +1116,7 @@
 
 ---
 
-## EDU
+### EDU
 
 ![](https://www.thenakedscientists.com/sites/default/files/media/media/NS_main_logo_text_2400x1200-01.png)
 
@@ -1128,7 +1128,7 @@
 
 ---
 
-## EDU
+### EDU
 
 [Wikiversity](https://www.wikiversity.org) - Wikiversity is a Wikimedia Foundation project devoted to learning resources, learning projects, and research for use in all levels, types, and styles of education from pre-school to university, including professional training and informal learning.
 

@@ -1,6 +1,6 @@
-# Dating
-
 ## Dating
+
+### Dating
 
 ![](https://autoseductionai.com/static/img/opengraph.jpg)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Dating
+### Dating
 
 [Copilot4Dating](https://copilot4dating.com) - AI-powered Dating assistant
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Dating
+### Dating
 
 [MonkeyType](https://monkeytypeguhuih.com) - hui hui hui
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Dating
+### Dating
 
 ![](https://roast.dating/images/beyondmatching.jpg)
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Dating
+### Dating
 
 ![](https://tinderglowup.com/twitter_card.png)
 
@@ -56,7 +56,7 @@
 
 ---
 
-## Dating
+### Dating
 
 [TinderProfile.ai](https://tinderprofile.ai) - Revamp Your Dating Profile with TinderProfile.ai
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Dating
+### Dating
 
 [Elektrif AI](https://www.elektrif.ai) - Generate personalized convos & rephrase messages to be more engaging
 
@@ -76,7 +76,7 @@
 
 ---
 
-## Dating
+### Dating
 
 ![](https://videohighlight.com/share/video-highlight-twitter-logo.png)
 

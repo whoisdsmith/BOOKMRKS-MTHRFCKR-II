@@ -1,6 +1,6 @@
-# Create Blog
-
 ## Create Blog
+
+### Create Blog
 
 ["Vortex](https://dimension.dev/vortex?ref=producthunt) - Svelte demo app
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 ![](https://write.as/img/pro_og.png)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 [Upsitely](https://www.upsitely.com/?ref=producthunt) - Build beautiful websites for only $5 per month. Unlimited storage and bandwidth. The most affordable way to get online. Launch your website or portfolio today with no code and a library of beautiful templates.
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 [GitHub Pages](https://pages.github.com) - Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 
@@ -42,7 +42,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 ![](https://joinplu.me/images/og-logo.png)
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 [Home - PluXml.org](https://pluxml.org) - nan
 
@@ -64,7 +64,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690992797538/a347f33e-bd02-4a82-b595-fc79f8cfd296.png?auto=compress)
 
@@ -76,7 +76,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 ![](https://docs.s9y.org/img/s9y-opengraph.jpg)
 
@@ -88,7 +88,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 ![](https://withknown.com/img/home/hero-desk.jpg)
 
@@ -100,7 +100,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 [HTMLy - PHP Blogging Platform, and Flat-File CMS](https://www.htmly.com) - HTMLy is an open source databaseless PHP blogging platform. A flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconds.
 
@@ -110,7 +110,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 [Haven: Host your own private blog](https://havenweb.org/index.html) - Haven is a new way of sharing things on the internet.  Post things privately so that only your chosen freinds and family have access.
 
@@ -120,7 +120,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 [Welcome Dotclear Blog management made easy](https://dotclear.org) - Blog management made easy
 
@@ -130,7 +130,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 ![](https://df6m0u2ovo2fu.cloudfront.net/images/bludit-facebook-cards.png)
 
@@ -142,7 +142,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 ![](https://ghost.org/images/meta/ghost.png)
 
@@ -154,7 +154,7 @@
 
 ---
 
-## Create Blog
+### Create Blog
 
 [Arbital](https://arbital.com) - Blogging and Wiki Platform
 

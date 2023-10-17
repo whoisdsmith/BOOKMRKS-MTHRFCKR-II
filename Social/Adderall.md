@@ -1,6 +1,6 @@
-# Adderall
-
 ## Adderall
+
+### Adderall
 
 ![](https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/241c6ab758e5ea0609ff38333dff8064.jpg)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://images.wsj.net/im-559336/social)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://static01.nyt.com/images/2021/01/17/books/review/Schwartz1/Schwartz1-largeHorizontalJumbo.jpg?year=2021&h=683&w=1024&s=2742c8068287df2e3aeba1d6327b403071d35e856e47098793b3d79a0b5d2def&k=ZQJBKqZ0VN)
 
@@ -36,7 +36,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://static01.nyt.com/images/2021/02/16/fashion/16YOUTUBE-ADHD-2/16YOUTUBE-ADHD-2-largeHorizontalJumbo.jpg?year=2021&h=682&w=1024&s=a274c080fb4d88dfa215bff576da2e208ac6758fe5806c10bc988598babe8640&k=ZQJBKqZ0VN)
 
@@ -48,7 +48,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://miro.medium.com/v2/resize:fit:1200/0*IG2XQ92PuV5qeVGU)
 
@@ -60,7 +60,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*JEhqjzkBhdElv-jaj2_MYw.jpeg)
 
@@ -72,7 +72,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://og-image.hackernoon.vercel.app/**healthcare**%3Cbr%3EWith%20the%20%22new%20normal%22,%20health%20tech%20is%20more%20important%20than%20ever..png?theme=light&md=1&fontSize=48px&images=https%3A%2F%2Fhackernoon.com%2Fhn-icon.png)
 
@@ -84,7 +84,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://s26162.pcdn.co/wp-content/uploads/2020/07/Casey-Schwartz.jpg)
 
@@ -96,7 +96,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://static01.nyt.com/images/2022/07/10/fashion/10PANDEMIC-PRESCRIPTIONS-cover/10PANDEMIC-PRESCRIPTIONS-cover-largeHorizontalJumbo.jpg?year=2022&h=683&w=1024&s=bfac0fb143d2ff99204ac765b6e20bd6d81b65bb637ae0da7d41e6ed9da9d43e&k=ZQJBKqZ0VN)
 
@@ -108,7 +108,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*uJUEMIdmZ6NqnmIQuLjFwg.jpeg)
 
@@ -120,7 +120,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://miro.medium.com/v2/resize:fit:1024/1*mZNhAY1VErPJBuU_w8tpJw.jpeg)
 
@@ -132,7 +132,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](http://content.chrisguillebeau.com/wp-content/uploads/2021/10/513475016_85639b8bd0_b.jpg)
 
@@ -144,7 +144,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://miro.medium.com/v2/resize:fit:900/1*LZeKg7_3JNnY94RbyrDDew.jpeg)
 
@@ -156,7 +156,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://img.buzzfeed.com/buzzfeed-static/static/2023-02/3/22/campaign_images/5d297ca1d748/i-was-addicted-to-adderall-for-a-decade-what-did--2-1292-1675461851-10_dblbig.jpg)
 
@@ -168,7 +168,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://nida.nih.gov/sites/default/files/2020-05/Commonly%20Abused%20Drugs%20Charts_0.jpg)
 
@@ -180,7 +180,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://i0.wp.com/www.additudemag.com/wp-content/uploads/2020/02/cropped-additude-favicon-512x512-1.png?w=512&crop=0%2C0px%2C100%2C512px&ssl=1)
 
@@ -192,7 +192,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 [Dr Jekylls Hangover-Quitting Adderall](http://quittingadderall.com/dr-jekylls-hangover) - nan
 
@@ -202,7 +202,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://static01.nyt.com/images/2016/10/16/magazine/16adderall1-copy/16adderall1-largeHorizontalJumbo.jpg?year=2016&h=683&w=1024&s=5338d15cb34260df179790bc2b0aa82525f8d3937c227b5bce3c007d82d4ef9d&k=ZQJBKqZ0VN)
 

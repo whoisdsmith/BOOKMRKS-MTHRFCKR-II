@@ -1,6 +1,6 @@
-# Torrents
-
 ## Torrents
+
+### Torrents
 
 ![](https://trace.moe/favicon128.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Torrents
+### Torrents
 
 ![](https://www.btmet.com/img/logo_s3.png)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Torrents
+### Torrents
 
 [Bt4g.org](https://bt4g.org) - a Search Engine based on DHT protocol
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Torrents
+### Torrents
 
 [btdig](https://btdig.com) - nan
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Torrents
+### Torrents
 
 [FileListing](https://filelisting.com) - Search files other people are downloading
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Torrents
+### Torrents
 
 [Solid Torrents](https://solidtorrents.net) - Bitsearch is #1 Torrent Index ever.
 
@@ -64,7 +64,7 @@
 
 ---
 
-## Torrents
+### Torrents
 
 [Torrents-csv.ml](https://torrents-csv.ml/#/) - nan
 

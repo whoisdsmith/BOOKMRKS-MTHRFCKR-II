@@ -8,8 +8,9 @@
 #Productivity #apps
 
 ---
-
 ## Apps
+
+### Apps
 
 ![](https://zettlr.com/storage/app/media/img/social_media_img.png)
 
@@ -21,7 +22,7 @@
 
 ---
 
-## Apps
+### Apps
 
 ![](https://zenkit.com/wp-content/uploads/2021/01/hypernotes-social.jpg)
 
@@ -33,7 +34,7 @@
 
 ---
 
-## Apps
+### Apps
 
 ![](https://www.zengobi.com/curio/press/originals/curio1.png)
 
@@ -45,7 +46,7 @@
 
 ---
 
-## Apps
+### Apps
 
 [VNote - A pleasant note-taking platform](http://app.vnote.fun/en_us) - nan
 
@@ -55,7 +56,7 @@
 
 ---
 
-## Apps
+### Apps
 
 [Transno - Outlines, Notes, Mind Map](https://transno.com) - Transno is a multi-function app that combines outlines, notes and mind map.
 
@@ -65,7 +66,7 @@
 
 ---
 
-## Apps
+### Apps
 
 [tiddlyroam your open source external brain](https://tiddlyroam.org) - tiddlyroam is a free, open source alternative to Roam. It is a notetaking app that works the way your brain does: networked, personal and infinitely customisable.
 
@@ -75,7 +76,7 @@
 
 ---
 
-## Apps
+### Apps
 
 [Tangent Notes](https://www.tangentnotes.com) - nan
 
@@ -85,7 +86,7 @@
 
 ---
 
-## Apps
+### Apps
 
 ![](https://www.remnote.com/assets/meta/default.png)
 
@@ -97,7 +98,7 @@
 
 ---
 
-## Apps
+### Apps
 
 ![](https://storage.googleapis.com/recall-public/static_assets/images/metaImage.png)
 
@@ -109,7 +110,7 @@
 
 ---
 
-## Apps
+### Apps
 
 ![](https://myreach.io/wp-content/uploads/2023/05/featured-img-4-scaled.jpg)
 
@@ -121,7 +122,7 @@
 
 ---
 
-## Apps
+### Apps
 
 ![](https://noteplan.co/static/og-image-89dea268aa3bd8605d4dc18f8a7e5487.jpg)
 
@@ -133,7 +134,7 @@
 
 ---
 
-## Apps
+### Apps
 
 [Nota Bene](https://www.notabene.com) - Nota Bene: Integrated software for writers, 
 
@@ -148,7 +149,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 ![](https://nota.md//card.png?64f9ad1717736)
 
@@ -160,7 +161,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 ![](https://images.prismic.io/mindnode/54b5d1e4-f2f0-4b60-9761-f0bf70c1f6e5_230419_WebsiteShareImage.png?auto=compress,format&rect=0,0,1200,630&w=1200&h=630)
 
@@ -172,7 +173,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 ![](https://app.mindlib.de/assets/icon/logo.png)
 
@@ -184,7 +185,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 [Marginnote](https://www.marginnote.com) - nan
 
@@ -194,7 +195,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 [Innos Note](https://innos.io) - Connect, communicate, consolidate. Innos is a new all-in-one platform for your team collaboration needs. And it's free.
 
@@ -204,7 +205,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 [Best Notes App - Write and Organize with UpNote](https://getupnote.com) - UpNote is a clean and beautiful app for writing and organizing notes. Its easy to use with rich features and delightful experience. Available on Mac, iOS and Windows. Android is coming soon.
 
@@ -214,7 +215,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 ![](https://media.museapp.com/website/2022/main-unfurl.png)
 
@@ -226,7 +227,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 ![](https://www.remnote.io/assets/meta/default.png)
 
@@ -238,7 +239,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 [POLAR - Easily manage your reading. Tag, annotate, and highlight PDFs and web content.](https://app.getpolarized.io) - A powerful document manager for Mac, Windows, and Linux for managing web content, books, and notes and supports tagging, annotation, highlighting and keeps track of your reading progress.
 
@@ -248,7 +249,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 [Pad-Take and organise notes for free](https://getmicropad.com) - MicroPad is a free non-linear note taking app that allows for easy organisation of all of your notes and notebooks.
 
@@ -258,7 +259,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 [Escape - Mind mapping & Outlining for iOS](https://escapeapp.cloud) - Visual Notes, Mind mapping, Outlining & Tasks, in a powerful & easy to use app for iOS - What's your next idea?
 
@@ -268,7 +269,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 [dokuwiki [DokuWiki]](https://www.dokuwiki.org/dokuwiki) - nan
 
@@ -278,7 +279,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 ![](https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/dendron-editor.png)
 
@@ -290,7 +291,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 [Defter Notes-iPad app for deft handwritten notes & spatial organizing.](https://defternotes.com) - Take digital handwritten notes deftly on your iPad with Apple Pencil. Spread out and organize spatially, just like real papers on your desk.
 
@@ -300,7 +301,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 [Notorious](https://danobot.github.io/notorious-landing) - Notorious Landing Page
 
@@ -310,7 +311,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 ![](https://www.craft.do/craft_og.png)
 
@@ -322,7 +323,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 [CmapTools-Cmap](https://cmap.ihmc.us/cmaptools) - nan
 
@@ -332,7 +333,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 ![](https://www.stashpad.com/stashpad-preview-1200-630.jpg)
 
@@ -344,7 +345,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 ![](https://uploads-ssl.webflow.com/616940a0ddfe0a14894fe86a/6171724eb9a974e238052d16_ogp.png)
 
@@ -356,7 +357,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 ![](https://app.capacities.io/thumbnail_index.png)
 
@@ -368,7 +369,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 ![](https://anytype.io/ogimage.jpg)
 
@@ -380,7 +381,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 [Amplenote: Best Note-taking App for To-do Lists & Calendar Scheduling](https://www.amplenote.com) - nan
 
@@ -390,7 +391,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 ![](https://affine.pro/og.jpeg)
 
@@ -402,7 +403,7 @@ and database management as a single program
 
 ---
 
-## Apps
+### Apps
 
 ![](https://uploads-ssl.webflow.com/62762d850c924b3c367a6dac/644fc36692b38d44d7997887_Frame%20915.jpg)
 
@@ -414,9 +415,9 @@ and database management as a single program
 
 ---
 
-## Apps-Apps
-
 ### Apps-Apps
+
+#### Apps-Apps
 
 ![](https://polypad.io/wp-content/uploads/2021/09/Polypad-Scriptable-Textpad.jpg)
 
@@ -428,7 +429,7 @@ and database management as a single program
 
 ---
 
-### Apps-Apps
+#### Apps-Apps
 
 [The Wails Project-Wails](https://wails.io) - Build beautiful cross-platform applications using Go
 
@@ -438,7 +439,7 @@ and database management as a single program
 
 ---
 
-### Apps-Apps
+#### Apps-Apps
 
 ![](https://website-prisma.vercel.app/og-images/og-image-prisma.png)
 
@@ -450,9 +451,9 @@ and database management as a single program
 
 ---
 
-## Apps-Cross-Platform
-
 ### Apps-Cross-Platform
+
+#### Apps-Cross-Platform
 
 ![](https://notesnook.com/social-2.png)
 
@@ -464,7 +465,7 @@ and database management as a single program
 
 ---
 
-### Apps-Cross-Platform
+#### Apps-Cross-Platform
 
 ![](https://gtoolkit.com//assets/pictures/glamoroustoolkit-icon.png)
 
@@ -476,7 +477,7 @@ and database management as a single program
 
 ---
 
-### Apps-Cross-Platform
+#### Apps-Cross-Platform
 
 [cherrytree giuspen](https://www.giuspen.com/cherrytree) - nan
 
@@ -486,7 +487,7 @@ and database management as a single program
 
 ---
 
-### Apps-Cross-Platform
+#### Apps-Cross-Platform
 
 [Memrey](https://www.memrey.com) - Memrey is the future of the notepad. An advanced notepad for creative minds.
 
@@ -496,7 +497,7 @@ and database management as a single program
 
 ---
 
-### Apps-Cross-Platform
+#### Apps-Cross-Platform
 
 ![](https://www.nuclino.com/img/twitter-card-image.png)
 
@@ -508,7 +509,7 @@ and database management as a single program
 
 ---
 
-### Apps-Cross-Platform
+#### Apps-Cross-Platform
 
 [Zim - a desktop wiki](https://www.zim-wiki.org) - Zim is a notepad like desktop application that is inspired by the way people use wikis.
 
@@ -518,7 +519,7 @@ and database management as a single program
 
 ---
 
-### Apps-Cross-Platform
+#### Apps-Cross-Platform
 
 [TiddlyWiki a non-linear personal web notebook](https://tiddlywiki.com) - nan
 
@@ -528,7 +529,7 @@ and database management as a single program
 
 ---
 
-### Apps-Cross-Platform
+#### Apps-Cross-Platform
 
 ![](https://roamresearch.com/assets/astro.png)
 
@@ -540,7 +541,7 @@ and database management as a single program
 
 ---
 
-### Apps-Cross-Platform
+#### Apps-Cross-Platform
 
 ![](https://www.notion.so/front-static/meta/default.png)
 
@@ -552,7 +553,7 @@ and database management as a single program
 
 ---
 
-### Apps-Cross-Platform
+#### Apps-Cross-Platform
 
 [MindForger - Thinking Notebook and Markdown Editor](https://www.mindforger.com) - Thinking notebook and Markdown editor web site home page.
 
@@ -562,7 +563,7 @@ and database management as a single program
 
 ---
 
-### Apps-Cross-Platform
+#### Apps-Cross-Platform
 
 [Create amazing 3D Mind Maps and Flowcharts with our software](http://www.buildyourmap.com) - Create amazing 3D mind maps and flowcharts with our software
 
@@ -572,7 +573,7 @@ and database management as a single program
 
 ---
 
-### Apps-Cross-Platform
+#### Apps-Cross-Platform
 
 ![](http://static1.squarespace.com/static/617f6f16b877c06711e87373/t/617f7454ff4bb87be2e62ba9/1635742804172/Asset+10.png?format=1500w)
 
@@ -584,7 +585,7 @@ and database management as a single program
 
 ---
 
-### Apps-Cross-Platform
+#### Apps-Cross-Platform
 
 ![](https://community.anytype.io/uploads/default/original/2X/4/403be88df2688ebdd1c1e66b9727985419c1ed80.png)
 
@@ -596,9 +597,9 @@ and database management as a single program
 
 ---
 
-## Apps-Docker
-
 ### Apps-Docker
+
+#### Apps-Docker
 
 [Hello from Personal Management System-Personal Management System](https://volmarg.github.io) - Description will go into a meta tag in
 
@@ -608,7 +609,7 @@ and database management as a single program
 
 ---
 
-### Apps-Docker
+#### Apps-Docker
 
 [Gist - Data becomes knowledge](https://www.gistapp.com/?ref=producthunt) - Gist is a no-code data visualization platform. Explore data visually, for knowledge management, data publishing, and for adding context to digital collections.
 
@@ -618,9 +619,9 @@ and database management as a single program
 
 ---
 
-## Apps-iOS
-
 ### Apps-iOS
+
+#### Apps-iOS
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cd/e6/29/cde62937-794b-449d-595d-bd6d55e2da35/AppIcon-2x-0-0-4-0-0-85-220.png/1200x630wa.png)
 
@@ -632,7 +633,7 @@ and database management as a single program
 
 ---
 
-### Apps-iOS
+#### Apps-iOS
 
 ![](https://app.mindlib.de/assets/icon/logo.png)
 
@@ -644,7 +645,7 @@ and database management as a single program
 
 ---
 
-### Apps-iOS
+#### Apps-iOS
 
 [Relanote-List](https://app.relanote.com/platform/notes-list) - A note-taking tool to help you connect the dots.
 
@@ -654,7 +655,7 @@ and database management as a single program
 
 ---
 
-### Apps-iOS
+#### Apps-iOS
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/17/21/651721d6-c0fc-8907-fef1-843ab9d999af/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/1200x630wa.png)
 
@@ -666,7 +667,7 @@ and database management as a single program
 
 ---
 
-### Apps-iOS
+#### Apps-iOS
 
 [Note Garden](https://notegarden.web.app) - Study different, Let Knowledge Blossom in Note Garden
 
@@ -676,7 +677,7 @@ and database management as a single program
 
 ---
 
-### Apps-iOS
+#### Apps-iOS
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/68/5b/f0685bf0-fad5-569d-56e5-8dc2e28b7ebf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png)
 
@@ -688,7 +689,7 @@ and database management as a single program
 
 ---
 
-### Apps-iOS
+#### Apps-iOS
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/db/28/a9/db28a9eb-c491-7731-bebb-2e0e6213aaed/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/1200x630wa.png)
 
@@ -700,9 +701,9 @@ and database management as a single program
 
 ---
 
-## Apps-Linux
-
 ### Apps-Linux
+
+#### Apps-Linux
 
 [Apps/Rhythmbox - GNOME Wiki!](https://wiki.gnome.org/Apps/Rhythmbox) - nan
 
@@ -712,7 +713,7 @@ and database management as a single program
 
 ---
 
-### Apps-Linux
+#### Apps-Linux
 
 ![](https://gitlab.gnome.org/uploads/-/system/project/avatar/274/org.gnome.Lollypop.png)
 
@@ -724,7 +725,7 @@ and database management as a single program
 
 ---
 
-### Apps-Linux
+#### Apps-Linux
 
 [Apps/Lollypop - GNOME Wiki!](https://wiki.gnome.org/Apps/Lollypop) - nan
 
@@ -734,7 +735,7 @@ and database management as a single program
 
 ---
 
-### Apps-Linux
+#### Apps-Linux
 
 ![](https://tauonmusicbox.rocks/social.png)
 
@@ -746,7 +747,7 @@ and database management as a single program
 
 ---
 
-### Apps-Linux
+#### Apps-Linux
 
 [cmus - C* Music Player](https://cmus.github.io) - nan
 
@@ -756,7 +757,7 @@ and database management as a single program
 
 ---
 
-### Apps-Linux
+#### Apps-Linux
 
 [Focalboard: Open source alternative to Trello, Asana, and Notion](https://www.focalboard.com) - nan
 
@@ -766,9 +767,9 @@ and database management as a single program
 
 ---
 
-## Apps-MacOS
-
 ### Apps-MacOS
+
+#### Apps-MacOS
 
 [Tinderbox: The Tool For Notes](http://www.eastgate.com/Tinderbox/index.html) - nan
 
@@ -778,7 +779,7 @@ and database management as a single program
 
 ---
 
-### Apps-MacOS
+#### Apps-MacOS
 
 [Notenik Home](https://notenik.app) - The Notenik App for the Mac
 
@@ -788,7 +789,7 @@ and database management as a single program
 
 ---
 
-### Apps-MacOS
+#### Apps-MacOS
 
 ![](https://agenda.com/img/header-twitter-v5.png)
 
@@ -800,7 +801,7 @@ and database management as a single program
 
 ---
 
-### Apps-MacOS
+#### Apps-MacOS
 
 ![](https://brainio.com/assets/social-facebook.png)
 
@@ -812,7 +813,7 @@ and database management as a single program
 
 ---
 
-### Apps-MacOS
+#### Apps-MacOS
 
 ![](https://cryonet.io/img/twitter_cryo.png)
 
@@ -824,9 +825,9 @@ and database management as a single program
 
 ---
 
-## Apps-Online
-
 ### Apps-Online
+
+#### Apps-Online
 
 ![](https://firebasestorage.googleapis.com/v0/b/word-webs.appspot.com/o/meta.png?alt=media&token=8ad54109-57df-477f-aab1-ebcbca5523e4)
 
@@ -838,7 +839,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://scolary.com/static/images/scolary_open_graph_image.png)
 
@@ -850,7 +851,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://ds-wizard.org/static/ogimages/dsw-logo.png)
 
@@ -862,7 +863,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 [The Dataverse Project - Dataverse.org](https://dataverse.org) - nan
 
@@ -872,7 +873,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://cdn.wizdom.ai/assets/images/web/social_images/wizdom-share1.png)
 
@@ -884,9 +885,9 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
-[Academicons](https://jpswalsh.github.io/academicons) - Academicons is licensed under the SIL OFL 1.1 license  This page was built using Jekyll (theme: minima), and uses code from Simple Grid  Request new icons ...
+[Academicons](https://jpswalsh.github.io/academicons) - Academicons is licensed under the SIL OFL 1.1 license  This page was built using Jekyll (theme: minima), and uses code from Simple Grid  Request new icons …
 
 2022-09-11T23:11:41.710Z
 
@@ -894,7 +895,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 [D3.js - Data-Driven Documents](https://d3js.org) - D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.
 
@@ -904,7 +905,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://www.authorea.com/assets/Aulogofortwitter.png)
 
@@ -916,7 +917,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://www.colabra.ai/share-general.png)
 
@@ -928,7 +929,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://opengraph.githubassets.com/39f5977ad2e075bfad10310a72355e3974dab4d9dfc484b047c5bfec7a5e55dd/mathieudutour/gatsby-digital-garden)
 
@@ -940,7 +941,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://static.rosano.ca/wikiavec/touch.png)
 
@@ -952,7 +953,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://www.bcisiveonline.com/Content/images/logo.png)
 
@@ -964,7 +965,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://notabase.io/banner.png)
 
@@ -976,7 +977,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 [Apps with 'Knowledge Management' feature](https://alternativeto.net/feature/knowledge-management) - nan
 
@@ -986,7 +987,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://braintool.org/site/AppStoreCollatoral/BraintoolChromestoresmallSATgreen-01.png)
 
@@ -998,7 +999,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://uploads-ssl.webflow.com/648cd2920265c2684bfc7ecf/64c297750dbd99c655ece8ac_bundleIQ%20share%20image.png)
 
@@ -1010,7 +1011,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://capacities.io/thumbnails/thumbnail_index.png)
 
@@ -1022,7 +1023,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 [You need a wiki](https://youneedawiki.com/app) - Turn your Google docs into a wiki
 
@@ -1032,7 +1033,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://wavebox.io/website/images/wavebox-og-card.png)
 
@@ -1044,7 +1045,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://wannadocs.com/images/og/og-image-home.png)
 
@@ -1056,7 +1057,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://spaceli.io/img/heroshot.png)
 
@@ -1068,7 +1069,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 [SlimWiki Beautiful Wikis for Teams](https://slimwiki.com) - Beautiful Wikis for Teams. Get started today, free forever! Create a private wiki for your business and public wikis for your community.
 
@@ -1078,7 +1079,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://framerusercontent.com/modules/lpKFsWFpsRuqemouTSXs/GL4TYm3KOiSvavkLAb46/assets/SOM9KzHNL7z093cvLPoBu02cfo.png)
 
@@ -1090,7 +1091,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://peony.ink/preview.png)
 
@@ -1102,7 +1103,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://orgpad.com/o/BENWpaGkpC17mFKt7LS4nt/screenshot?t=1694186779)
 
@@ -1114,7 +1115,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 [Neatly Dashboard](https://app.useneatly.com/dashboard/categories/61c1b21284920b00c2388cad) - nan
 
@@ -1124,7 +1125,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://legendapp.com/img/icon.png)
 
@@ -1136,7 +1137,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 [KgBase - No-code knowledge graphs](https://www.kgbase.com) - Most datasets are siloed, producing an information overload challenge. Knowledge Graphs can be used as a search engine that sparks new ideas and finds unexpected connections.
 
@@ -1146,7 +1147,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://stonly.com/resources/facebook-cover.jpg)
 
@@ -1158,7 +1159,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://fibery.io/img/sharing/index-v2-share.png)
 
@@ -1170,7 +1171,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 [Databyss](https://www.databyss.org/?ref=producthunt) - nan
 
@@ -1180,7 +1181,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 ![](https://www.ramsync.com/wp-content/uploads/2021/08/graph-view.gif)
 
@@ -1192,7 +1193,7 @@ and database management as a single program
 
 ---
 
-### Apps-Online
+#### Apps-Online
 
 [Build a Wiki on Google Drive - Kbee](https://www.kbee.app/?ref=producthunt) - Delightful wiki software. Kbee transforms Google Drive folders into a fast, searchable wiki for you, your team, or your customers. Free 14 Day Trial, no credit card required.
 
@@ -1202,9 +1203,9 @@ and database management as a single program
 
 ---
 
-## Apps-Packages
-
 ### Apps-Packages
+
+#### Apps-Packages
 
 ![](https://opengraph.githubassets.com/0968b5015e46b63e8757af1c3c0f01db8db34d34d657cd56502734f8d5606812/zadam/trilium)
 
@@ -1216,7 +1217,7 @@ and database management as a single program
 
 ---
 
-### Apps-Packages
+#### Apps-Packages
 
 ![](https://opengraph.githubassets.com/a9f4653b9b00596b1e8825600d557ee3bb8b34ca65ce766f11bd45f6bebb26ce/cotoami/cotoami)
 
@@ -1228,7 +1229,7 @@ and database management as a single program
 
 ---
 
-### Apps-Packages
+#### Apps-Packages
 
 [Argdown](https://argdown.org) - Argdown is a simple syntax for complex argumentation. Writing lists of pros & cons in Argdown is as simple as writing a twitter message, but you can also use it to logically reconstruct whole debates and visualize them as argument maps.
 
@@ -1238,7 +1239,7 @@ and database management as a single program
 
 ---
 
-### Apps-Packages
+#### Apps-Packages
 
 [Neuron Zettelkasten](https://neuron.zettel.page) - Neuron is a future-proof open-source app for managing your plain-text notes in Zettelkasten style, as well as for publishing them as a static site on the web. Read its Philosophy.
 
@@ -1248,7 +1249,7 @@ and database management as a single program
 
 ---
 
-### Apps-Packages
+#### Apps-Packages
 
 [Wiki.js](https://js.wiki) - The most powerful and extensible open source Wiki software.
 
@@ -1258,7 +1259,7 @@ and database management as a single program
 
 ---
 
-### Apps-Packages
+#### Apps-Packages
 
 ![](https://www.rockyourcode.com/images/carlos-muza-hpjSkU2UYSU-unsplash.jpg)
 
@@ -1270,7 +1271,7 @@ and database management as a single program
 
 ---
 
-### Apps-Packages
+#### Apps-Packages
 
 [Pandoc - About pandoc](https://pandoc.org) - nan
 
@@ -1280,7 +1281,7 @@ and database management as a single program
 
 ---
 
-### Apps-Packages
+#### Apps-Packages
 
 [Onivim 2 - Modal Editing from the Future](https://v2.onivim.io) - nan
 
@@ -1290,7 +1291,7 @@ and database management as a single program
 
 ---
 
-### Apps-Packages
+#### Apps-Packages
 
 [jKanban - Javascript plugin for Kanban boards](https://www.riccardotartaglia.it/jkanban?ref=producthunt) - Pure agnostic Javascript plugin for Kanban boards
 
@@ -1300,7 +1301,7 @@ and database management as a single program
 
 ---
 
-### Apps-Packages
+#### Apps-Packages
 
 [Index - Archivy](https://archivy.github.io) - nan
 
@@ -1310,9 +1311,9 @@ and database management as a single program
 
 ---
 
-## Apps-VS Code
-
 ### Apps-VS Code
+
+#### Apps-VS Code
 
 ![](https://foam.gallerycdn.vsassets.io/extensions/foam/foam-vscode/0.25.2/1693674164023/Microsoft.VisualStudio.Services.Icons.Default)
 
@@ -1324,7 +1325,7 @@ and database management as a single program
 
 ---
 
-### Apps-VS Code
+#### Apps-VS Code
 
 [Foam](https://foambubble.github.io/foam) - A personal knowledge management and sharing system for VSCode
 
@@ -1334,9 +1335,9 @@ and database management as a single program
 
 ---
 
-## Apps-Windows
-
 ### Apps-Windows
+
+#### Apps-Windows
 
 [MyInfo Note Taking & Personal Information Manager](https://www.myinfoapp.com) - Organize anything with MyInfo software for Windows. Take control of your projects, knowledge, and collections..
 

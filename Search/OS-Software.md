@@ -1,6 +1,6 @@
-# OS-Software
-
 ## OS-Software
+
+### OS-Software
 
 [All packages by name-Hackage](https://hackage.haskell.org/packages/search?terms=%25s) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-## OS-Software
+### OS-Software
 
 [Search Result: %s](https://alternativeto.net/browse/search?q=%25s) - nan
 

@@ -1,8 +1,8 @@
-# Misc
-
 ## Misc
 
 ### Misc
+
+#### Misc
 
 ![](https://www.asknow.ai/assets/AskNow.svg)
 
@@ -14,7 +14,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Explainai](https://explainai.vercel.app) - nan
 
@@ -24,7 +24,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Petname AI](http://petname.ai) - Generates Petnames using AI
 
@@ -34,7 +34,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [AI Pet Namer](https://aipetnamer.herokuapp.com) - AI-powered pet name generator for unique and creative pet names.
 
@@ -44,7 +44,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Talk To Books](https://books.google.com/talktobooks) - Explore books with AI
 
@@ -54,7 +54,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Chatmosphere](https://chatmosphere.ai) - Chat with favorite characters or brainstorm in a group
 
@@ -64,7 +64,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://framerusercontent.com/images/zSpKSoTngz8PeU4QhE8DklqxaJE.png)
 
@@ -76,7 +76,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Drayk It](https://drayk.it) - Make AI Drake Songs About Anything
 
@@ -86,7 +86,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://pbs.twimg.com/media/Fs3wfylWcAE6uPY?format=jpg&name=4096x4096)
 
@@ -98,7 +98,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Dumm-E](https://dumm-e.net) - Dumm-E gives you Wrong Answers to Everything
 
@@ -108,7 +108,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Haiku Lens](https://haikulens.com) - Transform Your Photos into Poems with Haiku Lens
 
@@ -118,7 +118,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/johnnygreco/the-gpt-who-lived.png)
 
@@ -130,7 +130,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Booom.ai](https://joinplayroom.com/games/booom) - Generate a trivia game using AI
 
@@ -140,7 +140,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://ph-files.imgix.net/9b4c843d-9fd4-4775-b40f-0d12d7d45720.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=2)
 
@@ -152,7 +152,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [MovieToEmoji](https://movietoemoji.netlify.app) - App converts movie names to emojis!
 
@@ -162,7 +162,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://play-lh.googleusercontent.com/VhQizkkxQaVHoUBXaF75yBDA_R20W4UT6AWhsLOkUu3xMOvHQwUNfjFG84uIPwh0m-2j)
 
@@ -174,7 +174,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Rizz](https://rizzai.com) - AI-powered mobile keyboard app for generating creative responses in real-time.
 
@@ -184,7 +184,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Robotalk AI](https://robotalk.ai) - Robotalk: The Smart Way to Transfer Knowledge from Robots to Humans
 
@@ -194,7 +194,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://public-files.gumroad.com/8pl0dfkvalyx13xxej578t1np7t3)
 
@@ -206,7 +206,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://storiedteststorage.blob.core.windows.net/wastoriedgedcom/SocialHostedImage.png)
 
@@ -218,7 +218,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://storystorageaccountname.blob.core.windows.net/blobtest/feature_banner.jpg)
 
@@ -230,7 +230,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://theseabsdontexist.vercel.app/meta.png)
 
@@ -242,7 +242,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://unrealmeal.ai/twitter.png)
 
@@ -254,7 +254,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://www.ainamedmypet.com/og-named-by.jpeg)
 
@@ -266,7 +266,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://www.aiscamdetective.com/og-detective.jpeg)
 
@@ -278,7 +278,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://www.babaselo.com/twitter_card.jpg)
 
@@ -290,7 +290,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://www.fables.gg/og-image.png)
 
@@ -302,7 +302,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://uploads-ssl.webflow.com/5f31e1ab832e12128f55cf42/604e534a2582aaf847eb1106_Graph%20Image%20Webflow%20New.png)
 
@@ -314,7 +314,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://www.giftbox.co/Sites/102627/Root/Web/Images/SitePreview.jpg)
 
@@ -326,7 +326,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Kanye Tweet Generator](https://www.kanyegenerator.com) - Generate Kanye West-style tweets with Kanye Tweet Generator.
 
@@ -336,7 +336,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Magic Type AI](https://www.magictype.ai) - Write greetings, poetry and rap lyrics using AI.
 
@@ -346,7 +346,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://www.memecam.io/assets/feature.webp)
 
@@ -358,7 +358,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://cf.mhcache.com/FP/Assets/Images/Social/mh_logo_350x350.png)
 
@@ -370,7 +370,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://www.rizzgpt.app/socialcard.png)
 
@@ -382,7 +382,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://www.thismodeldoesnotexist.co/og-main.jpg)
 
@@ -394,7 +394,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://gifthuntr.com/logo-new-512.png)
 
@@ -406,7 +406,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Gifthat](https://play.google.com/store/apps/details) - AI-powered gift finder app available on Google Play that helps users find the perfect gift for their loved ones in just a few minutes.
 
@@ -416,7 +416,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://www.smartgiftai.com/assets/images/og-image.jpg)
 
@@ -428,7 +428,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://echo.win/echowin.png)
 
@@ -440,7 +440,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://www.elfhelp.ai/_next/static/media/banner.9518b5b1.png)
 
@@ -452,7 +452,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Infinite Drum](https://experiments.withgoogle.com/ai/drum-machine/view) - Create unique beats with AI-powered tool using everyday sounds
 
@@ -462,7 +462,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Farm3D](https://farm3d.github.io) - Learning Articulated 3D Animals by Distilling 2D Diffusion
 
@@ -472,7 +472,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://opengraph.githubassets.com/559a4a7ecca853c28a86a24734ad61b26fba49e718cc9235784c69e70a6908fe/Significant-Gravitas/Auto-GPT)
 
@@ -484,7 +484,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://humanfest.chat/social.png)
 
@@ -496,7 +496,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://starbyface.com/StarByFaceLogo.png)
 
@@ -508,7 +508,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [ChatFans](https://www.chatfans.ai) - Engage with an AI chatbot for personalized conversations about your favorite celebrities.
 
@@ -518,7 +518,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://uploads-ssl.webflow.com/63df8c4bf46ebf6e7c963e47/644004aced9bd240a2a17633_open_graph.jpg)
 
@@ -530,7 +530,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://images.defog.ai/Defog%20logo_2130x1200.png)
 
@@ -542,7 +542,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Wishes AI](https://excelly-ai.io) - Send unique wishes generated by AI
 
@@ -552,7 +552,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://resd.oss-cn-shenzhen.aliyuncs.com/jpghd/logo.png)
 
@@ -564,7 +564,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://legalesedecoder.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=72406&type=play&hash=6dd7f86c418b06d205ce6f8f2661c8f3)
 
@@ -576,7 +576,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Millie](https://neuralactors.com) - Get 100% response rate on dating apps
 
@@ -586,7 +586,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [ValidatorAI.com](https://seenapse.ai) - AI validation for any business idea.
 
@@ -596,7 +596,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://beta.sequencegenius.com/banner.png)
 
@@ -608,7 +608,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://twitter-algorithm.vercel.app/meta.jpg)
 
@@ -620,7 +620,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://epicmusicquiz.com/img/banner.png)
 
@@ -632,7 +632,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [giftassistant.io](https://giftassistant.io) - A tool that utilizes AI technology to assist individuals in discovering ideal gifts for all types of events.
 
@@ -642,7 +642,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://images.fantoons.xyz/static/example.png?1)
 
@@ -654,7 +654,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://letsfoodie.com/wp-content/uploads/2023/01/Cheap-Nosh.png)
 
@@ -666,7 +666,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [Video2Recipe](https://video2recipe.com) - A software that transforms cooking videos into written recipes.
 
@@ -676,7 +676,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://www.coolgiftideas.io/screenshot.png)
 
@@ -688,7 +688,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://www.namedbyai.com/og-named-by.jpeg)
 
@@ -700,7 +700,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F899eea1beb3d419f62957353a3bbea28.cdn.bubble.io%2Ff1672830989168x544460365194502600%2Fgrid_0__4_-removebg-preview.png?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -712,7 +712,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://movie-and-book-recommender.vercel.app/og-image.png)
 
@@ -724,7 +724,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://maskr.ai/assets/images/social.jpg)
 
@@ -736,7 +736,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [YourMove](https://yourmove.ai) - Support for flirting generated by AI
 
@@ -746,7 +746,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://mealgenie.ai/api/og)
 
@@ -758,7 +758,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/77/da/8577da47-de3c-6d87-b071-215d27daaf63/AppIcon-0-1x_U007ephone-85-220.png/1200x630wa.png)
 
@@ -770,7 +770,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://user-assets.sharetribe.com/images/community/social_logos/images/2811/original/Untitled-1.png?1659626173)
 
@@ -782,7 +782,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 [A Million Dollar Idea](https://amilliondollaridea.com) - Idea generator for businesses
 
@@ -792,7 +792,7 @@
 
 ---
 
-### Misc
+#### Misc
 
 ![](https://p9n2c8y2.rocketcdn.me/wp-content/uploads/2022/12/ChatGPT-Cheat-Sheet-Thumbnail.jpg)
 
@@ -804,9 +804,9 @@
 
 ---
 
-## Travel
-
 ### Travel
+
+#### Travel
 
 [Alcotravel](https://aicotravel.com) - AI-generated catalog of base itineraries for various cities and regions around the world.
 
@@ -816,7 +816,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 [Aitinerary](https://aitinerary.ai) - Plan your dream trip with Aitinerary Ai travel tool
 
@@ -826,7 +826,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F970cf20274462ccd56c6229f387a1c81.cdn.bubble.io%2Ff1680806327741x636009313011546500%2Ftrip-tip-icon-2.jpg?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -838,7 +838,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 ![](https://iplan.ai/wp-content/uploads/2022/03/social-iplanai.png)
 
@@ -850,7 +850,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 [Journeai](https://journeai.com) - Build your next travel itinerary from plain text
 
@@ -860,7 +860,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 ![](https://www.orkoi.com/orkoi_meta.png)
 
@@ -872,7 +872,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 ![](https://plantripai-fnwo5ov8e-testeai123.vercel.app/opengraph-image?b6a7fa0377d5c045)
 
@@ -884,7 +884,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 ![](https://i.ytimg.com/vi/KoBU_IokX8s/maxresdefault.jpg)
 
@@ -896,7 +896,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 [Tripplanner AI](https://tripplanner.ai) - Get the Best Travel Experience with AI-Driven TripPlanner.ai
 
@@ -906,7 +906,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 ![](https://static.wixstatic.com/media/a719d8_5b333c79e9dc4fc783c42b41eceabb22%7Emv2.png/v1/fit/w_2500,h_1330,al_c/a719d8_5b333c79e9dc4fc783c42b41eceabb22%7Emv2.png)
 
@@ -918,7 +918,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 [AI Trip Planner](https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961) - Create detailed, day-by-day itineraries for any destination.
 
@@ -928,7 +928,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 [FreePlanTour](https://www.freeplantour.com) - Make personalized Itineraries to Any Place in Any Language
 
@@ -938,7 +938,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 [TheDIYtrip](https://www.thediytrip.com) - Explore the World with Ease: Plan Your Trips in Seconds with theDIYtrip
 
@@ -948,7 +948,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 ![](https://www.traivl.com/favicon_io/android-chrome-192x192.png)
 
@@ -960,7 +960,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 [Travel Plan AI](https://www.travelplan-ai.com) - Let AI create your personalized travel plan
 
@@ -970,7 +970,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 ![](https://www.wayfind.live/banner.png)
 
@@ -982,7 +982,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 [Tripnotes.ai](https://formflow.co) - Intelligent Travel Planner
 
@@ -992,7 +992,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 [Roamr](https://imglarger.com) - Your dream vacation in seconds
 
@@ -1002,7 +1002,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 ![](https://mycharacter.ai/images/metaPic.png)
 
@@ -1014,7 +1014,7 @@
 
 ---
 
-### Travel
+#### Travel
 
 ![](https://image.thum.io/get/maxAge/1/width/1024/https://peopleai.app/?v=6d9a)
 

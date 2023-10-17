@@ -1,6 +1,7 @@
 ## Terminal
-
 ### Terminal
+
+#### Terminal
 
 [localhost.run-localhost.run](http://localhost.run) - Connect web applications running on your computer to the internet instantly
 
@@ -10,7 +11,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://raw.githubusercontent.com/Textualize/textual/main/imgs/textual.png)
 
@@ -22,7 +23,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [Uptime monitoring in your terminal Binocs](https://binocs.sh) - nan
 
@@ -32,7 +33,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [Tunshell - Remote shell into ephemeral environments](https://tunshell.com/?ref=producthunt) - Tunshell is a simple and secure method to remote shell into ephemeral environments such as deployment pipelines or serverless functions.
 
@@ -42,7 +43,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [Snipline-One shell command organizer to rule them all](https://snipline.io/?ref=producthunt) - Snipline is a developer tool for organizing your shell commands. Quickly copy your snippets and use them in your favourite terminal.
 
@@ -52,7 +53,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [fish shell](https://fishshell.com/?ref=producthunt) - A smart and user-friendly command line shell
 
@@ -62,7 +63,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png)
 
@@ -74,7 +75,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://earthly.dev/assets/img/twitter-card-large.png)
 
@@ -86,11 +87,11 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://earthly.dev/blog/generated/assets/images/command-line-tools/header-800-5b28c8ae5.jpg)
 
-[6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools) - Lately, Ive been doing a lot more things at the command line. Im not a hard-core terminal guy  I use VSCode more than Vim  but Im always surpr...
+[6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools) - Lately, Ive been doing a lot more things at the command line. Im not a hard-core terminal guy  I use VSCode more than Vim  but Im always surpr…
 
 2022-07-07T16:20:43.221Z
 
@@ -98,7 +99,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [ZimTools](https://zimtools.xyz) - ZimTools Command Line Options Configurator. Make using the command line interface easier with this productive web tool.
 
@@ -108,7 +109,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [htop - an interactive process viewer](https://htop.dev) - nan
 
@@ -118,7 +119,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://goaccess.io/images/goaccess-real-time-html-big.png?20230807125215)
 
@@ -130,7 +131,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [Scoop](https://scoop.sh) - Scoop, a command-line installer for Windows
 
@@ -140,11 +141,11 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://sw.kovidgoyal.net/kitty/_images/social_previews/summary_index_cb55e922.png)
 
-[kitty](https://sw.kovidgoyal.net/kitty) - The fast, feature-rich, GPU based terminal emulator Fast Offloads rendering to the GPU for lower system load, Uses threaded rendering for absolutely minimal latency, Performance tradeoffs can be tu...
+[kitty](https://sw.kovidgoyal.net/kitty) - The fast, feature-rich, GPU based terminal emulator Fast Offloads rendering to the GPU for lower system load, Uses threaded rendering for absolutely minimal latency, Performance tradeoffs can be tu…
 
 2022-03-18T00:02:42.354Z
 
@@ -152,7 +153,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [MenuetOS](http://menuetos.net) - Linux UNIX
 
@@ -162,7 +163,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [Nushell](https://www.nushell.sh) - A new type of shell.
 
@@ -172,7 +173,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [C++ Shell](http://cpp.sh) - C++ Shell
 
@@ -182,7 +183,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [Amp - A complete text editor for your terminal](https://amp.rs) - nan
 
@@ -192,7 +193,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://www.shellscript.sh/img/wordcloud.png)
 
@@ -204,7 +205,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://storage.googleapis.com/website-image-preview/www_warp_dev.png)
 
@@ -216,7 +217,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [3v4l.org - online PHP shell with 250+ PHP versions](https://3v4l.org) - Visit 3v4l.org: an online shell that allows you to run your code on my server
 
@@ -226,7 +227,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [cmd.to](https://cmd.to/fm) - Command to everything.
 
@@ -236,7 +237,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [Cool, but obscure unix tools :: Software architect Kristof Kovacs](https://kkovacs.eu/cool-but-obscure-unix-tools) - nan
 
@@ -246,7 +247,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://miro.medium.com/v2/resize:fit:1162/0*lYrh0Fxr05KLBtM8.png)
 
@@ -258,7 +259,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [Charm Tools to make the command line glamorous-Hacker News](https://news.ycombinator.com/item?id=30048332) - nan
 
@@ -268,7 +269,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 [A-Shell: Terminal for iOS-Hacker News](https://news.ycombinator.com/item?id=22989950) - nan
 
@@ -278,7 +279,7 @@
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
@@ -294,7 +295,7 @@ So
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://www.freecodecamp.org/news/content/images/2020/09/article-banner-7.png)
 
@@ -306,7 +307,7 @@ So
 
 ---
 
-### Terminal
+#### Terminal
 
 [All commands](https://www.commandlinefu.com/commands/browse) - A repository for the most elegant and useful UNIX commands.  Great commands can be shared, discussed and voted on to provide a comprehensive resource for working from the command-line
 
@@ -316,7 +317,7 @@ So
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2021/05/macosterminal-hero.jpg?x85972)
 
@@ -328,7 +329,7 @@ So
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://opengraph.githubassets.com/7fc6100298545176ac642739b3def32eee3a570928c1ea88feca3a51b3ea835e/0nn0/terminal-mac-cheatsheet)
 
@@ -340,7 +341,7 @@ So
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://vertical.carrd.co/assets/images/card.jpg?v=79f9494e)
 
@@ -352,7 +353,7 @@ So
 
 ---
 
-### Terminal
+#### Terminal
 
 [Home-asdf](https://asdf-vm.com) - Manage multiple runtime versions with a single CLI tool
 
@@ -362,7 +363,7 @@ So
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://www.shellcheck.net/shellcheck.png)
 
@@ -374,7 +375,7 @@ So
 
 ---
 
-### Terminal
+#### Terminal
 
 [An A-Z Index of Windows CMD commands - SS64.com](https://ss64.com/nt) - An A-Z Index of Windows CMD commands.
 
@@ -384,7 +385,7 @@ So
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://opengraph.githubassets.com/ac94550bbb5f8f9f819e27a0b68fc1c814c843c54ff626f979888b988a802c36/nvbn/thefuck)
 
@@ -396,7 +397,7 @@ So
 
 ---
 
-### Terminal
+#### Terminal
 
 ![](https://opengraph.githubassets.com/5bf33a999eb01376d21569651247eea5a5ce0ad6057aa7b5ce8a35748db96fbd/ibraheemdev/modern-unix)
 
@@ -408,7 +409,7 @@ So
 
 ---
 
-### Terminal
+#### Terminal
 
 [Bitburner](https://danielyxie.github.io/bitburner) - nan
 
@@ -418,7 +419,7 @@ So
 
 ---
 
-### Terminal
+#### Terminal
 
 [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org) - nan
 
@@ -428,7 +429,7 @@ So
 
 ---
 
-### Terminal
+#### Terminal
 
 [exa a modern replacement for ls](https://the.exa.website) - nan
 
@@ -438,9 +439,9 @@ So
 
 ---
 
-### Terminal-CLI
-
 #### Terminal-CLI
+
+##### Terminal-CLI
 
 ![](https://formulae.brew.sh/assets/img/homebrew-256x256.png)
 
@@ -452,7 +453,7 @@ So
 
 ---
 
-#### Terminal-CLI
+##### Terminal-CLI
 
 [Freshenv - Isolated Productive Developer Environments](https://freshenv.io) - a command line application to build and develop your projects in completely isolated environments.Save, switch and restart your environments.
 
@@ -462,7 +463,7 @@ So
 
 ---
 
-#### Terminal-CLI
+##### Terminal-CLI
 
 ![](https://www.dependencies.io/assets/img/open-graph.png)
 
@@ -474,7 +475,7 @@ So
 
 ---
 
-#### Terminal-CLI
+##### Terminal-CLI
 
 ![](https://www.shell.how/og.jpg)
 
@@ -486,7 +487,7 @@ So
 
 ---
 
-#### Terminal-CLI
+##### Terminal-CLI
 
 [Awesome CLI Workshoppers-LandOf.Dev](https://landof.dev/awesome/cli-workshoppers) - Awesome CLI Workshoppers: A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
 
@@ -496,11 +497,11 @@ So
 
 ---
 
-#### Terminal-CLI
+##### Terminal-CLI
 
 ![](https://cdn.sstatic.net/Sites/unix/Img/apple-touch-icon.png?v=5cf7fe716a89)
 
-[awk - remove duplicate lines across multiple txt files - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/686377/remove-duplicate-lines-across-multiple-txt-files) - I have 12 text files all in one folder, each with about 5 million lines, each file has no duplicate line on its own but there are duplicated across multiple files, I want to remove the duplicate li...
+[awk - remove duplicate lines across multiple txt files - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/686377/remove-duplicate-lines-across-multiple-txt-files) - I have 12 text files all in one folder, each with about 5 million lines, each file has no duplicate line on its own but there are duplicated across multiple files, I want to remove the duplicate li…
 
 2022-05-22T22:28:19.000Z
 
@@ -508,7 +509,7 @@ So
 
 ---
 
-#### Terminal-CLI
+##### Terminal-CLI
 
 ![](https://www.commands.dev/commands-preview.png)
 
@@ -520,7 +521,7 @@ So
 
 ---
 
-#### Terminal-CLI
+##### Terminal-CLI
 
 ![](https://fig.io/images/screenshots/manual.png)
 
@@ -532,7 +533,7 @@ So
 
 ---
 
-#### Terminal-CLI
+##### Terminal-CLI
 
 [Convert curl commands to code](https://curlconverter.com) - Utility for converting cURL commands to code
 

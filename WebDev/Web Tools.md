@@ -1,6 +1,6 @@
-# Web Tools
-
 ## Web Tools
+
+### Web Tools
 
 [iBLC-Broken Link Checker](https://iblc.vercel.app) - iBLC-A lightweight application to test a web page for broken links.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Web Tools
+### Web Tools
 
 [CyberChef](https://gchq.github.io/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Web Tools
+### Web Tools
 
 [The One Generator](https://theonegenerator.com) - Generate everything from random numbers and names to documents and credit cards.
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Web Tools
+### Web Tools
 
 [Regexper](https://regexper.com) - Regular expression visualizer using railroad diagrams
 
@@ -40,7 +40,7 @@
 
 ---
 
-## Web Tools
+### Web Tools
 
 ![](https://www.favicon.software/og-image.png)
 
@@ -52,4 +52,4 @@
 
 ---
 
-## WebDev
+### WebDev

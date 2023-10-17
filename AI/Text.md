@@ -1,8 +1,8 @@
-# Text
-
 ## Text
 
 ### Text
+
+#### Text
 
 [wtf-ai](https://www.wtfai.xyz) - WTF AI
 
@@ -12,7 +12,7 @@
 
 ---
 
-### Text
+#### Text
 
 [Writing](https://raindrop.io/whoisdsmith/writing-29978196/sort=title&perpage=30&page=0) - 32 bookmarks
 
@@ -22,7 +22,7 @@
 
 ---
 
-### Text
+#### Text
 
 [Survey - CopyAI](https://app.copy.ai/survey/role) - nan
 
@@ -32,7 +32,7 @@
 
 ---
 
-### Text
+#### Text
 
 [InferKit](https://inferkit.com) - nan
 
@@ -42,7 +42,7 @@
 
 ---
 
-### Text
+#### Text
 
 [Chibi AI](https://chibi.ai) - Chibi AI is the revolutionary writing tool that gives you superpowers to create amazing content quickly and easily. Finally, AI content with substance.
 
@@ -52,7 +52,7 @@
 
 ---
 
-### Text
+#### Text
 
 [textStyler](https://www.textstyler.org) - nan
 
@@ -62,7 +62,7 @@
 
 ---
 
-### Text
+#### Text
 
 [Generate Text InferKit](https://app.inferkit.com/generate) - nan
 
@@ -72,7 +72,7 @@
 
 ---
 
-### Text
+#### Text
 
 ![](https://opengraph.githubassets.com/a3344ca7a0139c92e190fd174445955c0828d68b41e3db53ce201f3c89210cca/coqui-ai/TTS)
 
@@ -84,7 +84,7 @@
 
 ---
 
-### Text
+#### Text
 
 ![](https://lh3.googleusercontent.com/d2tmcmNTBbO4csFK-dUTXUo2nA4ApFKC92nMjh8Vs616v1QSmzpZE2DHUXbCZKXk-7c9dBGQb2h53IU5rrdKlyV77w=w128-h128-e365-rj-sc0x00ffffff)
 
@@ -96,7 +96,7 @@
 
 ---
 
-### Text
+#### Text
 
 ![](https://www.bettersynonyms.com/image.png)
 
@@ -108,7 +108,7 @@
 
 ---
 
-### Text
+#### Text
 
 [Texttransform.io](https://texttransform.io) - nan
 
@@ -118,7 +118,7 @@
 
 ---
 
-### Text
+#### Text
 
 [TextSpresso](https://www.taylor-design.com/textspresso/features.htm) - nan
 
@@ -128,7 +128,7 @@
 
 ---
 
-### Text
+#### Text
 
 [TextRank](https://php.science/textrank) - TextRank (automatic text summarization) for PHP8
 
@@ -138,7 +138,7 @@
 
 ---
 
-### Text
+#### Text
 
 [TextBuddy](https://retina.studio/textbuddy) - nan
 
@@ -148,7 +148,7 @@
 
 ---
 
-### Text
+#### Text
 
 [Text Cleaner](https://coditools.com/tools/text-cleaner) - All-in-one text cleaning and formatting tool that can perform many complex text operations.
 
@@ -158,7 +158,7 @@
 
 ---
 
-### Text
+#### Text
 
 [Obsei](https://obsei.com) - Obsei is an open-source low-code AI powered automation tool
 
@@ -168,11 +168,11 @@
 
 ---
 
-### Text
+#### Text
 
 ![](https://opengraph.githubassets.com/88c8d5488ef417cdc57ba648d7130e8d4c0c0277b992b068e9ce89a75d4814f0/1994nikunj/nlp-toolkit-desktop-app)
 
-[nlp-toolkit-desktop-app](https://github.com/1994nikunj/nlp-toolkit-desktop-app) - The code is a collection of NLP analyses, including text cleaning, most common words, n-grams generation, co-occurrence matrix generation, wordcloud generation, topic modeling (using Latent Dirichl...
+[nlp-toolkit-desktop-app](https://github.com/1994nikunj/nlp-toolkit-desktop-app) - The code is a collection of NLP analyses, including text cleaning, most common words, n-grams generation, co-occurrence matrix generation, wordcloud generation, topic modeling (using Latent Dirichl…
 
 2023-03-27T16:30:39.000Z
 
@@ -180,7 +180,7 @@
 
 ---
 
-### Text
+#### Text
 
 ![](http://static1.squarespace.com/static/5b5147e4ee1759d33c6773bc/t/5ffc723f02df0e5b2d2e586f/1610379840791/ltlogo+2.png?format=1500w)
 
@@ -192,7 +192,7 @@
 
 ---
 
-### Text
+#### Text
 
 [Graphbrain](https://graphbrain.net) - nan
 
@@ -202,7 +202,7 @@
 
 ---
 
-### Text
+#### Text
 
 [Expresso](https://www.expresso-app.org) - nan
 
@@ -212,7 +212,7 @@
 
 ---
 
-### Text
+#### Text
 
 [TextGPT](https://textgpt.io/thanks) - nan
 
@@ -222,7 +222,7 @@
 
 ---
 
-### Text
+#### Text
 
 ![](https://goose.ai/_next/static/media/twitter-card.ef9b825e.png)
 
@@ -234,7 +234,7 @@
 
 ---
 
-### Text
+#### Text
 
 ![](https://cdn-thumbnails.huggingface.co/social-thumbnails/models/EleutherAI/gpt-neo-2.7B.png)
 
@@ -246,7 +246,7 @@
 
 ---
 
-### Text
+#### Text
 
 ![](https://mimosa.so/media/product_step_1.f4db7ec6.png)
 

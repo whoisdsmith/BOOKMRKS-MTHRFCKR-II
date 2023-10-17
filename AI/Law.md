@@ -1,8 +1,8 @@
-# Law
-
 ## Law
 
 ### Law
+
+#### Law
 
 ![](https://intrafind.com/sites/default/files/styles/header/public/2020-06/iStock-466544065%402x.png?h=15dc3011&itok=tXO_8sjz)
 
@@ -14,7 +14,7 @@
 
 ---
 
-### Law
+#### Law
 
 ![](https://donotpay-assets.s3-us-west-2.amazonaws.com/LcSocial.png)
 
@@ -26,7 +26,7 @@
 
 ---
 
-### Law
+#### Law
 
 ![](https://unicorn-cdn.b-cdn.net/ae6d1ea1-5e2c-41d6-a916-8a570a3f7cd3/image.png)
 
@@ -38,7 +38,7 @@
 
 ---
 
-### Law
+#### Law
 
 [Regula AI](https://regula.ai) - Regula AI is a cutting-edge regulatory intelligence platform that simplifies compliance using generative AI technology. It provides customized alerts, AI-generated summaries, and natural language query support for SMBs in highly regulated industries, helping them stay informed about regulatory changes.
 
@@ -48,7 +48,7 @@
 
 ---
 
-### Law
+#### Law
 
 [Ask AI Lawyer](https://www.askailawyer.com) - Free legal AI advice within 5 minutes
 
@@ -58,7 +58,7 @@
 
 ---
 
-### Law
+#### Law
 
 ![](https://framerusercontent.com/images/06IBSaI7tsQ9pIsPYfwzX6oXfhY.png)
 
@@ -70,7 +70,7 @@
 
 ---
 
-### Law
+#### Law
 
 ![](https://uploads-ssl.webflow.com/62c88353047453052d202e7a/64feffb6cde11b9961bd9e15_meta.png)
 
@@ -82,7 +82,7 @@
 
 ---
 
-### Law
+#### Law
 
 ![](https://harvey.ai/og.gif)
 
@@ -94,7 +94,7 @@
 
 ---
 
-### Law
+#### Law
 
 [Casetext](https://casetext.com) - Casetext is an award-winning legal AI company developing cutting-edge tech for 10+ yearsincluding CoCounsel, the first AI legal assistant.
 

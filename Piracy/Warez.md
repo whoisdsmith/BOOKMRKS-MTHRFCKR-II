@@ -1,6 +1,7 @@
 ## Warez
-
 ### Warez
+
+#### Warez
 
 [DirtyWarez](https://forum.dirtywarez.com) - Sharing is Caring
 
@@ -10,7 +11,7 @@
 
 ---
 
-### Warez
+#### Warez
 
 [DirtyWarez Top 19 Warez Forums](https://dirtywarez.org/cat/forum) - Site rankings for warez forums, DDL sites, Filehosts and Warez Blogs
 
@@ -20,7 +21,7 @@
 
 ---
 
-### Warez
+#### Warez
 
 [DirtyWarez Top 38 Warez Blogs](https://dirtywarez.org/cat/blog) - Site rankings for warez forums, DDL sites, Filehosts and Warez Blogs
 
@@ -30,7 +31,7 @@
 
 ---
 
-### Warez
+#### Warez
 
 [Warez Heaven](https://www.warezheaven.com/index.php) - nan
 
@@ -40,7 +41,7 @@
 
 ---
 
-### Warez
+#### Warez
 
 [WarezSerbia](https://www.warez-serbia.com) - nan
 
@@ -50,7 +51,7 @@
 
 ---
 
-### Warez
+#### Warez
 
 [Warez-World](https://warez-world.org) - nan
 
@@ -60,7 +61,7 @@
 
 ---
 
-### Warez
+#### Warez
 
 [Warezbook.org](https://www.warezbook.org) - nan
 
@@ -70,7 +71,7 @@
 
 ---
 
-### Warez
+#### Warez
 
 [Warezlover.xyz](https://warezlover.xyz) - nan
 
@@ -80,7 +81,7 @@
 
 ---
 
-### Warez
+#### Warez
 
 [Warezomen.com](https://warezomen.com) - Find all your full version downloads by searching thousands of downloads using our search engine.
 

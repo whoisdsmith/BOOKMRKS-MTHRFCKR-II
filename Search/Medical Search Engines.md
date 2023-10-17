@@ -1,6 +1,6 @@
-# Medical Search Engines
-
 ## Medical Search Engines
+
+### Medical Search Engines
 
 [Allmedx.com](https://allmedx.com) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 [DrugBank](https://www.drugbank.ca) - Access the worlds pharmaceutical knowledge database. Information on drugs, drug targets, and more, used by researchers and health professionals globally.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 ![](https://www.drugs.com/img/social/ddc-opengraph-logomark.png)
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 [FindZebra](https://findzebra.com) - nan
 
@@ -42,7 +42,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 [Googlemt.com](https://www.googlemt.com) - Medical transcriptionists, search with googleMT, the medical transcription search engine. A medical transcription word seeker to help transcribers. Try and feel yourself this Google custom search.
 
@@ -52,7 +52,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 [Medicalndx.com](https://medicalndx.com) - nan
 
@@ -62,7 +62,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 [Mwsearch.com](https://www.mwsearch.com) - A unique medical search engine understands medical concept, medical terminology and diseases. MWSearch provides drill down searches and queries to other search engines to find medical and health information on the web, medical and health news, products and serives. All information and news about health and medicine
 
@@ -72,7 +72,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 ![](https://medlineplus.gov/images/share_home_1.jpg)
 
@@ -84,7 +84,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 [Mednar.com](https://mednar.com) - nan
 
@@ -94,7 +94,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 [MedWorm: Medical Search Engine and RSS News](https://medworm.com) - MedWorm aggregates data from thousands of medical RSS feeds daily and makes this data available to search or browse by specialty, condition or category.
 
@@ -104,7 +104,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 [openi.nlm.nih.gov](https://openi.nlm.nih.gov) - nan
 
@@ -114,7 +114,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 [PDR.Net](https://pdr.net) - nan
 
@@ -124,7 +124,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 [Seenso.com](https://www.seenso.com) - Seenso is a semantic medical search engine dedicated to promoting public health education and self-care at home
 
@@ -134,7 +134,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 [ZocDoc](https://www.zocdoc.com) - nan
 
@@ -144,7 +144,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 ![](https://zocdocstatic.wpengine.com/wp-content/uploads/2017/09/ZD-logo.png)
 
@@ -156,7 +156,7 @@
 
 ---
 
-## Medical Search Engines
+### Medical Search Engines
 
 [DrugBank](https://go.drugbank.com) - Access the worlds pharmaceutical knowledge database. Information on drugs, drug targets, and more, used by researchers and health professionals globally.
 

@@ -1,6 +1,6 @@
-# Finding SSL Certificates
-
 ## Finding SSL Certificates
+
+### Finding SSL Certificates
 
 ![](https://avatars.githubusercontent.com/u/4317160?v=4?s=400)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Finding SSL Certificates
+### Finding SSL Certificates
 
 ![](https://opengraph.githubassets.com/c7154ce6662d3f63203e70a71eccdd91144b9dc2a5f4d4f6e18416236349d6e5/lanrat/certgraph)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Finding SSL Certificates
+### Finding SSL Certificates
 
 [CRT](https://crt.sh) - Free CT Log Certificate Search Tool from Sectigo (formerly Comodo CA)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Finding SSL Certificates
+### Finding SSL Certificates
 
 ![](https://sslmate.com/ct_search_api/card.png)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Finding SSL Certificates
+### Finding SSL Certificates
 
 [Google Transparency Report](https://transparencyreport.google.com/https/certific) - nan
 
@@ -56,7 +56,7 @@
 
 ---
 
-## Finding SSL Certificates
+### Finding SSL Certificates
 
 [Ates.com](https://ates.com) - nan
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Finding SSL Certificates
+### Finding SSL Certificates
 
 [Internet-Wide Scan Data Repository](https://scans.io) - The Stanford Internet Research Data Repository is a public archive of research 		  data about the hosts and sites on the Internet.
 
@@ -76,7 +76,7 @@
 
 ---
 
-## Finding SSL Certificates
+### Finding SSL Certificates
 
 ![](https://opendata.rapid7.com/static/img/rapid7-open-data.jpg)
 

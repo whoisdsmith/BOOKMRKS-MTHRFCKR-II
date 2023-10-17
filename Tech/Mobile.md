@@ -58,8 +58,8 @@
 
 ### Mobile-Jailbreak
 
-![](https://share.redd.it/preview/post/6mgou6)
-[[Tutorial] Apt-get & Aptitude & dpkg](https://www.reddit.com/r/jailbreak/comments/6mgou6/tutorial_aptget_aptitude_dpkg) - Yea, another tutorial /r/jailbreak... 
+![](https://share.redd.it/preview/post/6mgou6)  
+[[Tutorial] Apt-get & Aptitude & dpkg](https://www.reddit.com/r/jailbreak/comments/6mgou6/tutorial_aptget_aptitude_dpkg) - Yea, another tutorial /r/jailbreak… 
 
 
 
@@ -84,7 +84,7 @@
 
 ---
 
- Today I want to talk about...
+ Today I want to talk about…
 
 2021-12-19T21:36:24.354Z
 
@@ -172,7 +172,7 @@
 
 ![](https://share.redd.it/preview/post/pfafuq)
 
-[[Tutorial] Executing terminal commands, with Filza and without a...](https://reddit.com/r/jailbreak/comments/pfafuq/tutorial_executing_terminal_commands_with_filza) - Not exactly a Tutorial, but a "Tip". *I have read a few times, posts of users who when they had to execute commands from the terminal, they...
+[[Tutorial] Executing terminal commands, with Filza and without a...](https://reddit.com/r/jailbreak/comments/pfafuq/tutorial_executing_terminal_commands_with_filza) - Not exactly a Tutorial, but a "Tip". *I have read a few times, posts of users who when they had to execute commands from the terminal, they…
 
 2021-12-19T20:27:19.113Z
 
@@ -510,7 +510,7 @@
 
 2022-09-30T05:01:29.688Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -520,7 +520,7 @@
 
 2022-09-25T03:57:28.063Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -532,7 +532,7 @@
 
 2022-02-27T06:50:09.329Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -544,7 +544,7 @@
 
 2022-02-27T06:49:36.693Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -556,7 +556,7 @@
 
 2022-02-27T06:48:47.121Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -568,7 +568,7 @@
 
 2022-02-27T06:48:06.406Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -580,7 +580,7 @@
 
 2022-02-27T06:47:06.611Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -592,7 +592,7 @@
 
 2022-02-27T06:46:15.360Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -604,7 +604,7 @@
 
 2022-02-27T06:45:44.105Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -616,7 +616,7 @@
 
 2022-02-27T06:44:12.920Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -628,7 +628,7 @@
 
 2022-02-27T06:42:54.009Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -640,7 +640,7 @@
 
 2022-02-27T06:42:06.753Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -652,7 +652,7 @@
 
 2022-02-27T06:41:38.589Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -664,7 +664,7 @@
 
 2022-02-27T06:40:29.752Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -676,7 +676,7 @@
 
 2022-02-27T06:40:09.314Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -688,7 +688,7 @@
 
 2022-02-27T06:39:28.678Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -700,7 +700,7 @@
 
 2022-02-27T06:38:44.606Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -712,7 +712,7 @@
 
 2022-02-27T06:38:15.006Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -724,7 +724,7 @@
 
 2022-02-27T06:37:05.356Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -736,7 +736,7 @@
 
 2022-02-27T06:36:08.352Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -748,7 +748,7 @@
 
 2022-02-27T02:16:51.463Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -760,7 +760,7 @@
 
 2022-02-27T01:06:12.098Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -772,7 +772,7 @@
 
 2022-02-27T01:05:23.473Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -784,7 +784,7 @@
 
 2022-02-27T01:04:43.595Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -794,7 +794,7 @@
 
 2022-02-25T19:33:33.621Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -804,7 +804,7 @@
 
 2022-02-25T19:33:07.116Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -814,7 +814,7 @@
 
 2022-02-25T19:32:45.556Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -824,7 +824,7 @@
 
 2022-02-25T19:32:31.707Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -834,7 +834,7 @@
 
 2022-02-25T19:29:37.828Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -844,7 +844,7 @@
 
 2022-02-25T19:28:59.756Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -854,7 +854,7 @@
 
 2022-02-25T14:17:38.542Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -866,7 +866,7 @@
 
 2022-02-24T19:42:05.747Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -878,7 +878,7 @@
 
 2021-12-12T14:48:21.000Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -890,7 +890,7 @@
 
 2022-01-19T18:55:24.192Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -902,7 +902,7 @@
 
 2022-01-19T04:15:19.316Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -912,7 +912,7 @@
 
 2022-01-18T20:20:21.958Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -924,7 +924,7 @@
 
 2022-01-13T17:29:39.471Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -936,7 +936,7 @@
 
 2021-12-23T01:18:28.272Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -948,7 +948,7 @@
 
 2021-12-22T15:57:32.442Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -960,7 +960,7 @@
 
 2021-12-17T13:20:16.722Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -972,7 +972,7 @@
 
 2021-12-17T12:46:08.312Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -984,7 +984,7 @@
 
 2021-12-17T12:45:46.211Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -996,7 +996,7 @@
 
 2021-12-17T12:45:11.626Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1008,7 +1008,7 @@
 
 2021-12-17T12:44:24.339Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1020,7 +1020,7 @@
 
 2021-12-17T12:43:12.037Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1032,7 +1032,7 @@
 
 2021-12-17T12:41:48.935Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1044,7 +1044,7 @@
 
 2021-12-17T12:41:33.166Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1056,7 +1056,7 @@
 
 2021-12-17T12:41:13.051Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1068,7 +1068,7 @@
 
 2021-12-17T12:40:33.808Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1080,7 +1080,7 @@
 
 2021-12-17T12:39:30.140Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1092,7 +1092,7 @@
 
 2021-12-17T12:38:52.268Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1102,7 +1102,7 @@
 
 2021-12-17T02:27:18.443Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1114,7 +1114,7 @@
 
 2021-12-17T02:27:18.442Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1126,7 +1126,7 @@
 
 2021-12-17T02:27:18.442Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1138,7 +1138,7 @@
 
 2021-12-17T02:27:18.440Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1150,7 +1150,7 @@
 
 2021-12-17T02:27:18.439Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1162,7 +1162,7 @@
 
 2021-12-17T02:27:18.438Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1174,7 +1174,7 @@
 
 2021-12-17T02:27:18.437Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1186,7 +1186,7 @@
 
 2021-12-17T02:27:18.437Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1198,7 +1198,7 @@
 
 2021-12-17T02:27:18.436Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1210,21 +1210,22 @@
 
 2021-12-17T02:27:18.435Z
 
-#ios app
+#iosapp
 
 ---
 
 ### Mobile-Mobile Apps-iOS-iOS Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4b/d1/72/4bd1724b-3ad7-9b57-1841-1607e086a2fb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png)
-[Atlas Obscura Travel Guide on the App Store](https://apps.apple.com/app/apple-store/id1563250221) - Find your adventurous spirit, get off the beaten path and discover unique places to experience near and far, all contributed by Atlas Obscuras global community of explorers.   
----
 
-  EXPLORE THE MAP Weve plotted the entire Atlas Obscura database in a single map, allowing you to easily find unique pl
+[Atlas Obscura Travel Guide on the App Store](https://apps.apple.com/app/apple-store/id1563250221) - Find your adventurous spirit, get off the beaten path and discover unique places to experience near and far, all contributed by Atlas Obscuras global community of explorers.   
+
+
+EXPLORE THE MAP Weve plotted the entire Atlas Obscura database in a single map, allowing you to easily find unique pl
 
 2021-12-17T02:27:18.435Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1234,7 +1235,7 @@
 
 2021-12-17T02:27:18.434Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1246,7 +1247,7 @@
 
 2021-12-17T02:27:18.434Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1256,7 +1257,7 @@
 
 2021-12-17T02:27:18.433Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1268,7 +1269,7 @@
 
 2021-12-17T02:07:03.415Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1278,7 +1279,7 @@
 
 2021-12-17T00:37:45.380Z
 
-#ios app
+#iosapp
 
 ---
 
@@ -1868,7 +1869,7 @@
 
 ![](https://mytempsms.com/favicon.ico)
 
-[(2022 Best) Receive SMS Online-Temporary Phone Number](https://mytempsms.com) - Receive SMS online for free with temporary SMS and disposable virtual phone number for China,UK,USA,France,Germany.Receive verification code from around the world (facebook, google, tinder twitter telegram...)
+[(2022 Best) Receive SMS Online-Temporary Phone Number](https://mytempsms.com) - Receive SMS online for free with temporary SMS and disposable virtual phone number for China,UK,USA,France,Germany.Receive verification code from around the world (facebook, google, tinder twitter telegram…)
 
 2022-10-27T09:30:41.112Z
 
@@ -1976,7 +1977,7 @@ client =
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
-[vba - Saving a Excel File into .txt format without quotes - Stack Overflow](https://stackoverflow.com/questions/11501531/saving-a-excel-file-into-txt-format-without-quotes) - I have a excel sheet which has data in column A.There are many special characters in the cells.When I save the sheet in .txt format I get inverted commas at the start of each line. I tried both man...
+[vba - Saving a Excel File into .txt format without quotes - Stack Overflow](https://stackoverflow.com/questions/11501531/saving-a-excel-file-into-txt-format-without-quotes) - I have a excel sheet which has data in column A.There are many special characters in the cells.When I save the sheet in .txt format I get inverted commas at the start of each line. I tried both man…
 
 2021-11-24T04:08:09.000Z
 
@@ -1988,7 +1989,7 @@ client =
 
 ![](https://www.mrexcel.com/board/styles/mrexcel/mrexcel-logo-og.png)
 
-[Export each Row to unique Txt file-MrExcel Message Board](https://www.mrexcel.com/board/threads/export-each-row-to-unique-txt-file.279737) - I have a 25000 rows of data in three columns. I need to export each row of data to a unique text file. The text file would look like this:  datafromA1 datafromB1 datafromC1  The file name would...
+[Export each Row to unique Txt file-MrExcel Message Board](https://www.mrexcel.com/board/threads/export-each-row-to-unique-txt-file.279737) - I have a 25000 rows of data in three columns. I need to export each row of data to a unique text file. The text file would look like this:  datafromA1 datafromB1 datafromC1  The file name would…
 
 2021-11-24T04:08:09.000Z
 
@@ -2000,7 +2001,7 @@ client =
 
 ![](http://spreadsheet1.com/uploads/3/4/3/6/34364573/1288895_orig.png)
 
-[List filenames and their properties in an Excel table](https://www.spreadsheet1.com/list-filenames-and-their-properties-in-an-excel-table.html) - This time-saving macro will let you select a folder path and loop through each of the Excel files matching the file filter (default setting *.xl*) in that folder. The VBA procedure: Opens a workbook...
+[List filenames and their properties in an Excel table](https://www.spreadsheet1.com/list-filenames-and-their-properties-in-an-excel-table.html) - This time-saving macro will let you select a folder path and loop through each of the Excel files matching the file filter (default setting *.xl*) in that folder. The VBA procedure: Opens a workbook…
 
 2021-11-24T04:08:09.000Z
 
@@ -2012,7 +2013,7 @@ client =
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
-[notepad++ - Outputting Excel rows to a series of text files - Stack Overflow](https://stackoverflow.com/questions/7149539/outputting-excel-rows-to-a-series-of-text-files) - Inside Excel, I have a list of article names in column A, and a disclaimer inside column B. Now for each article in column A, I would like to create a text file, were A is the title of the file and...
+[notepad++ - Outputting Excel rows to a series of text files - Stack Overflow](https://stackoverflow.com/questions/7149539/outputting-excel-rows-to-a-series-of-text-files) - Inside Excel, I have a list of article names in column A, and a disclaimer inside column B. Now for each article in column A, I would like to create a text file, were A is the title of the file and…
 
 2021-11-24T04:08:09.000Z
 
@@ -2048,7 +2049,7 @@ client =
 
 ![](https://www.mrexcel.com/board/styles/mrexcel/mrexcel-logo-og.png)
 
-[Convert each row of a spreadsheet into a .txt or .xml file?-MrExcel Message Board](https://www.mrexcel.com/board/threads/convert-each-row-of-a-spreadsheet-into-a-txt-or-xml-file.593439) - I have a spreadsheet with thousands of lines of a very small code. Each row contains a complete code that needs to either be converted/pasted into a new .txt or .xml document. The name of the new...
+[Convert each row of a spreadsheet into a .txt or .xml file?-MrExcel Message Board](https://www.mrexcel.com/board/threads/convert-each-row-of-a-spreadsheet-into-a-txt-or-xml-file.593439) - I have a spreadsheet with thousands of lines of a very small code. Each row contains a complete code that needs to either be converted/pasted into a new .txt or .xml document. The name of the new…
 
 2021-11-24T04:08:09.000Z
 
@@ -2084,7 +2085,7 @@ client =
 
 ![](https://python-forum.io/images/facebook.png)
 
-[Convert Excel file to Text file](https://python-forum.io/thread-28239.html) - Dear Python Community:  I am a new Python student trying to learn more about this incredible programming language. I hope you could help me teach how to convert Excel file (.xlsx) to Text file (.txt) using a Python code.  This is not a high priority ...
+[Convert Excel file to Text file](https://python-forum.io/thread-28239.html) - Dear Python Community:  I am a new Python student trying to learn more about this incredible programming language. I hope you could help me teach how to convert Excel file (.xlsx) to Text file (.txt) using a Python code.  This is not a high priority …
 
 2021-11-24T04:08:09.000Z
 

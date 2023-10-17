@@ -1,6 +1,7 @@
 ## Memex
-
 ### Memex
+
+#### Memex
 
 [Underlay](https://www.underlay.org) - nan
 
@@ -10,7 +11,7 @@
 
 ---
 
-### Memex
+#### Memex
 
 ![](https://opengraph.githubassets.com/eeb1f134a9e85dab25d64e9137aece04405df966bc869a48445b231c8c011eae/dylan-mitchell/memex)
 
@@ -22,7 +23,7 @@
 
 ---
 
-### Memex
+#### Memex
 
 ![](https://hyfen.net/static/d3cb7c892c57fb2d801fad039950a151/ebad0/memex.png)
 
@@ -34,7 +35,7 @@
 
 ---
 
-### Memex
+#### Memex
 
 ![](https://adrian-philipp.com/banner.jpg)
 
@@ -46,7 +47,7 @@
 
 ---
 
-### Memex
+#### Memex
 
 [Andrew Louis](https://hyfen.net) - nan
 
@@ -56,4 +57,4 @@
 
 ---
 
-### Notetaking
+#### Notetaking

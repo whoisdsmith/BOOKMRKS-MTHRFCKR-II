@@ -1,6 +1,6 @@
-# CLUBHOUSE
-
 ## CLUBHOUSE
+
+### CLUBHOUSE
 
 ![](https://clubhousedb.com/theme/img/share.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## CLUBHOUSE
+### CLUBHOUSE
 
 [Rooms of Clubhouse](https://roomsofclubhouse.com) - Search the Clubhouse App for rooms with topics you are interested in and never miss the most exciting rooms
 
@@ -22,7 +22,7 @@
 
 ---
 
-## CLUBHOUSE
+### CLUBHOUSE
 
 [ClubSearch -- search Clubhouse rooms](https://clubsearch.io) - nan
 

@@ -1,6 +1,6 @@
-# Logo Search and Identification Tools
-
 ## Logo Search and Identification Tools
+
+### Logo Search and Identification Tools
 
 ![](https://brandfetch.com/api/og?caption=&invert=false)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Logo Search and Identification Tools
+### Logo Search and Identification Tools
 
 [Brandslogo.net](https://brandslogo.net) - Brandslogo.net - Vector logos, brand logos in vector format (.eps, .svg, .pdf, .ai, .cdr) available to download for free.
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Logo Search and Identification Tools
+### Logo Search and Identification Tools
 
 ![](https://assets.website-files.com/5ee732bebd98391c46ff27c4/5ef2099e4056018c8fdfbe78_1.jpg)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Logo Search and Identification Tools
+### Logo Search and Identification Tools
 
 [logoEPS.com](https://logoeps.com) - Brand logos, logo templates in vector format (.EPS, .AI, .SVG, .PDF, .CDR) free download - logoEPS.com
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Logo Search and Identification Tools
+### Logo Search and Identification Tools
 
 ![](https://seeklogo.com/assets/img/logo-share.png)
 
@@ -56,7 +56,7 @@
 
 ---
 
-## Logo Search and Identification Tools
+### Logo Search and Identification Tools
 
 ![](https://compute.vision/assets/compare-logo-designs.png)
 

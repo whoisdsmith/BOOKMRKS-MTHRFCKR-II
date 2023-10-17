@@ -1,6 +1,6 @@
-# DocArticles
-
 ## DocArticles
+
+### DocArticles
 
 [Treatment for amphetamine withdrawal - Shoptaw, SJ - 2009-Cochrane Library](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003021.pub2/full) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://typeset.io/vs/meta-images/home-page.jpg)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [PANDORA Web Archive](http://pandora.nla.gov.au) - nan
 
@@ -32,7 +32,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Global ETD Search](http://search.ndltd.org) - nan
 
@@ -42,7 +42,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [List of sci hub and libgen active urls - Verts-Luisants](http://vertsluisants.fr/index.php?article4%2Fwhere-scihub-libgen-server-down=) - All science journal papers or books for free through libgen and sci hub servers, proxys, to download
 
@@ -52,7 +52,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [http://www.bioline.org.br/](http://www.bioline.org.br) - nan
 
@@ -62,7 +62,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Eurasian Scientific Journal Index](http://www.esjindex.org) - nan
 
@@ -72,7 +72,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [PDF SEARCH ENGINE - PDF,DOC,PPT,Ebook search ENGINE](http://www.findpdfdoc.com) - nan
 
@@ -82,7 +82,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Free Medical Journals|by Amedeo.com](http://www.freemedicaljournals.com) - Over 4000 free medical journals. Daily presentations of new journals. Free subscription to the journal alerts.
 
@@ -92,7 +92,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Alex Catalogue of Electronic Texts](http://www.infomotions.com/alex) - nan
 
@@ -102,7 +102,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Scholarpedia](http://www.scholarpedia.org) - nan
 
@@ -112,7 +112,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://addons.mozilla.org/user-media/previews/full/267/267289.png?modified=1647109903)
 
@@ -124,7 +124,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Litmaps is an online research platform](https://app.litmaps.co) - Visualise, expand, and share your research expertise using an intuitive citation graph interface.
 
@@ -134,9 +134,9 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
-[US Military Manual Collection : Free Texts : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/military-manuals) - United States Army Field Manuals are published by the United States Army's Army Publishing Directorate. As of 27 July 2007, some 542 field manuals were in use. They contain detailed information and how-tos for procedures important to soldiers serving in the field. They are usually available to the...
+[US Military Manual Collection : Free Texts : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/military-manuals) - United States Army Field Manuals are published by the United States Army's Army Publishing Directorate. As of 27 July 2007, some 542 field manuals were in use. They contain detailed information and how-tos for procedures important to soldiers serving in the field. They are usually available to the…
 
 2022-09-14T12:49:04.000Z
 
@@ -144,7 +144,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Home - Parliament Archives](https://archives.parliament.uk) - nan
 
@@ -154,7 +154,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Army Publishing Directorate](https://armypubs.army.mil) - Army DA administrative publications and forms by the Army Publishing Directorate APD. The latest technologies high quality electronic pubs and forms view U.S. Army Regulations and DA Forms.
 
@@ -164,7 +164,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [The Internet censorship bibliography](https://censorbib.nymity.ch) - nan
 
@@ -174,7 +174,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://censoredplanet.org/assets/vertical_generic.png)
 
@@ -186,7 +186,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [welcome-CIRES](https://cires.colorado.edu) - nan
 
@@ -196,7 +196,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://coek.info/themes/coekinfo/assets/img/coekinfo_logo.png)
 
@@ -208,7 +208,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Home](https://contempaesthetics.org) - nan
 
@@ -218,7 +218,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [CORE Aggregating the worlds open access research papers](https://core.ac.uk) - The worlds largest collection of open access research papers
 
@@ -228,7 +228,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0](https://cse.google.com/cse?cx=000013508089310229747%3Aqf70z1tyrs0) - nan
 
@@ -238,7 +238,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Mendeley Data](https://data.mendeley.com) - Upload your research data, share with select users and make it publicly available and citable
 
@@ -248,7 +248,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://datacatalog.worldbank.org/assets/image/homepage.png)
 
@@ -260,7 +260,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Dataset Search](https://datasetsearch.research.google.com) - nan
 
@@ -270,7 +270,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Distributed Denial of Secrets](https://ddosecrets.com) - nan
 
@@ -280,7 +280,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Enjoy free comfortable tools to publish, exchange, and share any kind of documents online!](https://docplayer.net) - nan
 
@@ -290,7 +290,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://doku.pub/static/img/og-image.png)
 
@@ -302,7 +302,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Documents Free Download PDF](https://edoc.tips) - Free Document Download PDF
 
@@ -312,7 +312,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Digital Einstein Papers Home](https://einsteinpapers.press.princeton.edu) - nan
 
@@ -322,7 +322,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Wikisource, the free library](https://en.wikisource.org) - nan
 
@@ -332,7 +332,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://eric.ed.gov/img/icon_fbshare.png)
 
@@ -344,7 +344,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [UBIRA ETheses - University of Birmingham eData Repository](https://etheses.bham.ac.uk) - nan
 
@@ -354,7 +354,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://explore.openaire.eu/assets/common-assets/common/Symbol.png)
 
@@ -366,7 +366,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [FreeFullPDF](https://freefullpdf.com) - Download over 80 million free science papers, patents, theses and posters
 
@@ -376,7 +376,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://opengraph.githubassets.com/22e969849e760a4611fb9329db98e93c8e8a2732635fce570d22485912af0e37/alephdata/aleph)
 
@@ -388,11 +388,11 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://opengraph.githubassets.com/c56d1f9fee5e890673ee122023c3a997b7d82638f9fd99424fb92b2ad1b93322/gchenfc/sci-hub-now)
 
-[GitHub - gchenfc/sci-hub-now: Free access to academic papers with just a single click! Abolish publishers, long live the open access movement!](https://github.com/gchenfc/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement!  - GitHub - gchenfc/sci-hub-now: Free access to academic papers with just a single ...
+[GitHub - gchenfc/sci-hub-now: Free access to academic papers with just a single click! Abolish publishers, long live the open access movement!](https://github.com/gchenfc/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement!  - GitHub - gchenfc/sci-hub-now: Free access to academic papers with just a single …
 
 2022-09-14T12:49:04.000Z
 
@@ -400,11 +400,11 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://opengraph.githubassets.com/35066186c703c67c018c50393e5e9105486fef0c00e772029f7eb7d877a9c104/IDEA-Research/awesome-detection-transformer)
 
-[GitHub - IDEACVR/awesome-detection-transformer: Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV)](https://github.com/ideacvr/awesome-detection-transformer) - Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV) - GitHub - IDEACVR/awesome-detection-transformer: Collect some papers ab...
+[GitHub - IDEACVR/awesome-detection-transformer: Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV)](https://github.com/ideacvr/awesome-detection-transformer) - Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV) - GitHub - IDEACVR/awesome-detection-transformer: Collect some papers ab…
 
 2022-09-14T12:49:04.000Z
 
@@ -412,7 +412,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://opengraph.githubassets.com/bf119bc001829bc3401ae23816c9cb4bd2b2b4aa85efa731331d2149093d7df7/papers-we-love/papers-we-love)
 
@@ -424,7 +424,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [DOI to Sci-Hub](https://greasyfork.org/en/scripts/412498) - Highlight DOI link on the current webpage and redirect it to Sci-Hub.
 
@@ -434,7 +434,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://heystacks.com/banner.jpg)
 
@@ -446,7 +446,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://idoc.pub/static/img/og-image.png)
 
@@ -458,7 +458,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Liebertpub](https://liebertpub.com) - nan
 
@@ -468,7 +468,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [https://link.springer.com/](https://link.springer.com) - nan
 
@@ -478,7 +478,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://miro.medium.com/v2/resize:fit:712/1*9RC6_8PSSWG8P8-6nMTvLQ.png)
 
@@ -490,7 +490,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Web of Science Master Journal List](https://mjl.clarivate.com) - Try our new Master Journal List site, by the Web of Science Group, a Clarivate company.
 
@@ -500,7 +500,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Home-National Security Archive](https://nsarchive.gwu.edu) - nan
 
@@ -510,7 +510,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Search](https://ntrs.nasa.gov/search.jsp) - nan
 
@@ -520,7 +520,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [OATD Open Access Theses and Dissertations](https://oatd.org) - nan
 
@@ -530,7 +530,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://openmd.com/images/illustrations/bg-main.png)
 
@@ -542,7 +542,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Home-Open Payments Data - CMS](https://openpaymentsdata.cms.gov) - nan
 
@@ -552,7 +552,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://paperity.org/static/img/logo/logo_on-white_m25.png)
 
@@ -564,7 +564,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://paperpanda.app/images/og.png)
 
@@ -576,7 +576,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://pdfslide.net/public/t1/images/1200x630.jpg)
 
@@ -588,7 +588,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [750,000+ texts, PDFs, eBooks and images-Higher Intellect](https://preterhuman.net) - Higher Intellect is a World Wide Web server hosting a searchable database of over 750,000 text files on a variety of subjects. We also host a server running on the Hotline and KDX protocols featuring a vast collection of antique software, obscure operating systems and open source software.
 
@@ -598,7 +598,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png)
 
@@ -610,7 +610,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://idoc.tips/assets/img/edocsite_logo.png)
 
@@ -622,7 +622,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://share.redd.it/preview/post/edwi9b)
 
@@ -634,7 +634,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://styles.redditmedia.com/t5_3cghs/styles/communityIcon_ydpoa9d8zbc51.png?width=256&s=385710f14e3ffddb9967f499a1e6f348def2dfe4)
 
@@ -646,7 +646,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Zenk - Security - Repository](https://repo.zenk-security.com) - nan
 
@@ -656,7 +656,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Internet Archive Scholar](https://scholar.archive.org) - nan
 
@@ -666,7 +666,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Google Scholar](https://scholar.google.com) - Google Scholar provides a simple way to broadly search for scholarly literature. Search across a wide variety of disciplines and sources: articles, theses, books, abstracts and court opinions.
 
@@ -676,7 +676,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://img.sci-hub.shop/scihub/logo.raven.jpg)
 
@@ -688,7 +688,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Sci-Hub: common ownership of the means of production,free access to articles of consumption](https://sci-hub.se) - Sci-Hub website. Get free access to academic journals. Download research papers for free from ScienceDirect, IEEE, Wiley, Springer, Nature and others
 
@@ -698,7 +698,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://scialert.net/images/logo2_scialert.png)
 
@@ -710,7 +710,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Scinapse-Academic search engine for paper](https://scinapse.io) - Every research begins here. Find papers from over 170m papers in major STEM journals. Save time and never re-search.
 
@@ -720,7 +720,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Crossref Metadata Search](https://search.crossref.org) - nan
 
@@ -730,7 +730,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Share](https://share.osf.io) - nan
 
@@ -740,7 +740,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Sioyek](https://sioyek.info) - nan
 
@@ -750,7 +750,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://cdn4.telegram-cdn.org/file/ZAYxEBJFVUoio7kfFAdwiy8BKr0dWHtcPUmPNNygVw9DID1ZPQxWqdgzVyZA7KMJJ9GbYmXMnmP3XvBKaRtweHlVDApgimzn3izRns0mnMsqLOrY4qrMBPIK6q6Q7sfp-v_JrpW1S-7FOK7n65iH1gylPK7axddRqBI9jnvWHom1nLHbNMkIFxExdaSYRTtbPG76JCq1Jry-5h4z4Yc-zIA2-dIoOfNFu5I6d1Zl4SbzYlJRtKVjkKxw33X3aLEZwPBd2LQS7rEg9ea5GIaOEUC7n_MaKYK9OndmoHDFdH-a464OxGZL0Zj5EOmslJsSAwreUEZfy6TfKtwpb4WIUQ.jpg)
 
@@ -762,7 +762,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://cdn4.telegram-cdn.org/file/tR2tjC3vIvUzXno35YhXwafcj03SowhDmQd3KBjl0YL7XlfkiShd3bRpjl3q-hH4Q4JzXCWrB4_4jk1P0P8yDuzWbZpSI9wP9HaOhPzsGeg_00sIQCEZPoO-GJYC6j3qRALGlhnpcD8ivPPOn1BQCEI9ZAlHKOP_mqLqLquqdGP6UVQfVL1iYVNFnLJWznrXf84b3KdZ3hrlMKcDDpFW3nV-TjrMdlAdizsBHlwPRdt-RozQ7GYNJlXgVhiVOWViHovympX6HfzZ6dxAc8Wozo78okpDGMBf2mKv25M9sHsJnZBglwv4iHYnX4u___0UbjBeI7LQV_kS24Pou9DKNw.jpg)
 
@@ -774,7 +774,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://64.media.tumblr.com/avatar_d16be96237f7_128.pnj)
 
@@ -786,7 +786,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://vault.fbi.gov/fbi_seal_mini.png)
 
@@ -798,7 +798,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://vdocuments.site/public/t1/images/banner_social.jpg)
 
@@ -810,7 +810,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](http://sun6-23.userapi.com/impf/llU41-mAWfXNJWX3l-xXfM5EkDMobQNb7MdyOg/8AY0jporknE.jpg?size=1920x768&quality=95&crop=0,74,1260,503&sign=26ca8891c9f5b5865dd89cb828fc40f0&type=cover_group)
 
@@ -822,7 +822,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [WikiLeaks](https://wikileaks.org) - nan
 
@@ -832,7 +832,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Academia.edu - Share research](https://www.academia.edu) - Academia.edu is a place to share and follow research.
 
@@ -842,7 +842,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Learn Biology Online](https://www.biologyonline.com) - Biology Online is the worlds most comprehensive database of Biology terms and topics. Since 2001 it has been the resource of choice for professors, students, and professionals needing answers to Biology questions.
 
@@ -852,7 +852,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Publications - CIA](https://www.cia.gov/resources/publications) - The CIA publications library houses material on intelligence history, international relations, and the Cold War.
 
@@ -862,7 +862,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://www.connectedpapers.com/share-preview-img.png)
 
@@ -874,7 +874,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://www.constituteproject.org//static/v1-2-7-1693309671/images/social-bgs/1.jpg)
 
@@ -886,7 +886,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://storage.courtlistener.com/static/png/og-image-1280x640.298721364e54.png)
 
@@ -898,7 +898,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Data Observation Network for Earth-DataONE](https://www.dataone.org) - DataONE's products and services.
 
@@ -908,7 +908,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Home - DBpedia Association](https://www.dbpedia.org) - DBpedia provides a platform for data, tools and services. Explore current projects and applications and learn about DBpedia datasets.
 
@@ -918,7 +918,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Docracy - Free Legal Documents](https://www.docracy.com) - Open legal documents, provided and trusted by people like you. Find or upload a document, sign it for free.
 
@@ -928,7 +928,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://www.e-ir.info/wp-content/uploads/2020/06/logo-putty.jpg)
 
@@ -940,7 +940,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [site:docdroid.net - Google Search](https://www.google.com/search?q=site%3Adocdroid.net) - nan
 
@@ -950,7 +950,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Find Open Datasets and Machine Learning Projects-Kaggle](https://www.kaggle.com/datasets) - Download Open Datasets on 1000s of Projects + Share Projects on One Platform. Explore Popular Topics Like Government, Sports, Medicine, Fintech, Food, More. Flexible Data Ingestion.
 
@@ -960,7 +960,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://static.lens.org/lens/8.10.0/img/og-logo.png)
 
@@ -972,7 +972,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://www.longdom.org/assets/img/longdom-logo.svg)
 
@@ -984,7 +984,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [MDPI - Publisher of Open Access Journals](https://www.mdpi.com) - MDPI is a publisher of peer-reviewed, open access journals since its establishment in 1996.
 
@@ -994,7 +994,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Mendeley - Reference Management Software](https://www.mendeley.com) - nan
 
@@ -1004,7 +1004,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Download reference manager](https://www.mendeley.com/download-reference-manager) - nan
 
@@ -1014,7 +1014,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [The National Academies Press](https://www.nap.edu) - The National Academies Press (NAP) publishes authoritative reports issued by The National Academies of Science, Engineering, and Medicine (NASEM).
 
@@ -1024,7 +1024,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Open Access Library (OALib)](https://www.oalib.com) - Open Access Library (www.oalib.com) is an academic search engine and publisher. You can download research papers for free and submit your paper to it. It is a shared academic database.
 
@@ -1034,7 +1034,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [The Papal Encyclicals Online](https://www.papalencyclicals.net) - The Papal Encyclicals 1740-1981 published by Pierian Press. For several years, St. Michaels Depot included these documents.
 
@@ -1044,7 +1044,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F7a2e786546f9225a6ee7d1e337bfd1bc.cdn.bubble.io%2Ff1627017231239x156483769545696640%2FJuly%2520New%2520Cover%2520Image.png?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -1056,7 +1056,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Science.gov: USA.gov for Science - Government Science Portal](https://www.science.gov) - Science.gov is a gateway to government science information provided by U.S. Government science agencies, including research and development results.
 
@@ -1066,7 +1066,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://www.semanticscholar.org/img/semantic_scholar_og.png)
 
@@ -1078,7 +1078,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Home - SkillsCommons Repository](https://www.skillscommons.org) - nan
 
@@ -1088,7 +1088,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Home :: SSRN](https://www.ssrn.com) - nan
 
@@ -1098,7 +1098,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/05/yt.jpg)
 
@@ -1110,7 +1110,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Free News, Magazines, Newspapers, Journals, Reference Articles and Classic Books - Free Online Library](https://www.thefreelibrary.com) - Free Online Library: One of the largest online libraries in the world -- Millions of news, trade publications, newspapers, magazine, journal and reference documents on business, communications, entertainment, health, law, government, politics, science and technology from leading publications are available on the Free Online Library
 
@@ -1120,7 +1120,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg)
 
@@ -1132,7 +1132,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Zeal - Offline Documentation Browser](https://zealdocs.org) - nan
 
@@ -1142,7 +1142,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 [Zenodo - Research. Shared.](https://zenodo.org) - nan
 
@@ -1152,7 +1152,7 @@
 
 ---
 
-## DocArticles
+### DocArticles
 
 ![](https://theanarchistlibrary.org/sitefiles/en/opengraph.png)
 
@@ -1164,9 +1164,9 @@
 
 ---
 
-## DocArticles-Document Checking
-
 ### DocArticles-Document Checking
+
+#### DocArticles-Document Checking
 
 [Documentchecker.com](https://www.documentchecker.com) - The solution for checking the world's identity documents and banknotes
 
@@ -1176,7 +1176,7 @@
 
 ---
 
-### DocArticles-Document Checking
+#### DocArticles-Document Checking
 
 [Ifado.consilium.europa.eu](https://www.ifado.consilium.europa.eu) - nan
 
@@ -1186,7 +1186,7 @@
 
 ---
 
-### DocArticles-Document Checking
+#### DocArticles-Document Checking
 
 [Search-International Court of Justice](https://www.icj-cij.org/en/advanced-search) - Search
 
@@ -1196,7 +1196,7 @@
 
 ---
 
-### DocArticles-Document Checking
+#### DocArticles-Document Checking
 
 ![](https://www.nidsenter.no/content/img/og-nid-logo.png)
 
@@ -1208,7 +1208,7 @@
 
 ---
 
-### DocArticles-Document Checking
+#### DocArticles-Document Checking
 
 ![](https://www.passportindex.org/images/social/Passport-Index-Explore.jpg)
 

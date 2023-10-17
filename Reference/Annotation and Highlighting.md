@@ -1,6 +1,6 @@
-# Annotation and Highlighting
-
 ## Annotation and Highlighting
+
+### Annotation and Highlighting
 
 ![](https://annotate.net/resources/siteimages/logo1.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Annotation and Highlighting
+### Annotation and Highlighting
 
 [Bounce A fun and easy way to share ideas on a webpage](https://www.bounceapp.com) - Bounce is a fun and easy way to share ideas on a webpage.
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Annotation and Highlighting
+### Annotation and Highlighting
 
 ![](https://d242fdlp0qlcia.cloudfront.net/uploads/2020/05/25133654/HypothesisFeaturedDefault.png)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Annotation and Highlighting
+### Annotation and Highlighting
 
 ![](https://getliner.com/landing/image/og_image.jpg)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Annotation and Highlighting
+### Annotation and Highlighting
 
 ![](https://nimbusweb.me/wp-content/uploads/2022/11/preview-note.jpg)
 
@@ -58,7 +58,7 @@
 
 ---
 
-## Annotation and Highlighting
+### Annotation and Highlighting
 
 ![](https://thepund.it/wp-content/uploads/2014/11/Pundit-Animal-Farm.jpg)
 
@@ -70,7 +70,7 @@
 
 ---
 
-## Annotation and Highlighting
+### Annotation and Highlighting
 
 ![](https://images.prismic.io/evernote/509c3ac6-646c-4873-910b-38864d186ee9_og-image.png)
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Annotation and Highlighting
+### Annotation and Highlighting
 
 [Sum It Up - Summarize and Highlight](https://rachitgulati.com/sum-it-up) - nan
 

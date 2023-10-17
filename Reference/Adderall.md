@@ -1,6 +1,6 @@
-# Adderall
-
 ## Adderall
+
+### Adderall
 
 ![](https://www.frontiersin.org/files/MyHome%20Article%20Library/62248/62248_Thumb_400.jpg)
 
@@ -12,11 +12,11 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://faseb.onlinelibrary.wiley.com/cms/asset/f0f065ea-b26e-4885-a1df-f1e7efe00281/fsb2.v13.9.cover.gif?trick=1695726146626)
 
-[Amphetamines induce apoptosis and regulation of bclx splice variants in neocortical neurons](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.13.9.1065) - Amphetamine analogs have emerged as popular recreational drugs of abuse. The number of reports of these substances producing severe acute toxicity and death is increasing. In Ecstasy -associated de...
+[Amphetamines induce apoptosis and regulation of bclx splice variants in neocortical neurons](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.13.9.1065) - Amphetamine analogs have emerged as popular recreational drugs of abuse. The number of reports of these substances producing severe acute toxicity and death is increasing. In Ecstasy -associated de…
 
 2022-10-01T19:53:23.308Z
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ijnp/Issue/5/2/0/m_ijnp5_2.cover.gif?Expires=1757101193&Signature=H3Qp469pC6meu5ZyHCrwYoa5G0IL-1z6gWPAIwNzY6cDJukDre1SLmXNN9STvfH4-mubMbVFNP7Jiv8eWKkbkzxoZfRmMlshBRbo-PN3AFWDTzhL-QKjxUIc8Uut6T93hbNZCgf1HY0Cy3pV7eyr~MEXrIAYrSuoqSgferlhyhd6ZTavtVYmAvSeX3Qs9235YofAACy502dnXcaQBAO7pk5GTkBXYj~aAGvKPyuHToITbRC8vTmCTVz9STnVtQm5JImDC7myJnqcR7tl30u3lhkE9RkwZWBp7LSIWz7cR6kJN7uENd-~dJg0NAoV0hahrA1I3DnNnNGnHKY43ILLDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
@@ -36,7 +36,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://osf.io/preprints/assets/osf-assets/files/preprints-assets/osf/sharing-7794709b2c4e1d07101cacebad442aa0709db7dd.png)
 
@@ -48,7 +48,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 [Treatment for amphetamine withdrawal](https://doi.wiley.com/10.1002/14651858.CD003021.pub2) - nan
 
@@ -58,7 +58,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://onlinelibrary.wiley.com/cms/asset/4c35d6d7-e480-4d90-89db-bd90feac0f10/jfo.2009.54.issue-2.cover.gif?trick=1695726146258)
 
@@ -70,7 +70,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://static.cambridge.org/covers/CNS_0_0_0/cns_spectrums.jpg?send-full-size-image=true)
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://static.cambridge.org/covers/BJW_0_0_0/advances_in%20psychiatric%20treatment.jpg?send-full-size-image=true)
 
@@ -94,7 +94,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0301008205X04087-cov150h.gif)
 
@@ -106,7 +106,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0165017311X00024-cov150h.gif)
 
@@ -118,7 +118,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://static.cambridge.org/covers/CNS_0_0_0/cns_spectrums.jpg?send-full-size-image=true)
 
@@ -130,7 +130,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0278584623X00050-cov150h.gif)
 
@@ -142,7 +142,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://pub.mdpi-res.com/img/journals/pharmacy-logo.png?833897a45d82410a)
 
@@ -154,7 +154,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0955395923X00085-cov150h.gif)
 
@@ -166,7 +166,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 [Prescription stimulants in individuals with and without attention deficit hyperactivity disorder: misuse, cognitive impact, and adverse effects](https://onlinelibrary.wiley.com/doi/10.1002/brb3.78) - nan
 
@@ -176,7 +176,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://www.frontiersin.org/files/MyHome%20Article%20Library/443851/443851_Thumb_400.jpg)
 
@@ -188,7 +188,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://media.springernature.com/w200/springer-static/cover/journal/11065.jpg)
 
@@ -200,7 +200,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0149763418X00025-cov150h.gif)
 
@@ -212,7 +212,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://www.degruyter.com/document/cover/journal_key/BCHM/product)
 
@@ -224,7 +224,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://media.springernature.com/w200/springer-static/cover/journal/204.jpg)
 
@@ -236,7 +236,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0149291823X00095-cov150h.gif)
 
@@ -248,7 +248,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0735109721X00149-cov150h.gif)
 
@@ -260,7 +260,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S1938973613X00029-cov150h.gif)
 
@@ -272,7 +272,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://www.tandfonline.com/doi/cover-img/10.1080/isum20.v045.i01-02)
 
@@ -284,7 +284,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://images.hindawi.com/journals/cric/cric.banner.jpg)
 
@@ -296,7 +296,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0378427423X00137-cov150h.gif)
 
@@ -308,7 +308,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://images.journals.lww.com/psychopharmacology/SocialThumb.00004714-201402000-00016.T1-16.jpeg)
 
@@ -320,7 +320,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://journals.sagepub.com/pb-assets/cover-alt/jop-cover-social-1565280488257.jpg)
 
@@ -332,7 +332,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 [Amphetamines: A Dangerous Illusion](http://annals.org/article.aspx?doi=10.7326%2F0003-4819-74-4-605) - nan
 
@@ -342,7 +342,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 [Amphetamines induce apoptosis and regulation of bclx splice variants in neocortical neurons](https://onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.13.9.1065) - nan
 
@@ -352,7 +352,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://jnnp.bmj.com/sites/default/files/highwire/jnnp/44/8.cover.gif)
 
@@ -364,7 +364,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 [DARK Side of Amphetamine and Analogues: Pharmacology, Syndromic Manifestation, and Management of Amphetamine Addiction](https://pubs.acs.org/doi/10.1021/acschemneuro.8b00137) - nan
 
@@ -374,7 +374,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 [Effectiveness and Tolerability of Tomoxetine in Adults With Attention Deficit Hyperactivity Disorder](http://psychiatryonline.org/doi/abs/10.1176/ajp.155.5.693) - nan
 
@@ -384,7 +384,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0006322307X05717-cov150h.gif)
 
@@ -396,7 +396,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://cdn.jamanetwork.com/ama/content_public/journal/psych/5117/yoa9442t1.png?Expires=2147483647&Signature=MEEFPpFUQTQXyQCMAGEG~HdgYfZ9nN9LsDT9grG57-cGr6MoMsM9mwBHwNjhnudXN5JjxMSTUsjRPL5hLF5hWTTRNeiYz2-zeeobDKzwoYu5uUWBKIMRVNGX1eUnpJuoE5aOrAIAkNPQdUm54QKfS5eA2QjbUireW5JWHvtdpoMe4B~G57ksa4rUPeGDb5ht5myERFLggt3JFNATc0Dx0sLG9IEeJ7P2b8SBGqcdB8~BoKc20xzCNOdEIoNSNFU-wFOTrX6~Phpd4Q9qtPAiXcUpHYQt~yWrN39LHdcC693D9ucBnEVPrEhOkSCzWFCIMBqEzFd7mtshytnl-FAWdQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
@@ -408,7 +408,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://www.liebertpub.com/action/showCoverImage?journalCode=)
 
@@ -420,7 +420,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://www.frontiersin.org/files/MyHome%20Article%20Library/62248/62248_Thumb_400.jpg)
 
@@ -432,7 +432,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0006899300X15284-cov150h.gif)
 
@@ -444,11 +444,11 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://doku.pub/img/detail/nk0p3y7gj1q1.jpg)
 
-[Amphetamine Synthese [nk0p3y7gj1q1]](https://doku.pub/documents/amphetamine-synthese-nk0p3y7gj1q1) - Amphetamine Synthese [nk0p3y7gj1q1]. ...
+[Amphetamine Synthese [nk0p3y7gj1q1]](https://doku.pub/documents/amphetamine-synthese-nk0p3y7gj1q1) - Amphetamine Synthese [nk0p3y7gj1q1]….
 
 2022-09-14T13:48:56.469Z
 
@@ -456,11 +456,11 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://idoc.pub/img/detail/en5k789gy5no.jpg)
 
-[Monomethylation Of Amphetamines To Methamphetamine [en5k789gy5no]](https://idoc.pub/documents/monomethylation-of-amphetamines-to-methamphetamine-en5k789gy5no) - Monomethylation Of Amphetamines To Methamphetamine [en5k789gy5no]. ...
+[Monomethylation Of Amphetamines To Methamphetamine [en5k789gy5no]](https://idoc.pub/documents/monomethylation-of-amphetamines-to-methamphetamine-en5k789gy5no) - Monomethylation Of Amphetamines To Methamphetamine [en5k789gy5no]….
 
 2022-09-14T13:37:28.512Z
 
@@ -468,7 +468,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 [Amphetam](https://cdn.preterhuman.net/texts/drugs/amphetam) - nan
 
@@ -478,7 +478,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 [Amph](https://cdn.preterhuman.net/texts/drugs/amph.fun) - nan
 
@@ -488,7 +488,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png)
 
@@ -500,7 +500,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png)
 
@@ -512,7 +512,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png)
 
@@ -524,7 +524,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png)
 
@@ -536,7 +536,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png)
 
@@ -548,7 +548,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png)
 
@@ -560,7 +560,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png)
 
@@ -572,7 +572,7 @@
 
 ---
 
-## Adderall
+### Adderall
 
 ![](https://storage.googleapis.com/jnl-up-j-pnb-public/journals/1/journalThumbnail_en_US.jpg)
 

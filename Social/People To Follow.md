@@ -1,6 +1,6 @@
-# People To Follow
-
 ## People To Follow
+
+### People To Follow
 
 [Mark Koester Personal Blog-Mark Koester](http://www.markwk.com) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-## People To Follow
+### People To Follow
 
 ![](https://cdn3.brettterpstra.com/images/mepic_fb.jpg)
 

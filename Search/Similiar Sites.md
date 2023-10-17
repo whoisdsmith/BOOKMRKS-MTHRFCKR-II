@@ -1,6 +1,6 @@
-# Similiar Sites
-
 ## Similiar Sites
+
+### Similiar Sites
 
 [Similarsites.com](https://similarsites.com) - Discover the best websites and explore competitor and related sites with Similarsites.com, the extension that enables you to browse associated content.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Similiar Sites
+### Similiar Sites
 
 [SimilarSiteSearch.com](https://www.similarsitesearch.com) - SimilarSiteSearch.com helps you find similar, related, or alternative websites. Our goal is to generate the most relevant results for our users.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Similiar Sites
+### Similiar Sites
 
 ![](https://www.topsimilarsites.com/images/fb.png)
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Similiar Sites
+### Similiar Sites
 
 [Find Similar Sites, Competitors and Related Sites](https://www.alexa.com/find-similar-sites) - Find sites that share a similar audience using our free Audience Overlap Tool. Discover competitor sites, influencers, guest blogging opportunities, and more.
 
@@ -42,7 +42,7 @@
 
 ---
 
-## Similiar Sites
+### Similiar Sites
 
 [Rawranked.com](https://rawranked.com) - nan
 
@@ -52,7 +52,7 @@
 
 ---
 
-## Similiar Sites
+### Similiar Sites
 
 [Sitelike.org](https://www.sitelike.org) - nan
 
@@ -62,7 +62,7 @@
 
 ---
 
-## Similiar Sites
+### Similiar Sites
 
 [Suchsites.com](https://suchsites.com) - Find many websites similar to any website
 
@@ -72,7 +72,7 @@
 
 ---
 
-## Similiar Sites
+### Similiar Sites
 
 ![](https://xranks.com/static/assets2/img/technologies.jpg)
 

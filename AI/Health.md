@@ -1,8 +1,8 @@
-# Health
-
-## Fitness
+## Health
 
 ### Fitness
+
+#### Fitness
 
 ![](https://burnbacon.com/wp-content/uploads/2023/05/happy.jpg)
 
@@ -14,7 +14,7 @@
 
 ---
 
-### Fitness
+#### Fitness
 
 [FitForge](https://fitforge.me) - FitForge offers customised AI workout plans for your fitness goals
 
@@ -24,7 +24,7 @@
 
 ---
 
-### Fitness
+#### Fitness
 
 [GymGenie](https://gymgenie.xyz) - Create custom workout routines based on individual gym goals
 
@@ -34,7 +34,7 @@
 
 ---
 
-### Fitness
+#### Fitness
 
 [Myfit-AI](https://myfit-ai.com) - Personalized fitness training programs created by Myfit-AI.
 
@@ -44,7 +44,7 @@
 
 ---
 
-### Fitness
+#### Fitness
 
 ![](https://pplegpt.vercel.app/og-image.png)
 
@@ -56,7 +56,7 @@
 
 ---
 
-### Fitness
+#### Fitness
 
 ![](https://www.datocms-assets.com/28175/1678644481-twittercard-1.png)
 
@@ -68,7 +68,7 @@
 
 ---
 
-### Fitness
+#### Fitness
 
 ![](https://www.fitwizard.health/api/og-image-600?4362984379)
 
@@ -80,9 +80,9 @@
 
 ---
 
-## Health
-
 ### Health
+
+#### Health
 
 ![](https://www.sommerai.com/assets/metaImage.png)
 
@@ -94,7 +94,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://framerusercontent.com/images/YOeuMXZKqaCvqG22T2yajg9o3yE.png)
 
@@ -106,7 +106,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://api.typedream.com/v0/document/public/2E8JK13HL2WYvMviocbnrfpHcMc_Mentalyc-logo.png?bucket=document)
 
@@ -118,7 +118,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://uploads-ssl.webflow.com/64d0e44cc41267a28dda6807/64d63e89e5650c10e1c53abb_Open%20Graph.png)
 
@@ -130,7 +130,7 @@
 
 ---
 
-### Health
+#### Health
 
 [AnalyzGPT](https://app.sttabot.io/bot/analyzgpt-demo) - nan
 
@@ -140,7 +140,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://www.heyhoku.com/static/media/logo-wide.png)
 
@@ -152,7 +152,7 @@
 
 ---
 
-### Health
+#### Health
 
 [Sage AI](https://labworks.ai) - AI Assistant for Personal Health
 
@@ -162,7 +162,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://meddipop.com/wp-content/uploads/2023/08/home-page-.png)
 
@@ -174,7 +174,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://medicodio.com/wp-content/uploads/2023/05/logo_medico.png)
 
@@ -186,7 +186,7 @@
 
 ---
 
-### Health
+#### Health
 
 [MindMate](https://mindmate.tech) - Your Personal AI-Powered Mental Health Companion
 
@@ -196,7 +196,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://framerusercontent.com/modules/n8TWQWtST5XQby6AzXPs/U2Ijhv7B2bEKQBtTV9oC/assets/p6UV0eg6DoQZiEvQbgvxz9g2lY.jpg)
 
@@ -208,7 +208,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://skinive.com/wp-content/uploads/2023/05/Frame-33364-4.jpg)
 
@@ -220,7 +220,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://storage.googleapis.com/mixo-files/uploads/fibromeditate-1681687446137.png)
 
@@ -232,7 +232,7 @@
 
 ---
 
-### Health
+#### Health
 
 [Whisper AI](https://whisper.ai) - AI-powered hearing aid adjusts to different hearing situations
 
@@ -242,7 +242,7 @@
 
 ---
 
-### Health
+#### Health
 
 [AI Health Mind](https://www.aihealthmind.com) - Ask a medical question and receive a clear and concise answer within just 5 minutes, with the help of AI.
 
@@ -252,7 +252,7 @@
 
 ---
 
-### Health
+#### Health
 
 [Dr Gupta AI](https://www.drgupta.ai) - Virtual health companion providing personalized suggestions
 
@@ -262,7 +262,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://assets-global.website-files.com/62c82c2449b0ebd57821fd87/6416678921beab391fca92b8_Frame%207439.png)
 
@@ -274,7 +274,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://sidekickai.com/wp-content/uploads/2019/09/Sidekick_Logo-400x158.jpg)
 
@@ -286,7 +286,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://lh3.googleusercontent.com/8Bz5DGw9pYxvG1UE_GPpe7mQHk5gvBTHBmn6NspFPbLjWxoAxJgHBrXe0PZ5CmyXIDhjawC3q8PloUhIgNNR9_nDPaVmDX8D65HkdeO767xDEnUCSOBS)
 
@@ -298,7 +298,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://embra.ai/og_card.png)
 
@@ -310,7 +310,7 @@
 
 ---
 
-### Health
+#### Health
 
 [AweMyFace](https://xariia.net) - Skincare app
 
@@ -320,7 +320,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://assets-global.website-files.com/63b51f507abffb8927deff06/63bcd720be351f03c95bf25f_open-graph.png)
 
@@ -332,7 +332,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://auri.ai/images/Auri-AI-Personal-Assistant-for-iOS.jpg)
 
@@ -344,7 +344,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://uploads-ssl.webflow.com/618c9a224aa9dc113a6b0465/624274e16cd761eea1100c89_ShapedAi_Logo_Preview.png)
 
@@ -356,7 +356,7 @@
 
 ---
 
-### Health
+#### Health
 
 [Bayesian Health](https://bayesianhealth.com) - Healthcare AI Platform
 
@@ -366,7 +366,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://images.prismic.io/kittlblog/982c32ca-f0a4-45bf-a523-9fa4e95f96f8_Kittl_Thumbnail.jpeg?auto=compress,format&rect=0,0,1200,630&w=1200&h=630)
 
@@ -378,7 +378,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://static.tildacdn.com/tild6334-3164-4336-b966-363734363431/Thumbnail.svg)
 
@@ -390,7 +390,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://assets.website-files.com/63df245347ab582eb3a01a92/63eb9f2ab121b1f83ba5f8a2_unlearn-opengraph.jpg)
 
@@ -402,7 +402,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://eadn-wc03-3390172.nxedge.io/wp-content/uploads/2023/01/jaxon-thumbnail.png)
 
@@ -414,7 +414,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://docus.ai/og-images/homepage.jpg)
 
@@ -426,7 +426,7 @@
 
 ---
 
-### Health
+#### Health
 
 ![](https://earkick.com/earkick_og.png)
 

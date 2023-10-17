@@ -1,6 +1,6 @@
-# Misc
-
 ## Misc
+
+### Misc
 
 ![](https://jsonformatter.org/img/xml-viewer.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Misc
+### Misc
 
 [Big Number Calculator](https://defuse.ca/big-number-calculator.htm) - Calculate enormous mathematical equations from within your browser.
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Misc
+### Misc
 
 ![](https://epub.to/static/epub.png)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Misc
+### Misc
 
 ![](https://www.epochconverter.com/img/epochconverter-og-img.png)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Misc
+### Misc
 
 [Free Online Proofreader: Grammar Check, Plagiarism Detection, and more](https://www.paperrater.com) - PaperRater uses Artificial Intelligence to improve your writing.  Includes grammar, plagiarism, and spelling check, along with word choice analysis and automated grading.
 
@@ -56,7 +56,7 @@
 
 ---
 
-## Misc
+### Misc
 
 [HTML Sanitizer Tool](https://defuse.ca/html-sanitize.htm) - Convert text containing special characters into proper HTML.
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Misc
+### Misc
 
 ![](https://dcxote2kf3ou4.cloudfront.net/1818599180193c104f9a4779444a1d84af00ccdf3e88788184db61eeffcae965/melobytes-default.png)
 
@@ -78,7 +78,7 @@
 
 ---
 
-## Misc
+### Misc
 
 ![](https://miraheze.org/images/Miraheze-Logo-1200px.png)
 
@@ -90,7 +90,7 @@
 
 ---
 
-## Misc
+### Misc
 
 ![](https://jupyter.org/assets/share.png)
 

@@ -1,6 +1,6 @@
-# Forums
-
 ## Forums
+
+### Forums
 
 ![](https://hackgence.com/assets/site-image-dlxj3xec.png)
 
@@ -12,11 +12,11 @@
 
 ---
 
-## Forums
+### Forums
 
 ![](https://crax.pro/styles/default/xenforo/logos/yoass.png)
 
-[Crax Pro-Cracking, Spamming, Carding and Hacking Forum](https://craxpro.io/?ref=xranks) - Crax Pro - Cracking, Spamming, Carding and Hacking Forum. Free Accounts, OpenBullet Configs, Checkers, Brutes, Spamming tools, Courses, Methods and much more...
+[Crax Pro-Cracking, Spamming, Carding and Hacking Forum](https://craxpro.io/?ref=xranks) - Crax Pro - Cracking, Spamming, Carding and Hacking Forum. Free Accounts, OpenBullet Configs, Checkers, Brutes, Spamming tools, Courses, Methods and much more…
 
 2022-09-28T13:30:05.755Z
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [Home-Forums - The Lost Media Wiki](https://forums.lostmediawiki.com) - Visit our forum at: forums.lostmediawiki.com
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [Leak World](http://ww25.leakworld.io/?__cf_chl_jschl_tk__=2746f06332d423c83b86e0e8f3b41445562d6d81-1610153804-0-Aa8bmeXOFnbmLftQBeoZEJq-Ft4f_b6-ez1opHi50G4ZNW4zl4MUhaAzn1KVSGSbfdlZtXYmOye1FUESUGFBo0mecErlFNpe4cSlOJ5eLGM-x4kmJWhVSkF9judMfuCu9UFHTZhDOvOMkcKw01Whay45UglSzUXrH7rIxviI--fzOyqWvHTgWiVpRnT8yF24toycXbt2yireal4HGMSp8v-jLevU4sZhTdFPJ4WW7ND_RADPDPi9FrrX-QmlnCO2c_sS_UuNf_wx-YlAKC5kffbtjqW1X5fBSg4VDxN7sgF5jW1j01Gz8MRlaHtqK3JVfQ&subid1=20220828-1845-1444-9752-1cdc9cd8a8c7) - nan
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [Leakforums.co](https://leakforums.co) - Leakforums.co is a great sharing community. Meet people, share stuff and find great leaks.
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [[H]ard|Forum](https://hardforum.com) - HardOCP Community Forum for PC Hardware Enthusiasts
 
@@ -64,7 +64,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [Hack Forums](https://hackforums.net) - Hack Forums is the ultimate security technology and social media forum.
 
@@ -74,7 +74,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [Guided Hacking](https://guidedhacking.com) - Game hacking, reverse engineering & coding forum.  Learn how to reverse, hack & code with our video tutorials and guides.
 
@@ -84,7 +84,7 @@
 
 ---
 
-## Forums
+### Forums
 
 ![](https://fi.somethingawful.com/images/logo.png)
 
@@ -96,7 +96,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [FileSharing Talk](https://filesharingtalk.com/forum.php) - FileSharing Talk, discussions, post comments, find file sharing help, follow file sharing trends like Bit Torrent, Usenet, NZB, ED2K and more!
 
@@ -106,7 +106,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [Download Cracked Programs - Forum](http://www.downloadcrackedprograms.com) - Download Cracked Programs - Forum
 
@@ -116,7 +116,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [DreamTeamDownloads1, FTP Help, Movies, Bollywood, Applications, etc. & Mature Sex Forum, Rapidshare, Filefactory, Freakshare, Rapidgator, Turbobit, & More MULTI Filehosts - Powered by vBulletin](https://www.dreamteamdownloads1.com) - A 1 for Newest, Latest Downloads, Applications, Movies, Music, EBooks, TV Shows, Games, PS, PS2, PS3, PSP, XBox, XBox360, Wii, Gamecube, Computer, MAC,(+ Windows, Windows 8, Info, Help)  Celphones, Androids, iPhone, iPad, iPad1,iPad2, iPad3, Simulators, and FTP!, Fileserve, Hotfile, Filesonic, Wuploads, Rapidshare, Megauploads, Duckloads, Bitshare, etc.  Mature, (Sex, Soft, Porn,) Section, TV, (Watch, Your, Favourite, Programs, on, Line,)
 
@@ -126,7 +126,7 @@
 
 ---
 
-## Forums
+### Forums
 
 ![](https://demonforums.net/images/android-chrome-192x192.png)
 
@@ -138,7 +138,7 @@
 
 ---
 
-## Forums
+### Forums
 
 ![](https://tapatalk-logos.tapatalk-cdn.com/90-HD.jpg?v=1518422810)
 
@@ -150,7 +150,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [CyberPhoenix Community](http://www.cyberphoenix.org/forum) - nan
 
@@ -160,7 +160,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [0Day RedTeam ToolKit-Own it, Pwn it ( Happy Christmas Leaked )-RaidForums](https://raidforums.com/Thread-0Day-RedTeam-ToolKit-Own-it-Pwn-it-Happy-Christmas-Leaked) - nan
 
@@ -170,7 +170,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [Crypto World - Welcome](https://unredacted.org/blog/2021/04/crypto-world-is-now-unredacted) - Crypto World was an organization founded in 2015 by a group of friends to advocate for privacy, cryptography and security on the internet. We had a great community and forum, although we had decided to shut it down the forum due to life events. The community unfortunately died off as well. It held several projects Continue reading Crypto World is Now Unredacted!
 
@@ -180,7 +180,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [Forums - Rapid Heaven](https://rapidheaven.com) - nan
 
@@ -190,7 +190,7 @@
 
 ---
 
-## Forums
+### Forums
 
 ![](https://telegra.ph/file/60ef098ab90923f4addce.png)
 
@@ -202,7 +202,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [PS Forums](https://p0wersurge.com/forums?__cf_chl_jschl_tk__=9bd8ae3c06d56d035a60c593c4ef92ff2d4c709c-1610153892-0-Aez5uZazqUeMfKSOLUnLGibaevpNnTTA2scHd4OPAkExJQ4dHgyJdWFjd0MYVeqP5cAQ_VscRgRO5kEHvoRcsb2GShPdZOX_5hCUSaakIs_XDvEIJ5dMOl3vncgEVFhU36ykxkleXzXvqUNh6LBPxKk5-sBHlnprGq7-eXDwRbV89ymZrZa2wiSCgSDvV19U6xhscotvHXYQ6M7q5m5bMdyWQMhYyxwjdlfcaV3Z4KOsPhlOgJkxEqnQxVuw8R_31vyZm4jlpGCbKeioyeJ4LLPAD-8wFOlWIuAep2PyJng6-GEDV1BhpKsrRkmqoBxKpQ) - nan
 
@@ -212,7 +212,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [Sinful Site - Forum of Cracking](https://sinfulsite.com) - Sinful Site is a forum based on general discussion and sharing of related resources. You can also find lots of leaked database, combolist, and more.
 
@@ -222,7 +222,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [solidforums.com](https://solidforums.com) - nan
 
@@ -232,7 +232,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [TotalBlackHat - BlackHat Forums](https://totalblackhat.net) - Fast Q&A for you
 
@@ -242,7 +242,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [Websites and Telegram channels to download books](https://telegra.ph/Websites-and-Telegram-channels-to-download-books-08-04) - Join our channel TELEGRAM INDEX for more awesome index by awesome people. eBook/Scientific books Sites: forum.mobilism.org libgen.pw libgen.is libgen.me snewd.com b-ok.org b-ok.cc pdfroom.com en.bookfi.net sci-hub.tw www.gutenberg.org pdfdrive.com openlibrary.org xfmro77i3lixucja.tor2web.xyz bookfi.org ardbark.com sanet.ws/books ebook3000.com manybooks.net scrdownloader.com/ - Download .pdf documents and books from Scribd hpaudiobooks.club ebookbb.com appaudiobooks.com/ allitebooks.com - IT eBooks pdfbooksworld.com
 
@@ -252,7 +252,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [Zyberph - Forum](https://www.zyberph.com) - nan
 
@@ -262,7 +262,7 @@
 
 ---
 
-## Forums
+### Forums
 
 ![](https://static.cracked.io/images/logo/logo_io2.png)
 
@@ -274,7 +274,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [Aiowares.com](https://www.aiowares.com) - nan
 
@@ -284,7 +284,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [nsane.forums](https://nsaneforums.com) - Nsane Forums is an advanced computer and technology community where you can discover the most up-to-date software, free giveaways, the nsane.down frontpage, technology consultations and news, and much more.
 
@@ -294,7 +294,7 @@
 
 ---
 
-## Forums
+### Forums
 
 [Linus Tech Tips](https://linustechtips.com) - Linus Tech Tips
 

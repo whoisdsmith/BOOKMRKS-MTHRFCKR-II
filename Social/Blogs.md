@@ -1,6 +1,6 @@
-# Blogs
-
 ## Blogs
+
+### Blogs
 
 [Blogs-Everything I know](https://wiki.nikiv.dev/research/blogs) - I use Inoreader to stay on top of blogs I like.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://cri.dev/assets/images/cri.dev.png)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://blog.jonlu.ca/images/mini-profile.png)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://video-images.vice.com/articles/6310d8ebf223f2009b43ddb0/lede/1662048495189-final300dpi.jpeg?image-resize-opts=Y3JvcD0wLjk5ODg4ODg4ODg4ODg4ODh4dzoxeGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_lI0Cb0EWo2uC4Q5DrJ2Vi0XZHogtt2sxWa6ZqvdofVHn0ZyAV109D5rc-WSCPH9n38PITJIsma3nNGaX4PdoxMbvEq7H_5fyPdA9I7nCiA-h4aIHrWIEWVz6GJkGvU09vsSJ4tDe5-zWKRgi9yjDTGHyf2fgJ_5CI8WWUJAEbl2M5rdn3INhssF5UA/w1200-h630-p-k-no-nu/Screen%20Shot%202023-03-09%20at%205.40.17%20pm.png)
 
@@ -58,7 +58,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](http://static1.squarespace.com/static/53836afce4b0ea0513df946a/t/5389edc1e4b09fbf36758176/1447552393679/download+%281%29.png?format=1500w)
 
@@ -70,7 +70,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://krystalgamer.github.io/static/banner.jpg)
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://eclecticlightdotcom.files.wordpress.com/2022/02/icloud101.jpg)
 
@@ -94,7 +94,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://eclecticlightdotcom.files.wordpress.com/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200)
 
@@ -106,7 +106,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://eclecticlightdotcom.files.wordpress.com/2020/01/cirrustest1.jpg)
 
@@ -118,7 +118,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://eclecticlightdotcom.files.wordpress.com/2020/01/icloudtestupload1.png)
 
@@ -130,7 +130,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 [Michael Tsai - Blog - Increased iCloud Errors](https://mjtsai.com/blog/2022/01/24/increased-icloud-errors) - nan
 
@@ -140,7 +140,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://mpudata.sfo2.digitaloceanspaces.com/original/1X/f6b38bf4122356003e73887a3e2fc50e3540c835.png)
 
@@ -152,7 +152,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://eclecticlightdotcom.files.wordpress.com/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200)
 
@@ -164,7 +164,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 [AnandTech: Hardware News and Tech Reviews Since 1997](https://www.anandtech.com) - News and reviews of PC components, smartphones, tablets, pre-built desktops, notebooks, Macs and enterprise/cloud computing technologies.
 
@@ -174,7 +174,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 [Xe Iaso](https://christine.website) - Full-stack Engineer
 
@@ -184,7 +184,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://static.ghost.org/v3.0.0/images/publication-cover.png)
 
@@ -196,7 +196,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 [Some programming blogs to consider reading](http://danluu.com/programming-blogs) - nan
 
@@ -206,7 +206,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://opengraph.githubassets.com/079ba903e0f500f1772e5d3bc1f423253f9668e290b71d2be41f2f9ad28ed1d1/learn-anything/blogs)
 
@@ -218,7 +218,7 @@
 
 ---
 
-## Blogs
+### Blogs
 
 [Home-Opinionated Guides](https://opguides.info) - Welcome to Opinionated Guides #  The biggest section of this site is Opinionated Engineering  but that isnt to say Opinionated Music  , Opinionated Design  , and Opinionated Philosophy  arent worth checking out too.
 
@@ -232,7 +232,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [Home-Linux Journal](https://www.linuxjournal.com) - Home-Linux Journal
 
@@ -242,7 +242,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://gwern.net/static/img/logo/logo-whitebg-large-border.png)
 
@@ -254,7 +254,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://www.jupiterbroadcasting.com/images/jupiter-broadcasting.png)
 
@@ -266,11 +266,11 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg)
 
-[Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows) - Can you believe it's been 6 years since my last Tools list? Tools have changed, ...
+[Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows) - Can you believe it's been 6 years since my last Tools list? Tools have changed, …
 
 2022-03-12T21:04:06.884Z
 
@@ -278,7 +278,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png)
 
@@ -290,7 +290,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [evantravers.com](https://evantravers.com) - Another fine page at evantravers.com.
 
@@ -300,7 +300,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://www.sourcedgroup.com/wp-content/uploads/2022/05/cloud_build_icon_001_RGB.svg)
 
@@ -312,7 +312,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://cri.dev/assets/images/cri.dev.png)
 
@@ -324,7 +324,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://etsy.com/images/blogs/code_as_craft/cac_logo_lavender.png)
 
@@ -336,7 +336,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://blog.tiia.rocks/api/og/home?og=eyJ0aXRsZSI6IlRpaWElMjBBdXJvcmEiLCJkb21haW4iOiJibG9nLnRpaWEucm9ja3MiLCJmb2xsb3dlcnMiOjE2MCwicGhvdG8iOiJodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0ODcxNjI2MzkxNC9rcU10b25RbHguanBnIiwiYmdjb2xvciI6IiMxMTIzMjciLCJsb2dvIjoiaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDMxMDUyOTA2NTIvc1JQT1pwdGNuLnBuZyIsImxvZ29EYXJrIjoiaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDMxMDUyOTczMTYvdlR2ZlpoMlFiNi5wbmciLCJmYXZpY29uIjoiaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDMxMDYzMTY2OTMvM25PbEhmbExjLnBuZyIsImFydGljbGVzIjozNywiaXNEZWZhdWx0TW9kZURhcmsiOnRydWV9)
 
@@ -348,7 +348,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [Karl Broman](https://kbroman.org) - Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
 
@@ -358,7 +358,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://miro.medium.com/v2/resize:fit:1200/0*_KQ0e3Kh1dtIW9Pa)
 
@@ -370,7 +370,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://acko.net/files/zerotosixty/cover.jpg)
 
@@ -382,7 +382,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://cdn.mos.cms.futurecdn.net/k77PNE27iUvJCfzCWXrsMD-1200-80.jpg)
 
@@ -394,7 +394,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://www.rosehosting.com/blog/wp-content/uploads/2016/02/cropped-rhlogo-final.png)
 
@@ -406,7 +406,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://752f77aa107738c25d93-f083e9a6295a3f0714fa019ffdca65c3.ssl.cf1.rackcdn.com/brand/Rackspace_Technology_OG.png)
 
@@ -418,7 +418,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://plain-text.co/figures/plaintext-cover-us-letter.png)
 
@@ -430,7 +430,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [Home - RescueTime Blog](https://blog.rescuetime.com) - nan
 
@@ -440,7 +440,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://s0.wp.com/i/blank.jpg)
 
@@ -452,7 +452,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://benjamincongdon.me/blog/2021/01/12/My-Organization-Stack/cover.jpg)
 
@@ -464,7 +464,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [Blog](https://rosemaryorchard.com) - I am a blogger, podcaster and screencaster who loves automation and productivity.
 
@@ -474,7 +474,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [Axle](https://axle.design) - The latest entries posted on Axle
 
@@ -484,7 +484,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [TheITBros We Know So You Don't Have To](https://theitbros.com) - An IT blog that brings you information on Microsoft products, Windows & Android Phones, Sysprep, Powershell, SharePoint, Exchange, Office and much more!
 
@@ -494,7 +494,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [[[index]] - anagora.org](https://anagora.org/index) - The Agora is a crowdsourced distributed knowledge graph: anagora.org.
 
@@ -504,7 +504,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [Jeff Huang Extracting Data from Tracking Devices](https://jeffhuang.com/extracting_data_from_tracking_devices) - nan
 
@@ -514,7 +514,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [thesephist.com](https://thesephist.com) - nan
 
@@ -524,7 +524,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://wirfs-brock.com/allen/wp-content/uploads/2021/03/J5KQL83.png)
 
@@ -536,7 +536,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [saul.pw](https://www.saul.pw) - saul.pw bbs homepage
 
@@ -546,7 +546,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [Biograph](https://www.saul.pw/biograph) - nan
 
@@ -556,7 +556,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://onetapless.com/assets/images/twitter-pic.png)
 
@@ -568,7 +568,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://beepb00p.xyz/assets/favicon.png)
 
@@ -580,7 +580,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://julian.digital/wp-content/uploads/2018/10/julian_digital_og_card.png)
 
@@ -592,7 +592,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://beepb00p.xyz/assets/favicon.png)
 
@@ -604,7 +604,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://beepb00p.xyz/assets/favicon.png)
 
@@ -616,7 +616,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://beepb00p.xyz/assets/favicon.png)
 
@@ -628,7 +628,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://julian.digital/wp-content/uploads/2018/10/julian_digital_og_card.png)
 
@@ -640,7 +640,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://julian.digital/wp-content/uploads/2020/02/airtablesetup.png)
 
@@ -652,7 +652,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://content.wolfram.com/sites/43/2012/03/the-personal-analytics-of-my-life-thumb.png)
 
@@ -664,7 +664,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [Measured Me-Measured Me](https://measuredme.com) - Minimalist. Self-Tracker. Data Scientist. Investor.
 
@@ -674,7 +674,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://mokestrel.files.wordpress.com/2018/08/cropped-qm.jpg?w=200)
 
@@ -686,7 +686,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://www.newscientist.com/build/images/meta/new-scientist-social-meta-image.8f44ae95.png)
 
@@ -698,7 +698,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [MyLifeBits: A Personal Database For Everything-January 2006-Communications of the ACM](https://cacm.acm.org/magazines/2006/1/6027-mylifebits/fulltext) - nan
 
@@ -708,7 +708,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://flowingdata.com/wp-content/uploads/2014/10/logo-lone-square-600-5451c585_site_icon.png)
 
@@ -720,7 +720,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 [Give Me My Data, Tell Me a Story: Introducing Quantified Self Ledger-Mark Koester](http://www.markwk.com/qs-ledger-intro.html) - Several years ago I was exploring various self-tracking technologies and how I might integrate personal data into my own life. One of the first things I discovered was just how many ways you might track a life using wearables, apps and other technologies. The second lesson I learned was just how hard it was to bring all of this data together and start engaging with it, even as a developer and fledgling data scientist.
 
@@ -730,7 +730,7 @@ Character is owned by me, art is by Siplick  But I more than welcome contributio
 
 ---
 
-## Blogs
+### Blogs
 
 ![](https://spectrum.ieee.org/media-library/image.jpg?id=26774042&width=1200&height=600&coordinates=0%2C114%2C0%2C115)
 

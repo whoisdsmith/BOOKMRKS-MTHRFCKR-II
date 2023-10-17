@@ -1,6 +1,7 @@
-# Audio
-
 ## Audio
+### Audio
+
+#### Audio
 
 
 
@@ -1372,7 +1373,7 @@
 
 ---
 
-## Music
+#### Music
 
 
 
@@ -1726,7 +1727,7 @@
 
 ![](https://repository-images.githubusercontent.com/263863974/13730100-95d8-11ea-831b-0f1b448d122f)
 
-[Stemgen](https://github.com/axeldelafosse/stemgen) - Stemgen is a Stem file generator. Convert any track into a Stem and have fun with Traktor. - axeldelafosse/stemgen:  Stemgen is a Stem file generator. Convert any track into a Stem and have fun ...
+[Stemgen](https://github.com/axeldelafosse/stemgen) - Stemgen is a Stem file generator. Convert any track into a Stem and have fun with Traktor. - axeldelafosse/stemgen:  Stemgen is a Stem file generator. Convert any track into a Stem and have fun …
 
 2023-03-04T21:53:18.040Z
 
@@ -1738,7 +1739,7 @@
 
 ![](https://opengraph.githubassets.com/f1ef5bed7ad93bf121e3eedb02237b8a62527b780490a2e529cb36bf7c5b7d15/teticio/audio-diffusion)
 
-[audio-diffusion](https://github.com/teticio/audio-diffusion) - Apply diffusion models using the new Hugging Face diffusers package to synthesize music instead of images. - teticio/audio-diffusion: Apply diffusion models using the new Hugging Face diffusers pac...
+[audio-diffusion](https://github.com/teticio/audio-diffusion) - Apply diffusion models using the new Hugging Face diffusers package to synthesize music instead of images. - teticio/audio-diffusion: Apply diffusion models using the new Hugging Face diffusers pac…
 
 2023-03-04T21:57:22.466Z
 
@@ -2456,7 +2457,7 @@
 
 ---
 
-## Podcasts
+#### Podcasts
 
 
 
@@ -2486,7 +2487,7 @@
 
 ![](https://cdn-profiles.tunein.com/p1364183/images/logog.png?t=3)
 
-[More Intelligent Tomorrow](https://tunein.com/podcasts/Technology-Podcasts/More-Intelligent-Tomorrow-p1364183?topicId=226728891) - How does the will to survive bring clarity to the human experience? What would you sacrifice to achieve social justice? How do we find meaning and purpose in a world dominated by technology? These are the kinds of spiritual, social, and philosophical questions posed by todays guest in his futuristic novel, Unfettered Journey, which follows the story of an AI scientist who seeks to create true robot consciousness. Were joined today by writer, philosopher, and technologist, Gary F. Bengier,...
+[More Intelligent Tomorrow](https://tunein.com/podcasts/Technology-Podcasts/More-Intelligent-Tomorrow-p1364183?topicId=226728891) - How does the will to survive bring clarity to the human experience? What would you sacrifice to achieve social justice? How do we find meaning and purpose in a world dominated by technology? These are the kinds of spiritual, social, and philosophical questions posed by todays guest in his futuristic novel, Unfettered Journey, which follows the story of an AI scientist who seeks to create true robot consciousness. Were joined today by writer, philosopher, and technologist, Gary F. Bengier,…
 
 2023-03-24T18:12:09.000Z
 
@@ -2566,7 +2567,7 @@
 
 ---
 
-## Pro Audio
+#### Pro Audio
 
 
 
@@ -2778,7 +2779,7 @@
 
 ![](https://static.neocrym.com/images/babycat/v1/1x/babycat-body-icon-dark-social-media-cover--1x.png)
 
-[Babycat is an open-source library for decoding and manipulating audio files](https://babycat.io) - Features: Decoding, resampling, and encoding: Babycats core feature set includes: decoding MP3, FLAC, and WAV., resampling audio to different frame rates., encoding waveforms to WAV.. Bindings for...
+[Babycat is an open-source library for decoding and manipulating audio files](https://babycat.io) - Features: Decoding, resampling, and encoding: Babycats core feature set includes: decoding MP3, FLAC, and WAV., resampling audio to different frame rates., encoding waveforms to WAV.. Bindings for…
 
 2023-03-24T17:03:29.000Z
 
@@ -2796,7 +2797,7 @@
 
 ---
 
-## Speech
+#### Speech
 
 
 
@@ -3550,7 +3551,7 @@
 
 ---
 
-## Transcriptions
+#### Transcriptions
 
 
 

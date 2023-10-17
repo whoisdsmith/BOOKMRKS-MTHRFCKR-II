@@ -1,6 +1,6 @@
-# Day One
 ## Day One
 ### Day One
+#### Day One
 
 [Quantified-Self: The Power of Day One & Launch Center Pro Mickael Le Gal](http://www.mickaellegal.com/blog/2014/3/31/day-one-launch-center-pro) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-### Day One
+#### Day One
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*1iiIrtlL-4Kfx07tvkeQqQ.jpeg)
 
@@ -22,7 +22,7 @@
 
 ---
 
-### Day One
+#### Day One
 
 ![](https://149636932.v2.pressablecdn.com/wp-content/uploads/2021/12/ScreenShot2021-08-17at12.15.18PM.png)
 
@@ -34,9 +34,9 @@
 
 ---
 
-## Day One-Archived
-
 ### Day One-Archived
+
+#### Day One-Archived
 
 ![](https://opengraph.githubassets.com/01daaef07a529dc3e24249bdb21c448cd341c1791b55f43a4c6f301eeb1fdfe3/jfveronelli/sqink)
 
@@ -48,7 +48,7 @@
 
 ---
 
-### Day One-Archived
+#### Day One-Archived
 
 ["joshua poehls-silent thoughts](https://joshua.poehls.me/2015/03/dayone-golang-package) - nan
 
@@ -58,7 +58,7 @@
 
 ---
 
-### Day One-Archived
+#### Day One-Archived
 
 ["dayone package - github.com/jpoehls/go-dayone - pkg.go.dev](https://pkg.go.dev/github.com/jpoehls/go-dayone) - Package dayone is for reading Day One (http://dayoneapp.com) journal files.
 
@@ -68,9 +68,9 @@
 
 ---
 
-## Day One-Blog & Articles
-
 ### Day One-Blog & Articles
+
+#### Day One-Blog & Articles
 
 ![](https://markcarrigan.files.wordpress.com/2014/09/photo-1.png)
 
@@ -82,7 +82,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://cdn3.brettterpstra.com/images/mepic_fb.jpg)
 
@@ -94,7 +94,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://cdn3.brettterpstra.com/images/mepic_fb.jpg)
 
@@ -106,7 +106,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 [Journaling](https://wiki.nikiv.dev/life/journaling) - Personal knowledge wiki
 
@@ -116,7 +116,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*xbzLWYkTJno26jw5wy9DqQ.png)
 
@@ -128,7 +128,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 [Day One for Emacs - Develop Paper](https://developpaper.com/day-one-for-emacs) - nan
 
@@ -138,7 +138,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ![](https://nebulous.files.wordpress.com/2014/12/lj-main-copper-v1-min.png)
 
@@ -150,7 +150,7 @@
 
 ---
 
-### Day One-Blog & Articles
+#### Day One-Blog & Articles
 
 ["Launch Center Pro actions for Day One-AgileAdam.com](https://agileadam.com/2016/02/launch-center-pro-actions-for-day-one) - nan
 
@@ -160,9 +160,9 @@
 
 ---
 
-## Day One-Help & Tips
-
 ### Day One-Help & Tips
+
+#### Day One-Help & Tips
 
 ![](https://share.redd.it/preview/comment/gytnmg0)
 
@@ -174,7 +174,7 @@
 
 ---
 
-### Day One-Help & Tips
+#### Day One-Help & Tips
 
 ![](https://149636932.v2.pressablecdn.com/wp-content/uploads/2021/12/ScreenShot2021-10-06at11.00.58AM.png)
 
@@ -186,7 +186,7 @@
 
 ---
 
-### Day One-Help & Tips
+#### Day One-Help & Tips
 
 ![](https://i0.wp.com/dayoneapp.com/wp-content/uploads/2022/12/day-one-gift-certificate.png?fit=1600%2C900&quality=80&ssl=1)
 
@@ -198,7 +198,7 @@
 
 ---
 
-### Day One-Help & Tips
+#### Day One-Help & Tips
 
 ![](https://i0.wp.com/dayoneapp.com/wp-content/uploads/2022/12/day-one-gift-certificate.png?fit=1600%2C900&quality=80&ssl=1)
 

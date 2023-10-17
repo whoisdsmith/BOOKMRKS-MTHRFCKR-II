@@ -1,6 +1,6 @@
-# Audio
-
 ## Audio
+
+### Audio
 
 ![](https://jam.systems/img/jam-app-icon.jpg)
 
@@ -16,7 +16,7 @@ micro-conferences and more.
 
 ---
 
-## Audio
+### Audio
 
 ![](http://www.bandshed.net/wordpress/wp-content/uploads/2022/12/AVL-MXE-21.2.1-XFCE4-Live-Desktop.png)
 
@@ -28,7 +28,7 @@ micro-conferences and more.
 
 ---
 
-## Audio
+### Audio
 
 ![](https://amvidia.com/images/screenshots/tag_editor/tag-editor-export-to-csv-file-save-dialog.png)
 
@@ -40,7 +40,7 @@ micro-conferences and more.
 
 ---
 
-## Audio
+### Audio
 
 [Home](https://www.serviio.org) - Serviio is a free media server for Window, Mac and Linux. It enables streaming video, audio and images to your DLNA certified device.
 
@@ -50,7 +50,7 @@ micro-conferences and more.
 
 ---
 
-## Audio
+### Audio
 
 [KooZic-KooZic](https://koozic.net) - nan
 
@@ -60,7 +60,7 @@ micro-conferences and more.
 
 ---
 
-## Audio
+### Audio
 
 [KXStudio](https://kx.studio) - nan
 
@@ -70,7 +70,7 @@ micro-conferences and more.
 
 ---
 
-## Audio
+### Audio
 
 [librosa librosa 0.9.2 documentation](https://librosa.org/doc/latest/index.html) - nan
 
@@ -80,7 +80,7 @@ micro-conferences and more.
 
 ---
 
-## Audio
+### Audio
 
 ![](https://mstream.io/img/logos/mstream-logo.png)
 
@@ -92,7 +92,7 @@ micro-conferences and more.
 
 ---
 
-## Audio
+### Audio
 
 [Strix Music Home](https://www.strixmusic.com) - Music is scattered across the digital landscape. Strix Music brings it all together again.
 
@@ -102,7 +102,7 @@ micro-conferences and more.
 
 ---
 
-## Audio
+### Audio
 
 [Find Music By Lyrics](https://findmusicbylyrics.com) - Find that song that's stuck in your head when you only know a few of the lyrics.
 
@@ -112,7 +112,7 @@ micro-conferences and more.
 
 ---
 
-## Audio
+### Audio
 
 ![](https://tierify.app/tierifydemo.png)
 
@@ -124,7 +124,7 @@ micro-conferences and more.
 
 ---
 
-## Audio
+### Audio
 
 [MusicPebbles.com](https://www.musicpebbles.com/dashboard) - nan
 
@@ -134,7 +134,7 @@ micro-conferences and more.
 
 ---
 
-## Audio
+### Audio
 
 [Highlights2Spotify](https://highlights2spotify.com) - Create a Spotify playlist based on your Instagram highlights and listen to your favorite moments
 
@@ -144,7 +144,7 @@ micro-conferences and more.
 
 ---
 
-## Audio
+### Audio
 
 ![](https://https/images/og/home.jpeg)
 
@@ -156,9 +156,9 @@ micro-conferences and more.
 
 ---
 
-## Audio-Audio Books
-
 ### Audio-Audio Books
+
+#### Audio-Audio Books
 
 ![](https://audiobookshelf.org/Logo.png)
 
@@ -170,7 +170,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Audio Books
+#### Audio-Audio Books
 
 [Tokybook.asia - listen audiobook relaxing](https://tokybook.asia) - listen audiobook relaxing
 
@@ -180,7 +180,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Audio Books
+#### Audio-Audio Books
 
 [Tokybook.Com - Free Audiobook For Book Lover](https://tokybook.com) - Free Audiobook For Book Lover
 
@@ -190,9 +190,9 @@ micro-conferences and more.
 
 ---
 
-## Audio-Music DL
-
 ### Audio-Music DL
+
+#### Audio-Music DL
 
 [Exportify](https://watsonbox.github.io/exportify) - Export Spotify playlists using the Web API
 
@@ -202,7 +202,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Spotube](https://spotube.netlify.app) - A fast, modern, lightweight & efficient Spotify Music Client for every platform
 
@@ -212,7 +212,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://y2mate.pw/img/y2mate-pw-logo.png)
 
@@ -224,7 +224,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://i0.wp.com/pmmusic.pro/wp-content/uploads/2022/08/PM-Music-Home-Thumbnail-01.jpg)
 
@@ -236,7 +236,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Spytify - Record Spotify - Overview](https://jwallet.github.io/spy-spotify/overview.html) - Records Spotify to mp3 without ads while it plays and includes media tags to the recorded files
 
@@ -246,11 +246,11 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://kenp.io/triangle.png)
 
-[AirPods' Dirty Secret](https://kenp.io/airpods-dirty-secret) - ... and how I'm fighting it through open-source hardware More context in my video: I promised that you will be able to get the parts at home
+[AirPods' Dirty Secret](https://kenp.io/airpods-dirty-secret) - … and how I'm fighting it through open-source hardware More context in my video: I promised that you will be able to get the parts at home
 
 2022-10-02T05:20:37.345Z
 
@@ -258,7 +258,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://www.music-map.com/elements/objects/og_logo.png)
 
@@ -270,7 +270,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [SonoBus](https://sonobus.net) - nan
 
@@ -280,7 +280,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://www.bridge.audio/og-image.png)
 
@@ -292,7 +292,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [MP3DB.pro - daily music updates](https://mp3db.pro) - nan
 
@@ -302,7 +302,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Playlastify](https://playlastify.herokuapp.com) - nan
 
@@ -312,7 +312,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Spotify Stats](https://stats-spotify.herokuapp.com/#access_token=BQD65R6N8inOwVCHBgznl8ZupMB7P6npFFv_9Wf9ivZRSD2isj9a5u_Yba3ilksTs08WFFE9Tj3-d72v9S_C0mJ5BsHkFXAc0o3mQ10Qt6pSb3-N_FmYXg6UEYcqtaRQbs3F_dq0UBSUMeOfA8bhBok9Rg5aJlGUa_QTWjd69xqCH3k-LgZ0mEUr77oyhEtcGh5kwnTeDU6c2D5bBjGIy7BNK-w2Q58pAnZpnQ&refresh_token=AQDdUltQyIBJHgq0dSVfR4K_2O1WUYk1AlK-tHnpKDimarMufy-E1GgPs5h9uVElDL9O29dgaCbBJW8u5oUscJWorC-KSmHjl-RE93O4kmG7wr3MIEfwoW9eyafViIhp8uI) - Web site created using create-react-app
 
@@ -322,7 +322,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Spotistats Playlist Project](http://54.219.237.101) - nan
 
@@ -332,7 +332,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Spotiworm](https://measurify.space) - Measure your Spotify stats
 
@@ -342,7 +342,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Statsfy](https://statsfy.vercel.app) - nan
 
@@ -352,7 +352,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [SpotifyStats - SpotifyStats](https://spotifystats.maxr1998.de/import) - nan
 
@@ -362,7 +362,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Dashboard](https://myspotify.pw/dashboard) - Your dashboard, a way to get at-a-glance information about the tracks and artists you care about the most.
 
@@ -372,7 +372,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://statfy.xyz/og-image.jpg)
 
@@ -384,7 +384,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Spottr](https://spottr.vercel.app/music/dashboard) - Your Spotify stats year-round.
 
@@ -394,7 +394,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Spotify Stats](https://statsspotify.herokuapp.com) - nan
 
@@ -404,7 +404,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://i.imgur.com/0jxKcub.png)
 
@@ -416,7 +416,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [deemix downloads](https://download.deemix.workers.dev/server) - nan
 
@@ -426,7 +426,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /Music](http://82.64.172.247/Music) - nan
 
@@ -436,7 +436,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /music/](http://103.212.226.231/music) - nan
 
@@ -446,7 +446,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /music/](http://49.51.138.143/music) - nan
 
@@ -456,7 +456,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /music](http://www.dixiedrifter.com/music) - nan
 
@@ -466,7 +466,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /home/audio](http://brandonblattner.com/home/audio) - nan
 
@@ -476,7 +476,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /muziek](http://chaosje.nl/muziek) - nan
 
@@ -486,7 +486,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /](http://media.kingarthur.com) - nan
 
@@ -496,7 +496,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /](https://185.49.84.247) - nan
 
@@ -506,7 +506,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /](http://193.55.211.25) - nan
 
@@ -516,7 +516,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /](http://163.172.211.38) - nan
 
@@ -526,7 +526,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /requin/](http://requinsynergy.com/requin) - nan
 
@@ -536,7 +536,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /burntscarr/STEMS](http://www.burntscarr.com/burntscarr/STEMS) - nan
 
@@ -546,7 +546,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /geedryve/records/mp3s](https://jacobsm.com/geedryve/records/mp3s) - nan
 
@@ -556,7 +556,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /MUSIC/TYLER](http://65.186.78.52/MUSIC/TYLER) - nan
 
@@ -566,7 +566,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /public/music](http://miya.nipah.moe:81/public/music) - nan
 
@@ -576,7 +576,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /MUSIC/RHAPSODY](http://65.186.78.52/MUSIC/RHAPSODY) - nan
 
@@ -586,7 +586,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /Music](https://slspencer.com/Music) - nan
 
@@ -596,7 +596,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /audio](https://parakaproductions.com/audio) - nan
 
@@ -606,7 +606,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Index of /audio](https://www.prometheus-music.com/audio) - nan
 
@@ -616,7 +616,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://www.klickaud.co/wp-content/themes/KA-Wordpress/images/1200x600.png)
 
@@ -628,7 +628,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [iPlusfree - free iTunes Plus M4A](http://www7.iplusfree.org) - free iTunes Plus M4A
 
@@ -638,7 +638,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://tubemp3.to/@shareimg/share-7oTlx5YC2P4,fSKQRDq3RkM,0c66ksfigtU,FRuKYOzeoRk.png)
 
@@ -650,7 +650,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [0dayrelease.com - Best 0day dance music Party Break, Progressive House & Trance Maniac](https://0dayrelease.com) - 0dayrelease.com-Best 0day Dance Musics
 
@@ -660,7 +660,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Free Download Music Albums - Music Mixes and Music Releases](https://bestdjmix.com) - MASTERMIX CRATE 025: NU DISCO (2022)-Free Download Music Albums - Mixes and Releases. House - Techno - Trance - Pop - Hits & Dance - Hip Hop - RnB - Chillout Genres Music Downloads - Best Dj Mix-Download Full Music Albums for Free
 
@@ -670,7 +670,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://downloadsound.cloud/static/downloadsound.cloud-og-b7b3522a1f3cc7028c0cb21570389327.png)
 
@@ -682,7 +682,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Discogs - Music Database and Marketplace](https://www.discogs.com) - Discover music on Discogs, the largest online music database. Buy and sell music with collectors in the Marketplace.
 
@@ -692,7 +692,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Metal Download, Rock, Heavy music for free!-Metal Torrent Tracker](https://en.metal-tracker.com) - Download metal (Death Metal, Gothic Metal, Black Metal, Doom Metal, Thrash Metal, Folk Metal, Power Metal), Rock, Heavy music from us for free!Torrent tracker of metal music. Metal-Tracker.com
 
@@ -702,7 +702,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Mp3 Juice Free MP3 Downloads - MP3Juices](https://www.mp3juices.cc/juice13) - Mp3juices is a free YouTube to mp3 search engine and download tool. With Mp3juices,   you can search for your favorite songs from multiple online sources. There is no registration needed.
 
@@ -712,7 +712,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [MP3 Quack - Search and download your favorite music songs](https://mp3quack.app) - MP3 Quack - Search and download your favorite music songs. Search and download free mp3 music files at 320kbps audio quality
 
@@ -722,7 +722,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [MP3 Juice MP3 Download for Free - MP3Juices](https://www.mp3juice.zone) - Mp3 JuiceMp3juiceMp3 Juices is a free mp3 search engine and download tool. With Mp3 juice, you can download YouTube to mp3 easily. Come to use mp3 juice now!
 
@@ -732,7 +732,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Nuclear Holocaust](https://nuclear-holocaust.blogspot.com) - nan
 
@@ -742,7 +742,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://burningtheground.net/wp-content/uploads/2019/07/cropped-Favicon-1.jpg)
 
@@ -754,11 +754,11 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://alltomp3.org/alltomp3-4.png)
 
-[AllToMP3 - Download YouTube in MP3 with tags, cover and lyrics!](https://alltomp3.org) - Download YouTube, SoundCloud, Spotify in MP3 with tags (title, artist, cover, lyrics, genre...) and high quality!
+[AllToMP3 - Download YouTube in MP3 with tags, cover and lyrics!](https://alltomp3.org) - Download YouTube, SoundCloud, Spotify in MP3 with tags (title, artist, cover, lyrics, genre…) and high quality!
 
 2021-03-12T21:47:13.000Z
 
@@ -766,7 +766,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Adamsfile.com: Lossless archive:-](https://adamsfile.com) - nan
 
@@ -776,7 +776,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Audio DL](https://cse.google.com/cse?cx=006516753008110874046%3Aibmyuhh72io#gsc.tab=0) - nan
 
@@ -786,7 +786,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Audio DL 2](https://cse.google.com/cse?cx=006516753008110874046%3Aohobg3wvr_w#gsc.tab=0) - nan
 
@@ -796,7 +796,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [CORE RADIO](https://coreradio.online) - nan
 
@@ -806,7 +806,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [Drive One - /](https://s3.gamesdrive.net/0:) - nan
 
@@ -816,7 +816,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://41s-a.musify.club/img/70/1116858/40273702.jpg)
 
@@ -828,7 +828,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [LosslessClub ::](https://losslessclub.com) - LosslessClub.com -   c    lossless . Torrent tracker with best lossless music.
 
@@ -838,7 +838,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://pandacd.io/static/pic/logo.png?mt=1587228710)
 
@@ -850,7 +850,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [PunkTorrents](https://www.punktorrents.com) - nan
 
@@ -860,7 +860,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 [SlavArt](https://s3.gamesdrive.net) - nan
 
@@ -870,7 +870,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://thelastdisaster.vip/wp-content/uploads/thelastdisaster1.jpg)
 
@@ -882,7 +882,7 @@ micro-conferences and more.
 
 ---
 
-### Audio-Music DL
+#### Audio-Music DL
 
 ![](https://firebasestorage.googleapis.com/v0/b/musicwall-15470.appspot.com/o/app%2Ficon-192.png?alt=media&token=97d4946b-2e26-4dfa-a1ad-31d2a81fe76f)
 
@@ -894,9 +894,9 @@ micro-conferences and more.
 
 ---
 
-## Audio-Pro Audio
-
 ### Audio-Pro Audio
+
+#### Audio-Pro Audio
 
 ![](https://lh3.googleusercontent.com/KT99UceM-69EoVa7hPwpr64s2HX_1NJOrgw5hs9hlkdnfeG3QrqpmjQTLsjzo4vZxmDQ6frkTKo1kIqAS_8hDEY=w16383)
 
@@ -910,7 +910,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [VSTi instruments, VST plugins, programs - Everything for creating music](http://vsthouse.ru) - nan
 
@@ -920,7 +920,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [You searched for KONTAKT - Page 19 of 202 - VSTorrent](https://vstorrent.org/page/19?s=KONTAKT) - nan
 
@@ -930,7 +930,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://vstorrent.org/wp-content/uploads/2021/07/3002c979e964e99c662cab544072bdae.jpg)
 
@@ -942,7 +942,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [G-MEH Music](https://g-meh.com/vst) - nan
 
@@ -952,7 +952,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://static.wixstatic.com/media/0e3a96_78bf471d9b9047c0bb86b97642d8359f~mv2.png/v1/fill/w_846,h_491,al_c/0e3a96_78bf471d9b9047c0bb86b97642d8359f~mv2.png)
 
@@ -966,7 +966,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [RuTracker.org](https://rutracker.org/forum/index.php) - nan
 
@@ -976,7 +976,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Links-Librarytools](https://bobdule999.wixsite.com/librarytools/links) - Extra tools for external libraries, new products detection, informations.
 
@@ -986,7 +986,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Index of /midi](https://bhs.minor9.com/midi) - nan
 
@@ -996,7 +996,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://jukeblocks.io/static/logo1tr.png)
 
@@ -1008,7 +1008,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://static.clyp.it/site/images/logos/clyp-og-1200x630.png)
 
@@ -1020,7 +1020,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [melody ml](https://melody.ml) - Melody ML lets you easily seperate audio tracks using Machine Learning.
 
@@ -1032,7 +1032,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [SONAR & Cakewalk by BandLab (CbB) Resources and Utilities-Cakewalk Forums](http://forum.cakewalk.com/SONAR-Resources-and-Utilities-m3392713.aspx) - CONTENTSImportant InformationPrograms & UtlitiesInstrument DefinitionsDrum MapsPlugin Presets & FX ChainsCakewalk Wallpapers & Plugin SkinsSonar Platinum ThemesTutorials Video and/or WrittenCAL Script & Miscellaneous Resources
 
@@ -1042,9 +1042,9 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
-[Is there a list of plugins from previous Sonar versions or Cakewalk Daws worth installing?-Cakewalk Forums](http://forum.cakewalk.com/Is-there-a-list-of-plugins-from-previous-Sonar-versions-or-Cakewalk-Daws-worth-installing-m3215392.aspx) - Getting my new laptop setup and having to re-install all my audio apps/plugins/etc..&nbsp;I've been using Sonar since v2 (and used Project 5) and was wondering if there was a list of plug-ins (or other content) from previous versions worth installing along with Sonar Platinum?it would be nice if I d...
+[Is there a list of plugins from previous Sonar versions or Cakewalk Daws worth installing?-Cakewalk Forums](http://forum.cakewalk.com/Is-there-a-list-of-plugins-from-previous-Sonar-versions-or-Cakewalk-Daws-worth-installing-m3215392.aspx) - Getting my new laptop setup and having to re-install all my audio apps/plugins/etc..&nbsp;I've been using Sonar since v2 (and used Project 5) and was wondering if there was a list of plug-ins (or other content) from previous versions worth installing along with Sonar Platinum?it would be nice if I d…
 
 2022-02-11T14:53:19.021Z
 
@@ -1052,7 +1052,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [4DOWNLOAD](https://www.4download.net) - Place to download free full versions of the latest software, audio samples, tutorial, e-book and video for free.
 
@@ -1062,7 +1062,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [:: Team-AiR ::](https://teamaircrack.net/index.php) - nan
 
@@ -1072,7 +1072,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Audio Plugins Archives - VSTorrent](https://vstorrent.org/category/audio-software/audio-plugins) - nan
 
@@ -1082,7 +1082,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Audio Software Archives - VSTorrent](https://vstorrent.org/category/audio-software) - nan
 
@@ -1092,7 +1092,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Audio.tools/](https://audio.tools) - nan
 
@@ -1102,7 +1102,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://audiotag.info/images/audiotag-logo-550x288.png)
 
@@ -1114,7 +1114,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [AudioZ - Professional Audio Software Community](https://audioz.info) - This website is for sale! audioz.info is your first and best source for all of the information youre looking for. From general topics to more of what you would expect to find here, audioz.info has it all. We hope you find what you are searching for!
 
@@ -1124,7 +1124,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [AudioZ - Professional Audio Software Community](https://11165151.addotnet.com/redirect?a=884&b=fefws%2Cfefs%2CLWii&cb=0&cc=840&ck=0%7E0&dma=563&dvid=&epcCD=1630362741646&epcRFU=null&eqk=null&eqke=0&f=https%3A%2F%2Fwww.apple.com%2Fitunes%2F&faid=1&fint=0&fwc=0%3C%3D0&g=null&id=0&ir=0&it=0&k=&mqk=jWoqt+NtOvnjaI&nbrs=0&nk=884-1&nw=SEARCH&o=0&ptt=&qk=jWoqt+NtOvnjaI&r=https%3A%2F%2Fgeo.itunes.apple.com%2Fsubscribe%3Fapp%3Dmusic%26at%3D1001lLm9%26itscg%3D30200%26itsct%3Daddotnet%26ct%3D884-11165151&rk=1&s=11165151&sc=null&sid=0d4263cd-78b0-47e2-8060-6e92b70304cf&spa=884-1&spc=&spt=audio+software&st=null&t=1&tgt=0&tk=&tp=wwwUSwSw-jWoqt.qLOt&tt=null&u=040974092793380780868202580364566169270&vu=null&x=0&y=0) - nan
 
@@ -1134,7 +1134,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Audiolove.club](https://audiolove.club) - Terabytes of sample libraries, samples, loops, music production software, VST plugins and video tutorials for free download.
 
@@ -1144,7 +1144,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://audiolove.me/uploads/al_logo.jpg)
 
@@ -1156,7 +1156,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Audioplugin.net - Torrent source for AAX, VST, AU, Audio samples, Audio software, DXi, RTAS](https://audioplugin.net) - Torrent source for AAX, VST, AU, Audio samples, Audio software, DXi, RTAS
 
@@ -1166,7 +1166,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Download MAGNET AXIOM 2.1.0.9727 - SoftArchive](https://sanet.st/blogs/mordigian/magnet_axiom.2599349.html) - nan
 
@@ -1176,7 +1176,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Download Studiolinked Modernize 1.0.0 x64 + Expansion - SoftArchive](https://sanet.st/blogs/fullaudiosamples/studiolinked_modernize_x__expansion.2601996.html) - nan
 
@@ -1186,7 +1186,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://downloadmusicschool.com/favicon.ico)
 
@@ -1198,7 +1198,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://codec.kiev.ua/pix/audio.jpg)
 
@@ -1210,7 +1210,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://codec.kiev.ua/pix/audio.jpg)
 
@@ -1222,7 +1222,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Go AudiO](https://goaudio.info) - Explore your music World!
 
@@ -1232,7 +1232,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Go AudiO](https://goaudio.me) - Explore your music World!
 
@@ -1242,7 +1242,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Home - Soundiiz](https://soundiiz.com/webapp/playlist/youtube/PLlhdgGrn_OQ8qol56D-fIXNyjxUOB37rW) - Log in to your Soundiiz account to start converting your playlists and get access to all the playlist management tools
 
@@ -1252,7 +1252,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Kontakt Library Archives - Plugintorrent.com](https://plugintorrent.com/tag/kontakt-library) - nan
 
@@ -1262,7 +1262,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Kontakt Library Archives-ProducerSpot](https://www.producerspot.com/tag/kontakt-samples-library) - nan
 
@@ -1272,7 +1272,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [MadTracker - VST Plugins](https://www.madtracker.org/plugins.php?category=Instrument) - nan
 
@@ -1282,7 +1282,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://www.magesy.blog/biocontent/uploads/2020/02/default_logo.png)
 
@@ -1294,7 +1294,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://www.magesy.blog/biocontent/uploads/2020/02/default_logo.png)
 
@@ -1306,7 +1306,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [MegaVST.com - Download Free VST Plugins](https://www.megavst.com) - VST plugins directory, Download Free VST Instrument plugins, free plugin for cubase, fl studio, nuendo, etc. Listen to sound preview before downloading
 
@@ -1316,7 +1316,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Music Software - Computer Music Resources (Hitsquad)](https://www.hitsquad.com/smm) - Your music software download and computer music resource site with a huge collection of over 7,000 music software applications to download
 
@@ -1326,7 +1326,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Music Streaming Services Data Usage](https://dlogic.lk/projects/music.php) - Check the data usage of Apple Music, Tidal, Gaana, Soundcloud, Spotify, Google Play & Pandora music streaming services.
 
@@ -1336,7 +1336,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Music create: VST instruments-Effects-Samples-Free download software for music creation](https://music-create.org) - , VST , VST , VST ,   ,
 
@@ -1346,7 +1346,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Native Instruments - Kontakt 5 PORTABLE v5.7.3 STANDALONE-VSTi x86-x64 [12/20/2017] :: RuTracker.org](https://rutracker.org/forum/viewtopic.php?t=5498083) - Native Instruments - Kontakt 5 PORTABLE v5.7.3 STANDALONE/VSTi x86/x64 [20.12.2017]      :: RuTracker.org
 
@@ -1356,9 +1356,9 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
-[Native Instruments - Session Guitarist Strummed Acoustic 2](https://vst-platinum.com/vst-instruments/native-instruments-session-guitarist-strummed-acoustic-2.html) - Native Instruments - Session Guitarist Strummed Acoustic 2 - a new addition to the series Native Instruments Session Guitarist, based on the patterns of two vintage guitars Martin 0-17 (1934) 6-string and F-412 (1960) 12 strings. Through careful selection and placement of microphones, excellent room acoustics and high-quality audio equipment, require no additional signal processing. Each pattern features a rhythmic signature of dynamic accents, perfect for a diverse set of genres from rock, folk, and country, to bluegrass, latin, pop, and more... Flexible performance controls enable users to recreate the musicality of pro studio guitarists from their keyboard. Sound control features and effects allow users to customize their sound and place the guitar perfectly in a mix.
+[Native Instruments - Session Guitarist Strummed Acoustic 2](https://vst-platinum.com/vst-instruments/native-instruments-session-guitarist-strummed-acoustic-2.html) - Native Instruments - Session Guitarist Strummed Acoustic 2 - a new addition to the series Native Instruments Session Guitarist, based on the patterns of two vintage guitars Martin 0-17 (1934) 6-string and F-412 (1960) 12 strings. Through careful selection and placement of microphones, excellent room acoustics and high-quality audio equipment, require no additional signal processing. Each pattern features a rhythmic signature of dynamic accents, perfect for a diverse set of genres from rock, folk, and country, to bluegrass, latin, pop, and more… Flexible performance controls enable users to recreate the musicality of pro studio guitarists from their keyboard. Sound control features and effects allow users to customize their sound and place the guitar perfectly in a mix.
 
 2022-02-24T13:17:34.000Z
 
@@ -1366,7 +1366,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [ODDSOUND](https://oddsound.com) - nan
 
@@ -1376,7 +1376,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://audionews.org/styles/images/logo/logo.png)
 
@@ -1388,7 +1388,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [SoftArchive SANET](https://sanet.st) - nan
 
@@ -1398,7 +1398,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://codec.kiev.ua/pix/cloud.png)
 
@@ -1410,7 +1410,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [VSTbase - All Music Apps. Download VST Plugins, Instruments, Samples, Sound Libraries and Tutorials](https://vstbase.org) - VSTbase Community - Daily soft updates. Download VST Plugins, Sample Libraries, VSTi and Tutorials
 
@@ -1420,7 +1420,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [VSTorrent - Torrent information for music production](https://vstorrent.org) - Torrent information for music production
 
@@ -1430,7 +1430,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://media.audiorecordingathome.com/00023323/compressor-no-sidechain.jpg)
 
@@ -1442,7 +1442,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://media.audiorecordingathome.com/0008749/ducking-in-reaper-social.jpg)
 
@@ -1454,7 +1454,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://whyp.it/og_image.png)
 
@@ -1466,7 +1466,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://audioz.download/templates/Default/img/SM_Icon.jpg)
 
@@ -1478,7 +1478,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://www.zrythm.org/static/images/screenshots/screenshot-20221015.png)
 
@@ -1490,7 +1490,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [pvris - search for midi files by name, midi music and melodies .mid](https://midistock.ru/search?q=pvris) - nan
 
@@ -1500,7 +1500,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://opengraph.githubassets.com/2e3e0abdacb3cdc9e9dcc3014fe31f39adefd6da5d379a2f631d90e0cc8edff2/sigma67/spotify_to_ytmusic)
 
@@ -1512,7 +1512,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [rutracker.org](https://rutracker.org/forum/search_cse.php?cof=FORID%3A9&cx=014434608714260776013%3Aggcq1kovlga&ie=utf-8&q=imageline+plugins&sa=Search+in+Google) - nan
 
@@ -1522,7 +1522,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [virtual toolkit - Search](https://vsthouse.ru/search/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80%20%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2) - nan
 
@@ -1532,7 +1532,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://audioz.download/templates/Default/img/SM_Icon.jpg)
 
@@ -1544,7 +1544,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [flsaudio.com-Samples Presets Plugins DAW Acapellas Remix Stems](https://flsaudio.com/new) - Fls Audio flsaudio Download Samples Presets Plugins freshstuff4u Soundbanks Soundsets Studio Acapellas Remix Packs Remix Stems Kontakt Libraries VST VSTi AU AXX RTAS FL Studio Ableton Live Logic Pro Cubase Pro Tools Reason Sylenth1 Native Instruments Masive Xfer Serum Spire Dune Sonic Academy ANA Kick 2 Native Instruments Kontakt Omnisphere Izotope Ozone Waves Bundle Fabfilter Plugins The Glue Kickstart Sausage Fattener LFO Tool Valhalla Room Camel Crusher
 
@@ -1554,9 +1554,9 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
-[freshstuff4you Official Free Samples Presets Plugins DAW Acapellas](https://freshstuff4you.com) - Use freshstuff4you-freshstuff4u to download Music Production Tools Like WAV Samples Sound Libraries Sample Collections MIDI Virtual Instruments VST AU ...
+[freshstuff4you Official Free Samples Presets Plugins DAW Acapellas](https://freshstuff4you.com) - Use freshstuff4you-freshstuff4u to download Music Production Tools Like WAV Samples Sound Libraries Sample Collections MIDI Virtual Instruments VST AU …
 
 2023-02-23T18:16:50.000Z
 
@@ -1564,7 +1564,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 ![](https://codec.kiev.ua/pix/audio.jpg)
 
@@ -1576,7 +1576,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Education](https://mr9soft.com/category/education) - nan
 
@@ -1586,7 +1586,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio
+#### Audio-Pro Audio
 
 [Audio & Music Programs for Windows - FileCR](https://filecr.com/windows/audio-music?id=3312648360) - Free Download sound editing software to edit music, voice, wav, mp3, or other audio. Music tools for advanced and professional music producers.
 
@@ -1596,9 +1596,9 @@ Native Access all products enabler.
 
 ---
 
-## Audio-Pro Audio-Audio-FX
-
 ### Audio-Pro Audio-Audio-FX
+
+#### Audio-Pro Audio-Audio-FX
 
 [Plug-ins OneDDL - Download All You Want](https://oneddl.org/software/plug-ins) - Sugar Bytes FX Bundle 2022.9 (x64)-44.9 Mb Sugar Bytes FX bundle include 5 Plugins
 
@@ -1608,7 +1608,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 [Sample-Sound OneDDL - Download All You Want](https://oneddl.org/sample-sound) - Heavyocity Mosaic Pads KONTAKT-4.75 GB Mosaic Pads transforms a myriad of hand-crafted, synthesized sounds into a wide range of cinematic possibilities - delivering a dynamic collection of otherworldly, ambient, and atmospheric textures guaranteed to elevate your sonic palette.
 
@@ -1618,7 +1618,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 ![](https://media.imgcdn.org/repo/2023/03/songwish-remidi2/songwish-remidi-2-for-macos-free-download-01.jpg)
 
@@ -1630,7 +1630,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 [Bensound-Royalty Free Music](https://www.bensound.com) - Hear the difference! Only top royalty free music freshly composed by independent artists. Use our royalty free music for YouTube videos, social media, films, and more.
 
@@ -1640,7 +1640,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 [Flash Kit Community Forums](https://board.flashkit.com/board) - This is a discussion forum for all issues related to macromedia flash and shockwave, fireworks, development
 
@@ -1650,7 +1650,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 [Welcome to the .:: Amader Forum - We Lead & Others Follow ::..](http://www.amaderforum.us/forum.php) - This is a discussion forum powered by vBulletin. To find out about vBulletin, go to http://www.vbulletin.com/ .
 
@@ -1660,7 +1660,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 [🎹](https://fredericbriolet.com/avg) - nan
 
@@ -1670,7 +1670,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 ![](https://secure.gravatar.com/blavatar/f3dd482239b5ffafaa7a09ccf2825334f2e077fd9573c56efc3352f6cc623549?s=200&ts=1694609531)
 
@@ -1682,7 +1682,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 ![](https://www.premiumbeat.com/dist/pb_og_hero-5dcaca51.png)
 
@@ -1694,7 +1694,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 [Download Free Sound Effects](https://www.mediacollege.com/downloads/sound-effects) - These audio effects files are free to download.
 
@@ -1704,7 +1704,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 [Free Music Archive: Pop](https://freemusicarchive.org/genre/Pop) - nan
 
@@ -1714,7 +1714,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 [Free SFX](https://www.freesfx.co.uk) - Download Free Sound Effects
 
@@ -1724,9 +1724,9 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
-[Free Sound Clips](https://soundbible.com) - SoundBible.com offers free sound clips for download in either wav or mp3 format. We offer free and royalty free sound effects and clips for video editors, movie scores, .......
+[Free Sound Clips](https://soundbible.com) - SoundBible.com offers free sound clips for download in either wav or mp3 format. We offer free and royalty free sound effects and clips for video editors, movie scores, …….
 
 2022-02-24T13:17:34.000Z
 
@@ -1734,7 +1734,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 ![](https://www.pacdv.com/sounds/img/thumb.jpg)
 
@@ -1746,7 +1746,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 [Free Sound Effects](https://www.soundgator.com) - nan
 
@@ -1756,7 +1756,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 ![](https://99sounds.org/wp-content/uploads/2020/06/free-sound-effects.jpg)
 
@@ -1768,7 +1768,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 [Sound Fx](https://www.flashkit.com/soundfx) - This is a discussion forum for all issues related to macromedia flash and shockwave, fireworks, development
 
@@ -1778,7 +1778,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 ![](https://www.soundjay.com/graphics/thumbnail.jpg)
 
@@ -1790,7 +1790,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 ![](https://www.audiomicro.com/img/logo-orange@2x.png)
 
@@ -1802,7 +1802,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 [incompetech Music Search](https://incompetech.com/music/royalty-free/music.html) - nan
 
@@ -1812,7 +1812,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 [www.freesound.org](https://freesound.org) - Freesound: collaborative database of creative-commons licensed sound for musicians and sound lovers. Have you freed your sound today?
 
@@ -1822,7 +1822,7 @@ Native Access all products enabler.
 
 ---
 
-### Audio-Pro Audio-Audio-FX
+#### Audio-Pro Audio-Audio-FX
 
 ![](https://presetshare.com/img/og.png)
 
@@ -1834,9 +1834,9 @@ Native Access all products enabler.
 
 ---
 
-## Audio-Pro Audio-VST
-
 ### Audio-Pro Audio-VST
+
+#### Audio-Pro Audio-VST
 
 ![](https://lh6.googleusercontent.com/DOXuzov5-h7td4MFAQycA11VcC5GILgqRTndmz0Zdqxv5k8HkCmj9M254rZYcF5L-WajB2r4c9hkXVE9iDqtt-w=w16383)
 
@@ -1850,7 +1850,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://acondigital.com/favicon.ico)
 
@@ -1862,7 +1862,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Delay VST AAX Audio Unit Plugin Effect For Free- Adam Monroe's Delay](http://adammonroemusic.com/free-delay-vst/delay-vst-free.html) - Free Delay VST AAX and AU effect plugin
 
@@ -1872,7 +1872,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Tremolo VST Audio Unit Plugin Effect For Free- Adam Monroe's Tremolo](http://adammonroemusic.com/free-tremolo-vst/tremolo-vst-free.html) - Free Tremolo VST, AAX, and AU effect plugin
 
@@ -1882,7 +1882,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://audiotools.se/wp-content/uploads/edd/2018/04/redbox_leveling-tool.png)
 
@@ -1894,7 +1894,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Doppler Dome: Doppler Effect Simulation - Aegean Music](https://aegeanmusic.com/doppler-dome-specs) - Doppler Effect Simulation
 
@@ -1904,7 +1904,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Pitchproof: Pitch Shifter Harmonizer Specs - Aegean Music](https://aegeanmusic.com/pitchproof-specs) - Pitch Shifter Harmonizer Specs
 
@@ -1914,7 +1914,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [https://www.patreon.com/posts/prebox-36362672](https://www.patreon.com/posts/prebox-36362672) - nan
 
@@ -1924,11 +1924,11 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/mod-exciter4.jpg)
 
-[Modern Plugins by Antress](https://www.kvraudio.com/product/modern-plugins-by-antress) - The Antress Modern Plugins consists of several free VST effect plug-ins for Windows. v4.85 includes: Modern Analoguer. Modern Amplifier. Mo...
+[Modern Plugins by Antress](https://www.kvraudio.com/product/modern-plugins-by-antress) - The Antress Modern Plugins consists of several free VST effect plug-ins for Windows. v4.85 includes: Modern Analoguer. Modern Amplifier. Mo…
 
 2022-10-28T19:37:58.000Z
 
@@ -1936,7 +1936,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Auburn Sounds - Couture, dynamics-preserving distortion and transient shaper](https://www.auburnsounds.com/products/Couture.html) - nan
 
@@ -1946,7 +1946,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Auburn Sounds - Panagement, free reverb audio plug-in](https://www.auburnsounds.com/products/Panagement.html) - nan
 
@@ -1956,7 +1956,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [RoughRider 3 Free Compressor Plugin](https://www.audiodamage.com/pages/free-downloads) - RoughRider, one of the most popular free compressors in the world. For Windows, Mac, Linux, and iOS, in VST/VST3/AU/AUv3/AAX
 
@@ -1966,7 +1966,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.audiority.com/wp-content/uploads/2021/07/L12X.jpg)
 
@@ -1978,7 +1978,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [http://www.soft-amp.com/charbooster](http://www.soft-amp.com/charbooster) - nan
 
@@ -1988,7 +1988,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [http://www.soft-amp.com/flextron](http://www.soft-amp.com/flextron) - nan
 
@@ -1998,7 +1998,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [http://www.soft-amp.com/softamp-fm25](http://www.soft-amp.com/softamp-fm25) - nan
 
@@ -2008,7 +2008,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [http://www.soft-amp.com/softamp-psa](http://www.soft-amp.com/softamp-psa) - nan
 
@@ -2018,7 +2018,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [http://www.soft-amp.com/softdrive-gv](http://www.soft-amp.com/softdrive-gv) - nan
 
@@ -2028,7 +2028,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://blackroosteraudio.com/files/theme/BlackRoosterAudio.webp)
 
@@ -2040,7 +2040,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://blackroosteraudio.com/files/theme/BlackRoosterAudio.webp)
 
@@ -2052,7 +2052,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.pluginboutique.com//system/resources/srcs/000/066/958/player/620x320_BlueCatFreeware-pluginboutique.jpg?1610370888)
 
@@ -2064,7 +2064,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.bluecataudio.com/Vault/Products/Product_Chorus/Screenshots/main.png)
 
@@ -2076,7 +2076,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.bluecataudio.com/Vault/Products/Product_Flanger/Screenshots/main.png)
 
@@ -2088,7 +2088,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.bluecataudio.com/Vault/Products/Product_Phaser/Screenshots/main.png)
 
@@ -2100,7 +2100,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.bluecataudio.com/Vault/Products/Product_TripleEQ/Screenshots/main.png)
 
@@ -2112,7 +2112,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.bluecataudio.com/Vault/Products/Product_FreeAmp/Screenshots/main.png)
 
@@ -2124,11 +2124,11 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/main.1332944691.png)
 
-[FreqAnalyst by Blue Cat Audio](https://www.kvraudio.com/product/freqanalyst-by-blue-cat-audio) - Blue Cat's FreqAnalyst is a real-time spectrum analyzer with smooth response and complete control over the audio spectrum analysis. Its cust...
+[FreqAnalyst by Blue Cat Audio](https://www.kvraudio.com/product/freqanalyst-by-blue-cat-audio) - Blue Cat's FreqAnalyst is a real-time spectrum analyzer with smooth response and complete control over the audio spectrum analysis. Its cust…
 
 2022-10-28T19:37:58.000Z
 
@@ -2136,7 +2136,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.bobperry-audio.com/wp-content/uploads/BPA_BoxArt_gate2.png)
 
@@ -2148,7 +2148,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Cableguys-PanCake](http://www.cableguys.com/pancake.html) - Audio plugins for Mac and PC: HalfTime, ShaperBox, TimeShaper, DriveShaper, NoiseShaper, FilterShaper Core, LiquidShaper, CrushShaper, VolumeShaper, PanShaper, WidthShaper, MidiShaper and the free PanCake. Fully functional demos available.
 
@@ -2158,7 +2158,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.audiopluginsforfree.com/wp-content/uploads/2012/10/camel-crusher-1.png)
 
@@ -2170,7 +2170,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.celestionplus.com/wp-content/uploads/2017/01/og_celestion-logo.png)
 
@@ -2182,7 +2182,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Creative Intent - Shop Audio Plugins](https://www.creativeintent.co/product/temper) - Creative Intent creates experimental audio plugins and audio effects used by mixing engineers, musicians, producers, sound designers. Elevate your audio productions with our creative tools, including distortions and grain delays.
 
@@ -2192,7 +2192,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](http://www.d16.pl/images/products/frontier/bg2.jpg)
 
@@ -2204,11 +2204,11 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/glaceverb.jpg)
 
-[GlaceVerb by DaSample](https://www.kvraudio.com/product/glaceverb_by_dasample) - GlaceVerb is Dasample's first attempt to implement its works on Residual Vector Modulation (RVM) in a VST plug-in. RVM is a proprietary algo...
+[GlaceVerb by DaSample](https://www.kvraudio.com/product/glaceverb_by_dasample) - GlaceVerb is Dasample's first attempt to implement its works on Residual Vector Modulation (RVM) in a VST plug-in. RVM is a proprietary algo…
 
 2022-10-28T19:37:58.000Z
 
@@ -2216,11 +2216,11 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/dead_duck_effects.1600712891.png)
 
-[Free Effects by Dead Duck Software](https://www.kvraudio.com/product/dead-duck-free-effects-bundle-by-dead-duck-software) - The Dead Duck Free Effects provide 26 original VST audio effect plugins covering everything from essential mixing tools such as EQ and compr...
+[Free Effects by Dead Duck Software](https://www.kvraudio.com/product/dead-duck-free-effects-bundle-by-dead-duck-software) - The Dead Duck Free Effects provide 26 original VST audio effect plugins covering everything from essential mixing tools such as EQ and compr…
 
 2022-10-28T19:37:58.000Z
 
@@ -2228,11 +2228,11 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/orilriver1.jpg)
 
-[OrilRiver by Denis Tihanov](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) - OrilRiver is a free algorithmic stereo reverb that can rival the quality of commercial reverbs. With this plugin it is possible to simulate ...
+[OrilRiver by Denis Tihanov](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) - OrilRiver is a free algorithmic stereo reverb that can rival the quality of commercial reverbs. With this plugin it is possible to simulate …
 
 2022-10-28T19:37:58.000Z
 
@@ -2240,11 +2240,11 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/blockfish.jpg)
 
-[Blockfish by digitalfishphones](https://www.kvraudio.com/product/blockfish_by_digitalfishphones) - Blockfish is a versatile compressor with countless ways to shape the incoming audio. Unlike many other digital compressors, Blockfish has 's...
+[Blockfish by digitalfishphones](https://www.kvraudio.com/product/blockfish_by_digitalfishphones) - Blockfish is a versatile compressor with countless ways to shape the incoming audio. Unlike many other digital compressors, Blockfish has 's…
 
 2022-10-28T19:37:58.000Z
 
@@ -2252,7 +2252,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [E-Phonic - XPressor saturation and dynamics processor](https://www.e-phonic.com/xpressor.html#/) - nan
 
@@ -2262,7 +2262,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [eaReckon - FREEBIES](https://www.eareckon.com/en/products/freebies.html) - nan
 
@@ -2272,7 +2272,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](http://www.finecutbodies.com/pics/releases/Rel_VST_LPE.jpg)
 
@@ -2284,7 +2284,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.flux.audio/wp-content/uploads/2018/02/bittersweet-2.png)
 
@@ -2296,11 +2296,11 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/stereotool-v3-full.jpg)
 
-[Stereo Tool V3 by FLUX::](https://www.kvraudio.com/product/stereo-tool-v3-by-flux) - Stereo Tool offers controls and visual feedback for the stereo stage. It features ultra precise controls of input gain and individual pan fo...
+[Stereo Tool V3 by FLUX::](https://www.kvraudio.com/product/stereo-tool-v3-by-flux) - Stereo Tool offers controls and visual feedback for the stereo stage. It features ultra precise controls of input gain and individual pan fo…
 
 2022-10-28T19:37:58.000Z
 
@@ -2308,7 +2308,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.forward-audio.com/wp-content/uploads/2019/07/wpap-01.jpg)
 
@@ -2320,7 +2320,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Fuse Audio Labs-Audio Plugins and Mobile Audio Apps](https://fuseaudiolabs.com/#/pages/plugins) - Fuse Audio Labs is a number one source for truly analog sounding plugins designed for the daily demands of real-world musicians and engineers.
 
@@ -2330,11 +2330,11 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/kerovee160.png)
 
-[KeroVee by g200kg](https://www.kvraudio.com/product/kerovee-by-g200kg) - KeroVee is a Pitch Correction plug-in that works as a VST effect. KeroVee can mix two independent Transposed-Formant tweaked outputs of pi...
+[KeroVee by g200kg](https://www.kvraudio.com/product/kerovee-by-g200kg) - KeroVee is a Pitch Correction plug-in that works as a VST effect. KeroVee can mix two independent Transposed-Formant tweaked outputs of pi…
 
 2022-10-28T19:37:58.000Z
 
@@ -2342,7 +2342,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://glitchmachines.com/wp-content/uploads/2017/10/gmlogo-01-compressor.jpg)
 
@@ -2354,7 +2354,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://glitchmachines.com/wp-content/uploads/2017/10/gmlogo-01-compressor.jpg)
 
@@ -2366,7 +2366,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [GVST - GSnap](https://www.gvst.co.uk/gsnap.htm) - GVST GSnap is a free pitch-correction effect (Windows VST)
 
@@ -2376,7 +2376,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [GVST - GTune](https://www.gvst.co.uk/gtune.htm) - GVST GTune is a free chromatic tuner plug-in (Windows VST)
 
@@ -2386,7 +2386,7 @@ Update: Using some tools to bypass the ad links other than this or bypass.vip ca
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://hy-plugins.com/wp-content/uploads/delay4_resize-min.png)
 
@@ -2410,7 +2410,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.igniteamps.com/images/ignite-amps-site-preview.jpg)
 
@@ -2422,11 +2422,11 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/kvraudio-300x300-grey-eeeeee.png)
 
-[Neutrino by iZotope](https://www.kvraudio.com/product/neutrino-by-izotope-inc) - Neutrino is a free spectral shaping plug-in for Mac OS X and Windows. Neutrino can be used to to reveal subtle amounts of detail that can el...
+[Neutrino by iZotope](https://www.kvraudio.com/product/neutrino-by-izotope-inc) - Neutrino is a free spectral shaping plug-in for Mac OS X and Windows. Neutrino can be used to to reveal subtle amounts of detail that can el…
 
 2022-10-28T19:37:58.000Z
 
@@ -2434,7 +2434,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.izotope.com/storage-cms/images/_aliases/hero_fallback_1x/4/2/6/8/208624-1-eng-GB/9cf50dcf9f26-1120-vinyl-mood-web-hero.jpg)
 
@@ -2446,7 +2446,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.izotope.com/storage-cms/images/_aliases/hero_fallback_1x/6/7/2/8/208276-1-eng-GB/c5a624361fe0-vocal-doubler-mood-hero.jpg)
 
@@ -2458,7 +2458,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Free](https://shop.kalthallen.de/?page_id=423) - nan
 
@@ -2468,7 +2468,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Klanghelm](https://klanghelm.com/contents/products/IVGI/IVGI.php) - Klanghelm audio plugins (VST, VST3, AU, AAX)
 
@@ -2478,7 +2478,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Klanghelm](https://klanghelm.com/contents/products/MJUCjr/MJUCjr.php) - Klanghelm audio plugins (VST, VST3, AU, AAX)
 
@@ -2488,7 +2488,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://img.klevgrand.se/og_images/freeamp.jpg?tr=f-jpg)
 
@@ -2500,11 +2500,11 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/luftikus_screenshot.png)
 
-[Luftikus by lkjb](https://www.kvraudio.com/product/luftikus-by-lkjb) - Luftikus is a digital adaptation of an analog EQ with fixed half-octave bands and additional high frequency boost. As an improvement to the ...
+[Luftikus by lkjb](https://www.kvraudio.com/product/luftikus-by-lkjb) - Luftikus is a digital adaptation of an analog EQ with fixed half-octave bands and additional high frequency boost. As an improvement to the …
 
 2022-10-28T19:37:58.000Z
 
@@ -2512,7 +2512,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [LoudMax](https://loudmax.blogspot.com) - nan
 
@@ -2522,7 +2522,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [ClipShifter : LVC-Audio](http://lvcaudio.com/plugins/clipshifter) - nan
 
@@ -2532,7 +2532,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.meldaproduction.com/images/screenshots/half/screenshots/MAutoPitch00.jpg00.png?id=101)
 
@@ -2544,7 +2544,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.meldaproduction.com/images/screenshots/half/screenshots/MAnalyzer00.jpg00.png?id=101)
 
@@ -2556,7 +2556,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.meldaproduction.com/images/screenshots/half/screenshots/MAutopan00.jpg00.png?id=101)
 
@@ -2568,7 +2568,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.meldaproduction.com/images/screenshots/half/screenshots/MBandPass00.jpg00.png?id=101)
 
@@ -2580,7 +2580,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.meldaproduction.com/images/screenshots/half/screenshots/MBitFun00.jpg00.png?id=101)
 
@@ -2592,7 +2592,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.meldaproduction.com/images/screenshots/half/screenshots/MComb00.jpg00.png?id=101)
 
@@ -2604,7 +2604,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.meldaproduction.com/images/screenshots/half/screenshots/MCompressor00.jpg00.png?id=101)
 
@@ -2616,7 +2616,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.meldaproduction.com/images/screenshots/half/screenshots/MConvolutionEZ00.jpg00.png?id=101)
 
@@ -2628,7 +2628,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.meldaproduction.com/images/screenshots/half/screenshots/MEqualizer00.jpg00.png?id=101)
 
@@ -2640,7 +2640,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.voxengo.com/cdn/img/49/49jxi2o3l.jpg)
 
@@ -2652,7 +2652,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Mercuriall Audio Software](https://mercuriall.com/cms/details_freestuff) - nan
 
@@ -2662,7 +2662,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Thump2](https://mhsecure.com/metric_halo/products/software/thump.html) - Metric Halo, manufacturers of Macintosh audio interfaces and software.
 
@@ -2672,7 +2672,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.pluginboutique.com//system/resources/srcs/000/005/332/player/Stereo_Buss_Compressor.jpg?1459437625)
 
@@ -2684,7 +2684,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://ml-sound-lab.com/cdn/shop/products/product_pic_free_guitar_plugin_ml_sound_lab_amped_roots_1200x1200.png?v=1655283332)
 
@@ -2696,7 +2696,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.nembriniaudio.com/cdn/shop/products/chorus_dd649eea-45c3-4169-9d54-1c0061e9eeae.jpg?v=1594884898)
 
@@ -2708,7 +2708,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.nembriniaudio.com/cdn/shop/products/noisegate_c93a26ff-84a2-479c-9eb2-d7b265036c4e.jpg?v=1594885245)
 
@@ -2720,7 +2720,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.nembriniaudio.com/cdn/shop/files/NACrunckV2.jpg?v=1695040639)
 
@@ -2732,7 +2732,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Frohmage](https://www.ohmforce.com/ViewProduct.do?p=Frohmage) - Frohmage is a unique VST/AU/AAX filter plugins for Mac and PC. It's "low-pass but with harmonics" and unique UI made it's reputation. Also, it's free.
 
@@ -2742,7 +2742,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.izotope.com/storage-cms/images/_aliases/hero_fallback_1x/8/0/9/9/209908-2-eng-GB/f12f92e18412-ozone-imager-hero-desktop.png)
 
@@ -2754,7 +2754,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](http://2.bp.blogspot.com/-HzhwHa1BV3g/VL0ZGfMlBkI/AAAAAAAAAVg/UoevvVY-Kf4/s1600/1.png)
 
@@ -2766,7 +2766,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://polyversemusic.com/wp-content/uploads/2023/03/Wider-v2-Polyverse-SEO-Image-Banner.jpg)
 
@@ -2778,11 +2778,11 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/kvraudio-300x300-grey-eeeeee.png)
 
-[PSP PianoVerb by PSPaudioware](https://www.kvraudio.com/product/psp-pianoverb-by-pspaudioware) - PSP PianoVerb reproduces a special kind of reverberation originally provided by piano strings. It generates reverberation using twelve strin...
+[PSP PianoVerb by PSPaudioware](https://www.kvraudio.com/product/psp-pianoverb-by-pspaudioware) - PSP PianoVerb reproduces a special kind of reverberation originally provided by piano strings. It generates reverberation using twelve strin…
 
 2022-10-28T19:37:58.000Z
 
@@ -2790,7 +2790,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Redwirez Audio](https://redwirez.com/pages/the-marshall-1960a-ir-pack) - Redwirez develops audio plugins and IRs built around the sound of classic mics, cabinets, reverb and EQ. We capture the essence of the worlds most well-loved gear, in the box.
 
@@ -2800,7 +2800,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [SIR1-SIR Audio Tools](https://www.siraudiotools.com/sir1.php) - nan
 
@@ -2810,11 +2810,11 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/lfx1310.jpg)
 
-[LFX-1310 by Sonic Cat](https://www.kvraudio.com/product/lfx-1310-by-sonic-cat) - LFX-1310 is a multi-effect plug-in for Windows including 24 algorithms and 3 serial slots. Effects: S'Filter 12-S'Filter 24-3-band EQ. ...
+[LFX-1310 by Sonic Cat](https://www.kvraudio.com/product/lfx-1310-by-sonic-cat) - LFX-1310 is a multi-effect plug-in for Windows including 24 algorithms and 3 serial slots. Effects: S'Filter 12-S'Filter 24-3-band EQ….
 
 2022-10-28T19:37:58.000Z
 
@@ -2822,7 +2822,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [LFX-1310](https://sonic-cat.com/lfx-1310) - nan
 
@@ -2832,7 +2832,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://sonimus.com/files/2019/09/SonEQ-free-product.jpg)
 
@@ -2844,7 +2844,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Flower Child Filter-Soundemote](https://www.soundemote.com/labs/flower-child) - Flower Child Filter is a free VST/AU filter plugin aptly named for its goal to have aclean and resonant sound.
 
@@ -2854,7 +2854,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.soundwoofer.com/Content/Images/thumb.png)
 
@@ -2866,7 +2866,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [SNB impulse response files](http://www.grgr.de/IR) - Das Studio Nord ist das aelteste private Tonstudio Norddeutschlands
 
@@ -2876,7 +2876,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [TAL Software](https://tal-software.com/products/tal-effects?a_aid=54c934d260a7d) - TAL VST, AU, Audio Unit, AAX plug-ins for OSX and Windows
 
@@ -2886,7 +2886,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://tal-software.com/images/products/tal-chorus-lx_.png)
 
@@ -2898,7 +2898,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.pluginboutique.com//system/resources/srcs/000/002/185/player/TAL_Dub2_Plugin-original.jpg?1459437212)
 
@@ -2910,7 +2910,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://tal-software.com/images/products/tal-filter-2-new.jpg)
 
@@ -2922,7 +2922,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://tal-software.com/images/products/tal-noisemaker-new.jpg)
 
@@ -2934,7 +2934,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://tal-software.com/images/products/tal-reverb-2.png)
 
@@ -2946,7 +2946,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://tal-software.com/images/products/tal-reverb-402.jpg)
 
@@ -2958,7 +2958,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://tal-software.com/images/products/vocoder-3.jpg)
 
@@ -2970,11 +2970,11 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/lm_screenshot.1631827969.png)
 
-[LoudMax by Thomas Mundt](https://www.kvraudio.com/product/loudmax-by-thomas-mundt) - LoudMax is a Look-Ahead Brickwall Loudness Maximizer with a clean transparent sound. It is designed to retain the original character of the ...
+[LoudMax by Thomas Mundt](https://www.kvraudio.com/product/loudmax-by-thomas-mundt) - LoudMax is a Look-Ahead Brickwall Loudness Maximizer with a clean transparent sound. It is designed to retain the original character of the …
 
 2022-10-28T19:37:58.000Z
 
@@ -2982,7 +2982,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.tokyodawn.net/wp-content/uploads/2012/11/proximity_draft_back1.png?x24775)
 
@@ -2994,11 +2994,11 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/fbcomp2.1363813570.png)
 
-[TDR Feedback Compressor II by Tokyo Dawn Labs](https://www.kvraudio.com/product/tdr-feedback-compressor-ii-by-tokyo-dawn-labs) - The TDR Feedback Compressor II is a major design update of its critically acclaimed predecessor. The compressor is dedicated to the highest ...
+[TDR Feedback Compressor II by Tokyo Dawn Labs](https://www.kvraudio.com/product/tdr-feedback-compressor-ii-by-tokyo-dawn-labs) - The TDR Feedback Compressor II is a major design update of its critically acclaimed predecessor. The compressor is dedicated to the highest …
 
 2022-10-28T19:37:58.000Z
 
@@ -3006,7 +3006,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.tokyodawn.net/wp-content/uploads/2014/12/tdr-kotelnikov.jpg)
 
@@ -3018,7 +3018,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.tokyodawn.net/wp-content/uploads/2014/12/tdr-kotelnikov.jpg)
 
@@ -3030,7 +3030,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.tokyodawn.net/wp-content/uploads/2014/10/tdr-vos-slickeq.jpg)
 
@@ -3042,7 +3042,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.tokyodawn.net/wp-content/uploads/2020/02/limiter6-en.jpg?x24775)
 
@@ -3054,7 +3054,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://cdn.tritik.com/uploads/krush_v1.2.3_dark.png)
 
@@ -3066,7 +3066,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [TSE Audio - Software](https://www.tseaudio.com/software/tseBOD) - TSE AUDIO
 
@@ -3076,7 +3076,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [TSE Audio - Software](https://www.tseaudio.com/software/tse808) - TSE AUDIO
 
@@ -3086,7 +3086,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://u-he.com/products/protoverb/assets/images/uhe-protoverb-splash-photo-studio-setup-1100x350.jpg)
 
@@ -3098,7 +3098,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Vadim Taranov Amp Simulation](https://pvamps.blogspot.com/?m=1) - nan
 
@@ -3108,7 +3108,7 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://val-media-offload.s3.amazonaws.com/wp-content/uploads/2020/06/08074514/freq-echo_1300x540.jpg)
 
@@ -3120,11 +3120,11 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/densitymkiii.jpg)
 
-[Density by Variety Of Sound](https://www.kvraudio.com/product/density-by-variety-of-sound) - Density is a Bus Compressor that offers smooth and versatile dynamic processing on the stereo bus. It isn't modeled after any specific outbo...
+[Density by Variety Of Sound](https://www.kvraudio.com/product/density-by-variety-of-sound) - Density is a Bus Compressor that offers smooth and versatile dynamic processing on the stereo bus. It isn't modeled after any specific outbo…
 
 2022-10-28T19:37:58.000Z
 
@@ -3132,11 +3132,11 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/epicverb.jpg)
 
-[epicVerb by Variety Of Sound](https://www.kvraudio.com/product/epicverb_by_variety_of_sound) - epicVerb is a reverb plug-in that aims at both tight small room and ambience effect simulation, well suited to modern drum and vocal product...
+[epicVerb by Variety Of Sound](https://www.kvraudio.com/product/epicverb_by_variety_of_sound) - epicVerb is a reverb plug-in that aims at both tight small room and ambience effect simulation, well suited to modern drum and vocal product…
 
 2022-10-28T19:37:58.000Z
 
@@ -3144,13 +3144,13 @@ And please check your spam folder before sending message.
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/ferrictds-151.png)
 [FerricTDS - Tape Dynamics Simulator by Variety Of Sound](https://www.kvraudio.com/product/ferrictds
 ---
 
-tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulator was the Winner of the KVR Developer Challenge 2009. Inspired by the smooth dynamic shaping capabilities ...
+tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulator was the Winner of the KVR Developer Challenge 2009. Inspired by the smooth dynamic shaping capabilities …
 
 2022-10-28T19:37:58.000Z
 
@@ -3158,11 +3158,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/nastydlamkii.png)
 
-[NastyDLA by Variety Of Sound](https://www.kvraudio.com/product/nastydla-by-variety-of-sound) - NastyDLA is a classic chorus echo device with tape-delay simulation. The device enables: Classic chorus and echo effects. Authentic signal...
+[NastyDLA by Variety Of Sound](https://www.kvraudio.com/product/nastydla-by-variety-of-sound) - NastyDLA is a classic chorus echo device with tape-delay simulation. The device enables: Classic chorus and echo effects. Authentic signal…
 
 2022-10-28T19:37:58.000Z
 
@@ -3170,11 +3170,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/nastyvcs1.jpg)
 
-[NastyVCS by Variety Of Sound](https://www.kvraudio.com/product/nastyvcs_by_variety_of_sound) - NastyVCS is described as a virtual console strip which finally brings the "nasty" signal coloration series to the next level. Buil...
+[NastyVCS by Variety Of Sound](https://www.kvraudio.com/product/nastyvcs_by_variety_of_sound) - NastyVCS is described as a virtual console strip which finally brings the "nasty" signal coloration series to the next level. Buil…
 
 2022-10-28T19:37:58.000Z
 
@@ -3182,11 +3182,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/thrillseekerxtc.jpg)
 
-[ThrillseekerXTC by Variety Of Sound](https://www.kvraudio.com/product/thrillseekerxtc-by-variety-of-sound) - Bringing mojo back  Thrillseeker XTC is a contemporary exciter build around a true parallel analog style equalizer design. ThrillseekerXT...
+[ThrillseekerXTC by Variety Of Sound](https://www.kvraudio.com/product/thrillseekerxtc-by-variety-of-sound) - Bringing mojo back  Thrillseeker XTC is a contemporary exciter build around a true parallel analog style equalizer design. ThrillseekerXT…
 
 2022-10-28T19:37:58.000Z
 
@@ -3194,7 +3194,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Free Clip-Venn Audio](https://www.vennaudio.com/free-clip) - Free Clip is an intuitive multi algorithm soft clipper/wave shaper plugin, available as a Windows VST or mac Audio Unit. The plugin allows you to choose between a range of wave shapes or 'sigmoid functions', from the most transparent but harshest hard clip, to the 'softest' but most saturated arctangent shape. You can then intuitively
 
@@ -3204,11 +3204,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/molot.1360963803.jpg)
 
-[Molot by vladg/sound](https://www.kvraudio.com/product/molot-by-vladg-sound) - Molot is a compressor plug-in with a GUI inspired by an old Soviet military device. Features: Very characterful sound. Sigma and alpha atta...
+[Molot by vladg/sound](https://www.kvraudio.com/product/molot-by-vladg-sound) - Molot is a compressor plug-in with a GUI inspired by an old Soviet military device. Features: Very characterful sound. Sigma and alpha atta…
 
 2022-10-28T19:37:58.000Z
 
@@ -3216,11 +3216,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/nova67p-lesha.jpg)
 
-[Nova-67P by vladg/sound](https://www.kvraudio.com/product/nova-67p-by-vladg-sound) - Nova-67P is a parallel parametric equalizer plugin combined with a compressor. The compressor can operate in full-band and split-band modes....
+[Nova-67P by vladg/sound](https://www.kvraudio.com/product/nova-67p-by-vladg-sound) - Nova-67P is a parallel parametric equalizer plugin combined with a compressor. The compressor can operate in full-band and split-band modes….
 
 2022-10-28T19:37:58.000Z
 
@@ -3228,7 +3228,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.voxengo.com/cdn/img/46/46rdseepp.jpg)
 
@@ -3240,7 +3240,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.voxengo.com/cdn/img/77/77a90641b.jpg)
 
@@ -3252,7 +3252,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.voxengo.com/cdn/img/78/78s1jrlmf.jpg)
 
@@ -3264,11 +3264,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/voxengo_msed_screenshot_alt.jpg)
 
-[MSED by Voxengo](https://www.kvraudio.com/product/msed-by-voxengo) - MSED is a mid/side encoder/decoder plug-in which encodes (splits) the incoming stereo signal into two components: mid/side or, alternatively...
+[MSED by Voxengo](https://www.kvraudio.com/product/msed-by-voxengo) - MSED is a mid/side encoder/decoder plug-in which encodes (splits) the incoming stereo signal into two components: mid/side or, alternatively…
 
 2022-10-28T19:37:58.000Z
 
@@ -3276,7 +3276,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.voxengo.com/cdn/img/91/91ymrmbvx.jpg)
 
@@ -3288,11 +3288,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/voxengo_tube_amp_screenshot_gray.1681987318.jpg)
 
-[Tube Amp by Voxengo](https://www.kvraudio.com/product/tube-amp-by-voxengo) - Tube Amp is an audio effect plug-in that applies asymmetric tube triode overdrive usually found in single-tube microphone pre-amp boxes. The...
+[Tube Amp by Voxengo](https://www.kvraudio.com/product/tube-amp-by-voxengo) - Tube Amp is an audio effect plug-in that applies asymmetric tube triode overdrive usually found in single-tube microphone pre-amp boxes. The…
 
 2022-10-28T19:37:58.000Z
 
@@ -3300,7 +3300,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [Cassette Transport-Tape start and stop-Free audio plugin](https://www.wavesfactory.com/product/cassette-transport) - Free audio plugin for Mac and Windows (VST, VST3, AAX, AU) that creates the effect of tape start and stop. Includes fast forward, rewind, play and stop noises from a real cassette deck.
 
@@ -3310,7 +3310,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [SK10-Sub kick simulator-Free audio plugins](https://www.wavesfactory.com/product/sk10-drum-sub-kick) - Free audio plugin that simulates the sound of a sub kick microphone. Add thump to kicks and basses. Available in VST, VST3, AAX and AU formats for Mac and Windows.
 
@@ -3320,7 +3320,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://wilkinsonaudio.com/cdn/shop/products/Wilkinson_Audio_Gods_Cab_01_1200x1200.png?v=1576986252)
 
@@ -3332,7 +3332,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://wilkinsonaudio.com/cdn/shop/products/Wilkinson_Audio_Simpulse_Dave_1200x1200.jpg?v=1576986255)
 
@@ -3344,7 +3344,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://wilkinsonaudio.com/cdn/shop/products/Wilkinson_Audio_Simpulse_Freddy_1200x1200.jpg?v=1576986255)
 
@@ -3356,7 +3356,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://wilkinsonaudio.com/cdn/shop/products/Wilkinson_Audio_Simpulse_Jimmy_1200x1200.jpg?v=1576986256)
 
@@ -3368,9 +3368,9 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
-[Vocoder plug-ins software downloads for computer music systems](http://www.wolton.net/index4.html) - 4ORMULATOR VOCODER EXTREME. The ultimate freeware vocoder plug-in for computer music systems.  Pitch-augmentation, sympathetic drones, voice disguisers, multi-band ring modulation, vocoder effects, robot voices, talking instruments...
+[Vocoder plug-ins software downloads for computer music systems](http://www.wolton.net/index4.html) - 4ORMULATOR VOCODER EXTREME. The ultimate freeware vocoder plug-in for computer music systems.  Pitch-augmentation, sympathetic drones, voice disguisers, multi-band ring modulation, vocoder effects, robot voices, talking instruments…
 
 2022-10-28T19:37:58.000Z
 
@@ -3378,7 +3378,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [XferRecords.com-Home of the Xfer Records VST Suite](https://xferrecords.com/freeware) - nan
 
@@ -3388,11 +3388,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/kvraudio-300x300-grey-eeeeee.png)
 
-[OTT by Xfer Records](https://www.kvraudio.com/product/ott-by-xfer-records) - OTT is a re-creation of a popular aggressive multiband upwards-downwards compressor setting used by many dubstep and electro producers. Fe...
+[OTT by Xfer Records](https://www.kvraudio.com/product/ott-by-xfer-records) - OTT is a re-creation of a popular aggressive multiband upwards-downwards compressor setting used by many dubstep and electro producers. Fe…
 
 2022-10-28T19:37:58.000Z
 
@@ -3400,7 +3400,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [yohng.com W1 Limiter](http://www.yohng.com/software/w1limit.html) - nan
 
@@ -3410,7 +3410,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://youlean-129cf.kxcdn.com/wp-content/uploads/2019/08/Youlean-Lodness-Meter-2-V2.3.0.png)
 
@@ -3422,7 +3422,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [7deadlysins%20 impulse%20 pack](http://www.osirisguitar.com/wp-content/uploads/7deadlysins%20Impulse%20Pack.zip) - nan
 
@@ -3432,7 +3432,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [REAPER-ReaPlugs](https://www.reaper.fm/reaplugs) - nan
 
@@ -3442,7 +3442,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://senderspike.files.wordpress.com/2019/11/cropped-senderone_512.jpg?w=200)
 
@@ -3454,11 +3454,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://static.kvraudio.com/i/b/ice9_screenshot.png)
 
-[Ice9 Automute by Cerberus Audio](https://www.kvraudio.com/product/ice9-automute-by-cerberus-audio) - Cerberus Audio Ice9 Automute is a free utility which protects your speakers, your ears, and your nerves from dangerously loud output levels....
+[Ice9 Automute by Cerberus Audio](https://www.kvraudio.com/product/ice9-automute-by-cerberus-audio) - Cerberus Audio Ice9 Automute is a free utility which protects your speakers, your ears, and your nerves from dangerously loud output levels….
 
 2022-10-28T19:37:58.000Z
 
@@ -3466,7 +3466,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [full bucket music](https://www.fullbucket.de/music/freqshifter.html) - nan
 
@@ -3476,7 +3476,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [full bucket music](https://www.fullbucket.de/music/fbdelay.html) - nan
 
@@ -3486,7 +3486,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 [full bucket music](https://www.fullbucket.de/music/fbphaser.html) - nan
 
@@ -3496,7 +3496,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://kilohearts.com/img/products/chorus_twitter.jpg)
 
@@ -3508,7 +3508,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://kilohearts.com/img/products/delay_twitter.jpg)
 
@@ -3520,7 +3520,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://kilohearts.com/img/products/gain_twitter.jpg)
 
@@ -3532,7 +3532,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://kilohearts.com/img/products/limiter_twitter.jpg)
 
@@ -3544,11 +3544,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://kilohearts.com/img/products/stereo_twitter.jpg)
 
-[Kilohearts-Stereo](https://kilohearts.com/products/stereo) - Stereo widening, stereo paning. Yeah... that's pretty much it.
+[Kilohearts-Stereo](https://kilohearts.com/products/stereo) - Stereo widening, stereo paning. Yeah… that's pretty much it.
 
 2022-10-28T19:37:58.000Z
 
@@ -3556,7 +3556,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://valhalladsp.com/wp-content/uploads/2020/05/Supermassive_Aura_1300x540.png)
 
@@ -3568,7 +3568,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://ml-sound-lab.com/cdn/shop/products/mikko_player_1200x1200.png?v=1619596877)
 
@@ -3580,7 +3580,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.voxengo.com/cdn/img/42/423wfewkp.jpg)
 
@@ -3592,7 +3592,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.voxengo.com/cdn/img/44/44fgpc69s.jpg)
 
@@ -3604,7 +3604,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.voxengo.com/cdn/img/53/53r00sotw.jpg)
 
@@ -3616,7 +3616,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.voxengo.com/cdn/img/62/622glzxnv.jpg)
 
@@ -3628,7 +3628,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VST
+#### Audio-Pro Audio-VST
 
 ![](https://www.voxengo.com/cdn/img/06/061tkcm2w.jpg)
 
@@ -3640,9 +3640,9 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-## Audio-Pro Audio-VSTI
-
 ### Audio-Pro Audio-VSTI
+
+#### Audio-Pro Audio-VSTI
 
 [Piano in 162](http://www.ivyaudio.com/Piano-in-162) - Free Piano Library for Kontakt and SFZ
 
@@ -3652,7 +3652,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://i1.wp.com/www.audiopluginsforfree.com/wp-content/uploads/2020/12/img-20201208193241.png?fit=900%2C702&ssl=1)
 
@@ -3664,7 +3664,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Upright 1](http://vis.versilstudios.net/upright-1.html) - nan
 
@@ -3674,7 +3674,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.westwoodinstruments.com/wp-content/uploads/2023/06/Westwood-AltPianoLiteEdition-UI-Home.jpg)
 
@@ -3686,7 +3686,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Pianobook THE HONOURS LIST](https://www.pianobook.co.uk/stories/pianobook-the-honours-list) - Featured in the 2019 honours list: Andrew Ward: 1911 Bechstein Upright (most download piano in 2019) Angus Roberts-Carey: Sonva Piano, Sonva Upright, Infinite Guitar (plus Kontakt versions of 9000ft Piano and Tracked Piano) Christopher Scullion: Tatak  Toy Piano, Tatak  Felt Piano (MVP and Full), Tatak  Muted Felt Piano Conner Sawchuk: Decrepit Toy []
 
@@ -3696,7 +3696,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://bedroomproducersblog.com/wp-content/uploads/2019/11/99sounds-upright-piano.jpg)
 
@@ -3708,7 +3708,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://keypleezer.com/template/images/keypleezer-livingroom-upright-piano-complete-kontakt-pr-16x9-bg-dark-no-text-trimmed.jpg)
 
@@ -3720,7 +3720,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.dropbox.com/static/metaserver/static/images/opengraph/opengraph-content-icon-file-zip-landscape.png)
 
@@ -3732,7 +3732,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [The Best Computer Music and Acoustic Technology](http://www.supremepiano.com/index.html?piano1.html=) - The Best Computer Music and acoustic technology INC
 
@@ -3742,7 +3742,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://bedroomproducersblog.com/wp-content/uploads/2015/05/free-steinway-grand-3.jpg)
 
@@ -3754,7 +3754,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://store.precisionsound.net/wp-content/uploads/2013/12/PSAGP.jpg)
 
@@ -3766,7 +3766,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Salamander Grand Piano v3-Musical Artifacts](https://musical-artifacts.com/artifacts/3) - nan
 
@@ -3776,7 +3776,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.dskmusic.com/wp-content/uploads/2017/04/DSK-The-Grand.jpg)
 
@@ -3788,7 +3788,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Mats Helgesson Maestro](http://sonimusicae.free.fr/matshelgesson-maestro-en.html) - The Maestro Concert Grand is a high quality piano soundbank in gigasampler format made by Mats Helgesson
 
@@ -3798,9 +3798,9 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
-[Recut Pianos](https://bigcatinstruments.blogspot.com/2016/02/recut-pianos.html) - After a few complains about latency and other issues, I have reworked a couple pianos. First up is the Skerratt London piano by Kung Krille....
+[Recut Pianos](https://bigcatinstruments.blogspot.com/2016/02/recut-pianos.html) - After a few complains about latency and other issues, I have reworked a couple pianos. First up is the Skerratt London piano by Kung Krille….
 
 2022-10-28T19:38:24.000Z
 
@@ -3808,7 +3808,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -3820,11 +3820,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://4.bp.blogspot.com/-LjqJyyoFEbU/UvxB0zYJM8I/AAAAAAAAACo/2e_12Y2s6AY/s1600/city+piano+joe%27s+version.jpg)
 
-[All Keyboard Instruments](http://bigcatinstruments.blogspot.com/2015/09/all-keyboard-instruments.html?m=0) - Rounding up all the Pianos, Electric Pianos and Organs in one post. A work in progress.      The Grand Pianos     The  City Piano  is a f...
+[All Keyboard Instruments](http://bigcatinstruments.blogspot.com/2015/09/all-keyboard-instruments.html?m=0) - Rounding up all the Pianos, Electric Pianos and Organs in one post. A work in progress.      The Grand Pianos     The  City Piano  is a f…
 
 2022-10-28T19:38:24.000Z
 
@@ -3832,11 +3832,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/mdapiano.gif)
 
-[Piano by mda](https://www.kvraudio.com/product/piano_by_mda) - Piano by mda is a free virtual piano plug-in. Features: Up to 32 note polyphonic. Decay, Release and Stereo Width controls. Stretch and ran...
+[Piano by mda](https://www.kvraudio.com/product/piano_by_mda) - Piano by mda is a free virtual piano plug-in. Features: Up to 32 note polyphonic. Decay, Release and Stereo Width controls. Stretch and ran…
 
 2022-10-28T19:38:24.000Z
 
@@ -3844,7 +3844,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -3856,7 +3856,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -3868,7 +3868,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -3880,7 +3880,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -3892,7 +3892,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -3904,7 +3904,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -3916,7 +3916,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -3928,7 +3928,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -3940,11 +3940,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/free_piano_vst_vst_player.jpg)
 
-[Free Piano by RDGAudio](https://www.kvraudio.com/product/free-piano-by-rdgaudio) - Free Piano is a full featured free Piano made exclusively for you not for money. Free Piano comes with Staccato and Auto Sustain Instruments...
+[Free Piano by RDGAudio](https://www.kvraudio.com/product/free-piano-by-rdgaudio) - Free Piano is a full featured free Piano made exclusively for you not for money. Free Piano comes with Staccato and Auto Sustain Instruments…
 
 2022-10-28T19:38:24.000Z
 
@@ -3952,7 +3952,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Music Gear and Equipment Reviews and Guides - Xoxos](http://www.xoxos.net/vst/vst.html) - nan
 
@@ -3962,7 +3962,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [RSSD01 Dark Piano](http://www.replikasound.co.uk/rssd01_free_dark_piano.html) - FREE Dark Piano WAV Pack - 150 Samples
 
@@ -3972,7 +3972,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -3984,7 +3984,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -3996,7 +3996,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -4008,7 +4008,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Hugo Kant-Samples-Toy Piano](http://hugokant.com/samples/toy-piano-audio-samples) - : 18 notes-3 velocity ranges 74 aiff stereo samples at 24/48 (66,9Mo)  Recorded/edited with : 2x AT4041 - Focusrite Saffire Pro - Ableton Live - Sample Manager  Kontakt-Reason NN-XT-Ableton Sampler formats     Hear the samples in this track :                   Hauschka - Ping (Hugo Kant Remix)   -  Download track
 
@@ -4018,7 +4018,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://premiersoundfactory.com/wp-content/uploads/2023/03/4_wurly_premierG_red.jpg)
 
@@ -4030,7 +4030,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [yohng.com 4Front R-Piano](http://www.yohng.com/software/rpiano.html) - nan
 
@@ -4040,7 +4040,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Ticky Clav 2-2getheraudio-Music Production Software](https://www.2getheraudio.com/instruments/ticky_clav_2) - FREE. The perfect vintage clav plugin. Great sounds, simple to use, very low CPU.
 
@@ -4050,7 +4050,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://sonicbloom.net/wp-content/uploads/2014/05/mellotron-live-pack-f.jpg)
 
@@ -4062,7 +4062,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Hugo Kant-Samples-Fender Rhodes](http://hugokant.com/samples/fender-rhodes) - : Fender Rhodes. 32 samples.  10/10/2015 : updated kontakt5 patch
 
@@ -4072,7 +4072,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [yohng.com 4Front E-Piano](http://www.yohng.com/software/epiano.html) - nan
 
@@ -4082,7 +4082,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Download LazySnake](https://www.best-free-vst.com/download.php?p=LazySnake) - Find all the best free VST plugins. Download LazySnake right here.
 
@@ -4092,7 +4092,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Clavia%20 lab](http://www.simple-media.co.uk/files/vst%20full/Clavia%20Lab.zip) - nan
 
@@ -4102,7 +4102,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -4114,7 +4114,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -4126,7 +4126,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://noiseash.com/wp-content/uploads/2022/12/Product_Sweetcase_EP_v1.4.0.jpg)
 
@@ -4138,7 +4138,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -4150,7 +4150,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -4162,7 +4162,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.dskmusic.com/wp-content/uploads/2012/01/DSK-RhodeZ.jpg)
 
@@ -4174,7 +4174,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.dskmusic.com/wp-content/uploads/2012/01/DSK-Elektrik-Keys.jpg)
 
@@ -4186,7 +4186,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [2getheraudio-Professional Music Production Software](http://www.bigtickaudio.com/goodies/ep-station) - 2getheraudio-Music Production Software-World Class Music Production Software, Virtual Instruments and FX
 
@@ -4196,7 +4196,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -4208,7 +4208,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [http://mda.smartelectronix.com/synths.htm](http://mda.smartelectronix.com/synths.htm) - nan
 
@@ -4218,11 +4218,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://4.bp.blogspot.com/-Xd4z6o-pRW8/U_Uq4CEha-I/AAAAAAAAASg/OKSjcqqFsPI/s1600/Electric%2BPianos.jpg)
 
-[Electric Pianos](http://bigcatinstruments.blogspot.com/2014/08/electric-pianos.html) - One of the weaknesses of bigcat Instruments has been Electric Pianos. After extensive negotiations with Greg Sullivan  (I emailed to ask if ...
+[Electric Pianos](http://bigcatinstruments.blogspot.com/2014/08/electric-pianos.html) - One of the weaknesses of bigcat Instruments has been Electric Pianos. After extensive negotiations with Greg Sullivan  (I emailed to ask if …
 
 2022-10-28T19:38:24.000Z
 
@@ -4230,7 +4230,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstplug-ins.com/assets/images/facebook/facebook-keyzone.jpg)
 
@@ -4242,7 +4242,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [RMI Rocksichord : Free Sample Library for Kontakt, Ableton Live & Logic EXS24-Soniccouture](http://www.soniccouture.com/en/products/p58-rmi-rocksichord) - nan
 
@@ -4252,7 +4252,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Modartt: Free stuff](https://www.modartt.com/free_stuff#harpsichords) - nan
 
@@ -4262,7 +4262,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [The Small Italian](http://sonimusicae.free.fr/petititalien-en.html) - A free soundbank of an anonymous 17th italian harpsichord
 
@@ -4272,7 +4272,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [The Blanchet 1720](http://sonimusicae.free.fr/blanchet1-en.html) - The Blanchet 1720, a free harpsichord soundbank
 
@@ -4282,7 +4282,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -4294,7 +4294,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [VCSL](https://vis.versilstudios.com/vcsl.html#articulations) - nan
 
@@ -4304,7 +4304,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://sampleson.com/img/organ-ui.jpg)
 
@@ -4316,7 +4316,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [7 Free VSTs for Hammond B3 emulation](https://blog.wavosaur.com/7-free-vsts-for-hammond-b3-emulation) - nan
 
@@ -4326,7 +4326,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -4338,7 +4338,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -4350,7 +4350,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Orgue de salon](http://sonimusicae.free.fr/orguedesalon-en.html) - orgue de salon, a small house organ with two keyboards an five stops
 
@@ -4360,7 +4360,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://d1llvcsapfiksz.cloudfront.net/vendors/samplephonics/the-leeds-town-hall-organ/images/The_Leeds_Towh_Hall_Organ_desktop.jpg?t=1)
 
@@ -4372,7 +4372,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Hauptwerk Virtual Pipe Organ :: Hauptwerk Download](http://www.downloadhauptwerk.com/win) - Hauptwerk is state-of-the-art virtual instrument software for Apple Macs and PCs bringing the world's best pipe organs within reach of musicians everywhere.
 
@@ -4382,7 +4382,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -4394,7 +4394,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -4406,7 +4406,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -4418,7 +4418,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -4430,7 +4430,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -4442,7 +4442,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -4454,7 +4454,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://ocl-steinberg-live.steinberg.net/_storage/asset/66435/storage/master/Steinberg_1200x630_generic-google.jpg)
 
@@ -4466,7 +4466,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Diatonic accordion](http://sonimusicae.free.fr/diato-en.html) - This is a good quality and free sound bank of a diatonic accordion
 
@@ -4476,7 +4476,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.wixstatic.com/media/ecba19_54844ca69e97446b96c8da226111c333.jpg/v1/fill/w_656,h_636,al_c/ecba19_54844ca69e97446b96c8da226111c333.jpg)
 
@@ -4488,7 +4488,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.producerspot.com/wp-content/uploads/2023/08/back_to_school_banner2.jpg)
 
@@ -4500,7 +4500,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2016/09/shortnoise.png)
 
@@ -4512,7 +4512,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [The Keyboard](https://www.embertone.com/instruments/thekeyboard.php) - nan
 
@@ -4522,7 +4522,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Cinematique Instruments - Modern Instruments for your Inspiration](https://cinematique-instruments.com/pages_instr/inst_landscape.php) - We are a special boutique shop with unique software instruments for Kontakt and HALion that give you crucial inspiration for your music production.
 
@@ -4532,7 +4532,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Cinematique Instruments - Modern Instruments for your Inspiration](https://cinematique-instruments.com/pages_instr/page_klang.php#debussy) - We are a special boutique shop with unique software instruments for Kontakt and HALion that give you crucial inspiration for your music production.
 
@@ -4542,7 +4542,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.roland.com/assets/images/products/main/rc_juno-106_main.jpg)
 
@@ -4554,7 +4554,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.roland.com/assets/images/products/main/rc_jupiter-8_main.jpg)
 
@@ -4566,7 +4566,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://static.roland.com/global/images/og.png)
 
@@ -4578,7 +4578,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.roland.com/assets/images/products/main/rc_srx_world_main.jpg)
 
@@ -4590,7 +4590,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://ocl-steinberg-live.steinberg.net/_storage/asset/66435/storage/master/Steinberg_1200x630_generic-google.jpg)
 
@@ -4602,7 +4602,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [VCV Rack - The Eurorack Simulator for Windows/Mac/Linux](https://vcvrack.com) - VCV Rack - Virtual Eurorack Studio. Free download
 
@@ -4612,7 +4612,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Cheeze Machine 2-2getheraudio-Music Production Software](https://www.2getheraudio.com/instruments/cheeze-machine-2) - FREE. A perfect vintage string ensemble plugin. Great sounds, simple to use, low CPU.
 
@@ -4622,7 +4622,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Charlatan-BlauKraut Engineering](http://www.blaukraut.info) - nan
 
@@ -4632,7 +4632,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://surge-synthesizer.github.io/images/og_image.png)
 
@@ -4644,7 +4644,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/stigma.html) - nan
 
@@ -4654,7 +4654,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/fbvc.html) - nan
 
@@ -4664,7 +4664,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/modulair.html) - nan
 
@@ -4674,7 +4674,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/tricent.html) - nan
 
@@ -4684,7 +4684,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/fb3300.html) - nan
 
@@ -4694,7 +4694,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/fb3200.html) - nan
 
@@ -4704,7 +4704,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/fb3100.html) - nan
 
@@ -4714,7 +4714,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/sequencair.html) - nan
 
@@ -4724,7 +4724,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/mps.html) - nan
 
@@ -4734,7 +4734,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/kern.html) - nan
 
@@ -4744,7 +4744,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/deputy.html) - nan
 
@@ -4754,7 +4754,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/monofury.html) - nan
 
@@ -4764,7 +4764,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/nabla.html) - nan
 
@@ -4774,7 +4774,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/scrooo.html) - nan
 
@@ -4784,7 +4784,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/blooo.html) - nan
 
@@ -4794,7 +4794,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/ragnarok.html) - nan
 
@@ -4804,7 +4804,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [full bucket music](https://www.fullbucket.de/music/qyooo.html) - nan
 
@@ -4814,7 +4814,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.lesliesanford.com/images/plugins/product.sanford_reverb.png)
 
@@ -4826,7 +4826,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.pluginboutique.com//system/resources/srcs/000/062/540/player/synthmaster_player_ui_pluginboutique.jpg?1655209586)
 
@@ -4838,7 +4838,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://tal-software.com/images/products/tal-Elek7ro.png)
 
@@ -4850,7 +4850,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://www.muon-software.com/temp/logo_150w.png)
 
@@ -4862,7 +4862,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Download FATHOM SYNTH](https://www.fathomsynth.com/download) - Download
 
@@ -4872,7 +4872,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://u-he.com/products/triplecheese/assets/images/uhe-triplecheese-splash-photo-studio-setup-1100x350.jpg)
 
@@ -4884,7 +4884,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Text to Speech VST : VST Speek !](http://blog.wavosaur.com/text-to-speech-vst-vst-speek) - nan
 
@@ -4894,7 +4894,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://output.imgix.net/app/uploads/2015/06/Signal_logo_vector.png)
 
@@ -4906,7 +4906,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://t0nit0rmx.github.io/img/ToneZ_FBcard2_2.png)
 
@@ -4918,7 +4918,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Freeplugins](http://nusofting.liqihsynth.com/freeplugins.html) - nan
 
@@ -4928,7 +4928,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [https://nusofting.nusofting.com/Sinnah_VA_synth.html](https://nusofting.nusofting.com/Sinnah_VA_synth.html) - nan
 
@@ -4938,7 +4938,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Loading...](http://www.studiotoolz.net/chip-32) - nan
 
@@ -4948,7 +4948,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://tal-software.com/images/products/tal-u-no-lx-4.7.7.jpg)
 
@@ -4960,7 +4960,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://u-he.com/products/zebralette/assets/images/uhe-zebralette-splash-photo-studio-setup-1100x350.jpg)
 
@@ -4972,7 +4972,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Tone2 Audiosoftware - Installation](https://www.tone2.com/html/firebird.html) - Tone2.com audiosofware
 
@@ -4982,7 +4982,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.fluffyaudio.com/wp-content/uploads/2015/11/Featured3.png)
 
@@ -4994,11 +4994,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/a-r-screen1.jpg)
 
-[Alpha-Ray by TubeOhm](https://www.kvraudio.com/product/alpha-ray-by-tubeohm) - Alpha-Ray is a three oscillator per voice, 10 voice polyphonic VA synthesizer. This instrument has an inbuilt poly overdrive. The VCF can sw...
+[Alpha-Ray by TubeOhm](https://www.kvraudio.com/product/alpha-ray-by-tubeohm) - Alpha-Ray is a three oscillator per voice, 10 voice polyphonic VA synthesizer. This instrument has an inbuilt poly overdrive. The VCF can sw…
 
 2022-10-28T19:38:24.000Z
 
@@ -5006,7 +5006,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://finecutbodies.com/pics/releases/Rel_SD_Gombulator!!.jpg)
 
@@ -5018,7 +5018,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://audioplugin.deals/wp-content/uploads/2020/04/retro-pong-poster.jpg)
 
@@ -5030,7 +5030,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://bedroomproducersblog.com/wp-content/uploads/2016/03/synister-vst.jpg)
 
@@ -5042,7 +5042,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Coalition](http://www.trapdooraudio.com/our-products/coalition) - nan
 
@@ -5052,7 +5052,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Dexed](https://asb2m10.github.io/dexed) - Dexed : FM multi platform/multi format plugin
 
@@ -5062,7 +5062,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2019/07/555-Oscillator-Cover-Art.jpg)
 
@@ -5074,7 +5074,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2019/06/Simba-Mini-Piano-Cover-Art.jpg)
 
@@ -5086,7 +5086,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2018/09/littleBits-product-image.jpg)
 
@@ -5098,7 +5098,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2018/09/33136710692_01d88b5eae_k.jpg)
 
@@ -5110,7 +5110,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://s0.wp.com/i/blank.jpg)
 
@@ -5122,7 +5122,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Symptohm PE](https://www.ohmforce.com/ViewProduct.do?p=SymptohmPE) - Symptohm PE  is the free edition of a unique VST/AU/AAX synth plugins for Mac and PC. Its distinctive features include two sample-based "sync grain" oscillators, the Melohman key-controlled preset morphing, and an unreasonable amount of filtering.
 
@@ -5132,11 +5132,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/minimogueva.jpg)
 
-[MinimogueVA by Voltkitchen](https://www.kvraudio.com/product/minimogueva-by-voltkitchen) - MinimogueVA is an emulation of the classic Minimoog but includes additional features such as dedicated Release knobs for the two Contour Gen...
+[MinimogueVA by Voltkitchen](https://www.kvraudio.com/product/minimogueva-by-voltkitchen) - MinimogueVA is an emulation of the classic Minimoog but includes additional features such as dedicated Release knobs for the two Contour Gen…
 
 2022-10-28T19:38:24.000Z
 
@@ -5144,11 +5144,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/synth1-113.png)
 
-[Synth1 by Daichi Laboratory (Ichiro Toda)](https://www.kvraudio.com/product/synth1-by-ichiro-toda) - Synth1 is a software synthesizer. Functionally it is modelled on the Clavia Nord Lead 2 Red Synth. Features: 2 Oscillators, FM modulation, ...
+[Synth1 by Daichi Laboratory (Ichiro Toda)](https://www.kvraudio.com/product/synth1-by-ichiro-toda) - Synth1 is a software synthesizer. Functionally it is modelled on the Clavia Nord Lead 2 Red Synth. Features: 2 Oscillators, FM modulation, …
 
 2022-10-28T19:38:24.000Z
 
@@ -5156,7 +5156,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://img.klevgrand.se/ui_images/ui_syndtsphere_1_1@2x.jpg?tr=f-jpg)
 
@@ -5168,7 +5168,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [GTG](http://www.gtgsynths.com/plugins.htm) - nan
 
@@ -5178,7 +5178,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://i1.wp.com/www.audiopluginsforfree.com/wp-content/uploads/2019/05/sy_browse_minimod_lgr2x.jpg?fit=890%2C690&ssl=1)
 
@@ -5190,11 +5190,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/lotsv2.jpg)
 
-[Lord of the Springs by Taron](https://www.kvraudio.com/product/lord-of-the-springs-by-taron) - Lord of the Springs is a VSTi for Windows (64/32) featuring 88 voices in form of active spring systems, which a key hit stimulates as well a...
+[Lord of the Springs by Taron](https://www.kvraudio.com/product/lord-of-the-springs-by-taron) - Lord of the Springs is a VSTi for Windows (64/32) featuring 88 voices in form of active spring systems, which a key hit stimulates as well a…
 
 2022-10-28T19:38:24.000Z
 
@@ -5202,7 +5202,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Legowelt Samplezzz](https://awolfe.home.xs4all.nl/samples.html) - nan
 
@@ -5212,7 +5212,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [One Small Clue](http://www.onesmallclue.com/plugin/grace) - VST Plugins for Windows
 
@@ -5222,11 +5222,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/thelizard.jpg)
 
-[The Lizard by Krakli](https://www.kvraudio.com/product/the_lizard_by_krakli) - The Lizard is a Wild and Abrasive FM synth with full Envelope and LFO control of all Modulators. ...
+[The Lizard by Krakli](https://www.kvraudio.com/product/the_lizard_by_krakli) - The Lizard is a Wild and Abrasive FM synth with full Envelope and LFO control of all Modulators….
 
 2022-10-28T19:38:24.000Z
 
@@ -5234,11 +5234,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/crystal.jpg)
 
-[Crystal by Green Oak](https://www.kvraudio.com/product/crystal-by-green-oak) - Crystal is a semi-modular software synthesizer featuring both subtractive synthesis and frequency modulation (FM) synthesis. Crystal offers ...
+[Crystal by Green Oak](https://www.kvraudio.com/product/crystal-by-green-oak) - Crystal is a semi-modular software synthesizer featuring both subtractive synthesis and frequency modulation (FM) synthesis. Crystal offers …
 
 2022-10-28T19:38:24.000Z
 
@@ -5246,11 +5246,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/hahahacs01.jpg)
 
-[Hahaha CS01 by Pethu](https://www.kvraudio.com/product/hahaha_cs01_by_pethu) - Hahaha CS01 is a homage to Yamaha's CS01, released in 1982 as an entry-level, highly portable synth. Two versions of Hahaha CS01 are availab...
+[Hahaha CS01 by Pethu](https://www.kvraudio.com/product/hahaha_cs01_by_pethu) - Hahaha CS01 is a homage to Yamaha's CS01, released in 1982 as an entry-level, highly portable synth. Two versions of Hahaha CS01 are availab…
 
 2022-10-28T19:38:24.000Z
 
@@ -5258,7 +5258,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Audjoo - Helix](http://www.audjoo.com/h/Helix.htm) - nan
 
@@ -5268,7 +5268,7 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [u-he Software Synthesizers and Effects](https://u-he.com) - u-he makes creative software synthesizers and effects.
 
@@ -5278,11 +5278,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/ecl_efx.png)
 
-[Eclipsis by zOne.sk](https://www.kvraudio.com/product/eclipsis-by-vst-zone) - Eclipsis is hybrid wavetable synthesizer with three oscillators each with his own frequency and subtractive modulation. Additional modulatio...
+[Eclipsis by zOne.sk](https://www.kvraudio.com/product/eclipsis-by-vst-zone) - Eclipsis is hybrid wavetable synthesizer with three oscillators each with his own frequency and subtractive modulation. Additional modulatio…
 
 2022-10-28T19:38:24.000Z
 
@@ -5290,11 +5290,11 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/sq8l09.jpg)
 
-[SQ8L-SQ8X by Siegfried Kullmann](https://www.kvraudio.com/product/sq8l_sq8x_by_siegfried_kullmann) - SQ8L is a software model of Ensoniq's classic 1980s synth SQ80. The SQ80 features 3 digital wavetable oscillators for each of its 8 voices w...
+[SQ8L-SQ8X by Siegfried Kullmann](https://www.kvraudio.com/product/sq8l_sq8x_by_siegfried_kullmann) - SQ8L is a software model of Ensoniq's classic 1980s synth SQ80. The SQ80 features 3 digital wavetable oscillators for each of its 8 voices w…
 
 2022-10-28T19:38:24.000Z
 
@@ -5302,13 +5302,13 @@ tape-dynamics-simulator-by-variety-of-sound) - FerricTDS - Tape Dynamics Simulat
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/obxd_ios.jpg)
 [OB-Xd - Virtual Analog Synthesizer by discoDSP](https://www.kvraudio.com/product/ob-xd
 ---
 
-virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. It attempts to recreate its sound and behavior, but as the original was very limited in some important ...
+virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. It attempts to recreate its sound and behavior, but as the original was very limited in some important …
 
 2022-10-28T19:38:24.000Z
 
@@ -5316,7 +5316,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Crystal VST Instrument](http://www.greenoak.com/crystal/indexDesktop3.html) - Crystal Web Site
 
@@ -5326,7 +5326,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -5338,11 +5338,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.standalone-music.com/wp-content/uploads/2019/12/TheDrillCover.jpg)
 
-[Free Kontakt Instrument-KSHMR & 7 SKIES - Neverland Lead](https://www.standalone-music.com/free-neverland-lead) - We recorded exact same lead and layers used in KSHMR & 7 SKIES - Neverland! and put it into a Kontakt Instrument, easy interface and control for the most important parameters to shape the sound to your needs, works with Kontakt on any DAW (Ableton, FL Studio, Logic Pro, Cubase Etc...)
+[Free Kontakt Instrument-KSHMR & 7 SKIES - Neverland Lead](https://www.standalone-music.com/free-neverland-lead) - We recorded exact same lead and layers used in KSHMR & 7 SKIES - Neverland! and put it into a Kontakt Instrument, easy interface and control for the most important parameters to shape the sound to your needs, works with Kontakt on any DAW (Ableton, FL Studio, Logic Pro, Cubase Etc…)
 
 2022-10-28T19:38:24.000Z
 
@@ -5350,7 +5350,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -5362,7 +5362,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Home](https://www.tunefish-synth.com/?action=download) - nan
 
@@ -5372,7 +5372,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://labs.spitfireaudio.com/images/labs/social/iiolabs.png)
 
@@ -5384,7 +5384,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://impactsoundworks.com/wp-content/uploads/2023/07/S3StratusFREE-Featured-Image.png)
 
@@ -5396,7 +5396,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Freebees Indiginus](http://indiginus.com/freedownloads.html) - nan
 
@@ -5406,7 +5406,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -5418,7 +5418,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.pulsesetter-sounds.com/wp-content/uploads/2019/09/product-cover_Reverxis_FULL-1.png)
 
@@ -5430,7 +5430,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -5442,7 +5442,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.pettinhouse.com/Social/Facebook__Pettinhouse.jpg)
 
@@ -5454,7 +5454,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://d1llvcsapfiksz.cloudfront.net/vendors/samplephonics/ronroco/images/Ronroco_desktop.jpg)
 
@@ -5466,7 +5466,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2015/04/soft_guitar@025x.png)
 
@@ -5478,7 +5478,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Atom Hub](http://www.atomhub.net/Free_Cryptar.html) - Unusual and experimental sample libraries.
 
@@ -5488,11 +5488,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/spicyguitar.png)
 
-[Spicy Guitar by Keolab](https://www.kvraudio.com/product/spicy-guitar-by-keolab) - Spicy Guitar is an innovative acoustic guitar simulation software. Relying on a brand new technology, Spicy Guitar lets you generate realist...
+[Spicy Guitar by Keolab](https://www.kvraudio.com/product/spicy-guitar-by-keolab) - Spicy Guitar is an innovative acoustic guitar simulation software. Relying on a brand new technology, Spicy Guitar lets you generate realist…
 
 2022-10-28T19:38:24.000Z
 
@@ -5500,7 +5500,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -5512,7 +5512,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -5524,7 +5524,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -5536,7 +5536,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [VST Instruments](http://www.dreamvortex.co.uk/instruments) - nan
 
@@ -5546,7 +5546,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Hugo Kant-Samples-Banjo](http://hugokant.com/samples/banjo) - : Four string banjo. 34 16/44.1 aiff samples.
 
@@ -5556,7 +5556,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://www.audio-wiesel.com/wp-content/uploads/2013/02/Wiesel-with-text-small.jpg)
 
@@ -5568,7 +5568,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2015/07/the_mither@025x.png)
 
@@ -5580,7 +5580,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -5592,7 +5592,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2020/02/Mandolin-Guitarophone-Cover-Idea-1.jpg)
 
@@ -5604,7 +5604,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Hugo Kant-Samples-Zither](http://hugokant.com/samples/zither) - : A few samples from a guitar-zither i baught in Poland. 21 samples.
 
@@ -5614,7 +5614,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Hugo Kant-Samples-Nanga](http://hugokant.com/samples/nanga) - : Small 4 String african instrument :  13 notes. 4 Velocity Layer. 3 Alternate samples. 154 24/48 aiff samples.  will fix some sample start times for low velocities in the next update ;)
 
@@ -5624,7 +5624,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -5636,7 +5636,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [amplesound.net](http://www.amplesound.net/en/download.asp) - Ample Guitar, Ample Bass, Ample Metal, AGG, AGF, AGP, AGM, AGT, AGL, AGML, AME, AMR, ABA, ABP, ABJ, Virtual Instruments, Sample library, Tab Player, Strummer
 
@@ -5646,7 +5646,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://impactsoundworks.com/wp-content/uploads/2023/08/Shreddage-3-Precision-Free-KP-Featured-Image.png)
 
@@ -5658,7 +5658,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://wilkinsonaudio.com/cdn/shop/products/Wilkinson_Audio_ZomBass_4_01_1200x1200.png?v=1576986265)
 
@@ -5670,7 +5670,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://wilkinsonaudio.com/cdn/shop/products/Wilkinson_Audio_ZomBass_3_01_1200x1200.png?v=1576986265)
 
@@ -5682,7 +5682,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://wilkinsonaudio.com/cdn/shop/products/Wilkinson_Audio_ZomBass_2_01_1200x1200.png?v=1576986264)
 
@@ -5694,7 +5694,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://wilkinsonaudio.com/cdn/shop/products/Wilkinson_Audio_ZomBass_01-1_1200x1200.png?v=1576986263)
 
@@ -5706,7 +5706,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Hugo Kant-Samples-Fender Jazz Bass](http://hugokant.com/samples/fender-jazz-bass) - : My Fender Jazz Bass sampled :)
 
@@ -5716,7 +5716,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -5728,11 +5728,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/vb-1.jpg)
 
-[VB-1 by Steinberg](https://www.kvraudio.com/product/vb-1-by-steinberg) - VB-1 is a virtual bass emulation with selectable pick position. Features: 4 voice polyphonic. Damper, PickUp position, Pick position, &...
+[VB-1 by Steinberg](https://www.kvraudio.com/product/vb-1-by-steinberg) - VB-1 is a virtual bass emulation with selectable pick position. Features: 4 voice polyphonic. Damper, PickUp position, Pick position, &…
 
 2022-10-28T19:38:24.000Z
 
@@ -5740,7 +5740,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -5752,7 +5752,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -5764,7 +5764,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -5776,7 +5776,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -5788,7 +5788,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -5800,7 +5800,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -5812,7 +5812,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -5824,7 +5824,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [AS Free Collection](https://www.acousticsamples.net/as-free-collection) - nan
 
@@ -5834,7 +5834,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -5846,7 +5846,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -5858,7 +5858,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -5870,9 +5870,9 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
-[My New bass NKI Is Free for all my SSO Homies (+My newest mix)](https://www.sevenstring.org/threads/my-new-bass-nki-is-free-for-all-my-sso-homies-my-newest-mix.316996?fbclid=IwAR1oX9gkLTrCKkJa6Pz-RVV_6hDX1AmjkovebZAqzKO_uWj9kwqzpcjamP0) - How's it going guys. I just put together a simple and effective Bass guitar kontakt instrument today.I am giving it away for FREE!!!!. Notes C0-G3 Tracked on an Ibanez FF806. I tried it out on a...
+[My New bass NKI Is Free for all my SSO Homies (+My newest mix)](https://www.sevenstring.org/threads/my-new-bass-nki-is-free-for-all-my-sso-homies-my-newest-mix.316996?fbclid=IwAR1oX9gkLTrCKkJa6Pz-RVV_6hDX1AmjkovebZAqzKO_uWj9kwqzpcjamP0) - How's it going guys. I just put together a simple and effective Bass guitar kontakt instrument today.I am giving it away for FREE!!!!. Notes C0-G3 Tracked on an Ibanez FF806. I tried it out on a…
 
 2022-10-28T19:38:24.000Z
 
@@ -5880,7 +5880,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Grate Bass Lite (Free)](http://borth-audio.com/instruments/grate-bass-lite) - nan
 
@@ -5890,7 +5890,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -5902,7 +5902,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.martinic.com/assets/images/cards/kee-bass-preview-image-v1.jpg)
 
@@ -5914,7 +5914,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://myvst.com/wp-content/uploads/2011/12/Model-E-Free-VST-myVST-Demo.jpeg)
 
@@ -5926,7 +5926,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Bazz murda](http://distocore.net/bazz_murda.html) - nan
 
@@ -5936,7 +5936,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://tal-software.com/images/products/tal-bassline.jpg)
 
@@ -5948,7 +5948,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://stevenslatedrums.com/wp-content/uploads/2020/03/SSD-5.5-Kit-Edit-Window-web.jpeg)
 
@@ -5960,7 +5960,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://cdn.shopify.com/s/files/1/0161/6212/7936/files/whitelogo.png?height=628&pad_color=1a1a1a&v=1613551966&width=1200)
 
@@ -5972,7 +5972,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Jay Maas Signature Series Drums](https://www.roomsound.com/products/jaymaas?fbclid=IwAR0TQlK_6suxuR4AZDYmsI0Bx9I8VRnh3-lmyH5d9ACyPfiPO1SpZHmv2qU#marker6) - nan
 
@@ -5982,7 +5982,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://theperfectdrums.com/wp-content/uploads/2022/07/MAIN.jpg)
 
@@ -5994,7 +5994,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.powerdrumkit.com/images/open-graph/og-downIoad76187.jpg)
 
@@ -6006,7 +6006,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Mikrofoner & tradlosa system](https://sv-se.sennheiser.com/drummica) - Mikrofoner, tradlosa mikrofonsystem, sang, instrument, studio, inspelning - Sennheiser Discover True Sound - hogkvalitativa produkter och skraddarsydda losningar for varje aspekt av inspelning, overforing och atergivning av ljud - sennheiser.com
 
@@ -6016,7 +6016,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://wilkinsonaudio.com/cdn/shop/products/naked_drums_comp_1200x1200.jpg?v=1576986253)
 
@@ -6028,7 +6028,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://wilkinsonaudio.com/cdn/shop/products/Wilkinson_Audio_CC_Drum_Samples_01_1200x1200.png?v=1576986261)
 
@@ -6040,7 +6040,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -6052,7 +6052,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -6064,7 +6064,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://smmdrums.files.wordpress.com/2015/03/1960s-ludwig-oyster-blue-pearl-drum-kit-front.jpg?w=1200)
 
@@ -6076,11 +6076,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://1.bp.blogspot.com/-VAoLgYDCrIE/V73DQmq-PnI/AAAAAAAAAnc/nFZWfAf-XJMK25h82RoHqSKPvDq1ldHXQCLcB/s400/drums%2Bparadise.jpg)
 
-[Drummers Paradise](http://bigcatinstruments.blogspot.com/2016/08/drummers-paradise.html?m=1) - Nathan Sheeran  sampled eight drum kits, 7 acoustic and 1 house, and kindly shared them. These are great for instant gratification as they l...
+[Drummers Paradise](http://bigcatinstruments.blogspot.com/2016/08/drummers-paradise.html?m=1) - Nathan Sheeran  sampled eight drum kits, 7 acoustic and 1 house, and kindly shared them. These are great for instant gratification as they l…
 
 2022-10-28T19:38:24.000Z
 
@@ -6088,7 +6088,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Scott Drums](http://www.ivyaudio.com/Scott-Drums) - Free Drum Library for Kontakt
 
@@ -6098,7 +6098,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.indiedrums.com/wp-content/uploads/2016/05/free-drum-samples-slingerland-kit-wav-one-shots.jpg)
 
@@ -6110,7 +6110,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Beta Edition](http://www.bluenoiseplugins.com/plugins/drummix/beta-edition) - nan
 
@@ -6120,7 +6120,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [https://www.studiolinked.com/drum-pro/](https://www.studiolinked.com/drum-pro) - nan
 
@@ -6130,7 +6130,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://producersources.com/wp-content/uploads/2017/02/Cram-straight-trap-drumkit-1.png)
 
@@ -6142,11 +6142,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/drumatic.jpg)
 
-[Drumatic 3 by E-Phonic](https://www.kvraudio.com/product/drumatic-3-by-e-phonic) - Drum Sounds: Bassdrum. Snare. Toms ( High/Low ). Clap. Hihats (Closed, Pedal, Open). Rimshot-Sidestick. Features: Graphical envelopes. 6 ...
+[Drumatic 3 by E-Phonic](https://www.kvraudio.com/product/drumatic-3-by-e-phonic) - Drum Sounds: Bassdrum. Snare. Toms ( High/Low ). Clap. Hihats (Closed, Pedal, Open). Rimshot-Sidestick. Features: Graphical envelopes. 6 …
 
 2022-10-28T19:38:24.000Z
 
@@ -6154,7 +6154,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.pluginboutique.com//system/resources/srcs/000/001/603/player/TS-808_Image-original.jpg?1459437116)
 
@@ -6166,7 +6166,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Sitala - Free Drum Sampler Plugin](https://decomposer.de/sitala) - nan
 
@@ -6176,7 +6176,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://bedroomproducersblog.com/wp-content/uploads/2019/11/gb-drumbox.jpg)
 
@@ -6188,7 +6188,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://bedroomproducersblog.com/wp-content/uploads/2016/12/grooove-bpb-promo.jpg)
 
@@ -6200,7 +6200,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Thirdharmonic.net](http://www.thirdharmonic.net/exd80-free-vst-drum-synth) - nan
 
@@ -6210,7 +6210,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [AudioSpillage-MiniSpillage](http://www.audiospillage.com/minispillage.html) - MiniSpillage is a compact freeware drum synthesizer plugin instrument for macOS
 
@@ -6220,7 +6220,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://beats24-7.com/wp-content/uploads/nc/edd/2019/01/Trap-Godz.jpg)
 
@@ -6232,7 +6232,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [,](http://www.nsdrums.ru/index.php/j-311-kit-2.html) - nan
 
@@ -6242,7 +6242,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.wavealchemy.co.uk/wp-content/uploads/2022/08/KPR_77_Drums_600px3_jpg.jpg)
 
@@ -6254,11 +6254,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/leludsdrumsfreeweb.jpg)
 
-[Lel UDS Drums Free VSTi by Softrave](https://www.kvraudio.com/product/lel-uds-drums-free-vsti-by-softrave) - LEL UDS Drums VSTi has 140 samples of the famous vintage analog drum module Lel UDS. You have the possibility to filter the high frequency o...
+[Lel UDS Drums Free VSTi by Softrave](https://www.kvraudio.com/product/lel-uds-drums-free-vsti-by-softrave) - LEL UDS Drums VSTi has 140 samples of the famous vintage analog drum module Lel UDS. You have the possibility to filter the high frequency o…
 
 2022-10-28T19:38:24.000Z
 
@@ -6266,7 +6266,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.meldaproduction.com/images/screenshots/half/pro_image_s/ff/MDrummer.jpg;image/jpeg;5e96af3c5e501;100.png?id=101)
 
@@ -6278,7 +6278,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2014/12/c4@025x.png)
 
@@ -6290,7 +6290,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -6302,7 +6302,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -6314,7 +6314,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [SnareBuzz-Snare rattle simulator-Free audio plugin](https://www.wavesfactory.com/product/snarebuzz) - Free audio plugin (VST, VST3, AAX, AU) that simulates the sympathetic resonances of a snare drum while a sound source is nearby. Perfect to add an extra dimension of reality to your tracks.
 
@@ -6324,7 +6324,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -6336,7 +6336,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [KickMaker](http://teragonaudio.com/KickMaker.html) - nan
 
@@ -6346,7 +6346,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2015/04/punching@025x.png)
 
@@ -6358,7 +6358,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2015/04/cling_film@025x.png)
 
@@ -6370,7 +6370,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2015/04/toaster@025x.png)
 
@@ -6382,7 +6382,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://impactsoundworks.com/wp-content/uploads/2012/12/Cinematic-Synthetic-Drums-Featured-Image.png)
 
@@ -6394,7 +6394,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.audioimperia.com/cdn/shop/products/trailerfreebie_box_medium.jpg?v=1443380487)
 
@@ -6406,7 +6406,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://8dio.com/cdn/shop/products/FreeRadicalsvideo2_572dbeba-7f70-406f-8b9d-8b82dd77daa4.png?v=1651902617)
 
@@ -6418,7 +6418,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://impactsoundworks.com/wp-content/uploads/2017/04/Super-Audio-Boy-Featured-Image.png)
 
@@ -6430,7 +6430,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -6442,7 +6442,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -6454,7 +6454,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://8dio.com/cdn/shop/products/cajoncollectiongrid.png?v=1651992687)
 
@@ -6466,7 +6466,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -6478,7 +6478,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -6490,7 +6490,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -6502,7 +6502,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -6514,7 +6514,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Music Boxes : Free Sample Library for Kontakt, Ableton Live & Logic EXS24-Soniccouture](http://www.soniccouture.com/en/products/p43-music-boxes) - nan
 
@@ -6524,7 +6524,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Music Box-Free Kontakt library-Wavesfactory](https://www.wavesfactory.com/product/musicbox) - nan
 
@@ -6534,7 +6534,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -6546,7 +6546,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2016/08/egyptian.png)
 
@@ -6558,7 +6558,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [https://mahmoudaltaf.com/sampled-instruments](https://mahmoudaltaf.com/sampled-instruments) - nan
 
@@ -6568,7 +6568,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://samplehero.com/cdn/shop/products/SampleHero_VINTAGETOYTAMBOURINE_Product_Box_240x.jpg?v=1506135043)
 
@@ -6580,7 +6580,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Hugo Kant-Samples-Balafon](http://hugokant.com/samples/balafon) - : 22 notes-3 octaves Balafon 3 Layers-4 velocity of sustained sound 1 Layer-4 velocity of muted sound 352 stereo aiff samples 16/44.1 (64,3 Mo)  Recorded/edited with : 2 x Neumann KM 184 - 2 Millennia TD-1 - Motu 828 - Ableton Live - Sample Manager  Kontakt-Combinator NN-XT-Ableton sampler formats.
 
@@ -6590,7 +6590,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.strezov-sampling.com/data/uploads/products/708ab4f74a6b95b342cbf3b3b686e54e.jpg)
 
@@ -6602,7 +6602,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.strezov-sampling.com/data/uploads/products/93a88741cf58369359942b11734b9f08.png)
 
@@ -6614,11 +6614,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/cymbalistic_3.jpg)
 
-[Cymbalistic by Alan ViSTa](https://www.kvraudio.com/product/cymbalistic-by-alan-vista) - Cymbalistic is a sampled cymbals set. It contains 68 stereo 24-bit samples from the University of Iowa Electronic Music Studios public domai...
+[Cymbalistic by Alan ViSTa](https://www.kvraudio.com/product/cymbalistic-by-alan-vista) - Cymbalistic is a sampled cymbals set. It contains 68 stereo 24-bit samples from the University of Iowa Electronic Music Studios public domai…
 
 2022-10-28T19:38:24.000Z
 
@@ -6626,11 +6626,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/royotoms.jpg)
 
-[Royotoms by Alan ViSTa](https://www.kvraudio.com/product/royotoms-by-alan-vista) - Royotoms is a sampled rototoms set. This 8 rototoms set was sampled by Roy Miller, it is tuned to play the famous Time song by Pink FLoyd....
+[Royotoms by Alan ViSTa](https://www.kvraudio.com/product/royotoms-by-alan-vista) - Royotoms is a sampled rototoms set. This 8 rototoms set was sampled by Roy Miller, it is tuned to play the famous Time song by Pink FLoyd….
 
 2022-10-28T19:38:24.000Z
 
@@ -6638,7 +6638,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -6650,7 +6650,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -6662,7 +6662,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://reflektaudio.com/wp-content/uploads/2019/11/Xylo-Wood.png)
 
@@ -6674,7 +6674,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -6686,7 +6686,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Hugo Kant-Samples-Vibraphone](http://hugokant.com/samples/vibraphone) - : Vibraphone. Recorded with an analog studer.
 
@@ -6696,7 +6696,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://i0.wp.com/filmscoringtips.com/wp-content/uploads/2020/04/xyloCover-scaled.jpg?fit=2400%2C1490&ssl=1)
 
@@ -6708,7 +6708,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -6720,7 +6720,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -6732,7 +6732,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Zither](https://vis.versilstudios.com/zither.html) - nan
 
@@ -6742,7 +6742,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2016/08/charles@025x.png)
 
@@ -6754,7 +6754,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2019/04/pure_snap_magic.png)
 
@@ -6766,7 +6766,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Whispers-Free Kontakt library-Wavesfactory](https://www.wavesfactory.com/product/whispers) - nan
 
@@ -6776,7 +6776,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Account Suspended](http://www.samplekatra.com/HB) - nan
 
@@ -6786,7 +6786,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2019/04/strashed-1.png)
 
@@ -6798,7 +6798,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2018/10/Gourd-Kalimba-Product-Art-Idea-4.jpg)
 
@@ -6810,7 +6810,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Crystal glass](https://www.andreastmusic.com/shop/crystal-glass) - nan
 
@@ -6820,7 +6820,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2015/04/rosinspiel@025x.png)
 
@@ -6832,7 +6832,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2015/05/jonathans@025x.png)
 
@@ -6844,7 +6844,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Soprano Jug Drum](https://www.embertone.com/instruments/jugfree.php) - nan
 
@@ -6854,7 +6854,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Atom Hub](http://www.atomhub.net/Free_Candlestick.html) - Unusual and experimental sample libraries.
 
@@ -6864,7 +6864,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Kitchen](https://www.embertone.com/instruments/kitchen.php) - nan
 
@@ -6874,7 +6874,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2019/06/Balloon-Drums-Cover-Art.jpg)
 
@@ -6886,7 +6886,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2019/01/PVC-Tube-Cover-Art-Idea-1.jpg)
 
@@ -6898,7 +6898,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.pulsesetter-sounds.com/wp-content/uploads/2019/01/product-cover_metalstorm_FULL2.png)
 
@@ -6910,7 +6910,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://sonixinema.com/cdn/shop/products/MM_Poster_test_3_medium.jpg?v=1543244710)
 
@@ -6922,7 +6922,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2019/05/Tiger-Xylophone-Cover-Art.jpg)
 
@@ -6934,7 +6934,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [The Ghent carillon](http://sonimusicae.free.fr/carillondegand-en.html) - The Ghent carillon is a free soundbank of the bells of the belfry of Ghent
 
@@ -6944,7 +6944,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2019/10/London-Underground-Proof-of-Concept-Instrument-Cover-Art.jpg)
 
@@ -6956,7 +6956,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2018/10/Wine-Glasses-Cover-Art.jpg)
 
@@ -6968,7 +6968,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Typewriter (Free)](http://borth-audio.com/instruments/typewriter?fbclid=IwAR2qZ_wSR4xu02WDpny91VUSn4hw1AJZmGfA7XSHMGwvklrK7I8NV1Oynv8) - nan
 
@@ -6978,7 +6978,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Atom Hub](http://atomhub.net/Free_Bus_Stop.html) - Unusual and experimental sample libraries.
 
@@ -6988,7 +6988,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://99sounds.org/wp-content/uploads/2023/07/clap-samples.jpg)
 
@@ -7000,7 +7000,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Sticky Rain (Free)](http://borth-audio.com/instruments/sticky-rain) - nan
 
@@ -7010,7 +7010,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2019/01/Tea-Kettle-Cover-Art-2.jpg)
 
@@ -7022,7 +7022,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Intimate Strings LITE](https://www.embertone.com/freebies/intstrings-lite.php) - nan
 
@@ -7032,7 +7032,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2019/04/pocketblakus.png)
 
@@ -7044,7 +7044,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Orchestral Rise Builder-Kontakt](https://www.hiddenpathaudio.com/free) - nan
 
@@ -7054,11 +7054,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/string1m.png)
 
-[Orchestral Strings One by Sound Magic](https://www.kvraudio.com/product/orchestral-strings-one-by-sound-magic) - Orchestral Strings One was recorded utilizing the legendary acoustics in the famous Berliner Hall - home of the world class BERLINER PHILHAR...
+[Orchestral Strings One by Sound Magic](https://www.kvraudio.com/product/orchestral-strings-one-by-sound-magic) - Orchestral Strings One was recorded utilizing the legendary acoustics in the famous Berliner Hall - home of the world class BERLINER PHILHAR…
 
 2022-10-28T19:38:24.000Z
 
@@ -7066,7 +7066,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://impactsoundworks.com/wp-content/uploads/2015/04/Stroh-Violin-Featured-Image.png)
 
@@ -7078,7 +7078,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Page not found PatchArena](http://patcharena.com/free-sampled-lush-strings-ensemble-instrument-warm-strings-sfz) - nan
 
@@ -7088,7 +7088,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Free Orchestra Chords - Sonuscore](https://sonuscore.com/free-orchestra-chords) - [spb_single_image image=2565 image_size=full frame=noframe lightbox=no link_target=_self fullwidth=no width=1/2 el_position=first][/spb_single_image] [spb_text_block pb_margin_bottom=no pb_border_bottom=no width=1/2 el_position=last] TWO FREE ORCHESTRA KONTAKT INSTRUMENTS [Note: These products require a FULL version of Native Instruments KONTAKT 5.6.0 The free Kontakt player is not sufficient] You love the warm and massivesound of a full symphonic orchestra, but normal Plug-Ins either sound too thin or cost too much? []
 
@@ -7098,7 +7098,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -7110,7 +7110,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2020/12/Slinky-Violin-Cover-Art-Idea-1.jpg)
 
@@ -7122,7 +7122,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2019/02/Lewis-E-Pyle-Violin-Cover-Art-Idea-1.jpg)
 
@@ -7134,7 +7134,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -7146,7 +7146,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -7158,7 +7158,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2020/05/Box-Violin-Sustains-Swells-Cover-Idea-1.jpg)
 
@@ -7170,7 +7170,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2019/12/Box-Violin-Harmonics-Cover-Idea-1.jpg)
 
@@ -7182,7 +7182,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Soundkeys VSTi](http://soundkeysvst.free.fr) - nan
 
@@ -7192,7 +7192,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Real Cello Mayhem: Free Cello Kontakt Library](https://thefuturemuse.com/real-cello-mayhem-free-cello-kontakt-library) - Download this free cello Kontakt library by Regulus Sound Productions. Real Cello Mayhem is an inspirational, yet free Kontakt library for music producers. Create atmospheric, beautiful, and energe
 
@@ -7202,7 +7202,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -7214,7 +7214,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -7226,7 +7226,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -7238,7 +7238,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Samsara Cycle Audio](http://samcycle.blogspot.co.uk) - Samasara Cycle Audio is dedicated to bringing quality products for the creation of music.
 
@@ -7248,7 +7248,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2018/11/Bowed-Nagoya-Harp-Cover-Art-Idea-1.jpg)
 
@@ -7260,7 +7260,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Free Strings Vst Plugins](http://www.vst4you.com/strings%20vst.html) - free vst instruments to download: best free strings vst plug-ins to download that will enrich your work space with strings sounds.
 
@@ -7270,7 +7270,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -7282,7 +7282,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Algo music](http://westgatesounds.net/AlgoMusic) - nan
 
@@ -7292,7 +7292,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Clare Solo](http://ivyaudio.com/Clare-Solo) - Free Solo Vocal Library for Kontakt
 
@@ -7302,7 +7302,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Plogue-Alter/Ego :: real-time singing synthesizer](https://www.plogue.com/products/alter-ego.html) - A free real-time singing software (VST/AU/AAX plugin) synthesizer based on the technology featured in chipspeech but focusing on more modern techniques. Windows and macOS.
 
@@ -7312,7 +7312,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Zip](https://www.karoryfer.com/karoryfer-samples/wydawnictwa/marie-ork/zip) - nan
 
@@ -7322,11 +7322,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/kvraudio-300x300-grey-eeeeee.png)
 
-[Delay Lama by AudioNerdz](https://www.kvraudio.com/product/delay_lama_by_audionerdz) - Delay Lama makes your computer sound and look like a singing Tibetan monk. Delay Lama is the first software synthesizer that features both v...
+[Delay Lama by AudioNerdz](https://www.kvraudio.com/product/delay_lama_by_audionerdz) - Delay Lama makes your computer sound and look like a singing Tibetan monk. Delay Lama is the first software synthesizer that features both v…
 
 2022-10-28T19:38:24.000Z
 
@@ -7334,7 +7334,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -7346,7 +7346,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://thehomerecordings.com/wp-content/uploads/2022/05/Best-Choir-VST-Plugins.jpg)
 
@@ -7358,11 +7358,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://4.bp.blogspot.com/-zpbvbQutt3M/WRzjKoRccLI/AAAAAAAAAqE/kKe8hK5Wm84Tfo6wJAxC0VDmD4absqZ-ACLcB/s320/Choir.jpg)
 
-[Mihai Sorohan Choir](http://bigcatinstruments.blogspot.com/2017/05/mihai-sorohan-choir.html?m=1) - Soundcloud Demo     Vowel Ensemble Choir for Kontakt 5     Vowel Ensemble Choir for SFZ    The internet has allowed for collaborations ...
+[Mihai Sorohan Choir](http://bigcatinstruments.blogspot.com/2017/05/mihai-sorohan-choir.html?m=1) - Soundcloud Demo     Vowel Ensemble Choir for Kontakt 5     Vowel Ensemble Choir for SFZ    The internet has allowed for collaborations …
 
 2022-10-28T19:38:24.000Z
 
@@ -7370,7 +7370,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.dskmusic.com/wp-content/uploads/2012/01/DSK-ChoirZ.jpg)
 
@@ -7382,7 +7382,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.decentsamples.com/wp-content/uploads/2019/04/Dave-Choir-Cover-Art-3.jpg)
 
@@ -7394,7 +7394,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Ancient Voices](https://www.embertone.com/instruments/ancientvoices.php) - nan
 
@@ -7404,7 +7404,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.dskmusic.com/wp-content/uploads/2014/11/DSK_Saxophones.jpg)
 
@@ -7416,7 +7416,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -7428,11 +7428,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://3.bp.blogspot.com/-StRN6Lu-f7U/VowM18lkYZI/AAAAAAAAAgw/uQ3Oh-8VzQE/s400/alto%2Bsax%2Bpic.jpg)
 
-[Karoryfer Alto Sax](http://bigcatinstruments.blogspot.com/2016/01/karoryfer-alto-sax.html?m=1) - Karoryfer Alto Sax Electric for Konakt  Karoryfer Alto Sax WIPs   Soundcloud Demo      From  the same mind that brought you this nice ...
+[Karoryfer Alto Sax](http://bigcatinstruments.blogspot.com/2016/01/karoryfer-alto-sax.html?m=1) - Karoryfer Alto Sax Electric for Konakt  Karoryfer Alto Sax WIPs   Soundcloud Demo      From  the same mind that brought you this nice …
 
 2022-10-28T19:38:24.000Z
 
@@ -7440,7 +7440,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -7452,7 +7452,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -7464,7 +7464,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -7476,7 +7476,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -7488,7 +7488,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -7500,7 +7500,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -7512,7 +7512,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -7524,11 +7524,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://i1.ytimg.com/vi/KVjDu0kxUto/0.jpg)
 
-[bigcat Saxophone Collection](https://bigcatinstruments.blogspot.com/2014/03/bigcat-saxophone-collection.html?m=1) - I've always enjoyed the sound of the saxophone, so I've started creating some sax instruments from public domain and creative commons sample...
+[bigcat Saxophone Collection](https://bigcatinstruments.blogspot.com/2014/03/bigcat-saxophone-collection.html?m=1) - I've always enjoyed the sound of the saxophone, so I've started creating some sax instruments from public domain and creative commons sample…
 
 2022-10-28T19:38:24.000Z
 
@@ -7536,7 +7536,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2016/08/feroyns.png)
 
@@ -7548,7 +7548,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Ivory Wind](https://www.embertone.com/instruments/ivorywind.php) - nan
 
@@ -7558,7 +7558,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.fluffyaudio.com/wp-content/uploads/2015/11/simple-flute.png)
 
@@ -7570,7 +7570,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Xavier Hosxe music related stuffs](http://xhosxe.free.fr/ixoxflute.html) - nan
 
@@ -7580,7 +7580,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -7592,7 +7592,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://sonuscore.com/wp-content/uploads/2020/04/EthnicFluteFreebie_Packshot_Kontakt_Badge.png)
 
@@ -7604,7 +7604,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -7616,11 +7616,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://www.mihaisorohan.net/images/cover_rec.jpg)
 
-[Free Recorder Samples](https://mihaisorohan.blogspot.com/2016/02/free-recorder-samples.html) - Instrument sampled - Yamaha Soprano Recorder  Recorded at 32 bit float, 44.1 khz samplerate, converted at 24 bit.  Played and sampled by Mi...
+[Free Recorder Samples](https://mihaisorohan.blogspot.com/2016/02/free-recorder-samples.html) - Instrument sampled - Yamaha Soprano Recorder  Recorded at 32 bit float, 44.1 khz samplerate, converted at 24 bit.  Played and sampled by Mi…
 
 2022-10-28T19:38:24.000Z
 
@@ -7628,7 +7628,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Freelodia-Free melodica Kontakt library-Freelodica](https://www.wavesfactory.com/product/freelodica) - nan
 
@@ -7638,7 +7638,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -7650,7 +7650,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://vstbuzz.com/wp-content/uploads/2015/07/carpenter@025x.png)
 
@@ -7662,7 +7662,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static1.s123-cdn-static-a.com/uploads/5343463/800_6124d449e5a8a.png)
 
@@ -7674,7 +7674,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -7686,7 +7686,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -7698,7 +7698,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -7710,7 +7710,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -7722,7 +7722,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -7734,7 +7734,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -7746,7 +7746,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -7758,7 +7758,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Carpenter Trombone](http://www.ivyaudio.com/Carpenter-Trombone) - Free Trombone Library for Kontakt
 
@@ -7768,7 +7768,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/zip.jpg)
 
@@ -7780,7 +7780,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.mediafire.com/images/filetype/download/default.jpg)
 
@@ -7792,7 +7792,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://shop.karoryfer.com/cdn/shop/files/socials_preview.png?v=1616179384)
 
@@ -7804,7 +7804,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Choir Horns-Soniccouture](http://www.soniccouture.com/en/products/p174-choir-horns) - nan
 
@@ -7814,7 +7814,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.dskmusic.com/wp-content/uploads/2012/01/DSK-Brass.jpg)
 
@@ -7826,7 +7826,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://spitfireaudio.imgix.net/ceea527e-e9a2-4b3b-9d7e-96f053744803/smc0338_square_press.png?auto=compress%2Cformat&dpr=2&rect=0%2C0%2C3508%2C3508)
 
@@ -7838,7 +7838,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.orchestraltools.com/media/cache/thumb/rc/N6rSvgZo//uploads/image/collection_imageOg_1614074623_layers.jpg)
 
@@ -7850,11 +7850,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://2.bp.blogspot.com/-Il25Aznmqco/V_Vgc1AeMsI/AAAAAAAAAoA/WjI4nqh81-sRxoqEM0VGQdNC7qQFnD9xACLcB/s640/sonatina%2Bmodule.jpg)
 
-[Sound Modules](http://bigcatinstruments.blogspot.com/2016/10/sound-modules.html) - Hey a new Rompler is out this time featuring the VSCO2 Community Orchestra. Check it out on a new blog devoted entirely to VST Instruments....
+[Sound Modules](http://bigcatinstruments.blogspot.com/2016/10/sound-modules.html) - Hey a new Rompler is out this time featuring the VSCO2 Community Orchestra. Check it out on a new blog devoted entirely to VST Instruments….
 
 2022-10-28T19:38:24.000Z
 
@@ -7862,9 +7862,9 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
-[No Budget Orchestra](http://bigcatinstruments.blogspot.com/2016/08/no-budget-orchestra.html?m=1) - Sometime ago Jeff Glatt started creating the No Budget Orchestra for SFZ .He's also been adding many band instruments and all kinds of cool ...
+[No Budget Orchestra](http://bigcatinstruments.blogspot.com/2016/08/no-budget-orchestra.html?m=1) - Sometime ago Jeff Glatt started creating the No Budget Orchestra for SFZ .He's also been adding many band instruments and all kinds of cool …
 
 2022-10-28T19:38:24.000Z
 
@@ -7872,11 +7872,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://2.bp.blogspot.com/-nbobC-kuk1g/WrlR4-sNObI/AAAAAAAAAvI/zmEfzTiACsk66LZ5PhiAY4XSiEYbZr4sACLcBGAs/s320/VCSL.png)
 
-[VCSL Instruments for Kontakt](http://bigcatinstruments.blogspot.com/2018/03/vcsl-instruments-for-kontakt.html) - Well here we go again. Sam Gossner, the man behind Versillian Studios  and the VSCO2 Orchestra , has created the  Versilian Community Sam...
+[VCSL Instruments for Kontakt](http://bigcatinstruments.blogspot.com/2018/03/vcsl-instruments-for-kontakt.html) - Well here we go again. Sam Gossner, the man behind Versillian Studios  and the VSCO2 Orchestra , has created the  Versilian Community Sam…
 
 2022-10-28T19:38:24.000Z
 
@@ -7884,7 +7884,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://redroomaudio.com/wp-content/uploads/2018/06/RRA007-PPC-box-800x800.png)
 
@@ -7896,11 +7896,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/piano_interface.jpg)
 
-[The Total Composure Orchestra by Xtant Audio - Orchestral](https://www.kvraudio.com/product/the-total-composure-orchestra-by-xtant-audio) - The Total Composure orchestra (TCO) is a full orchestral sample library created using only samples that are in the public domain. Total Comp...
+[The Total Composure Orchestra by Xtant Audio - Orchestral](https://www.kvraudio.com/product/the-total-composure-orchestra-by-xtant-audio) - The Total Composure orchestra (TCO) is a full orchestral sample library created using only samples that are in the public domain. Total Comp…
 
 2022-10-28T19:38:24.000Z
 
@@ -7908,11 +7908,11 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](http://virtualplaying.com/w/images/facebook-web-page-thumb-blog-post.png)
 
-[Blog Post](http://virtualplaying.com/virtual-playing-orchestra) - Virtual Playing Orchestra ... Virtual Playing Orchestra: It covers all the needs  vitalker [Downloaded times since version 1.0  Nov 3, 2016] Virtual Playing Orchestra is a full, free orchestral sample library featuring section and solo instruments for woodwinds, brass, strings and percussion. Click the buttons below to learn more, to download the library and to hear a...
+[Blog Post](http://virtualplaying.com/virtual-playing-orchestra) - Virtual Playing Orchestra … Virtual Playing Orchestra: It covers all the needs  vitalker [Downloaded times since version 1.0  Nov 3, 2016] Virtual Playing Orchestra is a full, free orchestral sample library featuring section and solo instruments for woodwinds, brass, strings and percussion. Click the buttons below to learn more, to download the library and to hear a…
 
 2022-10-28T19:38:24.000Z
 
@@ -7920,7 +7920,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.dskmusic.com/wp-content/uploads/2012/01/DSK-Overture.jpg)
 
@@ -7932,7 +7932,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.dskmusic.com/wp-content/uploads/2012/01/DSK-Virtuoso.jpg)
 
@@ -7944,7 +7944,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://i1.wp.com/www.audiopluginsforfree.com/wp-content/uploads/2019/05/altosaxhorn.png?fit=634%2C326&ssl=1)
 
@@ -7956,7 +7956,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [VSCO Community](https://vis.versilstudios.com/vsco-community.html) - nan
 
@@ -7966,7 +7966,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [One Track Orchestra - FREE Orchestral VSTi](http://www.makesomemusicnow.com/p/one-track-orchestra-free-orchestral-vsti.html) - Download a free VST instrument that puts a complete orchestra on a single track of your DAW. You can add strings, brass, woodwinds and even percussion at the same time, using only one MIDI channel.
 
@@ -7976,7 +7976,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.dskmusic.com/wp-content/uploads/2023/05/icono.png)
 
@@ -7988,7 +7988,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Home](https://www.pianobook.co.uk) - nan
 
@@ -7998,7 +7998,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Center for Arts & Technologies at Seoul National University](http://en.catsnu.com/Project/GugakVSTi.aspx) - nan
 
@@ -8008,7 +8008,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://static.kvraudio.com/i/b/kvraudio-300x300-grey-eeeeee.png)
 
@@ -8020,7 +8020,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.whippedcreamsounds.com/wp-content/uploads/2020/01/250-best-free-vst-instruments.jpg)
 
@@ -8032,9 +8032,9 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
-[GM Midi Instruments for Kontakt](http://bigcatinstruments.blogspot.com/2014/08/gm-midi-instruments-for-kontakt.html) - General Midi Sound Set  I'm a bit obsessed with making available all 128 instruments of the General Midi 1  Sound Set . This is the soun...
+[GM Midi Instruments for Kontakt](http://bigcatinstruments.blogspot.com/2014/08/gm-midi-instruments-for-kontakt.html) - General Midi Sound Set  I'm a bit obsessed with making available all 128 instruments of the General Midi 1  Sound Set . This is the soun…
 
 2022-10-28T19:38:24.000Z
 
@@ -8042,7 +8042,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Ivy Audio](http://www.ivyaudio.com) - Free Kontakt Libraries
 
@@ -8052,7 +8052,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Hugo Kant-Samples](http://hugokant.com/samples) - free audio samples - ableton - kontakt - reason
 
@@ -8062,7 +8062,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Cinematique Instruments - Modern Instruments for your Inspiration](https://cinematique-instruments.com/inst_all_sites/inst_all17_free.php) - We are a special boutique shop with unique software instruments for Kontakt and HALion that give you crucial inspiration for your music production.
 
@@ -8072,9 +8072,9 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
-[Audio Plugins for Free](https://www.audiopluginsforfree.com) - Download the Best Free Audio Plugins .VST, RTAs, AudioUnits...Synths, Reverbs, Compressors...and much more. Just click and download.
+[Audio Plugins for Free](https://www.audiopluginsforfree.com) - Download the Best Free Audio Plugins .VST, RTAs, AudioUnits…Synths, Reverbs, Compressors…and much more. Just click and download.
 
 2022-10-28T19:38:24.000Z
 
@@ -8082,7 +8082,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [Download music editing software free ACID Pro](https://www.magix.com/int/free-download/independence-free-sampler-software) - Edit, produce and edit music for free. ACID Pro offers you all the advantages of a DAW for music production.
 
@@ -8092,7 +8092,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://output.com/product-pages/images/arcade-social.png)
 
@@ -8104,7 +8104,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [RSCI01 FREE Audition Chamaeleon](http://www.replikasound.co.uk/free_audition_chamaeleon.html) - Dark Piano Virtual Instrument for Kontakt 5
 
@@ -8114,7 +8114,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.plogue.com/images/Sforzando_interface_1.png)
 
@@ -8126,7 +8126,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [TX16Wx Software Sampler sampler plug-in for creative musicians](http://www.tx16wx.com) - nan
 
@@ -8136,7 +8136,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [IK Multimedia - SampleTank Custom Shop](https://www.ikmultimedia.com/products/sampletankcs?pkey=sampletank-custom-shop) - SampleTank 3 is the latest version of the IK Multimedia sound and groove workstation virtual instrument with an extensive sound, instrument, and groove library
 
@@ -8146,7 +8146,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.adsrsounds.com/wp-content/themes/adsr/ajax/fb-img-fix.php?i=https://www.adsrsounds.com/wp-content/uploads/2020/09/537698-sqr.jpg&v=11)
 
@@ -8158,7 +8158,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.uvi.net/1521/263.jpg)
 
@@ -8170,7 +8170,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [SampleTank 4 Custom Shop](https://www.ikmultimedia.com/products/st4cs) - SampleTank 4 is the latest version of the IK Multimedia sound and groove workstation virtual instrument with an extensive sound, instrument, and groove library
 
@@ -8180,7 +8180,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://i0.wp.com/www.paulcecchettimusic.com/wp-content/uploads/2019/06/edirol-orchestral.jpg?fit=888%2C720&ssl=1)
 
@@ -8192,7 +8192,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.native-instruments.com/uploads/media/Kontakt-7-player-product-page-00-social-share_01.jpg)
 
@@ -8204,7 +8204,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 [https://www.bandlab.com/download/assistant/windows](https://www.bandlab.com/download/assistant/windows) - nan
 
@@ -8214,7 +8214,7 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-### Audio-Pro Audio-VSTI
+#### Audio-Pro Audio-VSTI
 
 ![](https://www.native-instruments.com/uploads/media/Komplete-14-Start-product-page-01-welcome-social_01.png)
 
@@ -8226,4 +8226,4 @@ virtual-analog-synthesizer-by-discodsp) - OB-Xd is based on the Oberheim OB-X. I
 
 ---
 
-## Media
+### Media

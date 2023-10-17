@@ -1,6 +1,7 @@
 ## Pallets
-
 ### Pallets
+
+#### Pallets
 
 ![](https://64.media.tumblr.com/avatar_2e2da35efc54_128.pnj)
 
@@ -12,7 +13,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 ![](https://colorlib.com/wp-content/uploads/sites/2/best-website-templates-1.jpg)
 
@@ -24,7 +25,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 ![](https://coolors.co/assets/img/og_image.png)
 
@@ -36,7 +37,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 [BrandColors](https://brandcolors.net) - The biggest collection of official brand color codes around. Includes hex colors codes for 500+ brands including Facebook, Twitter, Instagram, and many more.
 
@@ -46,7 +47,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 [Adobe Color CC](https://color.adobe.com/pl/create/color-wheel) - Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
 
@@ -56,7 +57,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 ![](https://lh3.googleusercontent.com/JHgGb5sWzuZecolMRmsJluBhKZFQ1FrO9YXgcHkqRb9hy-73rOJh-smwk3oHVJDxCf0BdoYFJAPbGd_d-_i3cLugsw=w128-h128-e365-rj-sc0x00ffffff)
 
@@ -68,7 +69,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 [0to255](https://www.0to255.com) - Choose colors for your logo, website, business, room, or print design project. Adjust colors quickly and easily.
 
@@ -78,7 +79,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 ![](https://learn.canva.com/wp-content/uploads/2018/07/100-brilliant-color-combinations-and-how-to-apply-them-to-your-designs-02.png)
 
@@ -90,7 +91,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 [Color](https://color.adobe.com/pt/create) - nan
 
@@ -100,7 +101,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 [Color Trends + Palettes :: COLOURlovers](https://www.colourlovers.com) - nan
 
@@ -110,7 +111,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 ![](https://www.toptal.com/designers/colourcode//assets/images/opengraph.png)
 
@@ -122,7 +123,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 ![](https://www.toptal.com/designers/colourcode//assets/images/opengraph.png)
 
@@ -134,7 +135,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 [Colours](https://webcolourdata.com) - nan
 
@@ -144,7 +145,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 [Colours](https://ww12.webcolourdata.com) - nan
 
@@ -154,7 +155,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 ![](https://static-cse.canva.com/_next/static/assets/wiki-social-combo-fb_w1200xh628_eb630e9beeb96f28014ded4940b3055017affb840e3e641d0fcc9f97d3d3660b.png)
 
@@ -166,7 +167,7 @@
 
 ---
 
-### Pallets
+#### Pallets
 
 [147 Colors Grid - CSS Color Names](https://147colors.com) - This is a tool to help web designers and developers learn the 147 CSS color names that are available today. The 147 Colors consist of 17 standard plus 130 more.
 
@@ -176,4 +177,4 @@
 
 ---
 
-### Patterns
+#### Patterns

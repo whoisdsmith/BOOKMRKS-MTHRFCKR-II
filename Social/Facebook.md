@@ -1,6 +1,6 @@
-# Facebook
-
 ## Facebook
+
+### Facebook
 
 ![](https://res.cloudinary.com/xielabs/image/upload/v1663476956/PH_Hero.jpg)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Facebook
+### Facebook
 
 [Messenger Archive Viewer](https://messenger-json-viewer.vercel.app) - View your exported messenger data in style
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Facebook
+### Facebook
 
 [Save the data in plain text files](https://kbroman.org/dataorg/pages/csv_files.html) - Data organization: Use plain text files
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Facebook
+### Facebook
 
 ![](https://ph-files.imgix.net/d344d4c6-2e46-45b6-8842-9474b40815ce.png?auto=format&fit=max&h=405&w=500)
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Facebook
+### Facebook
 
 [View your instagram data in a spreadsheet](https://data.page/instagram-export) - How to extract instagram data (in JSON format) and export the data to CSV (for viewing in Excel)
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Facebook
+### Facebook
 
 ![](https://blog.coupler.io/wp-content/uploads/2021/03/coupler.io_.png)
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Facebook
+### Facebook
 
 ![](https://share.redd.it/preview/post/9yg9b5)
 
@@ -78,7 +78,7 @@
 
 ---
 
-## Facebook
+### Facebook
 
 [About Structured Messages (JSON) for Messenger-Facebook Business Help Center](https://www.facebook.com/business/help/1646890868956360) - Learn about JSON Structured Messages for people who click on your ads.
 
@@ -88,13 +88,13 @@
 
 ---
 
-## Facebook
+### Facebook
 
 ![](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)
 
 [How to save each line in a text file as new file - Stack Overflow](https://stackoverflow.com/questions/30605732/how-to-save-each-line-in-a-text-file-as-new-file) - I have a tab delimited text file with 5 columns, and I'd like each row to be its own txt file that contains information from columns 2-5 and is named after column 1.
 
-For example, my txt file has hu...
+For example, my txt file has hu…
 
 2021-11-24T04:08:09.000Z
 
@@ -102,7 +102,7 @@ For example, my txt file has hu...
 
 ---
 
-## Facebook
+### Facebook
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*AvnDAyE7jHxKu7KbnRVHaQ.jpeg)
 
@@ -114,7 +114,7 @@ For example, my txt file has hu...
 
 ---
 
-## Facebook
+### Facebook
 
 ![](https://gubins.lv/posts/messenger/teaser.png)
 
@@ -126,7 +126,7 @@ For example, my txt file has hu...
 
 ---
 
-## Facebook
+### Facebook
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*SR6YO1MWwK3SF3XfcDlhkw.jpeg)
 
@@ -138,7 +138,7 @@ For example, my txt file has hu...
 
 ---
 
-## Facebook
+### Facebook
 
 [word-cloud](https://freesoft.dev/program/163022608) - nan
 
@@ -148,7 +148,7 @@ For example, my txt file has hu...
 
 ---
 
-## Facebook
+### Facebook
 
 [jq](https://stedolan.github.io/jq) - nan
 
@@ -158,7 +158,7 @@ For example, my txt file has hu...
 
 ---
 
-## Facebook
+### Facebook
 
 ![](https://pypi.org/static/images/twitter.abaf4b19.webp)
 

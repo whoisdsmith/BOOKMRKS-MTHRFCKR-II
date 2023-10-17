@@ -1,6 +1,6 @@
-# OSINT Blogs
-
 ## OSINT Blogs
+
+### OSINT Blogs
 
 [Yogesh Khatri's forensic blog](https://www.swiftforensics.com) - All things forensic and security related
 
@@ -10,7 +10,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Bitcoin - CSE](https://cse.google.com/cse?cx=016660200577587308545%3Aesf40ml9aag) - nan
 
@@ -20,7 +20,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Blade Forums](https://cse.google.com/cse?cx=012217165931761871935%3Aiqyc7cbzhci) - nan
 
@@ -30,7 +30,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Blade Forums 2 - Google Custom Search](https://cse.google.com/cse?cx=011197018607028182644%3Aqfobr3dlcra) - nan
 
@@ -40,7 +40,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Blog - CSE](https://cse.google.com/cse?cx=007463604650659733427%3Amhbjfvkrs9u) - nan
 
@@ -50,7 +50,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Blog 2 - CSE](https://cse.google.com/cse?cx=015539028133095552554%3Aa7cjnp0pn-4) - nan
 
@@ -60,7 +60,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Blog Posts - CSE](https://cse.google.com/cse?cx=008280912992940796406%3A2loacyxhyr0) - nan
 
@@ -70,7 +70,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Craigslist - Forums](https://forums.craigslist.org/?areaID=3) - nan
 
@@ -80,7 +80,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://cdn.joomla.org/images/sharing/joomla-org-og.jpg)
 
@@ -92,7 +92,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://l-stat.livejournal.net/img/og_image.jpg)
 
@@ -104,7 +104,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://offerup.com/assets/images/app-icon/icon-1024x1024.png)
 
@@ -116,7 +116,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](http://storage.proboards.com/homepage/images/sm_icon.png)
 
@@ -128,7 +128,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](http://static1.squarespace.com/static/5134cbefe4b0c6fb04df8065/t/64ff5e4ad470ea2e45575c59/1694457424406/squarespace-social-share-2023.jpg?format=1500w)
 
@@ -140,7 +140,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [TheHoodUp.com - Index page](https://thehoodup.com/board) - nan
 
@@ -150,7 +150,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png)
 
@@ -162,7 +162,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Angelfire](https://angelfire.lycos.com) - Angelfire is a great place to build and host a website, with free and paid hosting packages. Use Angelfire's excellent site builder tool to get a website up-and-running easily and quickly. Great support and get website building tips from our friendly community.
 
@@ -172,7 +172,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [AsianAve.com - Login](https://asianave.com) - nan
 
@@ -182,7 +182,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://bpimg.imgix.net/381bb0eccaf6f0f2150eac747fe6e3ef5e8721af_orig?auto=format&dpr=2.5&fit=crop&h=80&q=25&w=80&s=295667f6d8bdbcc9886a006196de4b18)
 
@@ -194,7 +194,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Blogspot - CSE](https://cse.google.com/cse?cx=partner-pub-5517943437149431%3A9243285856) - nan
 
@@ -204,7 +204,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://st.deviantart.net/minish/main/logo/card_black_large.png)
 
@@ -216,7 +216,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [IntelTechniques Blog](https://inteltechniques.com/blog/category/osint) - nan
 
@@ -226,7 +226,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Jake Creps OSINT Podcast](https://osintpodcast.com) - nan
 
@@ -236,7 +236,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [MiGente.com Where Latinos & Latinas Meet to Chat, Discuss, Engage](https://migente.com) - nan
 
@@ -246,7 +246,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://forums.nexopia.com/styles/flatawesome/xenforo/logo.og.png)
 
@@ -258,7 +258,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [OSINT Curious Podcast](https://osintcurio.us/webcast-20190106-1) - nan
 
@@ -268,7 +268,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://d3nn82uaxijpm6.cloudfront.net/assets/website/heatmap/fb/heatmap-d31ff07df8339b44371bc78dee596642d9faca031132c130a03efba03aa82b57.jpg)
 
@@ -280,7 +280,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Topix: Entertainment and News](https://topix.com) - nan
 
@@ -290,7 +290,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Typepad](https://www.typepad.com) - Typepad is the reliable, flexible blogging platform that puts the publisher in control. Plus great one-on-one support from our team of friendly experts.
 
@@ -300,7 +300,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://static.wixstatic.com/media/0784b1_ae3b31c72e8a407bb18c4c68a5d65884~mv2.png/v1/fill/w_1200,h_628,al_c/0784b1_ae3b31c72e8a407bb18c4c68a5d65884~mv2.png)
 
@@ -312,7 +312,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://s1.wp.com/home.logged-out/images/wpcom-og-image.jpg)
 
@@ -324,7 +324,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Airbus CyberSecurity Blog](https://blog.airbuscybersecurity.com) - nan
 
@@ -334,7 +334,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [AlienVault Blog](https://cybersecurity.att.com/blogs/labs-research) - AlienVault blogs offer news on the latest emerging global threats and practical advice to simplify threat management and compliance.
 
@@ -344,7 +344,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://www.netscout.com/sites/default/files/styles/large/public/2023-06/15/images/NS_Ask_ASERT_Webpage%20Header-original.png?itok=sUyPx6zB)
 
@@ -356,7 +356,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://www.bellingcat.com/app/uploads/2018/04/bellingcat_HP_logo_black.jpg)
 
@@ -368,11 +368,11 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://benjaminstrick.com/wp-content/uploads/2020/05/VS13-1.png)
 
-[Benjamin Stricks Blog](https://benjaminstrick.com/blog) - Targeted Healers: Open Source Analysis of Attacks on Hospitals and Medical Staff in Sudan  Jan 28, 2022 Analysis of the RealSikh Influence Operation Targeting Sikh Issues & Pushing Indian Nationalism [Influence Operations Case Study]  Nov 23 2021 Pro-China Influence Operations Targeting the West on Social Media [Influence Operations Case Study]  Aug 5... Continue reading
+[Benjamin Stricks Blog](https://benjaminstrick.com/blog) - Targeted Healers: Open Source Analysis of Attacks on Hospitals and Medical Staff in Sudan  Jan 28, 2022 Analysis of the RealSikh Influence Operation Targeting Sikh Issues & Pushing Indian Nationalism [Influence Operations Case Study]  Nov 23 2021 Pro-China Influence Operations Targeting the West on Social Media [Influence Operations Case Study]  Aug 5… Continue reading
 
 2022-04-01T10:51:20.000Z
 
@@ -380,7 +380,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://outpost24.com/wp-content/uploads/2023/05/threat-compass-dashboard1.svg)
 
@@ -392,7 +392,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Carbon Black Cyber Security Blog](https://blogs.vmware.com/security) - nan
 
@@ -402,7 +402,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Check Point Software Blog](https://blog.checkpoint.com) - Blog
 
@@ -412,7 +412,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [ClearSky Cyber Security Blog](https://www.clearskysec.com/blog) - nan
 
@@ -422,7 +422,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://www.crowdstrike.com/wp-content/uploads/2016/03/Blue.jpg)
 
@@ -434,7 +434,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [CyberCrime & Doing Time](https://garwarner.blogspot.com) - A blog about computer crime, digital evidence, and the cases and criminals related to those crimes.  Malware, botnets, spam, and phishing.
 
@@ -444,7 +444,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://blogs.blackberry.com/etc.clientlibs/bb-spa-react/clientlibs/clientlib-react/resources/bb-default-thumbnail-social.png)
 
@@ -456,7 +456,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://cdn.ttc.io/s/datadetoxkit.org/ui/DDK-logo-purple.png)
 
@@ -468,7 +468,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Decalage Resources](https://decalage.info/en/security) - nan
 
@@ -478,7 +478,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://labs.withsecure.com/content/dam/labs/og/OG-image.png)
 
@@ -490,7 +490,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://www.trellix.com/en-us/img/open-graphs/defaults/og-thumbnail-default.jpg)
 
@@ -502,7 +502,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://flashpoint.io/wp-content/uploads/2022/04/open-graph-default.png)
 
@@ -514,7 +514,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://www.forcepoint.com/sites/default/files/forcepoint-1200x630.png)
 
@@ -526,7 +526,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://www.fortinet.com/content/dam/fortinet/images/icons/fortinet-social-icon.jpg)
 
@@ -538,7 +538,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Fox-It Blogs](https://www.fox-it.com/nl-en/404) - nan
 
@@ -548,7 +548,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://i0.wp.com/blog.fox-it.com/wp-content/uploads/2022/01/cropped-fox-favicon.png?fit=512%2C512&ssl=1)
 
@@ -560,7 +560,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://assets-global.website-files.com/625f93b2923b4f2b1f2e7b64/626c60d263e3e22aecd2152a_GreyNoise-SocialShare-2400x1260.png)
 
@@ -572,7 +572,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [HolisticInfoSec Blog](https://holisticinfosec.blogspot.com) - Russ McRee's HolisticInfoSec  includes articles and research, as well as feedback and an occasional rant.  HolisticInfoSec promotes standards, simplicity, tooling and efficiency in achieving holistic information security.
 
@@ -582,7 +582,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://infocon.org/infocon.org-images/infocon-twitter-876.webp)
 
@@ -594,7 +594,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://miro.medium.com/v2/resize:fit:2400/1*7VWqxv0VubRMPep5MxGAdA.jpeg)
 
@@ -606,7 +606,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [IntelTechniques Blog](https://inteltechniques.com/blog) - nan
 
@@ -616,7 +616,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Joel Esler Blog](https://blog.joelesler.net) - Joel Esler, Sourcefire, Snort, Immunet, ClamAV, Apple, and Network Security. This is my blog.
 
@@ -626,7 +626,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Kaspersky Lab Resource Center](https://usa.kaspersky.com/resource-center) - Discover the types of computer viruses, worms, malware, & other cybercrimes to provide the best Internet security protection for yourself & your family.
 
@@ -636,7 +636,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Krebs on Security](https://krebsonsecurity.com) - In-depth security news and investigation
 
@@ -646,7 +646,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Langner - Resources](https://langner.com/resources) - Links to Langner's videos, OT-BASE online product documentation, Ralph's Robust Control System Networks book
 
@@ -656,7 +656,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Lastline Blog](https://www.lastline.com/blog) - nan
 
@@ -666,7 +666,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [List of Intelligence Gathering Disciplines](https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines) - nan
 
@@ -676,7 +676,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://www.zerofox.com/wp-content/uploads/2022/09/ZeroFox-open-graph.png)
 
@@ -688,7 +688,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Michaels Security Blog](https://michenriksen.com/blog) - Security engineer with seven years of professional web application security experience. Currently working at GitLab.
 
@@ -698,7 +698,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
@@ -710,7 +710,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://resources.mynewsdesk.com/image/upload/c_limit,dpr_auto,f_auto,q_auto:good,w_600/jnmqwbtktdvgbzl57ovj)
 
@@ -722,7 +722,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Netresec Security Blog](https://www.netresec.com/?page=Blog) - Network forensics, packet sniffers and IT security products. Download NetworkMiner and other free software for network security analysis.
 
@@ -732,7 +732,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://static.opswat.com/uploads/images/blog_seo_image.jpg)
 
@@ -744,7 +744,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*4s8MfplzgMgJ_plvx6BWDw.png)
 
@@ -756,7 +756,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [OSINT - Secjuice Infosec Writers Guild](https://secjuice.com/tag/osint) - nan
 
@@ -766,7 +766,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://www.paloaltonetworks.com/etc/clientlibs/pan-templates/seoimages/social-panw.png)
 
@@ -778,7 +778,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [PWC Blogs - Cyber Security](https://pwc.blogs.com/cyber_security_updates) - Keeping you up to date with the latest Cyber Security issues including, Cyber Threats, Threat Intelligence, Network Security Threats and Research & Development. Hear from our team of experts at PwC UK.
 
@@ -788,7 +788,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Recorded Future Blog](https://www.recordedfuture.com/blog) - Stay informed with Recorded Future's blog. Learn about cyber threat intelligence analysis, industry perspective, product updates, company news, and more.
 
@@ -798,7 +798,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Resources and Reading for those interested in OSINT](https://peerlyst.com/posts/so-you-wanna-osint-resources-and-reading-for-those-interested-in-osint-joe-gray) - nan
 
@@ -808,7 +808,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Secureworks Blog](https://www.secureworks.com/blog) - Explore the latest security trends and leading practices to boost your strategy and better protect your operations.
 
@@ -818,7 +818,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [SecurityAffairs Intelligence Archives](https://securityaffairs.co/wordpress/category/intelligence) - nan
 
@@ -828,7 +828,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://securitytrails.com/dist/temp/meta/social.png)
 
@@ -840,7 +840,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://s0.wp.com/i/blank.jpg)
 
@@ -852,7 +852,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://blog.sucuri.net/wp-content/uploads/2023/06/image-1.png)
 
@@ -864,7 +864,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://secure.gravatar.com/blavatar/cb50364343f050c25ac0b49e472f60ba0ec5b19f2b96d71562879a2fb811eb37?s=200&ts=1695726383)
 
@@ -876,7 +876,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Symantec Blog](https://symantec-enterprise-blogs.security.com/blogs) - nan
 
@@ -886,7 +886,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://citizenlab.ca/wp-content/webpc-passthru.php?src=https://citizenlab.ca/wp-content/uploads/2019/03/citizenlab_logo_thumb.png&nocache=1)
 
@@ -898,7 +898,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*ezJx8ZEu1Va14iscq_h5Gg.png)
 
@@ -910,7 +910,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://threatconnect.com/wp-content/uploads/2022/11/image5-1-1.png)
 
@@ -922,7 +922,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/04/12084846/tp_twitter.png)
 
@@ -934,7 +934,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [ThreatTrack Security CSO Blog](https://www.vipre.com/resources/blog) - nan
 
@@ -944,7 +944,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](http://static1.squarespace.com/static/52ebedcae4b0ad4aad060b4a/t/64ac482fd05d4f4c08a9bf16/1689012271603/EIS_WebsiteLogo.jpg?format=1500w)
 
@@ -956,7 +956,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://www.trendmicro.com/content/dam/trendmicro/global/en/research/21/b/threat-actors-now-target-docker-via-container-escape-features/Threat%20actors%20now%20target%20Docker%20via%20container%20escape%20feature%20641.jpg)
 
@@ -968,7 +968,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://krebsonsecurity.com/wp-content/uploads/2017/10/informeddelivery.png)
 
@@ -980,7 +980,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [We are OSINTCurio.us](https://osintcurio.us) - nan
 
@@ -990,7 +990,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://i0.wp.com/webbreacher.com/wp-content/uploads/2021/03/cropped-webbreacher-logo-icon-zoomed.jpg?fit=512%2C512&ssl=1)
 
@@ -1002,7 +1002,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Week in OSINT Sector035](https://sector035.nl) - nan
 
@@ -1012,7 +1012,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [WeLiveSecurity](https://www.welivesecurity.com/feed) - nan
 
@@ -1022,7 +1022,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://ptkqpxu.media.bublupcdn.com/XTfTaPdz2wH0EWOg_ARA6A/images/full_007-im-6a2ba477-d18e-4043-8d03-4891875d4682.jpeg)
 
@@ -1034,7 +1034,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Decoded Legal](https://decoded.legal/blog) - Bits and pieces from decoded.legal
 
@@ -1044,7 +1044,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://s0.wp.com/i/blank.jpg)
 
@@ -1056,7 +1056,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [einvestigator](https://www.einvestigator.com) - eInvestigator.com has private investigator, detective, and police officer research tools, guides and articles for the investigation industry.
 
@@ -1066,7 +1066,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [FuzzySecurity](https://fuzzysecurity.com/index.html) - nan
 
@@ -1076,7 +1076,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Hacker On Two Wheels](https://anotherhackerblog.com) - nan
 
@@ -1086,7 +1086,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Hackster](https://www.hackster.io) - Hackster is a community dedicated to learning hardware, from beginner to pro. Share your projects and learn from other developers. Come build awesome hardware!
 
@@ -1096,7 +1096,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://forensic-architecture.org/fa-share-lg.png)
 
@@ -1108,7 +1108,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Networking With Fish](https://networkingwithfish.com) - Passing on IT technical and non technical bits and bytes. :)
 
@@ -1118,7 +1118,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://nixintel.info/wp-content/uploads/2023/08/cropped-android-chrome-512x512-1.png)
 
@@ -1130,7 +1130,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://s0.wp.com/i/blank.jpg)
 
@@ -1142,7 +1142,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Private Investigator Blog - Public Records, Internet Search - PI Buzz](https://pibuzz.com) - Private Investigator Blog - Public Records, Internet Search - PI Buzz
 
@@ -1152,7 +1152,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [samy kamkar - home](https://samy.pl) - nan
 
@@ -1162,7 +1162,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*OgecA0tyC8ZhfLH8nt3ZCg.png)
 
@@ -1174,7 +1174,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.27/1*m4r3GWd5HTNwhDLgyzQDzA.png)
 
@@ -1186,7 +1186,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://cybergibbons.com/wp-content/uploads/2020/09/Picture-1.png)
 
@@ -1198,7 +1198,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [automatingosint](https://automatingosint.com) - nan
 
@@ -1208,7 +1208,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://keydotfindings.files.wordpress.com/2018/08/cropped-ultimate-final-logo_keyfindingsblog-1.png?w=200)
 
@@ -1220,7 +1220,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://osintfr.com/wp-content/uploads/2021/01/OSINT-FR-Logo-card-EN.jpg)
 
@@ -1232,7 +1232,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [OsintDojo.github.io](https://www.osintdojo.com) - nan
 
@@ -1242,7 +1242,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://osintgeek.de/images/avatar.jpg)
 
@@ -1254,7 +1254,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Shandyman & The Three Half Pints Open Source Intelligence Related Posts and Information](https://shandyman.online/blog) - nan
 
@@ -1264,7 +1264,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [[The OSINTions OSINT Wiki]](https://theosintion.com/wiki/doku.php?id=home) - nan
 
@@ -1274,7 +1274,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [AccessOSINT](https://accessosint.com) - nan
 
@@ -1284,7 +1284,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Arnoreuser.com](https://arnoreuser.com) - nan
 
@@ -1294,7 +1294,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Blockint](https://www.blockint.nl) - nan
 
@@ -1304,7 +1304,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Hunchly - OSINT Articles](https://hunch.ly/osint-articles) - nan
 
@@ -1314,7 +1314,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://i-intelligence.eu/uploads/heroes/_1200x628_crop_center-center_85_none/Homepage.jpg)
 
@@ -1326,7 +1326,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Intelligence X Blog](https://blog.intelx.io) - nan
 
@@ -1336,7 +1336,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [IntelTechniques.com](https://inteltechniques.com/index.html) - nan
 
@@ -1346,7 +1346,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](http://static1.squarespace.com/static/5689e180a2bab85273822321/t/57cf7c9eebbd1adbaf1ed244/1473215648034/Learn+AlltheThings+1500.jpg?format=1500w)
 
@@ -1358,7 +1358,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](http://static1.squarespace.com/static/5f871706bab8257f7a5b6e01/t/5f8d6b44f2518c4f33c08561/1603103563081/?format=1500w)
 
@@ -1370,7 +1370,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Online Strategies - OSINT](https://onstrat.com/osint) - Internet Tools and Resources for Open Source Intelligence - OSINT
 
@@ -1380,7 +1380,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://os2int.com/os2int/uploads/OS2INT-OG-Gvision.jpg)
 
@@ -1392,7 +1392,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://static.wixstatic.com/media/00669b_932a6b646d47460588618d4a61ae942b%7Emv2_d_7500_7500_s_4_2.png/v1/fit/w_2500,h_1330,al_c/00669b_932a6b646d47460588618d4a61ae942b%7Emv2_d_7500_7500_s_4_2.png)
 
@@ -1404,7 +1404,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://www.andyblackassociates.co.uk/wp-content/uploads/2016/09/AndyBlackAssociatesLOGO.jpg)
 
@@ -1416,7 +1416,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://www.aware-online.com/wp-content/uploads/Aware-Online-Cover.jpg)
 
@@ -1428,7 +1428,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://osinteditor.com/img/slotpragmatic.webp)
 
@@ -1440,7 +1440,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Secjuice](https://secjuice.com) - nan
 
@@ -1450,7 +1450,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Skopenow News](https://www.skopenow.com/news) - Skopenow - Fraud Detection and Risk Evaluation
 
@@ -1460,7 +1460,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://gitlab.torproject.org/uploads/-/system/project/avatar/414/trac.png)
 
@@ -1472,7 +1472,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Wonder How To Blog - OSINT](https://www.wonderhowto.com/search/osint) - Wonder How To is your guide to free how to videos on the Web. Search, Browse and Discover the best how to videos across the web using the largest how to video index on the web. Watch the best online video instructions, tutorials, & How-Tos for free. Have your own how to videos? Submit them to share with the world.
 
@@ -1482,7 +1482,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://i0.wp.com/hatless1der.com/wp-content/uploads/2020/08/cropped-low-res.png?fit=512%2C512&ssl=1)
 
@@ -1494,7 +1494,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcS3o_lmk3_bwZ9mW51FO6QvJC8keoecrZ-IJXotnzNYaTlE2mjBAin9R5HR6zND0clOPYk7764UAczoAKsRIo80KJs6f-kC79Le4tkJqgdqj78F4WpQ0AfvOuefP5EHMSdBpboG8tKPhSREBRUtUEKKfEyFydSegcE6DU11yOmhfRt6bSv9fexCuz6J6O/w1200-h630-p-k-no-nu/Akira.png)
 
@@ -1506,7 +1506,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [conINT Virtual Intelligence Conference & CTF](https://conint.io) - nan
 
@@ -1516,7 +1516,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://static.wixstatic.com/media/460225_21b10889489b4417932b37235724ded5%7Emv2.png/v1/fit/w_2500,h_1330,al_c/460225_21b10889489b4417932b37235724ded5%7Emv2.png)
 
@@ -1528,7 +1528,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [IWS Training](https://www.intelligencewithsteve.com) - Specialised intelligence training from an industry professional. Training available in Intelligence Analysis and Open-Source Intelligence (OSINT).
 
@@ -1538,7 +1538,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Michaelbazzell.com](https://michaelbazzell.com) - nan
 
@@ -1548,7 +1548,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://static.wixstatic.com/media/0e702b_89394181065e46db9ada5a3ca9ba7af1~mv2.jpg/v1/fill/w_289,h_217,al_c/0e702b_89394181065e46db9ada5a3ca9ba7af1~mv2.jpg)
 
@@ -1560,7 +1560,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://static.wixstatic.com/media/43f48b_79edbbde019a41b8805d23d691807bad%7Emv2.png/v1/fit/w_2500,h_1330,al_c/43f48b_79edbbde019a41b8805d23d691807bad%7Emv2.png)
 
@@ -1572,7 +1572,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Osint.ltd](https://osint.ltd) - public government reports, budgets, hearings, telephone directories, press conferences, websites, and speeches,Media, print newspapers, magazines, radio, and television from across and between countries. Internet, online publications, blogs, discussion groups, citizen media (i.e.  cell phone videos, and user created content), YouTube, and other social media websites (i.e.  Facebook, Twitter, Instagram, etc.). This source also outpaces a variety of other sources due to its timeliness and ease of access. Public Government Data, public government reports, budgets, hearings, telephone directories, press conferences, websites, and speeches. Although this source comes from an official source they are publicly accessible and may be used openly and freely. Professional and Academic Publications, information acquired from journals, conferences, symposia, academic papers, dissertations, and theses. Commercial Data, commercial imagery, financial and industrial assessments, and databases,Grey literature, technical reports, preprints, patents, working papers, business documents, unpublished works, and newsletters.E-mail: support@osint.ltd
 
@@ -1582,7 +1582,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Spotlight-infosec.com](https://www.spotlight-infosec.com) - nan
 
@@ -1592,7 +1592,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://stateofosint.com/img/2023_hero_cover.png)
 
@@ -1604,7 +1604,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Third Eye OSINT](https://thirdeyeosint.blogspot.com) - Third Eye OSINT publishes enlightened commentary on geopolitics. The articles will always reflect a pro-American personal viewpoint, because the author is a loyal citizen of the United States of America. This blog is a wholly-owned project of Alfidi Capital.
 
@@ -1614,7 +1614,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://uploads-ssl.webflow.com/5f1b6caefc9c7e190b047e08/5f87b6ecf7e6838355653b2d_Asset%205.png)
 
@@ -1626,7 +1626,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Zerodaylab.com](https://zerodaylab.com) - ZeroDayLab Information Security Services: Ethical Hacking, Consulting, Education & Training, Governance, Risk & Compliance, Incident Response & Cyber Solutions, CREST Member.
 
@@ -1636,7 +1636,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [0xrishabh](https://blog.0xrishabh.dev) - Blog About Building & Breaking things.
 
@@ -1646,7 +1646,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](http://static1.squarespace.com/static/5e9ce5592d0b614f7fdd0b76/t/5f6131c7ef29ee04ce19635c/1600205261347/leo.png?format=1500w)
 
@@ -1658,7 +1658,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://based.builders/img/docusaurus-social-card.jpg)
 
@@ -1670,7 +1670,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Cmichel.io](https://cmichel.io) - Christoph Michel's blog about software engineering and business.
 
@@ -1680,7 +1680,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://www.notion.so/images/meta/default.png)
 
@@ -1692,7 +1692,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdefieducation.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1939557864%26version%3D9)
 
@@ -1704,7 +1704,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [DeTools](https://joshcs.xyz/detools) - nan
 
@@ -1714,7 +1714,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Femboy.capital](https://femboy.capital) - nan
 
@@ -1724,7 +1724,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Genesis 0x01: Simplified Roadmap for Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html) - Howdy I hope you all are doing well and fine! Welcome to the awesome world of Blockchain Security. As promised in my introductory Genesis 0x00 post, I am back with the first edition of our Genesis Series. For those who dont know what Genesis is; Lets do a quick introduction to this series. Genesis is a series of weekly articles on Blockchain Security, which will include interesting topics such as Blockchain basics, Blockchain Development, Ethereum 101, Building Dapps, Common vulnerabilities in smart contracts, Auditing Solidity source code, Static analysis of Smart contracts, latest news and the future state of DeFi.  Building vs Breaking Without knowing how an application/protocol/framework is built or structured, we cannot proceed further with its security audit or find any vulnerabilities in it, however, If you do manage to find actual vulnerabilities in a smart contract or any blockchain protocol, without having any prior knowledge of how it is built and structured; You were just throwing arrows in the dark, and got lucky. To a great extent, your ability to break into an application is directly proportional to your understanding of how that application is built and structured, that said we will be focusing on blockchain development before we jump to the security aspects related to it. This article will be laying down a path/roadmap for us, following which we will enter into the field of Blockchain Security together . All you need is the plan, the road map, and the courage to press on to your destination. - Earl Nightingale The only Roadmap you need This Roadmap is not exhaustive, but it is organized and covers all rudimentary topics that one needs to know in order to get into the field of Blockchain Security. It also acts as a guide to our future articles in Genesis Series. Note: I handpicked these topics and links to the resources listed below, all of these resources are 100% free. In my coming articles in the Genesis Series, we will be starting from Blockchain Basics (skipping rudimentary topics such as basics of internet, Web2.0 security, etc). Elementary Topics: Familiarity with Linux OS. Understanding of commonly used bash commands. Understanding of version control systems such as Git ,Github, Gitlab , etc. What is CI/CD pipeline. JavaScript. Python. Good understanding of Object Oriented programming. Familiarity with Package Managers (npm, yarn, pnpm, pip). Basics of Internet: Good understanding of Networking concepts. How a Web Browser works. What is DNS (What happens behind the scenes when you type google.com in web browser). What is HTTP Protocol and how it works. What are HTTP Request and Response headers. What is RPC Protocol. Familiarity with Browsers developer tools. Web2.0 (how a typical Web2.0 application is packaged and deployed). Existing Authentication/Authorization models in Web2.0 applications. SSO  Single Sign On OAuth  Open Authorization JWT Authentication Token Based Authentication Session Based Authentication Basic Authentication What is HTTP Caching. Web 2.0 Security: OWASP Top 10: Broken Access Control vulnerabilities. Cryptographic Failures. Injection vulnerabilities. Insecure Design. Security Misconfigurations. Vulnerable and Outdated Components. Identification and Authentication Failures. Software and Data Integrity Failures. Security Logging and Monitoring Failures. Server-Side Request Forgery. Basics of Blockchain: What is Asymmetric Cryptography. What is Elliptic Curve Cryptography. Understanding of commonly used words in Blockchain world, such as Programmable, Distributed, Decentralized, Immutable, Unanimous, Time-Stamped, etc. Bitcoin Whitepaper. What is Double-spending problem and how bitcoin solves it. What is Consensus Algorithm. Proof of work vs Proof of stake. What is Bitcoin Mining and how ASIC is better than regular mining gig. What is 51% Attack. Basics of Ethereum: What is Etheruem. Why Etheruem is termed as World Computer. How Ethereum is different from its predecessor blockchains. What is Ethereum Protocol and how it works. The Ethereum Foundation and the ether presale What is Ether Currency. What are transactions in ethereum ecosystem. What are different types of accounts (EOAs vs contract accounts). Wallets and Ethereum clients. Public Key vs Private Key. What is Gas. What is Mining. What is a block explorer. What are different types of networks in ethereum (Mainnet vs Testnet). What are EIPs. What are ERC standards. What is ERC20 Standard. What is ERC721 Standard. What is Turing Completeness. What is Ethereum Virtual Machine(EVM). What are Smart Contracts. Ethereum Higher Level languages (Solidity, Vyper, LLL, Serpent). Understanding Solidity What is Solidity. What is Remix IDE. What are different Data Types in Solidity (Boolean, Integer, Fixed point, Address, Byte array, Enum, Arrays, Struct, Mapping, Time units, Ether units). What are Predefined Global Variables and Functions (msg.sender, msg.value, msg.gas, msg.data, msg.sig, etc). Error handing in Solidity. What is Ethereum Contract ABI. Life Cycle of Smart Contract. Compiling, testing, Deploying smart Contracts. What is JSON RPC. Interacting with smart contracts using an external library such as web3.js or web3.py Frameworks for Ethereum development: Truffle Suit (Truffle, Ganache, Drizzle). Brownie (written in Python). Infura. Openzeppelin. Dapptools Smart Contract Security: Visualization Tools: Solidity Visual Developer Surya Solgraph EVM Lab ethereum-graph-debugger Piet Linters and formatters: Ethlint. Prettier + Solidity Plugin. Solhint. Common Vulnerabilities in Smart contracts: What is Reentrancy. What is Junk code (Code With No Effects). What is Unencrypted Private Data On-Chain. What is Integer Overflow and Underflow. What is Floating Pragma. What is Unchecked Call Return Value. What is Unprotected SELFDESTRUCT Instruction. State Variable Default Visibility. What is Uninitialized Storage Pointer. Use of Deprecated Solidity Functions. DoS with Failed Call. Authorization through tx.origin Signature Malleability. Weak Sources of Randomness from Chain Attributes. Lack of Proper Signature Verification. Missing Protection against Signature Replay Attacks. Insufficient Gas Griefing. DoS With Block Gas Limit. Hash Collisions With Multiple Variable Length Arguments. Message call with hardcoded gas amount. Oracle Manipulation. Static and Dynamic Analysis: Oyente Octopus Vertigo MythX Mythril Slither Echidna Blockchain CTFs: Openzeppelins Ethernaut. Damn Vulnerable DeFi. Smart Contract CTF. Capture the Ether. GOATCasino. Paradigm CTF. Bug Bounty Platforms with Crypto Programs: Immunefi HackerOne Bugcrowd The future of Ethereum: What is Ethereum 2.0.  Bonus For your convenience in tracking your progress while following the above roadmap, I am sharing a publicly readable version of my Notion notes, which you can copy it to your own Notion notebook as a template for tracking your progress. Link to my notion notebook can be found here. Additional Resources Ethereum Homestead Documentation Ethereum Community guides and resources Solidity Documentation Solidity, Blockchain, Smart Contract Course DeFi Developer Road Map That was all from my side in this article; See you very soon in Genesis 0x02, Keep warm, stay hydrated and have good day ahead :)  Want to support my work? If you think my work has added some value to your existing knowledge, then you can Buy me a Coffee here (and who doesnt loves a good cup of coffee?) Newsletter Subscribe to Genesiss Newsletter to get future articles/updates/blockchain-related news directly in your mailbox.
 
@@ -1734,7 +1734,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://opengraph.githubassets.com/a98b76a5089029a59af6248aeb846fdba70b43431f82d50c68291640250c5c4a/dcbuild3r/blockchain-development-guide)
 
@@ -1746,7 +1746,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Going the distance](https://jeiwan.net) - A blog about blockchains and smart contracts development
 
@@ -1756,7 +1756,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Home - Alin Tomescu](https://alinush.github.io) - TBD
 
@@ -1766,7 +1766,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Immersionden.xyz](https://immersionden.xyz) - Welcome to Immersion Den, your best friend in the new Exponential Age.
 
@@ -1776,7 +1776,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fkyrianalex.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D427498233%26version%3D9)
 
@@ -1788,7 +1788,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://blog.alphaventuredao.io/content/images/2021/10/2021-10-21-09.26.10.jpg)
 
@@ -1800,7 +1800,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://naderdabit.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F07bb82cf-7e83-4e67-85cc-712a96994307%2Fhassaan-qaiser-bKfkhVRAJTQ-unsplash.jpg?table=block&id=a200ed2e-f21c-4d57-8dc1-58df2b882c63&spaceId=f14c8017-eb10-4ac2-82bc-f84580ff2d96&width=2000&userId=&cache=v2)
 
@@ -1812,7 +1812,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://noxx3xxon.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc7e08353-3c66-4c2f-9f80-b599275d8a47%2Fbeautiful-japanese-art-facebook-cover.jpeg?table=block&id=bb38e175-cc40-4111-a391-907c4975426d&spaceId=461c8ce5-5162-48df-baf1-686d85334a1e&width=2000&userId=&cache=v2)
 
@@ -1824,7 +1824,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Notonlyowner-Introduction to smart contract security and hacking in Ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum) - Blog on Ethereum smart contracts, Solidity and Dapps secure development
 
@@ -1834,7 +1834,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://zefram.xyz/images/defi-space.png)
 
@@ -1846,7 +1846,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [she256](https://she256.org/guide) - she256 aims to increase diversity & break down barriers to entry in the blockchain space by broadening the pipeline through increasing accessibility to industry professionals & education specifically to those who are underrepresented.
 
@@ -1856,7 +1856,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [So you want to be a blockchain developer? :: tr3y.io](https://tr3y.io/articles/crypto/how2bloccchain.html) - nan
 
@@ -1866,7 +1866,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [Solidity Tutorial](https://cryptodevhub.io/blockchain-development-tutorial) - Learn Solidity and Smart Contract development to build dApps on Ethereum-Virtual-Machine (EVM) based chains.
 
@@ -1876,7 +1876,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://sovs.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F201ef47d-8604-4304-9763-90e716f26e92%2Fsovereignsignal_Gitcoin_Library_of_Knowledge_55a06369-f8de-4259-813e-1117f93d8020.png?table=block&id=41f097d2-8dae-4d09-801f-10cde1b2d03b&spaceId=653f0df1-af80-40ef-9f4a-b2e3cc384542&width=2000&userId=&cache=v2)
 
@@ -1888,7 +1888,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://images.mirror-media.xyz/nft/ztw7Eo-WXklQJMmK29Yxj.jpeg)
 
@@ -1900,7 +1900,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://blog.trustlook.com/content/images/2019/05/research9.jpg)
 
@@ -1912,7 +1912,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://www.useweb3.xyz/images/social.png)
 
@@ -1924,7 +1924,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 ![](https://i.ytimg.com/vi/p3C7jljTXaA/sddefault.jpg)
 
@@ -1936,7 +1936,7 @@
 
 ---
 
-## OSINT Blogs
+### OSINT Blogs
 
 [ZK Learning Resources](https://learn.0xparc.org) - 0xPARC-ZK Learning Resources
 

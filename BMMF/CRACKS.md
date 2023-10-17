@@ -1,6 +1,6 @@
-# CRACKS
-
 ## CRACKS
+
+### CRACKS
 
 [Developments Archives - Page 2 of 25 - MAZTERIZE](https://www.mazterize.com/category/windows/developments/page/2) - nan
 
@@ -10,9 +10,9 @@
 
 ---
 
-## CRACKS-Premium Link Generaters
-
 ### CRACKS-Premium Link Generaters
+
+#### CRACKS-Premium Link Generaters
 
 ![](https://www.newscon.org/static/img/cover.jpeg)
 

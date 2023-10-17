@@ -1,6 +1,6 @@
-# Tools
-
 ## Tools
+
+### Tools
 
 [Binsearch -- Usenet search engine](https://www.binsearch.info) - BinSearch.info Binary Usenet Search Engine - Binsearch -- Usenet search engine
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Mamont's Open FTP Search](https://www.mmnt.net) - Browsable directory listing of publicly available FTP-sites
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://www.etools.ch/images/etools-opengraph.png)
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png)
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://www.ask.com/wp-content/uploads/sites/3/2022/03/5fe2920c102df51ad9fe632f5ca0ee93.jpg?w=640)
 
@@ -56,7 +56,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Dogpile](https://www.dogpile.com) - nan
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Exalead](https://www.exalead.com/search) - The best search engine out there
 
@@ -76,7 +76,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Gigablast](https://gigablast.com) - A powerful, new search engine that does real-time indexing!
 
@@ -86,7 +86,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Monstercrawler](https://monstercrawler.com) - Monstercrawler combines search results from top authority sites and search engines like Google and Yahoo! to deliver the best search experience on the web.
 
@@ -96,7 +96,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Mozbot](https://www.mozbot.com) - Mozbot : search engine in partnership with Google
 
@@ -106,7 +106,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [OSCOBO](https://www.oscobo.com/%20) - nan
 
@@ -116,7 +116,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [WebCrawler](https://www.webcrawler.com) - nan
 
@@ -126,7 +126,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Yippy](https://yippy.com) - The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs.
 
@@ -136,7 +136,7 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](http://img.searchids.com/images/logo.png)
 
@@ -148,7 +148,7 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://getcommande.com/og.jpg)
 
@@ -160,7 +160,7 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://ambition.dk/wp-content/uploads/2021/09/impersonal-me.jpg)
 
@@ -172,11 +172,11 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://opengraph.githubassets.com/5037aaaa24e993f16063451fe1af77fe02f95c8560196c9e663dcc09a19d5431/Sanix-Darker/falla)
 
-[GitHub - Sanix-Darker/falla: A search-engine-cli-scraper for more than 15 search engines, including Google. duckduckgo, Bing, Ask, etc...](https://github.com/Sanix-Darker/falla) - A search-engine-cli-scraper for more than 15 search engines, including Google. duckduckgo, Bing, Ask, etc... - GitHub - Sanix-Darker/falla: A search-engine-cli-scraper for more than 15 search engin...
+[GitHub - Sanix-Darker/falla: A search-engine-cli-scraper for more than 15 search engines, including Google. duckduckgo, Bing, Ask, etc...](https://github.com/Sanix-Darker/falla) - A search-engine-cli-scraper for more than 15 search engines, including Google. duckduckgo, Bing, Ask, etc… - GitHub - Sanix-Darker/falla: A search-engine-cli-scraper for more than 15 search engin…
 
 2022-10-03T05:06:16.000Z
 
@@ -184,7 +184,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Gsearch.one](https://www.gsearch.one) - nan
 
@@ -194,11 +194,11 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://opengraph.githubassets.com/9481762a45c45a4d1c1690f6836b7643a444abd762f70d9a4b5e14c1659cb49e/TebbaaX/Katana)
 
-[GitHub - adnane-X-tebbaa/Katana: A Python Tool For google Hacking](https://github.com/adnane-x-tebbaa/katana) - Python Tool that gives you the ability to run Advanced Google Queries (Known as Google Dorks - Google Dorking) - (No longer maintained) - GitHub - TebbaaX/Katana: Python Tool that gives you the abi...
+[GitHub - adnane-X-tebbaa/Katana: A Python Tool For google Hacking](https://github.com/adnane-x-tebbaa/katana) - Python Tool that gives you the ability to run Advanced Google Queries (Known as Google Dorks - Google Dorking) - (No longer maintained) - GitHub - TebbaaX/Katana: Python Tool that gives you the abi…
 
 2022-10-03T05:06:16.000Z
 
@@ -206,7 +206,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Klug Suchen!](https://www.klug-suchen.de) - nan
 
@@ -216,7 +216,7 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://opengraph.githubassets.com/745959313fba997c6f81aa989175916c5ca11fc53f016b9ea681b5fea9c3d21a/opsdisk/pagodo)
 
@@ -228,11 +228,11 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://opengraph.githubassets.com/ffc19a99229eec7e52efbeac0a457aa8dfef5e58cb1b29d3ffeb338cb0c0c71a/googleinurl/SCANNER-INURLBR)
 
-[Github.com/googleinurl/SCANNER-INURLBR](https://github.com/googleinurl/SCANNER-INURLBR) - Advanced search in search engines, enables analysis provided to exploit GET-POST capturing emails & urls, with an internal custom validation junction for each target-url found. - GitHub...
+[Github.com/googleinurl/SCANNER-INURLBR](https://github.com/googleinurl/SCANNER-INURLBR) - Advanced search in search engines, enables analysis provided to exploit GET-POST capturing emails & urls, with an internal custom validation junction for each target-url found. - GitHub…
 
 2022-10-03T05:06:17.000Z
 
@@ -240,7 +240,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Sensebot.com](https://sensebot.com) - nan
 
@@ -250,7 +250,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Url-render.com](https://url-render.com) - nan
 
@@ -260,7 +260,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Yopass: Share Secrets Securely](https://yopass.se) - Secure secret sharing, end to end encrypted in browser
 
@@ -270,7 +270,7 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://rentry.co/static/icons/270.png)
 
@@ -282,7 +282,7 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://anonymiz.com/images/banner.png)
 
@@ -294,7 +294,7 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://circle.gnome.org/assets/card.png)
 
@@ -306,7 +306,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Free online HTML editor - onlinehtmleditor.dev](https://onlinehtmleditor.dev) - Free online HTML editor with feature-rich WYSIWYG Editor powered by CKEditor. Get the source code of the content immediately.
 
@@ -316,7 +316,7 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://burnernote.com/img/burnernote.png)
 
@@ -328,7 +328,7 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://boxicons.com/static/img/og-image.png)
 
@@ -340,7 +340,7 @@
 
 ---
 
-## Tools
+### Tools
 
 [Arc - The peer-to-peer CDN that pays you.](https://arc.io) - Arc is a revenue-generating peer-to-peer content exchange and delivery network (CDN). Add Arc to your website, your users share bandwidth, we rent it, and you get paid the proceeds.
 
@@ -350,7 +350,7 @@
 
 ---
 
-## Tools
+### Tools
 
 ![](https://i0.wp.com/marcodiversi.com/blog/wp-content/uploads/2018/11/alternative-search-engines-1.jpg)
 

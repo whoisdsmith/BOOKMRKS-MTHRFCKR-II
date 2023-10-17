@@ -1,6 +1,6 @@
 {
-  "findText": "### Decentralized",
-  "replaceText": "",
+  "findText": "#ios app",
+  "replaceText": "#iosapp",
   "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,

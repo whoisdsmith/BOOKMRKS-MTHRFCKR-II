@@ -1,6 +1,6 @@
-# Data
-
 ## Data
+
+### Data
 
 ![](http://integritydatainsights.com/wp-content/uploads/2020/08/DashboardForTitle_TextMessageAnalysis.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Data
+### Data
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*mTGkB8ITENN44AYi0JON9g.jpeg)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Data
+### Data
 
 ![](https://assets-global.website-files.com/5d249063a5dbec3c6f57a8d4/61e84498d782351f05cf1fa2_sms-analytics.jpeg)
 
@@ -36,7 +36,7 @@
 
 ---
 
-## Data
+### Data
 
 ![](https://www.datamation.com/wp-content/uploads/2018/03/pexels-pixabay-373543-1024x682-1.jpg)
 
@@ -48,7 +48,7 @@
 
 ---
 
-## Data
+### Data
 
 ![](https://monkeylearn.com/static/4829057bde35c10c8a6c921f925298b2/social.png)
 
@@ -60,7 +60,7 @@
 
 ---
 
-## Data
+### Data
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*We0XJPO7gUdHC4fCeH7NzQ.jpeg)
 
@@ -72,7 +72,7 @@
 
 ---
 
-## Data
+### Data
 
 [frustrated robot-frustrated robot](https://www.frustratedrobot.com) - test engineering, testing, security, privacy, automation, performance
 

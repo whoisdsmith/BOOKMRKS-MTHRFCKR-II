@@ -1,6 +1,6 @@
-# College
-
 ## College
+
+### College
 
 ![](https://marshallcf.org/wp-content/uploads/2020/06/MarshallBluesFest_2017-7-720x480.jpg)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## College
+### College
 
 [Scholarships - Lansing Community College](https://www.lcc.edu/admissions-financial-aid/finaid/scholarships) - nan
 
@@ -22,7 +22,7 @@
 
 ---
 
-## College
+### College
 
 [https://www.lcc.edu/foundation/scholarships/ - Google Search](https://www.google.com/search?q=https%3A%2F%2Fwww.lcc.edu%2Ffoundation%2Fscholarships%2F) - nan
 
@@ -32,7 +32,7 @@
 
 ---
 
-## College
+### College
 
 ![](https://grantify.io/wp-content/uploads/2020/03/social-media-facebook.jpg)
 

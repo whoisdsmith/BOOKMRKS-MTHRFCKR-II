@@ -1,6 +1,7 @@
 ## Fonts
-
 ### Fonts
+
+#### Fonts
 
 ![](https://learn.canva.com/wp-content/uploads/2015/12/The-ultimate-guide-to-font-pairing_featured-image.png)
 
@@ -12,7 +13,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://lh3.googleusercontent.com/dPdyfSl7seUOpHe4rDj-oxo7oQ9P60809H2MY4NynmV9CDsY9p-p8Ovb_QmsYdGM7jgjCYG6s7MGYnMOMOjtpbdGLJ4=w128-h128-e365-rj-sc0x00ffffff)
 
@@ -24,7 +25,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Ufonts](https://ufonts.com/fonts) - fontsDownload free fonts clipart and midi
 
@@ -34,7 +35,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://cdn.shopify.com/s/files/1/0568/7164/9450/files/MT_MyFonts_logo_transparent_RGB.png?height=628&pad_color=fff&v=1658909361&width=1200)
 
@@ -46,7 +47,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [FontFabric](https://www.fontfabric.com/category/free) - Fontfabric a digital type foundry crafting retail fonts and custom typography for various brands.
 
@@ -56,7 +57,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Fontello](http://fontello.com) - Tool to build custom fonts with icons.
 
@@ -66,7 +67,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [iFonts - Download Fonts](https://ifonts.xyz) - iFonts, font, download, ttf, freeware, typefaces, typography, typeface, fonts, free, true type, dingbats
 
@@ -76,7 +77,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [FREE Fonts Download-BEST Font Generator-FontGet](https://www.fontget.com) - Download Free Fonts for your website, Mac, Windows, Linux, iOS and Android. Try our best in class Font Generator for every kind of font!
 
@@ -86,7 +87,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://www.dfonts.org/wp-content/uploads/2023/09/Yuker-Brush-Font.webp)
 
@@ -98,7 +99,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Dafont Free - Download Fonts](https://www.dafontfree.io) - Download 11,000+ best free high quality fonts from sans serif, serif, script, handwritten, calligraphy, display & more. For Personal & Commercial Use!
 
@@ -108,7 +109,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://st.1001fonts.net/img/illustrations/b/a/barkmo-36-font-2-big.jpg)
 
@@ -120,7 +121,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://www.abstractfonts.com/images/logo.gif)
 
@@ -132,7 +133,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://i0.wp.com/befonts.com/wp-content/uploads/2020/08/befonts2020.jpg?fit=236%2C87&ssl=1)
 
@@ -144,7 +145,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://freebiesbug.com/wp-content/uploads/2023/08/freebiesbug-2.png)
 
@@ -156,7 +157,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://freedesignfile.com/wp-content/themes/freedesignfile/images/fdfshow.jpg)
 
@@ -168,7 +169,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://cdn.shopify.com/s/files/1/0568/7164/9450/files/MT_MyFonts_logo_transparent_RGB.png?height=628&pad_color=fff&v=1658909361&width=1200)
 
@@ -180,7 +181,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Ninodezign](https://ninodezign.com/26-great-free-fonts-web-designer) - Now join us as we present you with 26 great free fonts for web designer, which you can download and use today.
 
@@ -190,7 +191,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [SimplytheBest Free Fonts](https://simplythebest.net/fonts) - Simply the Best Free Fonts where you can find fonts, webfonts and icon fonts displayed in a unique way.
 
@@ -200,7 +201,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://images.all-free-download.com/images/graphiclarge/burtons_nightmare_6897987.jpg)
 
@@ -212,7 +213,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://www.1001freefonts.com/themes/blue/images/main_logo.png)
 
@@ -224,7 +225,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://st.deviantart.net/minish/main/logo/card_black_large.png)
 
@@ -236,7 +237,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://www.calligraphr.com/static/website/img/social/facebook_ogimg.jpg)
 
@@ -248,7 +249,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://coolfont.org/images/coolfont_thumbnail_img.png)
 
@@ -260,7 +261,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [DaFont - Baixar fontes](https://www.dafont.com/pt) - Arquivos de fonte disponiveis gratuitamente. Procurar por ordem alfabetica, por estilo, por autor ou por popularidade.
 
@@ -270,7 +271,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Dafont](https://www.dafont.com) - Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.
 
@@ -280,7 +281,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Download Free Fonts - ActionFonts.com](https://www.actionfonts.com) - Action Fonts is a website where you can download free fonts. Choose from over 50,000 individual fonts.
 
@@ -290,7 +291,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Font Finder by What Font Is](https://www.whatfontis.com) - Font finder that helps you to identify fonts from any image.  Upload the image and choose what the font you need. 850,000 fonts indexed free or commercial.
 
@@ -300,7 +301,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Font Library](https://fontlibrary.org) - Font Library is all fonts. Free Downloads and Quality Support.
 
@@ -310,7 +311,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://www.fontgeneratoronline.com/og-image.png)
 
@@ -322,7 +323,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://www.fontsquirrel.com/presentation/theme_site/images/social_media_default.jpg)
 
@@ -334,7 +335,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Dafontfree.net](https://www.dafontfree.net) - Over 170,000 free fonts download. Dafont free browse by alphabetical listing, by category. Da font, Defont, Dufont, dafont free, Difont
 
@@ -344,7 +345,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://fsymbols.com/thumbs/78.png)
 
@@ -356,7 +357,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Font Free Download Vector Stock Image Photoshop Icon](https://graphicex.com/font) - Free Download Vector Stock Image Photoshop Icon
 
@@ -366,7 +367,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://fontba.se/social/main.png)
 
@@ -378,7 +379,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://fontforge.org/assets/img/social-banner.png)
 
@@ -390,7 +391,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Fontbutts.netlify.app](https://fontbutts.netlify.app) - Does this font make my butt look big?
 
@@ -400,7 +401,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Fonts-Brick](https://brick.im/fonts) - nan
 
@@ -410,7 +411,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://fonts2u.com/f2u-social.jpg)
 
@@ -422,7 +423,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://s3-us-west-1.amazonaws.com/images.fontspace.com/static/fontspace-all-new-1500x1500.jpg)
 
@@ -434,7 +435,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://fontshub.pro/images/share.png)
 
@@ -446,7 +447,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Free Fonts, Cool Fonts](https://www.urbanfonts.com) - Download Free Fonts and Free Dingbats at UrbanFonts.com.
 
@@ -456,11 +457,11 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://share.redd.it/preview/post/8tqfg6)
 
-[How to download paid fonts for free : Piracy](https://www.reddit.com/comments/8tqfg6) - 1. Choose the font you want, in this case I'll use '[Compacta SH](https://www.myfonts.com/fonts/efscangraphic/compacta-sh/)**'** 2. Search the...
+[How to download paid fonts for free : Piracy](https://www.reddit.com/comments/8tqfg6) - 1. Choose the font you want, in this case I'll use '[Compacta SH](https://www.myfonts.com/fonts/efscangraphic/compacta-sh/)**'** 2. Search the…
 
 2021-11-19T18:07:54.000Z
 
@@ -468,7 +469,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/opengraph_color.png)
 
@@ -480,7 +481,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [NFG's Arcade Font Tool](https://nfggames.com/games/fontmaker) - nan
 
@@ -490,7 +491,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://www.nerdfonts.com/assets/img/sankey-glyphs-combined-diagram.png)
 
@@ -502,7 +503,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://www.netfontes.com.br/gifs/logotipo6.png)
 
@@ -514,7 +515,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Vk.com](https://vk.com/topic-50911295_28400542?offset=3040) - : discussions in
 
@@ -524,7 +525,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://server.wordmark.it/assets/wordmark.png)
 
@@ -536,7 +537,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://st.deviantart.net/minish/main/logo/card_black_large.png)
 
@@ -548,7 +549,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://cdn.yellowimages.com/images/page-products/creative-fonts.jpg)
 
@@ -560,11 +561,11 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 ![](https://share.redd.it/preview/post/8tqfg6)
 
-[How to download paid fonts for free : Piracy](https://redd.it/8tqfg6) - 1. Choose the font you want, in this case I'll use '[Compacta SH](https://www.myfonts.com/fonts/efscangraphic/compacta-sh/)**'** 2. Search the...
+[How to download paid fonts for free : Piracy](https://redd.it/8tqfg6) - 1. Choose the font you want, in this case I'll use '[Compacta SH](https://www.myfonts.com/fonts/efscangraphic/compacta-sh/)**'** 2. Search the…
 
 2021-11-14T15:00:06.000Z
 
@@ -572,7 +573,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Bold Fonts](https://boldfonts.com) - Boldfonts offer a number of free fonts for designers that include bold, italic, black and other type of fonts that can be downloaded in different format and sizes.
 
@@ -582,7 +583,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [FontPark.com-Download fonts](https://fontpark.com) - FontPark.com has the largest archive of free fonts on the Internet. You can find fonts for commercial and noncommercial applications for Windows, Mac OS and Linux.
 
@@ -592,7 +593,7 @@
 
 ---
 
-### Fonts
+#### Fonts
 
 [Fontsgeek : Download Thousands Of Cool Free Fonts For Windows And Mac.](https://fontsgeek.com) - Download Thousands Of Free Fonts For Windows And Macintosh From Fontsgeek.com .
 
@@ -602,4 +603,4 @@
 
 ---
 
-### Icons
+#### Icons

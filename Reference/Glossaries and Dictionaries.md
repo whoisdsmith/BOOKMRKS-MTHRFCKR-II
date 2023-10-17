@@ -1,6 +1,6 @@
-# Glossaries and Dictionaries
-
 ## Glossaries and Dictionaries
+
+### Glossaries and Dictionaries
 
 [AML Glossary of Terms-ACAMS Trending TopicsACAMS Logo_TM_RGB_DarkACAMS Logo_TM_RGB_Dark](https://www.acams.org/en/resources/aml-glossary-of-terms) - AML Glossary of Terms-ACAMS Trending Topics. News from ACAMS, government organizations and compliance organizations around the world.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Glossaries and Dictionaries
+### Glossaries and Dictionaries
 
 [Seconddistrictcourt.nmcourts.gov/glossary-of-legal-](https://seconddistrictcourt.nmcourts.gov/glossary-of-legal-) - nan
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Glossaries and Dictionaries
+### Glossaries and Dictionaries
 
 [Logistics Glossary](https://www.logisticsglossary.com) - nan
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Glossaries and Dictionaries
+### Glossaries and Dictionaries
 
 [Terminology - The Sentry](https://thesentry.org/terminology) - Terminologies courtesyThe Stolen Asset Recovery Initiative(StAR)
 
@@ -40,9 +40,9 @@
 
 ---
 
-## Grammer-Learning
-
 ### Grammer-Learning
+
+#### Grammer-Learning
 
 [HeckerNoHecking](https://skillshare.heckernohecking.repl.co) - nan
 
@@ -52,7 +52,7 @@
 
 ---
 
-### Grammer-Learning
+#### Grammer-Learning
 
 [Video Courses](https://revival.awestruck.workers.dev/0:) - https://revival.awestruck.workers.dev/0:/
 
@@ -62,9 +62,9 @@
 
 ---
 
-## Grammer-Spelling-Etc
-
 ### Grammer-Spelling-Etc
+
+#### Grammer-Spelling-Etc
 
 [Search results for "%s" - Wiktionary](https://en.wiktionary.org/wiki/Special:Search?go=Go&search=%25s) - nan
 
@@ -74,7 +74,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [WordSense Dictionary: word origin & history, definitions, synonyms & translations](https://www.wordsense.eu) - nan
 
@@ -84,7 +84,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [English to French, Italian, German & Spanish Dictionary - WordReference.com](https://www.wordreference.com) - nan
 
@@ -94,7 +94,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.wordnik.com/img/wordnik-logo-300px.png)
 
@@ -106,7 +106,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.wolframalpha.com/_next/static/images/share_3eSzXbxb.png)
 
@@ -118,7 +118,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Wiktionary](https://www.wiktionary.org) - nan
 
@@ -128,7 +128,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://wikiwandv2-19431.kxcdn.com/images/share-wikiwand.png)
 
@@ -140,7 +140,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Wikipedia](https://www.wikipedia.org) - Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
 
@@ -150,7 +150,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Webopedia: IT & Computer Dictionary, Study Guides & Reviews](https://www.webopedia.com) - Webopedia is the most comprehensive information technology reference. Read computer definitions and study guides now.
 
@@ -160,7 +160,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.vocabulary.com/images/icons/facebook-75x75.gif)
 
@@ -172,7 +172,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Thinkmap Visual Thesaurus - An online thesaurus and dictionary of over 145,000 words that you explore using an interactive map.](https://www.visualthesaurus.com) - An online thesaurus and dictionary of over 145,000 words that you explore using an interactive map.  It's a tool for people who think visually.  The most fun you've ever had with words. The Visual Thesaurus was built using Thinkmap, a data visualization technology.
 
@@ -182,7 +182,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Macmillan Dictionary-Free English Dictionary and Thesaurus](https://www.macmillandictionary.com) - The Free Online English Dictionary from Macmillan Education. Definitions, meanings, synonyms, pronunciations, games, sound effects, high-quality images, idioms and metaphors, resources for teachers and students
 
@@ -192,7 +192,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [www.lingo2word.com](https://www.lingo2word.com) - Put fun into mobile phone messages, Find new funny Txt messages, translate, Understand texting language
 
@@ -202,7 +202,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.lexilogos.com/images/babel_bruegel.jpg)
 
@@ -214,7 +214,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.lexicool.com/lexicool-logo3.jpg)
 
@@ -226,7 +226,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.dictionary.com/images/dictionary_social_logo.png)
 
@@ -238,7 +238,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Longman Dictionary of Contemporary English-LDOCE](https://www.ldoceonline.com) - Longman English Dictionary - the leading dictionary for learners of English of all levels: definitions, idioms, examples and more.
 
@@ -248,7 +248,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.infoplease.com/themes/ip/images/og_logo_pos.jpg)
 
@@ -260,7 +260,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Sign Language ASL-HandSpeak](https://www.handspeak.com) - Sign Language online contains the ASL dictionary, tutorials, grammar, sentences, alphabet, Deaf culture, baby signing, and more.
 
@@ -270,7 +270,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720)
 
@@ -282,7 +282,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Etymonline - Online Etymology Dictionary](https://www.etymonline.com) - The online etymology dictionary (etymonline) is the internet's go-to source for quick and reliable accounts of the origin and history of English words, phrases, and idioms. It is professional enough to satisfy academic standards, but accessible enough to be used by anyone.
 
@@ -292,7 +292,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Just a moment...](https://www.encyclopedia.com) - nan
 
@@ -302,7 +302,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://64.media.tumblr.com/1a67d05edbc1d550d7973b69918c814f/18163b1cf2447bc9-ba/s128x128u_c1/868f59bf6ad1f913377823fe620d00f34e309ebf.jpg)
 
@@ -314,7 +314,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Describing Words - Find Adjectives to Describe Things](https://describingwords.io) - nan
 
@@ -324,7 +324,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Visualizing SEP: An interactive data visualization of the Stanford Encyclopedia of Philosophy](https://www.visualizingsep.com) - nan
 
@@ -334,7 +334,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Urban Dictionary, September 14: wooden onesie](https://www.urbandictionary.com) - Short for "traditional wife." Used in alt-right circles to refer to women that embody traditionally feminine and wifely qualities (submissiveness, chastity, willingness to do household chores, etc).
 
@@ -344,7 +344,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://idioms.a2hosted.com/image.png/?=1)
 
@@ -356,7 +356,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.synonym.com/public/images/synonym-logo.jpg)
 
@@ -368,7 +368,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://d1q4kshf6f0axi.cloudfront.net/img/common/logo-square-medium.png)
 
@@ -380,7 +380,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.signbsl.com/ogimage_512.png)
 
@@ -392,7 +392,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.signasl.org/ogimage_512.png)
 
@@ -404,11 +404,11 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.rhymit.com/static/images/logos/logo180x180.png)
 
-[Rhymit - rhyming dictionary to help you to do amazing lyrics](https://www.rhymit.com) - O Rhymit e um dicionario de rimas para ajudar os artistas, escritores e os poetas a escrever as suas letras de musicas, poemas...
+[Rhymit - rhyming dictionary to help you to do amazing lyrics](https://www.rhymit.com) - O Rhymit e um dicionario de rimas para ajudar os artistas, escritores e os poetas a escrever as suas letras de musicas, poemas…
 
 2022-09-14T12:31:28.419Z
 
@@ -416,7 +416,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [RhymeZone rhyming dictionary and thesaurus](https://www.rhymezone.com) - A comprehensive rhyming dictionary, thesaurus, and brainstorming tool for the English language.  Includes dozens of functions to help songwriters, poets, and anyone else in need of a word.
 
@@ -426,7 +426,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [refdesk.com](https://www.refdesk.com/factency.html) - nan
 
@@ -436,7 +436,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [- PDAWIKI - Powered by Discuz!](https://www.pdawiki.com/forum) - , pdawiki ,  ,  ,  ,  , mdict , anki ,  , bluedict ,  ,  , dict.cn , ebdic ,  , ebwin , ebmac , ebpocket ,  , eudic , goldendict
 
@@ -446,7 +446,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Oxford Learner's Dictionaries-Find definitions, translations, and grammar explanations at Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/us) - The largest and most trusted free online dictionary for learners of British and American English with definitions, pictures, example sentences, synonyms, antonyms, word origins, audio pronunciation, and more. Look up the meanings of words, abbreviations, phrases, and idioms in our free English Dictionary.
 
@@ -456,7 +456,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.omniglot.com/images/logos/omniglot_thumbnail.jpg)
 
@@ -468,7 +468,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.modernwiki.app/assets/share-cce8f1b8262a4442370a9a6dfb5dd04f07d3fe8695a7240e85f32c316215abe3.png)
 
@@ -480,7 +480,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png)
 
@@ -492,7 +492,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png)
 
@@ -504,7 +504,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://cdn.britannica.com/mendel-resources/3-103/images/EBLogo.jpg?v=3.103.19)
 
@@ -516,7 +516,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Abbreviations and acronyms dictionary](https://www.acronymfinder.com) - Acronym Finder is the largest and most trusted database of over 4 million acronyms and abbreviations. What does an abbreviation stands for? The answer is here
 
@@ -526,7 +526,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Abbreviations.com](https://www.abbreviations.com) - The Web's largest and most authoritative acronyms and abbreviations resource.
 
@@ -536,7 +536,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Wikifox - Wikipedia Re-imagined](https://wikifox.ml) - Wikifox is a clean and simplified version of the real Wikipedia!
 
@@ -546,7 +546,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [WikiDiff |](https://wikidiff.com) - nan
 
@@ -556,7 +556,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [WikiGalaxy: Explore Wikipedia in 3D](https://wiki.polyfra.me) - nan
 
@@ -566,7 +566,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [English Wikipedia Top 100](https://top.hatnote.com) - nan
 
@@ -576,7 +576,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [The Tech Terms Computer Dictionary](https://techterms.com) - The Tech Terms Computer Dictionary contains over 1200 technical terms with easy-to-understand definitions.
 
@@ -586,7 +586,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://assets.tagdef.com/img/tagfdef-og-image.jpg)
 
@@ -598,7 +598,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [The Slang Dictionary - Slang.net](https://slang.net) - Slang.net is a clean slang dictionary that is safe for kids and parents alike.
 
@@ -608,7 +608,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.rhymer.com.com/g/og-image.jpg)
 
@@ -620,7 +620,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html) - nan
 
@@ -630,7 +630,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.phrases.org.uk/images/phrasefinder.png)
 
@@ -642,7 +642,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [OneLook Thesaurus and Reverse Dictionary](https://onelook.com/reverse-dictionary.shtml) - A powerful English thesaurus and brainstorming tool that lets you describe what you're looking for in plain terms.  It gives you hundreds of related words to choose from and lets you narrow down the list with several advanced features.
 
@@ -652,7 +652,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [OneLook: General dictionary sites](https://onelook.com/?d=all_gen) - nan
 
@@ -662,7 +662,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [OneLook Dictionary Search](https://onelook.com) - nan
 
@@ -672,7 +672,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org) - nan
 
@@ -682,7 +682,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [URL Shortener - Meta](https://meta.wikimedia.org/wiki/Special:UrlShortener) - nan
 
@@ -692,7 +692,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://new.lengusa.com/newPrev.png)
 
@@ -704,7 +704,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://a.kym-cdn.com/assets/kym-logo-large-2be3f3818691470a0369e154647ca0f0.png)
 
@@ -716,7 +716,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://howjsay.com/images/howjsay-preview.png)
 
@@ -728,7 +728,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://glosbe.com/open-graph-banner.png)
 
@@ -740,7 +740,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://opengraph.githubassets.com/56dae9f4fda5e1d370bdf43e3990a4c5c9697fc9dfc2b11abbfac8f2ddda1f90/zverok/wikipedia_ql)
 
@@ -752,11 +752,11 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://opengraph.githubassets.com/7c9e948d7787fe83c79d99bc3974b8dba0f60446f0607aee69cd4436f2252df7/chucknorris-io/swear-words)
 
-[chucknorris-io/swear-words: Profanity means swear words. The adjective is 'profane'. Profanities can also be called curse ("cuss") words, dirty words, bad words, foul language, obscenity, obscene language, or expletives. It can be called swearing, although this also has a normal meaning of making a "solemn promise".](https://github.com/chucknorris-io/swear-words) - Profanity means swear words. The adjective is 'profane'. Profanities can also be called curse ("cuss") words, dirty words, bad words, foul language, obscenity, o...
+[chucknorris-io/swear-words: Profanity means swear words. The adjective is 'profane'. Profanities can also be called curse ("cuss") words, dirty words, bad words, foul language, obscenity, obscene language, or expletives. It can be called swearing, although this also has a normal meaning of making a "solemn promise".](https://github.com/chucknorris-io/swear-words) - Profanity means swear words. The adjective is 'profane'. Profanities can also be called curse ("cuss") words, dirty words, bad words, foul language, obscenity, o…
 
 2022-09-14T12:28:59.610Z
 
@@ -764,7 +764,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://opengraph.githubassets.com/af09afa327db810a25ba12db907c735af1038c86b7ad75aad4ea27b687bed12b/attardi/wikiextractor)
 
@@ -776,7 +776,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [FreeMdict - mdx mdd download](https://freemdict.com) - mdict mdd mdx    mdx  mdict mdict mdx mdd mdx mdd mdict
 
@@ -786,7 +786,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://img.fraze.it/images/fb5_3.png)
 
@@ -798,7 +798,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://static00.forvo.com/_presentation/img/forvo_share.png?v=392)
 
@@ -810,7 +810,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://forumcdn.freemdict.com/uploads/default/original/1X/2180ed6a0534a9290a33abd13226859a832f6207.png)
 
@@ -822,7 +822,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [feeels](https://feelu.vercel.app) - nan
 
@@ -832,7 +832,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://iq.wiki/images/defaults/og-image-default.png)
 
@@ -844,7 +844,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Index of /](https://downloads.freemdict.com) - nan
 
@@ -854,7 +854,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://doesnottranslate.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-27-at-23.31.47.jpg)
 
@@ -866,7 +866,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://dictionary.cambridge.org/external/images/og-image.png)
 
@@ -878,7 +878,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Deletionpedia.org](https://deletionpedia.org/en/Main_Page) - nan
 
@@ -888,7 +888,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://conze.pt/app/explore2/assets/images/front.jpg)
 
@@ -900,7 +900,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Tip of My Tongue - Chirag Mehta : chir.ag](https://chir.ag/projects/tip-of-my-tongue) - Chirag Mehta - Personal Web Log - 'blog - Chime Softwares - Indian Blogger live from Saint Petersburg, Florida, St. Pete, FL
 
@@ -910,7 +910,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Chat Word Dictionary - Chat Words, Texting Abbreviations, Emoticons, and their Meanings](https://chatworddictionary.com) - A to Z searchable dictionary of commonly used chat words, texting abbreviations, emoticons (smileys), and their meanings
 
@@ -920,7 +920,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [The Devil's Dictionary Dot-Com, Unabridged](http://www.thedevilsdictionary.com) - Browse all Ambrose Bierce's published entries.
 
@@ -930,7 +930,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Check correct spelling and definitions at Spellorg.com](https://www.spellorg.com) - Find meanings for tricky words and check their spelling at our free online dictionary.
 
@@ -940,7 +940,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Lexipedia-Home](https://www.lexipedia.com) - nan
 
@@ -950,7 +950,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Ironic Sans: Thsrs - The Shorter Thesaurus](https://www.ironicsans.com/thsrs) - nan
 
@@ -960,7 +960,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [GoldenDict](http://www.goldendict.org) - nan
 
@@ -970,7 +970,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](http://www.focal.ie/furniture/illustration.png)
 
@@ -982,7 +982,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [static.wiki](http://static.wiki) - nan
 
@@ -992,7 +992,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 ![](https://www.phrases.org/wp-content/uploads/2020/07/PHRASES-launch-graphics-_Main-graphic-Facebook-1.png)
 
@@ -1004,7 +1004,7 @@
 
 ---
 
-### Grammer-Spelling-Etc
+#### Grammer-Spelling-Etc
 
 [Ninjawords - a really fast dictionary](https://ninjawords.com) - A really fast online dictionary
 

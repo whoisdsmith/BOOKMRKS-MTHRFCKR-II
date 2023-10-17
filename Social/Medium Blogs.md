@@ -1,6 +1,6 @@
-# Medium Blogs
-
 ## Medium Blogs
+
+### Medium Blogs
 
 ![](https://miro.medium.com/v2/resize:fit:2400/1*1OJrigrH4KNcE7XugVOFmA.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Medium Blogs
+### Medium Blogs
 
 ![](https://miro.medium.com/v2/resize:fit:2400/0*BW595AFDF3lGg11T.png)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Medium Blogs
+### Medium Blogs
 
 ![](https://miro.medium.com/v2/resize:fit:2400/0*ULuIXT8kSB3q1P5u.jpeg)
 
@@ -36,7 +36,7 @@
 
 ---
 
-## Medium Blogs
+### Medium Blogs
 
 [Osint Human Rights Center](https://medium.com/humanrightscenter/tagged/osint) - Read writing about Osint in Human Rights Center. The Human Rights Centers medium covers research, investigations, and action related to human rights and technology, health, law, journalism, business, social science, and more.
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Medium Blogs
+### Medium Blogs
 
 ![](https://miro.medium.com/v2/resize:fit:2400/1*MXZHBNn0iiQt58y9FBvekQ.jpeg)
 
@@ -58,7 +58,7 @@
 
 ---
 
-## Medium Blogs
+### Medium Blogs
 
 [Petro Cherkasets](https://medium.com/@Peter_UXer) - Read writing from Petro Cherkasets on Medium. OSINT, Privacy, InfoSec. Every day, Petro Cherkasets and thousands of other voices read, write, and share important stories on Medium.
 
@@ -68,7 +68,7 @@
 
 ---
 
-## Medium Blogs
+### Medium Blogs
 
 ![](https://miro.medium.com/v2/resize:fit:2400/1*vqXVwZTfOHrwWtLycEf5RA.png)
 
@@ -80,7 +80,7 @@
 
 ---
 
-## Medium Blogs
+### Medium Blogs
 
 ![](https://miro.medium.com/v2/resize:fit:2400/1*AFW8XMm1mnDQFINamFTgqA.png)
 
@@ -92,7 +92,7 @@
 
 ---
 
-## Medium Blogs
+### Medium Blogs
 
 ![](https://miro.medium.com/v2/resize:fit:2400/1*TVA8G2tCUQKl6yMkEjJgbg@2x.jpeg)
 
@@ -104,7 +104,7 @@
 
 ---
 
-## Medium Blogs
+### Medium Blogs
 
 ![](https://miro.medium.com/v2/resize:fit:970/1*X_CMnUZJ4_tOfP12qgfd4Q.jpeg)
 
@@ -116,7 +116,7 @@
 
 ---
 
-## Medium Blogs
+### Medium Blogs
 
 ![](https://cdn-images-1.medium.com/max/1200/1*FyQcxh_xP8aWcM8kKvdnVg.jpeg)
 

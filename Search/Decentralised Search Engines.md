@@ -1,6 +1,6 @@
-# Decentralised Search Engines
-
 ## Decentralised Search Engines
+
+### Decentralised Search Engines
 
 [Home - YaCy](https://yacy.net) - YaCy P2P - Decentralized Search Engine
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Decentralised Search Engines
+### Decentralised Search Engines
 
 [Almonit.eth.link](https://almonit.eth.link) - Almonit dWeb Search Engine
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Decentralised Search Engines
+### Decentralised Search Engines
 
 ![](https://i.imgur.com/jJNpnMo.png)
 

@@ -1,6 +1,6 @@
-# Web Animation
-
 ## Web Animation
+
+### Web Animation
 
 ![](https://shots.codepen.io/username/pen/dppoNd-512.jpg?version=1474397303)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Web Animation
+### Web Animation
 
 ![](https://shots.codepen.io/username/pen/WQVNWO-512.jpg?version=1448780656)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Web Animation
+### Web Animation
 
 [Obnoxious.css](https://tholman.com/obnoxious) - Animations for the strong of heart, and weak of mind.
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Web Animation
+### Web Animation
 
 ![](https://all-animation.github.io/assets/images/all-animation.png)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Web Animation
+### Web Animation
 
 ![](https://webkul.com/blog/wp-content/uploads/2018/01/micron-card.png)
 
@@ -58,7 +58,7 @@
 
 ---
 
-## Web Animation
+### Web Animation
 
 ![](https://www.minimamente.com/project/magic/assets/images/magic_big.png)
 
@@ -70,7 +70,7 @@
 
 ---
 
-## Web Animation
+### Web Animation
 
 [CSShake](https://elrumordelaluz.github.io/csshake) - Some CSS classes to move your DOM! Easy-to-use classes that will add different kind of shake to each part of your site.
 
@@ -80,7 +80,7 @@
 
 ---
 
-## Web Animation
+### Web Animation
 
 ![](https://keyframes.app/img/meta/facebook.png)
 
@@ -92,7 +92,7 @@
 
 ---
 
-## Web Animation
+### Web Animation
 
 [Bounce.js](http://bouncejs.com) - Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations. 
 
@@ -104,7 +104,7 @@ Give it a spin.
 
 ---
 
-## Web Animation
+### Web Animation
 
 ![](https://ianlunn.github.io/Hover/hover.jpg)
 
@@ -116,7 +116,7 @@ Give it a spin.
 
 ---
 
-## Web Animation
+### Web Animation
 
 [Keyframer](http://alexberg.in/keyframer) - A tool for making CSS3 animations
 
@@ -126,7 +126,7 @@ Give it a spin.
 
 ---
 
-## Web Animation
+### Web Animation
 
 [Ceaser - CSS Easing Animation Tool - Matthew Lein](https://matthewlein.com/tools/ceaser) - Ceaser is an interactive CSS easing animation tool. It lets you build any kind of ease you want, and comes with many of the Penner Easing Equations.
 
@@ -136,7 +136,7 @@ Give it a spin.
 
 ---
 
-## Web Animation
+### Web Animation
 
 ![](https://animista.net/animista-media-img.gif)
 
@@ -148,7 +148,7 @@ Give it a spin.
 
 ---
 
-## Web Animation
+### Web Animation
 
 [Mantra](https://jeremyckahn.github.io/mantra) - Mantra Animation
 
@@ -158,7 +158,7 @@ Give it a spin.
 
 ---
 
-## Web Animation
+### Web Animation
 
 [Awesome web-animation](https://awesome-web-animation.netlify.app) - Awesome web-animation
 
@@ -168,7 +168,7 @@ Give it a spin.
 
 ---
 
-## Web Animation
+### Web Animation
 
 ![](https://svgartista.net/svgartista-media.png)
 

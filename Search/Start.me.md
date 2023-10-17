@@ -1,6 +1,6 @@
-# Start.me
-
 ## Start.me
+
+### Start.me
 
 ![](https://c.start.me/screenshots/p/b5Aow7)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/wMdQMQ)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/b56G5Q)
 
@@ -36,7 +36,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/nRQNRb)
 
@@ -48,7 +48,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/aLBELX)
 
@@ -60,7 +60,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/QRENnO)
 
@@ -72,7 +72,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 [Resources Start.me (Bruno Mortier)](https://start.me/p/WELz48/resources) - A startpage with online resources about Sign in, created by start.me.
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/V0PXgr)
 
@@ -94,7 +94,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/ZGAzN7)
 
@@ -106,7 +106,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/OmExgb)
 
@@ -118,7 +118,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/VRxaj5)
 
@@ -130,7 +130,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/kxGLzd)
 
@@ -142,7 +142,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/7kmvEK)
 
@@ -154,7 +154,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/z42zAJ)
 
@@ -166,7 +166,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/ADypgr)
 
@@ -178,7 +178,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/rxekAP)
 
@@ -190,7 +190,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/ELkYYQ)
 
@@ -202,7 +202,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/8y52v0)
 
@@ -214,7 +214,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/7kKKMx)
 
@@ -226,7 +226,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/Pwy0X4)
 
@@ -238,7 +238,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/rxRbpo)
 
@@ -250,7 +250,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/rxBv18)
 
@@ -262,7 +262,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/BnrMKd)
 
@@ -274,7 +274,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://uploads-ssl.webflow.com/6353b82641400e1fe1b901bd/637a3d949d37fd3d15a5ae76_graphql.jpg)
 
@@ -286,7 +286,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://uploads-ssl.webflow.com/6353b82641400e1fe1b901bd/637a3d949d37fd3d15a5ae76_graphql.jpg)
 
@@ -298,11 +298,11 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://opengraph.githubassets.com/38fd50d7f35506127e8fd9c2f1006c1aebb88a29a1eb6914eca09d657c420139/gutmach/sosuv)
 
-[GitHub - gutmach/sosuv: simple scripts used in my presentation (plus some bonus ones using the methods taught in the PPTX file) and related to the conference](https://github.com/gutmach/sosuv?fbclid=IwAR0dpelfvrLM5jeILh3rZ0FOYrBx-9DE08IrhX7U_PiDqgwO-2jt9g3lCxg) - simple scripts used in my presentation (plus some bonus ones using the methods taught - see links to conference slides and recording in README file - GitHub - gutmach/sosuv: simple scripts used in ...
+[GitHub - gutmach/sosuv: simple scripts used in my presentation (plus some bonus ones using the methods taught in the PPTX file) and related to the conference](https://github.com/gutmach/sosuv?fbclid=IwAR0dpelfvrLM5jeILh3rZ0FOYrBx-9DE08IrhX7U_PiDqgwO-2jt9g3lCxg) - simple scripts used in my presentation (plus some bonus ones using the methods taught - see links to conference slides and recording in README file - GitHub - gutmach/sosuv: simple scripts used in …
 
 2022-02-24T13:17:34.000Z
 
@@ -310,7 +310,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/7k4BnY)
 
@@ -322,7 +322,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/gy1BgY)
 
@@ -334,7 +334,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/onblLD)
 
@@ -346,7 +346,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 [Search Pages Start Me CSE](https://cse.google.com/cse?cx=000905274576528531678%3A7k5elidlaww) - nan
 
@@ -356,7 +356,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/GE7Ebm)
 
@@ -368,7 +368,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/q64ONA)
 
@@ -380,7 +380,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/GEOaz8)
 
@@ -392,7 +392,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 [Susanna Frazier](https://www.linkedin.com/in/ohsusannamarie) - nan
 
@@ -402,7 +402,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 [Tom Ordonez](https://www.tomordonez.com/?fbclid=IwAR2L-X-aAuTNtRu749O_fkOivzL8Uru73wKAvizBgm6iR6nIKSuZPksF0dg) - A blog about software engineering and other thoughts.
 
@@ -412,7 +412,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://theme.zdassets.com/theme_assets/475348/93ad0b9ddeddf33f5d95785f5b41e3931c53a7c9.png)
 
@@ -424,7 +424,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/MEw7be)
 
@@ -436,7 +436,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/kxB4eX)
 
@@ -448,7 +448,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/1kJKR9)
 
@@ -460,7 +460,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/eknElD)
 
@@ -472,7 +472,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/q6mw4Q)
 
@@ -484,7 +484,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/kxwppk)
 
@@ -496,7 +496,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/rxDad8)
 
@@ -508,7 +508,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/Yan2Nq)
 
@@ -520,7 +520,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/V0PXgr)
 
@@ -532,7 +532,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/q6naJo)
 
@@ -544,7 +544,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/BnBb5v)
 
@@ -556,7 +556,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/7k48PK)
 
@@ -568,7 +568,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/gyvaAJ)
 
@@ -580,7 +580,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/m65arv)
 
@@ -592,7 +592,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/b56xX8)
 
@@ -604,7 +604,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/z4jqxM)
 
@@ -616,7 +616,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/Pw5GB4)
 
@@ -628,7 +628,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/1kAP0b)
 
@@ -640,7 +640,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/GEQXv7)
 
@@ -652,7 +652,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/1kOJ9N)
 
@@ -664,7 +664,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/0PGKad)
 
@@ -676,7 +676,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/vjKgz1)
 
@@ -688,7 +688,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/5vN2a0)
 
@@ -700,7 +700,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/m6OJgv)
 
@@ -712,7 +712,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/rxRbpo)
 
@@ -724,7 +724,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/Wrrzk0)
 
@@ -736,7 +736,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/1kxyw9)
 
@@ -748,7 +748,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/EL84Km)
 
@@ -760,7 +760,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/NxRQbG)
 
@@ -772,7 +772,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/ekl8eK)
 
@@ -784,7 +784,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/b5ynOQ)
 
@@ -796,7 +796,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://c.start.me/screenshots/p/RMKeQv)
 
@@ -808,7 +808,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 ![](https://www.bing.com/th?id=OHR.VeniceSkatePark_ROW7850403067_tmb.jpg&rf=)
 
@@ -820,7 +820,7 @@
 
 ---
 
-## Start.me
+### Start.me
 
 [Yahoo](https://yahoo.start.me/?a=wsp_startme_00_00_ssg02) - The search engine that helps you find exactly what you\'re looking for. Find the most relevant information, video, images, and answers from all across the Web.
 

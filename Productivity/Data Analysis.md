@@ -1,6 +1,7 @@
 ## Data Analysis
-
 ### Data Analysis
+
+#### Data Analysis
 
 [Self-Service Data Analytics Platform](https://www.alteryx.com) - The Alteryx Analytics Automation Platform delivers end-to-end automation of analytics, machine learning, and data science processes that accelerate digital transformation.
 
@@ -10,9 +11,9 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
-[AWStats](https://www.awstats.org) - AWStats Official Web Site - Compile and generate advanced graphical web, ftp or mail statistics with a logfile analysis (For IIS, Apache,... distributed under GNU GPL).
+[AWStats](https://www.awstats.org) - AWStats Official Web Site - Compile and generate advanced graphical web, ftp or mail statistics with a logfile analysis (For IIS, Apache,… distributed under GNU GPL).
 
 2022-10-03T05:06:21.000Z
 
@@ -20,7 +21,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://static.bigml.com/static/img/share/share_bigml.jpg)
 
@@ -32,7 +33,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.board.com/sites/default/files/1200x627_board_opengraph_website-homepage.jpg)
 
@@ -44,7 +45,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png)
 
@@ -56,7 +57,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://uploads-ssl.webflow.com/61c1b7c3e2f3805325be4594/63c969a3403715a326f91570_main.png)
 
@@ -68,7 +69,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.dataiku.com/wp-content/uploads/2023/07/Dataiku-The-End-to-End-Platform-for-Everyday-AI.png)
 
@@ -80,7 +81,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.chi2innovations.com/wp-content/uploads/2018/10/DataKleenr-150x145.png)
 
@@ -92,7 +93,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Online Data Analysis Tools - Easily Analyze Your Data Online](https://www.datapine.com/data-analysis-tools) - Try the best Online Data Analysis Tool for free:  Analyze & visualize data on-the-fly  Share visualized results via online dashboards & automated reports
 
@@ -102,7 +103,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Datapreparator.com](https://www.datapreparator.com) - nan
 
@@ -112,7 +113,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://datashare.icij.org/social.png)
 
@@ -124,7 +125,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.displayr.com/wp-content/uploads/2023/09/Displayr_landing_pages_social_homepage_2023.png)
 
@@ -136,7 +137,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://web-assets.domo.com/miyagi/images/product/product-google-og-2023-home.png)
 
@@ -148,7 +149,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Eanalytics.de](https://www.eanalytics.de) - nan
 
@@ -158,7 +159,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [www.exmerg.com](https://www.exmerg.com) - nan
 
@@ -168,7 +169,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://lh3.googleusercontent.com/oz5bCMIFGBqul5z56AbXXgjTcrJQmtYeXJRijeeobpk3qP9CMLrJtkh1LUKkj5fr2pfXxnRu10R0zeFiyCB5dYRWqqvhwSGfTJktKg)
 
@@ -180,7 +181,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png)
 
@@ -192,7 +193,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Open Source Leader in AI and ML](https://www.h2o.ai) - H2O.ai is an advanced AI Cloud Platform designed to simplify and accelerate making, operating and innovating with AI in any environment.
 
@@ -202,7 +203,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.hitachivantara.com/content/dam/public/en_us/images/sharing-graphic.jpg)
 
@@ -214,7 +215,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.ibi.com/sites/ibi/files/media_entity/2023-01/ibi_open_graph1.png)
 
@@ -226,7 +227,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/stock-assets/getty/image/photography/bd/12/dsc_9538.jpg/_jcr_content/renditions/cq5dam.medium.1584.1584.jpeg)
 
@@ -238,7 +239,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://dam.infor.com/api/public/content/ca1232fee9244106bfe69c8e2cd5d324?v=0655219a)
 
@@ -250,7 +251,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.knime.com/sites/default/files/2021-04/knime%20home.png)
 
@@ -262,7 +263,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png)
 
@@ -274,7 +275,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://matomo.org/wp-content/uploads/2020/06/website-graphics-2020-v5-1-e1611111459689.png)
 
@@ -286,7 +287,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Microsoft Azure Machine Learning Studio](https://studio.azureml.net) - Azure Machine Learning Studio is a GUI-based integrated development environment for constructing and operationalizing Machine Learning workflow on Azure.
 
@@ -296,7 +297,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Power BI](https://powerbi.microsoft.com) - Turn data into opportunity with Microsoft Power BI data visualisation tools. Drive better business decisions by analysing your enterprise data for insights.
 
@@ -306,7 +307,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.microstrategy.com/content/dam/website-assets/website-images/thumbnails/social-media-images/mstr-social-preview.jpg)
 
@@ -318,7 +319,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Mlbase.org](https://mlbase.org) - nan
 
@@ -328,7 +329,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://mljar.com/images/mljar-card.jpg)
 
@@ -340,7 +341,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Mr. Data Converter](https://shancarter.github.io/mr-data-converter) - nan
 
@@ -350,7 +351,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://avatars.githubusercontent.com/u/2538880?s=280&v=4)
 
@@ -362,7 +363,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Orange Data Mining](https://orange.biolab.si) - Orange Data Mining Toolbox
 
@@ -372,7 +373,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.datarobot.com/wp-content/uploads/2021/09/Data-Preparation-sharing.jpg)
 
@@ -384,7 +385,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://pdftables.com/images/pdftables-square-logo-large.png)
 
@@ -396,7 +397,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Explore Opendatasoft](https://public.opendatasoft.com/explore?sort=modified) - nan
 
@@ -406,7 +407,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.pyramidanalytics.com/wp-content/uploads/2022/02/pyramid-analytics.jpg)
 
@@ -418,7 +419,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.qlik.com/us/-/media/images/global-us/site-content/homepage/social-sharing/qlik-share-homepage.jpg?rev=ba5d4f0d05994bf5ba3e450cae7d1ddc)
 
@@ -430,7 +431,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://rapidminer.com/wp-content/uploads/2022/04/Homepage-1.jpg)
 
@@ -442,7 +443,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [R: The R Project for Statistical Computing](https://www.r-project.org) - nan
 
@@ -452,7 +453,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.sap.com/dam/application/shared/logos/sap_logo_rgb_onwhite_0300_0300.png.adapt.png/1656382976488.png)
 
@@ -464,7 +465,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Business Analytics and Business Intelligence Software](https://www.sas.com) - nan
 
@@ -474,7 +475,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://opengraph.githubassets.com/d9544a030dc07b4cb5649d3b75dc4cb931752982b01487ee4fba897e22931624/Netflix-Skunkworks/Scumblr)
 
@@ -486,7 +487,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://public.tableau.com/app/assets/images/tableau-public-logo-with-padding.png)
 
@@ -498,7 +499,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.talend.com/images/logo-talend-logomark.png)
 
@@ -510,7 +511,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.targit.com/hubfs/TARGIT-Business-Intelligence-Featured-Image.png#keepProtocol)
 
@@ -522,7 +523,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Tellius.com](https://www.tellius.com) - A better way to learn the 'what' and 'why' from all your data with the Tellius AI-driven augmented analytics & decision intelligence platform
 
@@ -532,7 +533,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://media.thoughtspot.com/35707/1668626450-thousghtspot_home_og.jpg?auto=format&fit=max&w=1200)
 
@@ -544,7 +545,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.tibco.com/sites/tibco/files/tibco-logo-social.png)
 
@@ -556,7 +557,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.alteryx.com/wp-content/uploads/alteryx-22a22-feature-image.png)
 
@@ -568,7 +569,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Weka 3 - Data Mining with Open Source Machine Learning Software in Java](https://www.cs.waikato.ac.nz/ml/weka) - nan
 
@@ -578,7 +579,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.yellowfinbi.com/assets/files/2021/05/Default_sharing_image_V6.png)
 
@@ -590,7 +591,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.zohowebstatic.com/sites/zweb/images/ogimage/analytics-logo.png)
 
@@ -602,7 +603,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://www.zohowebstatic.com/sites/zweb/images/ogimage/analytics-logo.png)
 
@@ -614,7 +615,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 [Qlik-Data Analytics & Data Integration Solutions](https://global.qlik.com/us/landing/go-sm/qlikview/download-) - Qlik's modern data integration and analytics let users easily uncover insights and take timely action. Go beyond passive BI and dashboards.
 
@@ -624,7 +625,7 @@
 
 ---
 
-### Data Analysis
+#### Data Analysis
 
 ![](https://uploads-ssl.webflow.com/630e3428eec8a9908c388a87/637cade584254ded0b2a3ff9_15-min.png)
 
@@ -636,4 +637,4 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers

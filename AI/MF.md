@@ -1,6 +1,6 @@
-# MF
-
 ## MF
+
+### MF
 
 
 
@@ -1062,7 +1062,7 @@
 
 ![](https://res.cloudinary.com/apideck/image/upload/w_128,f_auto/v1635714073/icons/codestart-xyz.png)
 
-[codeStarter-Discover AI use cases](https://gpt3demo.com/apps/codestart-xyz) - Build web apps with OpenAI Codex codeStarter allows you to instantly generate web apps using any framework: React, NextJS, Angular, Vue, Svelte, and mor...
+[codeStarter-Discover AI use cases](https://gpt3demo.com/apps/codestart-xyz) - Build web apps with OpenAI Codex codeStarter allows you to instantly generate web apps using any framework: React, NextJS, Angular, Vue, Svelte, and mor…
 
 2023-05-16T15:56:51.000Z
 
@@ -1274,7 +1274,7 @@
 
 ![](https://opengraph.githubassets.com/be86c22ecd50586a25b56007528a29597f20b02bc232dac08bd8d491f1ba311f/AntonOsika/gpt-engineer)
 
-[gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. - GitHub - AntonOsika/gpt-engineer: Specify what you want it to build, the AI asks for clarification, and then ...
+[gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. - GitHub - AntonOsika/gpt-engineer: Specify what you want it to build, the AI asks for clarification, and then …
 
 2023-09-25T18:10:50.000Z
 
@@ -1306,7 +1306,7 @@
 
 ![](https://cyme.io/wp-content/uploads/2022/11/Peakto-logo-Photo-Cataloger.svg)
 
-[Peakto, the game-changing photo organizer software for Mac](https://cyme.io/peakto-photo-organizer-software) - Navigate through all your photos. Peakto is compatible with Apple Photos, Aperture, Lightroom, Luminar, Capture One, iView Media, folders...
+[Peakto, the game-changing photo organizer software for Mac](https://cyme.io/peakto-photo-organizer-software) - Navigate through all your photos. Peakto is compatible with Apple Photos, Aperture, Lightroom, Luminar, Capture One, iView Media, folders…
 
 2022-12-30T02:22:24.000Z
 

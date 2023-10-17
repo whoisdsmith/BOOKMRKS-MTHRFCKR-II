@@ -1,11 +1,11 @@
-# Resources
-## Articles
-
+## Resources
 ### Articles
+
+#### Articles
 
 ![](https://ljvmiranda921.github.io/assets/png/vqgan/ai_art_collage.png)
 
-[The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan) - VQGAN allows us to generate high-resolution images from text, and has now taken art Twitter by storm. Let me talk about how it works on a conceptual level in...
+[The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan) - VQGAN allows us to generate high-resolution images from text, and has now taken art Twitter by storm. Let me talk about how it works on a conceptual level in…
 
 2022-12-26T04:59:55.000Z
 
@@ -13,7 +13,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.jpg)
 
@@ -25,7 +25,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://brainartlabs.files.wordpress.com/2022/08/cathuman.png)
 
@@ -37,7 +37,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://proximacentaurib.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa2dde88d-0cfe-4ffb-8721-e841f6b7043f%2F35241BA6-6D4F-41F8-A04F-89943548252B.jpeg?table=collection&id=76d6d2bd-e5d7-4466-8e23-04983cb08ae5&spaceId=b4561837-08fe-4a03-a305-e7ccc5ef3add&width=2000&userId=&cache=v2)
 
@@ -49,7 +49,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://codaio.imgix.net/docs/mAhnXLIQsx/blobs/bl-tMT6Jwrejh/a5f4a1a9d0c91a281ab89ef0bc2fefa3b31b2ea1626ab710430f2d07763b99b996941d2854db98ebd843a536bf0223172e27d67a42dcf372d03a9a940fd13ed79d979bef5ef51217aa37b69d3484a7ac52a6a19691314266be8c44b3a2ad2e2b08786967?fit=crop&ar=1.91%3A1&fm=jpg)
 
@@ -61,11 +61,11 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://rentry.co/static/icons/512.png)
 
-[My Private Local Waifu Diffusion colab](https://rentry.org/nocrypt) - Feel free to use and edit to your liking! Recommended Colab   https://colab.research.google.com/github/NoCrypt/sd-webui-colab/blob/main/sd_webui_colab.ipynb  Features: ~5 minutes startup time guaranteed. Booru tags suggestions included. (configurable) Supports hypernetworks (w/o fast-stable-d...
+[My Private Local Waifu Diffusion colab](https://rentry.org/nocrypt) - Feel free to use and edit to your liking! Recommended Colab   https://colab.research.google.com/github/NoCrypt/sd-webui-colab/blob/main/sd_webui_colab.ipynb  Features: ~5 minutes startup time guaranteed. Booru tags suggestions included. (configurable) Supports hypernetworks (w/o fast-stable-d…
 
 2022-12-26T05:07:52.000Z
 
@@ -73,7 +73,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 [Model Database - Upscale Wiki](https://upscale.wiki/wiki/Model_Database) - nan
 
@@ -83,11 +83,11 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://images.hive.blog/1200x630/https://files.peakd.com/file/peakd-hive/kaliyuga/23tH634Tm9MqfNSHBKHVLLhQA3Uio7g9YEAnunhQqmECVqVJMjqaUe7bUx6Tpxjk8Pnzy.jpg)
 
-[Model Comparison Study for Disco Diffusion v. 5 (AI Resources By KaliYuga)-PeakD](https://peakd.com/@kaliyuga/model-comparison-study-for-disco-diffusion-v-5-ai-resources-by-kaliyuga) - Hey guys! I've been hard at work for the last few days putting together a set of comparisons exploring the results given... by kaliyuga
+[Model Comparison Study for Disco Diffusion v. 5 (AI Resources By KaliYuga)-PeakD](https://peakd.com/@kaliyuga/model-comparison-study-for-disco-diffusion-v-5-ai-resources-by-kaliyuga) - Hey guys! I've been hard at work for the last few days putting together a set of comparisons exploring the results given… by kaliyuga
 
 2022-12-26T05:02:00.000Z
 
@@ -95,7 +95,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 [Journey to the BAOAB-limit: finding effective MCMC samplers for score-based models](https://www.ajayjain.net/journey) - nan
 
@@ -105,7 +105,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 [Dive into Deep Learning Dive into Deep Learning 1.0.0-beta0 documentation](https://d2l.ai/index.html) - nan
 
@@ -115,7 +115,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://weirdwonderfulai.art/wp-content/uploads/2022/04/Modifier-style.jpg)
 
@@ -127,7 +127,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://weirdwonderfulai.art/wp-content/uploads/2022/02/DiscoDiffusion-Artists.jpg)
 
@@ -139,7 +139,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](http://elaboratecheesburger.site/wp-content/uploads/2022/06/zeen-og-share.jpg)
 
@@ -151,7 +151,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*3yYvfF53DaY3WNwi_BmEGg.png)
 
@@ -163,7 +163,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://i.imgur.com/rss8EU1.jpg?fb)
 
@@ -175,7 +175,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](http://s.remidurant.com/artists/social/preview.png)
 
@@ -187,7 +187,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://i.imgur.com/2CXGrpy.jpg?fb)
 
@@ -199,7 +199,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 [Animating Pictures with Eulerian Motion Fields](https://eulerian.cs.washington.edu) - nan
 
@@ -209,7 +209,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://www.ruder.io/content/images/2016/09/loss_function_image_tumblr.png)
 
@@ -221,7 +221,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://sweet-hall-e72.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F363b875c-f84f-4261-9711-2ca1b86750d4%2Fsailing_on_neptune_by_paul_lehr.png?table=block&id=85efba7e-5e6a-40e5-bd3c-ae980f30235f&spaceId=384da9c9-4a1a-4574-9728-bda0273a7d8b&width=2000&userId=&cache=v2)
 
@@ -233,7 +233,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://opengraph.githubassets.com/8cefad82c88b232728550bedc6cb127d42e84ac3486523d0cab66c1858761987/dair-ai/ML-Course-Notes)
 
@@ -245,7 +245,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://opengraph.githubassets.com/e9927109aa9163022a113b225167e4a2cb43f68fc72ac1510e32186a331e0265/santinic/how2)
 
@@ -257,7 +257,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/thumbnail/b277cd48-7b49-4e71-ad17-b3d03ae33a8d/landscape_Social.png)
 
@@ -269,7 +269,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://raw.githubusercontent.com/haseeb-heaven/AIAutoFilerPro/main/resources/app_logo.png)
 
@@ -281,7 +281,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://laion.ai/social.png)
 
@@ -293,7 +293,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://perprompt.com/favicon.ico)
 
@@ -305,7 +305,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://imagedelivery.net/K11gkZF3xaVyYzFESMdWIQ/fd435687-b17c-4720-0434-a16e46ea8200/full)
 
@@ -317,7 +317,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://www.fast.ai/images/nbdev2/cover.png)
 
@@ -329,7 +329,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://uploads-ssl.webflow.com/6416d57636dcd35421ecbcbb/647ab215c2ec0bb54bfa53cd_open-graph-20230603.png)
 
@@ -341,7 +341,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://framerusercontent.com/images/khUXyIE5wQ08KyDLkReGukezLE.jpg)
 
@@ -353,7 +353,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 [Training nanoGPT on my Journal](https://hut.pm/nanogpt.html) - nan
 
@@ -363,7 +363,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://prequel.app/images/snippet.jpg)
 
@@ -375,7 +375,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://rephrasely.com/rephrasely-og-image.png)
 
@@ -387,7 +387,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://www.videomakerai.com/images/cover.png)
 
@@ -399,7 +399,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://uploads-ssl.webflow.com/62388b895bbf932a09736a57/628f340ca439cd44fbb0c550_open%20graph.png)
 
@@ -411,7 +411,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 [NewsGPT](https://aylien.com) - No reporters and no bias AI generated news
 
@@ -421,7 +421,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 [Unofficial Midjourney Community Wiki.](https://mj.aihub.gg) - nan
 
@@ -431,7 +431,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://michellekhuang.com/wp-content/uploads/2022/12/letter-from-the-past.png)
 
@@ -443,7 +443,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 [The Illustrated Stable Diffusion Jay Alammar Visualizing machine learning one concept at a time.](https://jalammar.github.io/illustrated-stable-diffusion) - Translations: Chinese, Vietnamese.   (V2 Nov 2022: Updated images for more precise description of forward diffusion. A few more images in this version)  AI image generation is the most recent AI capability blowing peoples minds (mine included). The ability to create striking visuals from text descriptions has a magical quality to it and points clearly to a shift in how humans create art. The release of Stable Diffusion is a clear milestone in this development because it made a high-performance model available to the masses (performance in terms of image quality, as well as speed and relatively low resource/memory requirements).    After experimenting with AI image generation, you may start to wonder how it works.  This is a gentle introduction to how Stable Diffusion works.            Stable Diffusion is versatile in that it can be used in a number of different ways. Lets focus at first on image generation from text only (text2img). The image above shows an example text input and the resulting generated image (The actual complete prompt is here). Aside from text to image, another main way of using it is by making it alter images (so inputs are text + image).
 
@@ -453,7 +453,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://assets.gumroad.com/assets/opengraph_image-4110ebae42201eaa14606ecde6ca17e380f576b25224ba270116b0439775cd0a.png)
 
@@ -465,7 +465,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://ml4a.net/images/favicon/ml4a_400x400.jpg)
 
@@ -477,7 +477,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fswyx.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D617783139%26version%3D9)
 
@@ -489,7 +489,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://dreamingcomputers.com/wp-content/uploads/2022/06/Alien-Shaman-feature.jpg)
 
@@ -501,7 +501,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://matthewmcateer.me/media/thumbnails/clip_examples_thousands.jpeg)
 
@@ -513,7 +513,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://bleedingedge.ai/assets/meta/be-meta-home.jpg)
 
@@ -525,7 +525,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://www.emergentmind.com/assets/og_image_thumbnail-e1ce38bcb66cd754d542b46730ec1582fa55365155424377b8940619722d7682.jpg)
 
@@ -537,7 +537,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/e63f60c0-3d0f-421d-ae62-3ab962a59bbe/Brain_Data.png)
 
@@ -549,7 +549,7 @@
 
 ---
 
-### Articles
+#### Articles
 
 [Data Skeptic](https://dataskeptic.libsyn.com) - nan
 
@@ -559,13 +559,13 @@
 
 ---
 
-## Documents
-
 ### Documents
+
+#### Documents
 
 ![](https://lh3.googleusercontent.com/docs/AOD9vFrrS2ftygXMJMGYXDJ9EB5Aq6GnLROfOO2u4vtEzL7rPmg5xfzHn9U4pqej2X8AzLuuAYZw8F7ADcInO6M7TDTpdT1c893-VZS4h6-7o1I=w1200-h630-p)
 
-[docs.google.com/document/d/1l8s7uS2dGqjztYSjPpzlmXLjl5PM3IGkRWI3IiCuK7g/edit](https://docs.google.com/document/d/1l8s7uS2dGqjztYSjPpzlmXLjl5PM3IGkRWI3IiCuK7g/edit) - Disco Diffusion 5.2 - what is it?  Disco Diffusion (DD) is a Google Colab Notebook which leverages an AI Image generating technique called CLIP-Guided Diffusion to allow you to create compelling and beautiful images from just text inputs. Created by Somnai, augmented by Gandamu, and building on ...
+[docs.google.com/document/d/1l8s7uS2dGqjztYSjPpzlmXLjl5PM3IGkRWI3IiCuK7g/edit](https://docs.google.com/document/d/1l8s7uS2dGqjztYSjPpzlmXLjl5PM3IGkRWI3IiCuK7g/edit) - Disco Diffusion 5.2 - what is it?  Disco Diffusion (DD) is a Google Colab Notebook which leverages an AI Image generating technique called CLIP-Guided Diffusion to allow you to create compelling and beautiful images from just text inputs. Created by Somnai, augmented by Gandamu, and building on …
 
 2022-12-25T07:19:57.000Z
 
@@ -573,11 +573,11 @@
 
 ---
 
-### Documents
+#### Documents
 
 ![](https://lh3.googleusercontent.com/docs/AOD9vFqZzV9XqmhH9gG_V8yeIKLVHpBJXyHC8Fo7_mId40ykGJt_o6CkuFoDqJ9iLTr68LDheIAhP8twTkILuyirKfzd0tdefpiLsYhKme1-p72z=w1200-h630-p)
 
-[docs.google.com/document/d/1Ff8s8CX3xGrVr6AJ94hcvQ_PYqJ_mDAXzT3NGb5_K1w/edit](https://docs.google.com/document/d/1Ff8s8CX3xGrVr6AJ94hcvQ_PYqJ_mDAXzT3NGb5_K1w/edit) - Disco Diffusion Portrait Study   A foundation to build more coherent faces/portraits from, and an evolving study for prompt permutations and modifiers (WIP). All results below were generated within 16 gb of vram. These findings by no means represent the absolute perfect settings and prompt struc...
+[docs.google.com/document/d/1Ff8s8CX3xGrVr6AJ94hcvQ_PYqJ_mDAXzT3NGb5_K1w/edit](https://docs.google.com/document/d/1Ff8s8CX3xGrVr6AJ94hcvQ_PYqJ_mDAXzT3NGb5_K1w/edit) - Disco Diffusion Portrait Study   A foundation to build more coherent faces/portraits from, and an evolving study for prompt permutations and modifiers (WIP). All results below were generated within 16 gb of vram. These findings by no means represent the absolute perfect settings and prompt struc…
 
 2022-12-25T07:19:57.000Z
 
@@ -585,7 +585,7 @@
 
 ---
 
-### Documents
+#### Documents
 
 [docs.google.com/document/d/1EvkiHa12ButetruSBr82MJeomHfVRkvczB9-FgqtJ48/mobilebasic](https://docs.google.com/document/d/1EvkiHa12ButetruSBr82MJeomHfVRkvczB9-FgqtJ48/mobilebasic) - nan
 
@@ -595,11 +595,11 @@
 
 ---
 
-### Documents
+#### Documents
 
 ![](https://lh3.googleusercontent.com/docs/AHkbwyKYnZE6gQtK_9RcJdYnQfvAylU9wYkms_M61hEi6RW2a320x7MpDj8DUOf9DohE5szPBAk08RAuqoRi86d0EJUwSCmY6sDSSOrxl2tpKe2t=w1200-h630-p)
 
-[docs.google.com/document/d/1C5wt-q6i1JVb2zGsTCGcZev4NayFKC0p-ejbdZx4AkM/edit](https://docs.google.com/document/d/1C5wt-q6i1JVb2zGsTCGcZev4NayFKC0p-ejbdZx4AkM/edit) - All the changes and stuff to know about  MathRockDiffusion seeks to optimize Clip-guided diffusion at every step of the process, so far starting with the cutout function, which was given a much needed rework to improve variance and support the resolutions many choose to run at.  Discord: https://...
+[docs.google.com/document/d/1C5wt-q6i1JVb2zGsTCGcZev4NayFKC0p-ejbdZx4AkM/edit](https://docs.google.com/document/d/1C5wt-q6i1JVb2zGsTCGcZev4NayFKC0p-ejbdZx4AkM/edit) - All the changes and stuff to know about  MathRockDiffusion seeks to optimize Clip-guided diffusion at every step of the process, so far starting with the cutout function, which was given a much needed rework to improve variance and support the resolutions many choose to run at.  Discord: https://…
 
 2022-12-25T07:19:57.000Z
 
@@ -607,7 +607,7 @@
 
 ---
 
-### Documents
+#### Documents
 
 [drive.google.com/file/d/1nEFEpK27v0nytNXmmYQb06X_RI6kKPve/view](https://drive.google.com/file/d/1nEFEpK27v0nytNXmmYQb06X_RI6kKPve/view) - nan
 
@@ -617,7 +617,7 @@
 
 ---
 
-### Documents
+#### Documents
 
 [https://docs.google.com/spreadsheets/d/1zyjum-srhgia7wrj4pe4qqepashiec00dydotpv4pwg/edit#gid=0](https://docs.google.com/spreadsheets/d/1zyjum-srhgia7wrj4pe4qqepashiec00dydotpv4pwg/edit#gid=0) - nan
 
@@ -627,7 +627,7 @@
 
 ---
 
-### Documents
+#### Documents
 
 [https://docs.google.com/spreadsheets/d/1p9fm68jkea1ih45i_qxinu2qhicmcjxqsdltxri23oe/edit#gid=0](https://docs.google.com/spreadsheets/d/1p9fm68jkea1ih45i_qxinu2qhicmcjxqsdltxri23oe/edit#gid=0) - nan
 
@@ -637,7 +637,7 @@
 
 ---
 
-### Documents
+#### Documents
 
 [https://docs.google.com/document/d/1xut2g9lmkzatahfzmuotrxnuwbfhvxdao8dks--8tec/edit](https://docs.google.com/document/d/1xut2g9lmkzatahfzmuotrxnuwbfhvxdao8dks--8tec/edit) - nan
 
@@ -647,7 +647,7 @@
 
 ---
 
-### Documents
+#### Documents
 
 [https://docs.google.com/document/d/1rrqv7fntzoulg4ohjrzpvl7iptiybhwwbceyew2ofci/edit](https://docs.google.com/document/d/1rrqv7fntzoulg4ohjrzpvl7iptiybhwwbceyew2ofci/edit) - nan
 
@@ -657,7 +657,7 @@
 
 ---
 
-### Documents
+#### Documents
 
 [https://docs.google.com/document/d/1orymhm0te18qkihnhcdggp-wst8zklzvow3raiu2dvu/edit](https://docs.google.com/document/d/1orymhm0te18qkihnhcdggp-wst8zklzvow3raiu2dvu/edit) - nan
 
@@ -667,7 +667,7 @@
 
 ---
 
-### Documents
+#### Documents
 
 [https://docs.google.com/document/d/1on4unvrgc2fseahmvb4idopplwmzm0lx5cxioxg47k4/edit](https://docs.google.com/document/d/1on4unvrgc2fseahmvb4idopplwmzm0lx5cxioxg47k4/edit) - nan
 
@@ -677,7 +677,7 @@
 
 ---
 
-### Documents
+#### Documents
 
 [https://docs.google.com/document/d/1ohwop3i0nfimekinqaaiwxfrekkk_rbsfmz_vtwdcrw/edit](https://docs.google.com/document/d/1ohwop3i0nfimekinqaaiwxfrekkk_rbsfmz_vtwdcrw/edit) - nan
 
@@ -687,7 +687,7 @@
 
 ---
 
-### Documents
+#### Documents
 
 [https://docs.google.com/document/d/18brtw9rzi9rraaynmxes59hoxec_qh1_bt7vdcp-32e/mobilebasic](https://docs.google.com/document/d/18brtw9rzi9rraaynmxes59hoxec_qh1_bt7vdcp-32e/mobilebasic) - nan
 
@@ -697,7 +697,7 @@
 
 ---
 
-### Documents
+#### Documents
 
 [https://docs.google.com/document/d/11hwn5e57tawdpyzlw5s6gqzrwmsllmoqivyjncopphe/edit](https://docs.google.com/document/d/11hwn5e57tawdpyzlw5s6gqzrwmsllmoqivyjncopphe/edit) - nan
 
@@ -707,7 +707,7 @@
 
 ---
 
-### Documents
+#### Documents
 
 [https://docs.google.com/document/d/11hwn5e57tawdpyzlw5s6gqzrwmsllmoqivyjncopphe](https://docs.google.com/document/d/11hwn5e57tawdpyzlw5s6gqzrwmsllmoqivyjncopphe) - nan
 
@@ -717,9 +717,9 @@
 
 ---
 
-## OpenAI
-
 ### OpenAI
+
+#### OpenAI
 
 [OpenAI Status](https://status.openai.com) - Welcome to OpenAI's home for real-time and historical data on system performance.
 
@@ -729,7 +729,7 @@
 
 ---
 
-### OpenAI
+#### OpenAI
 
 ![](https://cdn.openai.com/API/images/opengraph.png)
 
@@ -741,7 +741,7 @@
 
 ---
 
-### OpenAI
+#### OpenAI
 
 ![](https://cdn.openai.com/API/images/opengraph.png)
 
@@ -753,7 +753,7 @@
 
 ---
 
-### OpenAI
+#### OpenAI
 
 ![](https://bettergpt.chat/preview.jpg)
 
@@ -765,7 +765,7 @@
 
 ---
 
-### OpenAI
+#### OpenAI
 
 ![](https://cdn.openai.com/API/images/opengraph.png)
 
@@ -777,9 +777,9 @@
 
 ---
 
-## Pharampyschaotic
-
 ### Pharampyschaotic
+
+#### Pharampyschaotic
 
 [art of pharmapsychotic](https://pharmapsychotic.com/art-of-pharmapsychotic.html) - pharmapsychotic
 
@@ -789,7 +789,7 @@
 
 ---
 
-### Pharampyschaotic
+#### Pharampyschaotic
 
 [training](https://pharmapsychotic.com/training.html) - pharmapsychotic
 
@@ -799,7 +799,7 @@
 
 ---
 
-### Pharampyschaotic
+#### Pharampyschaotic
 
 [pharmapsychotic's nfts](https://pharmapsychotic.com/nfts.html) - pharmapsychotic
 
@@ -809,9 +809,9 @@
 
 ---
 
-## Resources
-
 ### Resources
+
+#### Resources
 
 ![](https://www.chatgpthackers.dev/social.jpg)
 
@@ -823,7 +823,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 ![](https://marscode.s3.eu-north-1.amazonaws.com/assets/img/1673338243184)
 
@@ -835,7 +835,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 ![](https://ailaunchlist.com/storage/2023/04/ailaunchlist_opengraph_1-1024x538.png)
 
@@ -847,7 +847,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 ![](https://files.superusapp.com/public/icon/mymap-og.png)
 
@@ -859,7 +859,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 [ElegantPrompt](https://ai-tools.elegantprompt.com) - AI-driven services including content generation, data analysis, & problem-solving
 
@@ -869,7 +869,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 [AskMidjourney](https://app.sttabot.io/bot/ask-midjourney) - Ask any question related to Midjourney
 
@@ -879,7 +879,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 ![](https://automagically.club/assets/images/share.jpg?v=e2738c7b)
 
@@ -891,7 +891,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 ![](https://storage.googleapis.com/buildai-4bad5.appspot.com/apps/screenshot/my-approach.png?GoogleAccessId=firebase-adminsdk-luuil%40buildai-4bad5.iam.gserviceaccount.com&Expires=16553721600&Signature=XwtAkMwje1ulIKYAXmAKd54HyOandbGSfIbDYCBxSzK5hvU%2FaK5l1%2B0EQLT6xIl1RGHbaUl6N2bbUwYX7JzozrUQo1T4mYdD6t9wYQjt%2Fzw%2F5iwL9b5oL2hRkumi9TiiMwsmIAbo9SpIPTaaL12rbNxQ9snKbv6sRs5WQh%2FD%2BWYjxeePiKY7LdBztItkqjeBgkPIM4tyscFIqOmjydHeAtvDpMBuHvlu5SKlBIGzIruQZUmEWJbqsH3IggxbXEk5R1a1v92VBlJn%2FAB%2Ba4YRGJFKj6DrnOYacc0ic0RarPI%2BYC4C%2FEaBqZtXo213zf8%2B9K9x0i%2FgacJcY30hEqNTiQ%3D%3D)
 
@@ -903,7 +903,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 ![](https://s0.wp.com/i/blank.jpg)
 
@@ -915,7 +915,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 ![](https://promind.ai/assets/logo.png)
 
@@ -927,7 +927,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 ![](https://www.starcycle.ai/assets/images/Social-Card-Starcycle.jpg)
 
@@ -939,7 +939,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 [AI SWOT Analysis](https://swotanalysis.dev) - Instant AI-Generated SWOT Analysis for Strategic Company Insights.
 
@@ -949,7 +949,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 ![](https://searchie.io/hubfs/Facebook%20Group%20Cover-1.png#keepProtocol)
 
@@ -961,7 +961,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 [Amnet Digital](https://www.amnetdigital.com) - Solving Complex Business Challenges with Data-Driven Insights and AI Expertise
 
@@ -971,7 +971,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 ![](https://languate.com/og.png)
 
@@ -983,7 +983,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 [Vitalentum Network = Free ChatGPT + MidJorney Prompts + AI-generated images + Free Photos](https://vitalentum.net) - Explore Vitalentim, the social network revolutionizing content creation with powerful tools like free ChatGPT, AI-generated images from MidJorney, and seamless content sharing. Join now to transform your content journey and engage with a passionate community that values your creativity and ideas.
 
@@ -993,7 +993,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 ![](https://slidesgo.com/og-image.jpg)
 
@@ -1005,7 +1005,7 @@
 
 ---
 
-### Resources
+#### Resources
 
 ![](https://wonderslide.com/static/i/ws_og_img.png)
 

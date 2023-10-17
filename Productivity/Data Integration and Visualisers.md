@@ -1,6 +1,7 @@
 ## Data Integration and Visualisers
-
 ### Data Integration and Visualisers
+
+#### Data Integration and Visualisers
 
 [Virgilio](https://virgili0.github.io/Virgilio#table-of-contents) - Data Science E-Learning
 
@@ -10,7 +11,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel) - nan
 
@@ -20,7 +21,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Aeon Timeline Visual Timeline Software](https://www.aeontimeline.com) - Create beautifully organised, data rich timelines
 
@@ -30,7 +31,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Bizint.com](https://www.bizint.com) - nan
 
@@ -40,7 +41,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://nulab.com/images/OG-nulab-image.png)
 
@@ -52,7 +53,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Online Chart Builder](https://www.chartblocks.com) - nan
 
@@ -62,7 +63,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [circos.ca/](https://circos.ca) - nan
 
@@ -72,7 +73,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://creately.com/static/assets/common/logos/creately/logo-on-light-1200x627.png)
 
@@ -84,7 +85,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [The Data Visualisation Catalogue](https://datavizcatalogue.com) - A handy guide and library of different data visualization techniques, tools, and a learning resource for data visualization.
 
@@ -94,7 +95,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [dygraphs](https://dygraphs.com) - nan
 
@@ -104,9 +105,9 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
-[easel.ly](https://www.easel.ly) - Easel.ly is a simple web tool that empowers anyone to create and share powerful visuals (infographics, posters)... no design experience needed! We provide the canvas, you provide the creativity.
+[easel.ly](https://www.easel.ly) - Easel.ly is a simple web tool that empowers anyone to create and share powerful visuals (infographics, posters)… no design experience needed! We provide the canvas, you provide the creativity.
 
 2022-10-03T05:06:20.000Z
 
@@ -114,7 +115,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Exhibit](https://www.simile-widgets.org/exhibit) - nan
 
@@ -124,7 +125,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Flot: Attractive JavaScript plotting for jQuery](https://www.flotcharts.org) - nan
 
@@ -134,7 +135,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://opengraph.githubassets.com/a57c8256c6f8e483c60d3eae5ce7401685b325ad53597c744b50aac56776ca3c/python-visualization/folium)
 
@@ -146,7 +147,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Free Timeline](https://free-timeline.com) - Create, save, and share timelines absolutely free at Free-timeline.com
 
@@ -156,11 +157,11 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](http://images.ctfassets.net/fevtq3bap7tj/xOVIDFsDhQgKKu8gkE6Sq/f360f964a4d6d6680092105a46aef7ae/Home_page_OG_Image.png)
 
-[Fusioncharts](https://www.fusioncharts.com) - JavaScript charts for web and mobile apps. 95+ chart types, 1400+ maps and 20+ business dashboards with pre-built themes for any business use-case. Build fast, responsive and highly customizable data visualizations trusted by over 28,000 customers and 750,000 developers worldwide...
+[Fusioncharts](https://www.fusioncharts.com) - JavaScript charts for web and mobile apps. 95+ chart types, 1400+ maps and 20+ business dashboards with pre-built themes for any business use-case. Build fast, responsive and highly customizable data visualizations trusted by over 28,000 customers and 750,000 developers worldwide…
 
 2022-10-03T05:06:20.000Z
 
@@ -168,7 +169,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.gstatic.com/devrel-devsite/prod/v305546bcb5d253cf3be5a548268e131fc74d5e15542d870fcfdb689895966994/developers/images/opengraph/google-blue.png)
 
@@ -180,7 +181,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Google Drawings](https://docs.google.com/drawings) - nan
 
@@ -190,7 +191,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [GraphX](https://spark.apache.org/graphx) - GraphX is Apache Spark's API for graphs and graph-parallel computation, with a built-in library of common algorithms.
 
@@ -200,7 +201,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://wp-assets.highcharts.com/www-highcharts-com/blog/wp-content/uploads/2022/03/16111553/brand-banner.png)
 
@@ -212,7 +213,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Online Charts Builder](https://charts.hohli.com) - Online Charts Builder based on Google Charts API
 
@@ -222,7 +223,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://cdn.jifo.co/i/frontpage/infogram_share_v3.jpg)
 
@@ -234,7 +235,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [JavaScript InfoVis Toolkit](https://philogb.github.io/jit) - JavaScript InfoVis Toolkit, Meaningful Visualizations
 
@@ -244,7 +245,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [JpGraph](https://jpgraph.net) - nan
 
@@ -254,7 +255,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Jqplot.com](https://www.jqplot.com) - The owner of this domain has not yet uploaded their website.
 
@@ -264,7 +265,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://knoema.com/img/v5/facebook-share.jpg)
 
@@ -276,7 +277,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Listify](https://listify.okfnlabs.org) - nan
 
@@ -286,7 +287,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/meta/Lucidchart-working-in-editor.png)
 
@@ -298,7 +299,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [NodeBox](https://www.nodebox.net) - nan
 
@@ -308,7 +309,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.officetimeline.com/_next/static/media/office-timeline-social-featured-image.fea248f7.jpeg)
 
@@ -320,7 +321,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://hdlab.stanford.edu/palladio/public/apple-touch-icon-precomposed.png)
 
@@ -332,7 +333,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Pixcone.com](https://www.pixcone.com) - Web Application for building Infographics and Visual Content
 
@@ -342,7 +343,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](http://static1.squarespace.com/static/5179406de4b08d2412db32cc/t/5360e86be4b0faf2734238ad/1398859884062/logo.png?format=1500w)
 
@@ -354,7 +355,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://images.prismic.io/plotly-marketing-website-2/45139d28-6d34-4168-9480-2c57ee3a81c8_plotly.png?auto=compress,format)
 
@@ -366,7 +367,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://d25qqnt46f8ef2.cloudfront.net/assets/thumbnail-c9690c9b875e627ad233d28e722eda3b80f44dc7fab9c7fc7312c32523723a05.png)
 
@@ -378,7 +379,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.sizzleanalytics.com/Content/images/sizzle-us-election-2016-300.gif)
 
@@ -390,7 +391,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [RaphaelJavaScript Library](https://dmitrybaranovskiy.github.io/raphael) - Vector Graphics JavaScript Library
 
@@ -400,7 +401,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Viseyes.org](https://www.viseyes.org) - nan
 
@@ -410,7 +411,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://d2qp0siotla746.cloudfront.net/img/og-image.jpg)
 
@@ -422,7 +423,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [{{fbMetaData.fbTitle}}](https://statpedia.com) - nan
 
@@ -432,7 +433,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://assets.sutori.com/frontend-assets/images/logo-sutori-square-734cfcbc1657b68dc2a838a33d471eb0.png)
 
@@ -444,7 +445,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.tableau.com/apple-touch-icon-120x120.png)
 
@@ -456,7 +457,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://public.tableau.com/app/assets/images/tableau-public-logo-with-padding.png)
 
@@ -468,7 +469,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Textures.js](https://riccardoscalco.github.io/textures) - A JavaScript Library for creating SVG patterns
 
@@ -478,7 +479,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.tiki-toki.com/assets/images/tiki-toki-website.jpg)
 
@@ -490,7 +491,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://datanews.github.io/tik-tok/examples/images/tik-tok-head-250.png)
 
@@ -502,7 +503,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://opengraph.githubassets.com/f3e9f9ba73341eeb3920da7b519dc25d6b1a2dd5225e28e48740242033f9106b/FlowingMedia/TimeFlow)
 
@@ -514,7 +515,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://d25qqnt46f8ef2.cloudfront.net/assets/thumbnail-017a225821c342a541d34210d6f96c83a0105e5aeeb43518e0b0ed311db6ff18.webp)
 
@@ -526,7 +527,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://time.graphics/og-image-en.png)
 
@@ -538,7 +539,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://cdn.knightlab.com/libs/orangeline/latest/assets/screenshot-timeline.png)
 
@@ -550,7 +551,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [SIMILE Widgets](https://www.simile-widgets.org/timeline) - nan
 
@@ -560,7 +561,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.timelinemaker.com/wp-content/uploads/2015/02/cropped-tlm-new-logo-blog.jpg)
 
@@ -572,7 +573,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.timetoast.com/timetoast_timeline_maker.jpg)
 
@@ -584,7 +585,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://venngage.com/assets/img/v2/how-to-1.png)
 
@@ -596,7 +597,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Visage](https://visage.co) - Help your entire organization become Brand Storytellers. It's now possible for everyone to create effective infographics, presentations, and reports.
 
@@ -606,7 +607,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://images.ctfassets.net/pzdvlnh8omga/1HPUFwhfmQOd8LivWKcHBB/606cdf6012566c4610c75db864c147b8/og-default.png)
 
@@ -618,7 +619,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [JavaScript Charts in one powerful declarative library](https://www.zingchart.com) - JavaScript Charts in one powerful declarative library. Simple for developers.
 
@@ -628,7 +629,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://flourish.studio/images/share_image.jpg)
 
@@ -640,7 +641,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://paperswithcode.com/static/index.jpeg)
 
@@ -652,7 +653,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.vizician.com/app/images/VizicianIntro.png)
 
@@ -664,7 +665,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Saturn Cloud](https://app.community.saturnenterprise.io/dash/o/community/resources) - nan
 
@@ -674,7 +675,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://cdn.sisense.com/wp-content/uploads/Yoast-1200x628-Homepage-2-min-300x157.png)
 
@@ -686,7 +687,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Perkeep](https://perkeep.org) - Perkeep lets you permanently keep your stuff, for life.
 
@@ -696,7 +697,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Awesome Table view](https://awesome-table.com/-KTyTeWHmD0h6BWzjeQW/view) - Build Web Apps from Spreadsheets
 
@@ -706,7 +707,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer) - nan
 
@@ -716,7 +717,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://altairgraphql.dev/assets/img/app-shot.png)
 
@@ -728,7 +729,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Activity detail - Open Humans](https://www.openhumans.org/direct-sharing/projects/on-site/lifeline) - Open Humans empowers people with their personal data. From genomes to GPS: you can explore data analyses, do citizen science, and donate data to research.
 
@@ -738,7 +739,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://cozy.io/en/images/logo-cozy-cloud.jpg)
 
@@ -750,7 +751,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.stardog.com/img/stardog_social.jpg)
 
@@ -762,7 +763,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Kylo](https://kylo.io) - nan
 
@@ -772,7 +773,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [ChemDoodle Web Components-JavaScript HTML5 Chemistry](https://web.chemdoodle.com) - The ChemDoodle Web Components library is a pure JavaScript chemical graphics and cheminformatics library derived from the ChemDoodle application and produced by iChemLabs. ChemDoodle Web Components allow the wielder to present publication quality 2D and 3D graphics and animations for chemical structures, reactions and spectra. Beyond graphics, this tool provides a framework for user interaction to create dynamic applications through web browsers, desktop platforms and mobile devices such as the iPhone, iPad and Android devices. This library also has complete access to the entire ChemDoodle 2D API through AJAX, allowing for quick access to one of the most robust chemical graphics and informatics packages in existence directly through JavaScript.
 
@@ -782,7 +783,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Algorithm Visualizer](https://algorithm-visualizer.org) - Algorithm Visualizer is an interactive online platform that visualizes algorithms from code.
 
@@ -792,7 +793,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Coupler.io](https://www.coupler.io/app/importers/ac4d4e3c-70ae-11ec-bb42-d7a1be99575e/edit) - nan
 
@@ -802,7 +803,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.quadrigram.com/assets/images/png/favicon/icons_favicon_48px.png)
 
@@ -814,7 +815,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://maps.joindeltaacademy.com/images/2021/05/19/learney_background.png)
 
@@ -826,7 +827,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://storage.googleapis.com/wm_course/WM_thumbnail.png)
 
@@ -838,7 +839,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://hal9.com/images/hal9-social-preview.png)
 
@@ -850,7 +851,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Introducing Orion: A Powerful Substitute for OwnTracks Recorder - Blog - Kevin Lin](https://blog.kevinlin.info/post/introducing-orion-a-powerful-substitute-for-owntracks-recorder) - An OwnTracks-compatible storage backend and a robust data visualization frontend.
 
@@ -860,7 +861,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://redash.io/assets/images/social-facebook-1200x630.png)
 
@@ -872,7 +873,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://repository-images.githubusercontent.com/374784415/124b1bbe-23f1-4105-9206-5a3641dba878)
 
@@ -884,7 +885,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.liquid-technologies.com/Content/images/products/liquid-xml-studio.png)
 
@@ -896,7 +897,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://dbschema.com/img/favicons/fb-thumbnail@2x.jpg)
 
@@ -908,7 +909,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://metricool.com/wp-content/uploads/looker-studio-preview-en.jpg)
 
@@ -920,7 +921,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Streakify](https://streakify.co/?ref=producthunt) - Server for your HTML forms.
 
@@ -930,7 +931,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.getgrist.com/wp-content/uploads/2023/08/ai-assistant-formula.gif)
 
@@ -942,7 +943,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://opengraph.githubassets.com/2b4b2a546816acc983e2fd6ec526ced69224abf3c732f6bb8e0aba1fad897096/merico-dev/lake)
 
@@ -954,7 +955,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.dataddo.com/images/share.png)
 
@@ -966,7 +967,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Ethi Introduction](https://beta.ethi.me) - nan
 
@@ -976,7 +977,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.visme.co/wp-content/uploads/2020/02/Visme-Content-Maker.jpg)
 
@@ -988,7 +989,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [pandas - Python Data Analysis Library](https://pandas.pydata.org) - nan
 
@@ -998,7 +999,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.chartjs.org/img/cover.png)
 
@@ -1010,7 +1011,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://lyfe.ltd/meta-cover.df16bb79.png)
 
@@ -1022,7 +1023,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.workwithdata.com/static/icon_social.png)
 
@@ -1034,7 +1035,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.elastic.co/static-res/images/social_media_default.png)
 
@@ -1046,7 +1047,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://imgix.datadoghq.com/img/og/OG_Homepage_0821.png?fit=crop&w=1200&h=630)
 
@@ -1058,7 +1059,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://repository-images.githubusercontent.com/270411736/8e8ccc80-2832-11eb-9a40-89961eb7c35e)
 
@@ -1070,7 +1071,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.qlik.com/us/-/media/images/global-us/site-content/homepage/social-sharing/qlik-share-homepage.jpg?rev=ba5d4f0d05994bf5ba3e450cae7d1ddc)
 
@@ -1082,7 +1083,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [Google Data Studio](https://datastudio.google.com/u/0) - Unlock the power of your data with interactive dashboards and beautiful   reports that inspire smarter business decisions.
 
@@ -1092,7 +1093,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.tableau.com/sites/default/files/2022-05/Products_DataManagement_Hero_0.png)
 
@@ -1104,7 +1105,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://images.prismic.io/plotly-marketing-website-2/45139d28-6d34-4168-9480-2c57ee3a81c8_plotly.png?auto=compress,format)
 
@@ -1116,7 +1117,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.talend.com/images/logo-talend-logomark.png)
 
@@ -1128,7 +1129,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://www.alteryx.com/wp-content/uploads/alteryx-22a22-feature-image.png)
 
@@ -1140,7 +1141,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://zenobase.com/img/logo.png)
 
@@ -1152,7 +1153,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://images.ctfassets.net/uklh5xrq1p2j/33pXuUDyLUvkrtYUy9dd3E/d9e80c797cdd893cd7d83dca374f74b0/Website_Share_Image.png)
 
@@ -1164,7 +1165,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 [vis.js](https://visjs.org) - nan
 
@@ -1174,7 +1175,7 @@
 
 ---
 
-### Data Integration and Visualisers
+#### Data Integration and Visualisers
 
 ![](https://opengraph.githubassets.com/e310e2b35604667d9c3a4e8e743468b6bca3efd00fd1e4a48e4772f8a3432fd2/chentsulin/awesome-graphql)
 
@@ -1186,4 +1187,4 @@
 
 ---
 
-### Data Logins
+#### Data Logins

@@ -1,6 +1,6 @@
-# SOCIAL MISC
-
 ## SOCIAL MISC
+
+### SOCIAL MISC
 
 ![](https://casts.ask.fm/assets/logo-preview-1070db1293ce03d8225e2d3f555fb7502f9fb7557bb0a1d9d81923c9099fb4c2.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 [Baidu map, "Kam" you see](http://image.baidu.com/?fr=shitu) - nan
 
@@ -22,7 +22,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 ![](https://www.bizsugar.com/BizSugar%20logo%20200.jpg)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 ![](https://bpimg.imgix.net/c951a3eb04a4a994681b5207277e5cec237e491e_orig?auto=format&dpr=2.5&fit=crop&h=80&q=25&w=80&s=a076da6d2e9d8c5a50b2c03482a3f9f2)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 [Myspace - Find Search New People on Myspace](https://myspace.com/discover/people) - Discover New People on Myspace, a place where people come to connect, discover, and share.
 
@@ -56,7 +56,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 ![](https://ok.ru/res/i/anonym/def_1200x630-r.png)
 
@@ -68,7 +68,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 ![](https://www.pscp.tv/v/images/press_assets/socialmedia.jpg)
 
@@ -80,7 +80,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 [photobucket.com](http://photobucket.com) - nan
 
@@ -90,7 +90,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 ![](https://s.pinimg.com/images/facebook_share_image.png)
 
@@ -102,7 +102,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 ![](https://qsf.cf2.quoracdn.net/-4-images.Illustration_fb_share_default_1280x720.png-26-7b8bc71e8107b6f5.png)
 
@@ -114,7 +114,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 [QZone - China](http://www.qq.com) - 2003
 
@@ -124,7 +124,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 [Renren.com, China's leading real-name SNS social network. Join Renren, find old classmates and meet new people.](http://www.renren.com) - nan
 
@@ -134,7 +134,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 ![](https://www.taringa.net/og_image.jpg)
 
@@ -146,7 +146,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 ![](https://f.vimeocdn.com/images_v6/logo.png)
 
@@ -158,7 +158,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 ![](https://vine.co/assets/images/meta/vine_screencap.png)
 
@@ -170,7 +170,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 [VK - Russia](https://vk.com) - VK is the largest European social network with more than 100 million active users. Our goal is to keep old friends, ex-classmates, neighbors and colleagues in touch.
 
@@ -180,7 +180,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 ![](https://worldstarhiphop.com/videos/undefined)
 
@@ -192,7 +192,7 @@
 
 ---
 
-## SOCIAL MISC
+### SOCIAL MISC
 
 [YouNow-Live Stream Video Chat-Free Apps on Web, iOS and Android](https://www.younow.com) - Watch broadcasters, join a community, chat in real time, express your creativity
 

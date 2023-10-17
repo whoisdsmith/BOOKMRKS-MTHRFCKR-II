@@ -1,8 +1,8 @@
-# PC
-
-## PC-Hardware-Hard Drives
+## PC
 
 ### PC-Hardware-Hard Drives
+
+#### PC-Hardware-Hard Drives
 
 [Data Recovery Ann Arbor Hard Drive & RAID Recovery Service](https://www.filesaversdatarecovery.com/locations/michigan/data-recovery-in-ann-arbor-mi.html) - Ann Arbor, MI Data Recovery Service for failed, damaged, crashed, clicking and dead hard drive recovery, RAID recovery, flash drive recovery. Call- 313-924-3152
 
@@ -12,19 +12,9 @@
 
 ---
 
-### PC-Hardware-Hard Drives
+#### PC-Hardware-Hard Drives
 
-[Fix Seagate ST31000528AS PCB Board 100536501](https://www.hddzone.com/blog/fix-seagate-st31000528as-pcb-board-100536501) - If a Seagate HDD (Model # ST31000528AS) with the PCB board (PCB # 100536501) inside has the following failure symptoms, you need to replace and repair the PCB board in order to recover data on it, this article will show you how to buy a matching replacement PCB for Seagate hard disk drive ST31000528AS and ... Read more
-
-2022-02-24T13:17:34.000Z
-
-#pc #hard drive
-
----
-
-### PC-Hardware-Hard Drives
-
-[replacing a seagate st31000528as hard drive-Tom's Hardware Forum](https://forums.tomshardware.com/threads/replacing-a-seagate-st31000528as-hard-drive.2632193) - What can I replace a seagate st31000528as hard drive with? Does it need to be the same? I have a HP p6774y Amd Phenom(tm) II x4840t processor 2.90 ghz, 6gb ram, 64 bit OS.  the hard drive won't...
+[Fix Seagate ST31000528AS PCB Board 100536501](https://www.hddzone.com/blog/fix-seagate-st31000528as-pcb-board-100536501) - If a Seagate HDD (Model # ST31000528AS) with the PCB board (PCB # 100536501) inside has the following failure symptoms, you need to replace and repair the PCB board in order to recover data on it, this article will show you how to buy a matching replacement PCB for Seagate hard disk drive ST31000528AS and … Read more
 
 2022-02-24T13:17:34.000Z
 
@@ -32,7 +22,17 @@
 
 ---
 
-### PC-Hardware-Hard Drives
+#### PC-Hardware-Hard Drives
+
+[replacing a seagate st31000528as hard drive-Tom's Hardware Forum](https://forums.tomshardware.com/threads/replacing-a-seagate-st31000528as-hard-drive.2632193) - What can I replace a seagate st31000528as hard drive with? Does it need to be the same? I have a HP p6774y Amd Phenom(tm) II x4840t processor 2.90 ghz, 6gb ram, 64 bit OS.  the hard drive won't…
+
+2022-02-24T13:17:34.000Z
+
+#pc #hard drive
+
+---
+
+#### PC-Hardware-Hard Drives
 
 [Seagate ST31000528AS 9SL154-578 CC38 WU 100536501 Donor PCB Barracuda 7200.12 1TB + Firmware Transfer](https://www.onepcbsolution.com/729280851st.html) - Donor PCB for Data Recovery: Seagate ST31000528AS 9SL154-578 CC38 WU 100536501 Hard Drive PCB Circuit Board Barracuda 7200.12 1TB
 
@@ -42,7 +42,7 @@
 
 ---
 
-### PC-Hardware-Hard Drives
+#### PC-Hardware-Hard Drives
 
 ![](https://www.allhdd.com/images/detailed/886/Seagate-ST31000528AS-1TB-Hard-Disk-Drive.jpg?t=1682132684)
 
@@ -54,9 +54,9 @@
 
 ---
 
-### PC-Hardware-Hard Drives
+#### PC-Hardware-Hard Drives
 
-[Seagate ST31000528AS PCB Board-HDDZone Blog](https://www.hddzone.com/blog/seagate-st31000528as-pcb-board) - ST31000528AS is a common model of Seagate hard drives. Many customers write to HDDZONE to find a suitable replacement circuit board for this type of hard drive. We know that replacing the circuit board is a very simple way to repair the hard drive's board fault. By replacing the board, the hard disk can be ... Read more
+[Seagate ST31000528AS PCB Board-HDDZone Blog](https://www.hddzone.com/blog/seagate-st31000528as-pcb-board) - ST31000528AS is a common model of Seagate hard drives. Many customers write to HDDZONE to find a suitable replacement circuit board for this type of hard drive. We know that replacing the circuit board is a very simple way to repair the hard drive's board fault. By replacing the board, the hard disk can be … Read more
 
 2022-02-24T13:17:34.000Z
 
@@ -64,7 +64,7 @@
 
 ---
 
-### PC-Hardware-Hard Drives
+#### PC-Hardware-Hard Drives
 
 [Seagate ST31000528AS Repair & Data Recovery-Outsource Data Recovery](https://outsourcedatarecovery.com/st31000528as-repair) - Seagate ST31000528AS hard drive not working? Outsource is experienced with Seagate ST31000528AS hard drive data recovery and repairs. You will get your data back so you can get on with your life.
 
@@ -74,7 +74,7 @@
 
 ---
 
-### PC-Hardware-Hard Drives
+#### PC-Hardware-Hard Drives
 
 ![](https://harddiskdirect.com/media/catalog/product/cache/5b9634183c7f8ff7450bd4a4d0ff7de7/s/t/st31000528as_ztdqmvd6hl5dxnu1.jpg)
 
@@ -86,7 +86,7 @@
 
 ---
 
-### PC-Hardware-Hard Drives
+#### PC-Hardware-Hard Drives
 
 [ST31000528AS 9SL154-021 HP34 SU 100536501 REV A 3.5'' SATA 1TB Seagate Barracuda 7200.12 circuit board +FW Seagate repair fix swap PCB circuit board parts donor board replacement burnt controller board green card mother card hard drive data recovery](https://www.hdd-parts.com/14012110.html) - Hard Drive Logic-Circuit Board for Data Recovery (How to fix a dead hard drive) Specifications: Seagate 3.5'' SATA ST31000528AS 9SL154-021 HP34SU 100536501 REV A PCB                      May be able to fix: hd board Has burnt out; dead hard drive won't spin up; hard drive is clicking; hard drive has burnt chip; pcb smooth chip burnt
 
@@ -96,7 +96,7 @@
 
 ---
 
-### PC-Hardware-Hard Drives
+#### PC-Hardware-Hard Drives
 
 [ST31000528AS, 9VP, SU, PN 9SL154-302, FW CC38, Seagate 1TB SATA 3.5 Hard Drive](https://www.donordrives.com/st31000528as-9vp-su-pn-9sl154-302-fw-cc38-seagate-1tb-sata-3-5-hard-drive.html) - nan
 
@@ -106,9 +106,9 @@
 
 ---
 
-## PC-Operating Systems-Linux
-
 ### PC-Operating Systems-Linux
+
+#### PC-Operating Systems-Linux
 
 [Home-Serpent OS](https://www.serpentos.com) - Serpent OS is building a pioneering new Linux distribution based on modern technologies, enabling stellar features for everyone, without the price tag
 
@@ -118,11 +118,11 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 ![](https://ubuntu-mate.org/images/homepage/01_familiar.png)
 
-[Ubuntu MATE-For a retrospective future](https://ubuntu-mate.org) - A community developed, Ubuntu based operating system that beautifully integrates the MATE desktop. Ubuntu MATE is a stable, easy-to-use operating system with...
+[Ubuntu MATE-For a retrospective future](https://ubuntu-mate.org) - A community developed, Ubuntu based operating system that beautifully integrates the MATE desktop. Ubuntu MATE is a stable, easy-to-use operating system with…
 
 2022-03-25T04:17:58.828Z
 
@@ -130,7 +130,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 ![](https://avatars.githubusercontent.com/u/7838867?s=280&v=4)
 
@@ -142,7 +142,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 ![](https://garudalinux.org/images/garuda/home/link_icon.png)
 
@@ -154,7 +154,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [A curated list of linux laptop and desktop vendors](https://linuxpreloaded.com) - Linux desktops and laptops from around the world
 
@@ -164,7 +164,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [MX Linux Midweight Simple Stable Desktop OS](https://mxlinux.org) - MX Linux is a cooperative venture between the antiX and MX Linux communities. It is a family of operating systems that are designed to combine elegant and efficient desktops with high stability and solid performance.  MXs graphical tools provide an easy way to do a wide variety of tasks, while the Live USB and snapshot tools inherited from antiX add impressive portability and remastering capabilities.
 
@@ -174,7 +174,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 ![](https://www.devuan.org/ui/img/devuan-og-banner.jpg)
 
@@ -186,7 +186,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [ArcoLinux-ArcoLinux](https://www.arcolinux.info) - ArcoLinux-ArcoLinux
 
@@ -196,7 +196,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Anarchy](https://artixlinux.org) - Artix Linux, a systemd-free linux distribution.
 
@@ -206,7 +206,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 ![](https://i0.wp.com/fivemm.shop/wp-content/uploads/2022/05/cropped-logo.png?fit=292%2C84&ssl=1)
 
@@ -218,7 +218,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Artix](https://larder.io) - Larder is speedy bookmarking for developers.
 
@@ -228,7 +228,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Bedrock Linux](https://bedrocklinux.org) - nan
 
@@ -238,7 +238,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 ![](https://www.pluralsight.com/content/dam/pluralsight-creative-team/creative_portfolio/dex_unified_website2022program/dex_unified_websitehomeandskills2022project/final/octoberHomepage-socialShareImage1.png)
 
@@ -250,7 +250,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 ![](https://endeavouros.com/wp-content/uploads/2022/06/slide-welcome-easy-install.jpg)
 
@@ -262,7 +262,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Gallium](https://virtualcustoms.net) - Virtual Customs - Customize Your Virtual World! go to virtualcustoms.net
 
@@ -272,7 +272,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 ![](https://gobolinux.org/images/gobolinux_frontpage.png)
 
@@ -284,7 +284,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Gurlic](https://www.redox-os.org) - The Redox official website
 
@@ -294,7 +294,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Mutaz](https://anarchyinstaller.org) - nan
 
@@ -304,7 +304,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Onworks](https://www.onworks.net/?=0&service=lang-en-en) - OnWorks free hosting provider that allows to run your workstations Linux online, Windows online emulator or MACOS online emulator only using your web browser.
 
@@ -314,7 +314,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Oracle](https://www.oracle.com/linux) - nan
 
@@ -324,7 +324,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Oracle Linux](https://rockylinux.org) - Rocky Linux is an open enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux.
 
@@ -334,7 +334,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 ![](https://improvmx.com/wp-content/themes/improvmx/img/improvmx-slogan.png)
 
@@ -346,7 +346,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Rocky Linux](https://bitcoinbookmarks.com) - nan
 
@@ -356,7 +356,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [SerenityOS](https://serenityos.org) - nan
 
@@ -366,7 +366,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [TempleOS: 1 - Installation - Christine Dodrill](https://christine.website/blog/templeos-1-installation-and-basic-use-2019-05-20) - Posted on 2019-05-20
 
@@ -376,7 +376,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [The Debian Administrator's Handbook](https://www.debian.org/doc/manuals/debian-handbook) - A reference book presenting the Debian distribution, from initial installation to configuration of services.
 
@@ -386,7 +386,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 ![](https://education.oracle.com/ccstore/v1/images/?source=/file/v7103564558818975940/general/sr-subscription-bg.gif&height=300&width=300)
 
@@ -398,7 +398,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [UNIX and Linux Essentials| Solaris 11 Administration-Oracle Solaris-Operating Systems-Training| Oracle](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?get_params=dc%3AD76989%2Cclang%3AEN&page_id=609) - nan
 
@@ -408,7 +408,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Vanilla OS](https://vanillaos.org) - Vanilla OS is an On-Demand immutable Linux based distribution which aims to provide a vanilla GNOME experience.
 
@@ -418,7 +418,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Home-Redcore Linux Project](https://redcorelinux.org) - Redcore Linux is a distribution based on Gentoo Linux' testing branch which uses a hardened profile by default. It is a fork and a continuation of, now defunct, Kogaion Linux.
 
@@ -428,7 +428,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [index-Alpine Linux](https://alpinelinux.org) - Alpine Linux
 
@@ -438,7 +438,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 ![](https://nxos.org/wp-content/uploads/2023/06/VirtualBox_Nitrux_2_29_06_2023_11_09_26.png)
 
@@ -450,7 +450,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 ![](https://archcraft.io/images/meta.jpg)
 
@@ -462,7 +462,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Obscurix](https://obscurix.github.io) - nan
 
@@ -472,7 +472,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Howtoforge Linux Tutorials.](https://www.howtoforge.com) - HowtoForge - Linux Howtos and Tutorials.
 
@@ -482,7 +482,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [JingOS-Future Mobile OS based on Linux - JingLing](https://en.jingos.com) - JingOS is a convergent Linux-Based Open-Source OS for future tablets&laptops.It is a product of JingLing Tech. JingPad A1 is the Worlds FIRST Consumer-level ARM-based Linux Tablet.
 
@@ -492,7 +492,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Home - Peux OS](https://peux-os.netlify.app) - Peux OS- a beautiful archlinux variant
 
@@ -502,7 +502,7 @@
 
 ---
 
-### PC-Operating Systems-Linux
+#### PC-Operating Systems-Linux
 
 [Homepage - predator-os](https://predator-os.com) - The predator-os linux is for penetration testing,ethical hacking and also privacy, hardened, secure, anonymized Linux.  It has around 1300 pre-installed tools which are split into 40 several categories .Based on Ubuntu 20.04 LTS  Mini, kernel 5.10 LTS, and using a fully customized xfce4 lightweight desktop with a special menu of tools.
 
@@ -512,9 +512,9 @@
 
 ---
 
-## PC-Operating Systems-Linux-Distros
-
 ### PC-Operating Systems-Linux-Distros
+
+#### PC-Operating Systems-Linux-Distros
 
 [Antixlinux](https://antixlinux.com) - nan
 
@@ -524,7 +524,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [CAINE](https://www.caine-live.net/page5/page5.html) - CAINE Computer Aided INvestigative Environment Live CD/DVD, computer forensics, digital forensics
 
@@ -534,7 +534,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 ![](https://opengraph.githubassets.com/cfd8a7617c556ffc1ba0c048412285f13e3732acfe75e068700d282850dd9476/mandiant/flare-vm)
 
@@ -546,7 +546,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 ![](https://sumuri.com/wp-content/uploads/2022/02/sumuri-software-paladin-forensics-box.png)
 
@@ -558,7 +558,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [REMnux](https://remnux.org) - nan
 
@@ -568,7 +568,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [SANS SIFT Workstation](https://www.sans.org/tools/sift-workstation) - Download the SIFT Workstation to receive free open-source incident response and digital forensic tools designed to perform detailed digital forensic examinations in a variety of settings.
 
@@ -578,7 +578,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 ![](https://opengraph.githubassets.com/17a496ab1d4a95bb85368ec76452d3e1c6fe57565f3c0e98c6a872104a269941/philhagen/sof-elk)
 
@@ -590,7 +590,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [Tsurugi](https://tsurugi-linux.org/downloads.php) - Welcome to TSURUGI Linux world the DFIR open source distribution to perform your digital forensics analysis and for educational pourposes
 
@@ -600,7 +600,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [Discreet](https://www.discreete-linux.org) - Discreete Linux - protection against trojan-based surveillance
 
@@ -610,7 +610,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [Fedora](https://fedoraproject.org/wiki/SELinux) - nan
 
@@ -620,7 +620,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 ![](https://www.digi77.com/wp-content/uploads/2013/10/kodachi-box.png)
 
@@ -632,7 +632,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [Linux Respin-Respin your distro](https://www.linuxrespin.org) - nan
 
@@ -642,7 +642,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [Linux Tutorial](https://linuxsurvival.com/linux-tutorial-introduction) - Linux Tutorial - Learn Linux the easy way
 
@@ -652,7 +652,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [Pure OS + Hardware](https://puri.sm/products/librem-13) - Introducing the  Librem 14 by Purism
 
@@ -662,7 +662,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 ![](https://www.qubes-os.org/attachment/icons/qubes-logo-icon-name-slogan-fb.png)
 
@@ -674,7 +674,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [SIFT Workstation Download (SANS DFIR)](https://digital-forensics.sans.org/community/downloads) - Download the SIFT Workstation to receive free open-source incident response and digital forensic tools designed to perform detailed digital forensic examinations in a variety of settings.
 
@@ -684,7 +684,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [Subgraph](https://subgraph.com) - Subgraph OS-Adversary Resistant Computing
 
@@ -694,7 +694,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [TENS](https://www.gettens.online) - nan
 
@@ -704,7 +704,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [Tails](https://tails.boum.org) - nan
 
@@ -714,7 +714,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [Tails](https://tails.boum.org/index.de.html) - nan
 
@@ -724,7 +724,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 ![](https://a.fsdn.com/allura/p/tinhat/icon?1418877210)
 
@@ -736,7 +736,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [Tsurugi-linux](https://tsurugi-linux.org/index.php) - Welcome to TSURUGI Linux world a DFIR open source distribution to perform your digital forensics analysis and for educational pourposes
 
@@ -746,7 +746,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 ![](https://assets.ubuntu.com/v1/df4cb5d8-Social+media+banner.jpg)
 
@@ -758,7 +758,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 ![](https://www.whonix.org/w/images/3/36/Whonix-homepage-main-preview.jpg?version=2a51b146181c9dfce21162fa6bdeb03f)
 
@@ -770,7 +770,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 ![](https://uploads-ssl.webflow.com/5f1b6caefc9c7e190b047e08/5f87b6ecf7e6838355653b2d_Asset%205.png)
 
@@ -782,7 +782,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 ![](https://www.osintux.org/wp-content/uploads/2018/06/Fondo-Osintux.jpg)
 
@@ -794,7 +794,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 [Tails - Download and install Tails](https://tails.boum.org/install) - nan
 
@@ -804,7 +804,7 @@
 
 ---
 
-### PC-Operating Systems-Linux-Distros
+#### PC-Operating Systems-Linux-Distros
 
 ![](https://opengraph.githubassets.com/69c516457495b47f1b5adc51dfbc1ad7fb3b7eeb0be843cb13b2296c4564f6cd/axlshear/dora-osint-vm)
 
@@ -816,9 +816,9 @@
 
 ---
 
-## PC-Operating Systems-OS Other
-
 ### PC-Operating Systems-OS Other
+
+#### PC-Operating Systems-OS Other
 
 [CasaOS - A simple, easy-to-use, elegant open-source home cloud system](https://www.casaos.io) - CasaOS is a simple, easy-to-use, elegant open-source home cloud system
 
@@ -828,7 +828,7 @@
 
 ---
 
-### PC-Operating Systems-OS Other
+#### PC-Operating Systems-OS Other
 
 [System76 - Linux Laptops, Desktops, and Servers](https://system76.com) - System76 computers empower the world's curious and capable makers of tomorrow
 
@@ -838,7 +838,7 @@
 
 ---
 
-### PC-Operating Systems-OS Other
+#### PC-Operating Systems-OS Other
 
 ![](https://www.haiku-os.org/images/haiku_600x315.png)
 
@@ -850,7 +850,7 @@
 
 ---
 
-### PC-Operating Systems-OS Other
+#### PC-Operating Systems-OS Other
 
 ![](https://netboot.xyz/img/nbxyz_logo_name.png)
 
@@ -862,7 +862,7 @@
 
 ---
 
-### PC-Operating Systems-OS Other
+#### PC-Operating Systems-OS Other
 
 [PureOS](https://www.pureos.net) - A fully-convergent, user friendly, secure and freedom respecting OS for your daily usage.
 
@@ -874,7 +874,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Operating Systems-OS Other
+#### PC-Operating Systems-OS Other
 
 ![](https://reactos.org/sites/default/files/Mizu-Desktop.png)
 
@@ -886,7 +886,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Operating Systems-OS Other
+#### PC-Operating Systems-OS Other
 
 [QEMU](https://www.qemu.org) - A generic and open source machine emulator and virtualizer
 
@@ -896,7 +896,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Operating Systems-OS Other
+#### PC-Operating Systems-OS Other
 
 [OnWorks Free hosting provider for Linux online](https://www.onworks.net) - OnWorks free hosting provider that allows to run your workstations Linux online, Windows online emulator or MACOS online emulator only using your web browser.
 
@@ -906,7 +906,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Operating Systems-OS Other
+#### PC-Operating Systems-OS Other
 
 ![](https://storage.googleapis.com/media.urbit.org/site/opengraph/urbit.png)
 
@@ -918,7 +918,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Operating Systems-OS Other
+#### PC-Operating Systems-OS Other
 
 ![](https://skiftos.org/capture.webp)
 
@@ -930,9 +930,9 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-## PC-Software
-
 ### PC-Software
+
+#### PC-Software
 
 ![](https://share.redd.it/preview/post/lmjq8x)
 
@@ -944,9 +944,9 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-## PC-Software-File Organization
-
 ### PC-Software-File Organization
+
+#### PC-Software-File Organization
 
 ![](https://opengraph.githubassets.com/8e5169018b433c3733b6ee99a53d6f0a0969d8ed1b6aa4bb086d93c1ce6134bc/trapexit/mergerfs)
 
@@ -958,7 +958,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-File Organization
+#### PC-Software-File Organization
 
 ![](https://mnaoumov.files.wordpress.com/2021/04/image-6.png)
 
@@ -970,7 +970,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-File Organization
+#### PC-Software-File Organization
 
 ![](https://wp.docdigitizer.com/wp-content/uploads/2022/01/logo-newdoc-square-pos-1.jpg)
 
@@ -982,9 +982,9 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-## PC-Software-Hackintosh
-
 ### PC-Software-Hackintosh
+
+#### PC-Software-Hackintosh
 
 ![](https://nmac.to/wp-content/uploads/2022/06/Sonority-65x65.png%20%20%20%20%20%20%20%20%20%09%20%09%3Clink%20rel=)
 
@@ -996,7 +996,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 [Downloads - HackintoshOSX.com](https://www.hackintoshosx.com) - nan
 
@@ -1006,7 +1006,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 ![](https://giuliomac.files.wordpress.com/2014/02/smbios.png)
 
@@ -1018,7 +1018,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 [Guide :: Install Mac OSX El Capitan on Hackintosh PC With Chameleon Bootloader [ Vanilla Installation Method ] - OSXARENA OSXARENA](https://osxarena.com/2015/10/guide-install-el-capitan-on-hackintosh-pc-with-chameleon-bootloader-vanilla-installation-method) - Add more credibility to your site - get a premium domain today. Straight-forward shopping experience.
 
@@ -1028,7 +1028,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 ![](https://styles.redditmedia.com/t5_2quen/styles/communityIcon_3h47q7jw18x71.jpg?width=256&format=pjpg&s=e9235aad1814b998b221a35115814f20b6f53ec0)
 
@@ -1040,9 +1040,9 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
-[Hackintosh won't boot? Here's how you can use verbose mode to fix it.](https://www.macbreaker.com/2015/01/read-verbose-mode-fix-hackintosh-errors.html) - Setting up Mac OS X on a PC  can be an extremely tricky process-- since Apple never intended for the operating system to run on any third-p...
+[Hackintosh won't boot? Here's how you can use verbose mode to fix it.](https://www.macbreaker.com/2015/01/read-verbose-mode-fix-hackintosh-errors.html) - Setting up Mac OS X on a PC  can be an extremely tricky process-- since Apple never intended for the operating system to run on any third-p…
 
 2022-02-24T13:17:34.000Z
 
@@ -1050,11 +1050,11 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 ![](https://www.tonymacx86.com/images/tonymacx86-logo.png)
 
-[How to Install OS X Mavericks using Clover](https://www.tonymacx86.com/mavericks-desktop-guides/125632-how-install-os-x-mavericks-using-clover.html) - How to Install OS X Mavericks using Clover  Clover is a new and exciting open source EFI bootloader. Developed over the past 2 years by a group of developers at Project OS X led by Slice, Clover...
+[How to Install OS X Mavericks using Clover](https://www.tonymacx86.com/mavericks-desktop-guides/125632-how-install-os-x-mavericks-using-clover.html) - How to Install OS X Mavericks using Clover  Clover is a new and exciting open source EFI bootloader. Developed over the past 2 years by a group of developers at Project OS X led by Slice, Clover…
 
 2022-02-24T13:17:34.000Z
 
@@ -1062,7 +1062,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 ![](https://giuliomac.files.wordpress.com/2014/02/serial-number.png)
 
@@ -1074,7 +1074,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 ![](https://www.insanelymac.com/uploads/monthly_2021_01/insanelymac-logo-2016.png.c9f571b03b127cdc84bc80538e241e32.png)
 
@@ -1086,7 +1086,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 [Mac Hacks, Tweaks, Themes & Mac Case Mods @ MacHacks.com](https://www.machacks.com/#mac_hacks) - macOS Monterey and OS X Big Sur Hackintosh instructions, tutorials, step-by-step how to guides and installation videos; Hackintosh systems, parts and more.
 
@@ -1096,7 +1096,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 [Mac Tips, Tricks & Mods](https://modmyi.com/forums/mac-tips-tricks-and-mods) - Tear down the walls
 
@@ -1106,7 +1106,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 [Macintosh Garden](https://macintoshgarden.org) - nan
 
@@ -1116,7 +1116,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 ![](https://nmac.to/wp-content/uploads/2020/01/Capture-One-20-65x65.png%20%20%20%20%20%20%20%20%20%09%20%09%3Clink%20rel=)
 
@@ -1128,11 +1128,11 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 ![](https://www.tonymacx86.com/images/tonymacx86-logo.png)
 
-[OS X 10.9.5 Update](https://www.tonymacx86.com/442-os-x-10-9-5-update.html) - Today Apple released 10.9.5, the fifth major update to OS X Mavericks. Update any supported system using the built-in Software Update functionality through the Mac App Store, or by using the...
+[OS X 10.9.5 Update](https://www.tonymacx86.com/442-os-x-10-9-5-update.html) - Today Apple released 10.9.5, the fifth major update to OS X Mavericks. Update any supported system using the built-in Software Update functionality through the Mac App Store, or by using the…
 
 2022-02-24T13:17:34.000Z
 
@@ -1140,7 +1140,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 [OS X Mavericks 10.9.5 Update (Combo)](https://support.apple.com/kb/DL1760) - nan
 
@@ -1150,7 +1150,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 [Skyline OSX - Hackintosh Resources and Guides](https://www.skylineosx.com) - nan
 
@@ -1160,7 +1160,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 ![](https://www.weheartswift.com/wp-content/uploads/2015/02/teh-cover.png)
 
@@ -1172,7 +1172,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 [View App](https://www.macappfans.org) - nan
 
@@ -1182,11 +1182,11 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 ![](https://www.insanelymac.com/uploads/monthly_2018_10/downloadMacOS.png.4412d87823271ff027a92b514c53deda.png)
 
-[[Guide] AIO Guides For Hackintosh - Tutorials (The Genius Bar) - InsanelyMac Forum](https://www.insanelymac.com/forum/topic/298027-guide-aio-guides-for-hackintosh) - ALL IN ONE GUIDES FOR HACKINTOSH Hi friends! Here are all the guides that I've written based on my experience with the help of my friends. Some are based on existing guides, but I have redefined to suit more system. Most of the guides are about Mavericks. I'm looking forward to receive your feedb...
+[[Guide] AIO Guides For Hackintosh - Tutorials (The Genius Bar) - InsanelyMac Forum](https://www.insanelymac.com/forum/topic/298027-guide-aio-guides-for-hackintosh) - ALL IN ONE GUIDES FOR HACKINTOSH Hi friends! Here are all the guides that I've written based on my experience with the help of my friends. Some are based on existing guides, but I have redefined to suit more system. Most of the guides are about Mavericks. I'm looking forward to receive your feedb…
 
 2022-02-24T13:17:34.000Z
 
@@ -1194,7 +1194,7 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 [tonymacx86.com](https://www.tonymacx86.com/home.php) - nan
 
@@ -1204,11 +1204,11 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-### PC-Software-Hackintosh
+#### PC-Software-Hackintosh
 
 ![](https://www.tonymacx86.com/images/tonymacx86-logo.png)
 
-[www.tonymacx86.com/lion-desktop-support/103977-ebios-read-error-controller-device-error-block-0x0-sectors-0-a-2.html](https://www.tonymacx86.com/lion-desktop-support/103977-ebios-read-error-controller-device-error-block-0x0-sectors-0-a-2.html) - Hi!  Getting this line like 4 times in a row when booting up my Hackintosh, like this:   EBIOS read error: Controller or device error Block 0x0 Sectors 0  EBIOS read error: Controller or device...
+[www.tonymacx86.com/lion-desktop-support/103977-ebios-read-error-controller-device-error-block-0x0-sectors-0-a-2.html](https://www.tonymacx86.com/lion-desktop-support/103977-ebios-read-error-controller-device-error-block-0x0-sectors-0-a-2.html) - Hi!  Getting this line like 4 times in a row when booting up my Hackintosh, like this:   EBIOS read error: Controller or device error Block 0x0 Sectors 0  EBIOS read error: Controller or device…
 
 2022-02-24T13:17:34.000Z
 
@@ -1216,9 +1216,9 @@ With PureOS, you are the only one in control of your digital life.
 
 ---
 
-## PC-Software-Mac Apps
-
 ### PC-Software-Mac Apps
+
+#### PC-Software-Mac Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9c/c3/29/9cc3296d-f6f8-6943-9143-5c7a8c52c02b/FileTools.png/1200x630bb.png)
 
@@ -1232,7 +1232,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [BrewMyMac](https://brewmymac.sh) - nan
 
@@ -1242,7 +1242,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [Hopper](https://www.hopperapp.com) - nan
 
@@ -1252,7 +1252,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://static.tildacdn.com/tild3035-6532-4037-b565-343132356164/-/resize/504x/Screenshot_with_labe.png)
 
@@ -1264,7 +1264,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://paretosecurity.com/static_paretosecurity_com/images/social/default.png?v=1695128092)
 
@@ -1276,7 +1276,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [FSMonitor](https://fsmonitor.com) - nan
 
@@ -1286,7 +1286,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://objective-see.org/images/mainBackground.png)
 
@@ -1298,7 +1298,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [Flow The Mac's Best FTP + SFTP Client](http://fivedetails.com/flow) - nan
 
@@ -1308,7 +1308,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://www.visidata.org/images/meta/og.jpg)
 
@@ -1320,7 +1320,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://repository-images.githubusercontent.com/50726688/27cc9680-b8db-11eb-8937-546bbfacc378)
 
@@ -1332,7 +1332,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://user-images.githubusercontent.com/161476/126016449-a053012a-e322-48ed-a2ab-3ed4f3281465.png)
 
@@ -1344,7 +1344,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [MacTechnologies Consulting (914) 500-8878](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - Provides Macintosh consulting, instructions, registration and downloads of MacTechnologies software.
 
@@ -1354,7 +1354,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [SwitchHosts - swh.app](https://swh.app) - nan
 
@@ -1364,7 +1364,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://pushmate.app/images/og_pushmate_hero.png)
 
@@ -1376,7 +1376,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [Hex Fiend, a fast and clever hex editor for macOS](https://hexfiend.com) - nan
 
@@ -1386,7 +1386,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [Bidbar - Save and run Terminal commands from the menu bar](https://www.getbidbar.com) - nan
 
@@ -1396,7 +1396,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://www.tadviewer.com/images/tad-site-screenshot.png)
 
@@ -1408,7 +1408,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/a7/71/44a7713a-13f5-fa18-f9fa-102eff1b23f3/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/1200x630bb.png)
 
@@ -1424,7 +1424,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f3/77/6d/f3776d5b-baa6-12ea-c363-977d175981a4/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/1200x630bb.png)
 
@@ -1436,7 +1436,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/23/53/96/235396f0-5503-b370-fcb2-fef1fef7da1b/AppIcon-0-85-220-0-4-2x.png/1200x630bb.png)
 
@@ -1448,7 +1448,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ce/87/4f/ce874fe8-cf47-6a78-d610-860ba09a1dec/TextLab.png/1200x630bb.png)
 
@@ -1460,7 +1460,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/88/32/46883202-0606-c402-31a6-c51d27109a45/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/1200x630bb.png)
 
@@ -1472,7 +1472,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/fd/60/1ffd60e3-ffeb-139f-17e2-be310c92c409/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/1200x630bb.png)
 
@@ -1484,7 +1484,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a8/24/e2/a824e2c8-1485-a3c4-2191-89462ae57a2b/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/1200x630bb.png)
 
@@ -1496,7 +1496,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/31/b6/b7/31b6b738-38cb-fddd-8e84-5068b1ac206f/AppIcon-0-85-220-4-2x.png/1200x630bb.png)
 
@@ -1508,7 +1508,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/ef/ac/7cefac02-57f6-1165-9be6-650ade7a4f79/AppIcon-0-1x-5-85-220.png/1200x630bb.png)
 
@@ -1520,7 +1520,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fa/a4/60/faa4606f-1ef9-c80a-3863-8249c44acc44/AppIcon-0-85-220-0-4-2x-sRGB.png/1200x630bb.png)
 
@@ -1532,7 +1532,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [Print Window 5](http://www.searchwaresolutions.com) - nan
 
@@ -1542,7 +1542,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2f/f6/d9/2ff6d9dd-bfe5-9967-f4dc-4a0a342a7413/AppIcon-0-85-220-0-4-2x-sRGB-0-0-0.png/1200x630bb.png)
 
@@ -1554,7 +1554,7 @@ The Stored Files window enables you to cultiv
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4b/2c/6d/4b2c6d7d-4ff5-bf24-573a-b8db0e38effb/AppIcon-85-220-4-2x.png/1200x630bb.png)
 
@@ -1630,7 +1630,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [DB Browser for SQLite](https://sqlitebrowser.org) - The Official home of the DB Browser for SQLite.
 
@@ -1640,7 +1640,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [Espanso - A Privacy-first, Cross-platform Text Expander](https://espanso.org) - nan
 
@@ -1650,7 +1650,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [ueli - A keystroke launcher for Windows and macOS](https://ueli.app/#/) - Keystroke launcher for Windows and macOS
 
@@ -1660,7 +1660,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [Keyboard Maestro 10.0.2: Work Faster with Macros for macOS](https://www.keyboardmaestro.com/main) - Keyboard Maestro is the leading software for macOS automation.  It will increase business productivity by using macros (or short cuts) with simple keystrokes.
 
@@ -1670,7 +1670,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [FastFolderFinder Fast fuzzy search for folders on your Mac](https://matthewpalmer.net/fastfolderfinder?ref=producthunt) - FastFolderFinder is a Mac app that gives you a lightning-fast fuzzy search bar to quickly find and open folders on your Mac
 
@@ -1680,7 +1680,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://webcatalog.io/images/social-preview.png)
 
@@ -1692,7 +1692,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced macOS command-line tools.
 
@@ -1702,7 +1702,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps
+#### PC-Software-Mac Apps
 
 ![](https://i.hizliresim.com/dsxi0wq.png)
 
@@ -1714,9 +1714,9 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-## PC-Software-Mac Apps-OSX
-
 ### PC-Software-Mac Apps-OSX
+
+#### PC-Software-Mac Apps-OSX
 
 [AppKed](https://www.macbed.com) - Macbed - Download Free Mac Apps and Mac Games for Apple Mac.
 
@@ -1726,7 +1726,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps-OSX
+#### PC-Software-Mac Apps-OSX
 
 [App db](https://appdb.to/search?type=osx) - nan
 
@@ -1736,7 +1736,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps-OSX
+#### PC-Software-Mac Apps-OSX
 
 [Crack Softwaress-MAC](https://cracksoftwaress.online/mac) - nan
 
@@ -1746,7 +1746,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps-OSX
+#### PC-Software-Mac Apps-OSX
 
 [Izofile-Mac OS X](https://izofile.com/mac-os-x) - nan
 
@@ -1756,11 +1756,11 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps-OSX
+#### PC-Software-Mac Apps-OSX
 
 ![](https://xmac.app/assets/icons/logo.png)
 
-[XMac.App](https://xmac.app) - Download crack app for mac with full speed just one step...
+[XMac.App](https://xmac.app) - Download crack app for mac with full speed just one step…
 
 2022-10-25T15:09:03.572Z
 
@@ -1768,7 +1768,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps-OSX
+#### PC-Software-Mac Apps-OSX
 
 [OneDDL - For MacOSX](https://oneddl.org/software/for-macosx) - Redwirez mixIR3 IR Loader v1.9.0 macOS AwZ-29 September 2022-macOS-472MB Sculpt your sound like never before with the new mixIR impulse response (IR) loader. The mixIR is a convolution reverb plug-in and a stand-alone Mac or Windows app.
 
@@ -1778,7 +1778,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps-OSX
+#### PC-Software-Mac Apps-OSX
 
 ![](https://www.download.io/pictures/default/DHRlogo.jpg)
 
@@ -1790,7 +1790,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps-OSX
+#### PC-Software-Mac Apps-OSX
 
 [FileCR](https://filecr.com/macos?id=260042742353) - nan
 
@@ -1800,7 +1800,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps-OSX
+#### PC-Software-Mac Apps-OSX
 
 ![](https://cdn.jsdelivr.net/gh/macoscrack8/pic@main/wp-content/uploads/2022/06/1-1-1.png)
 
@@ -1812,7 +1812,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps-OSX
+#### PC-Software-Mac Apps-OSX
 
 [Cmacked - Cracked Mac Apps & Games](https://apps.cmacked.com) - nan
 
@@ -1822,7 +1822,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Mac Apps-OSX
+#### PC-Software-Mac Apps-OSX
 
 [macOS Software :: InsMac.org](https://insmac.org/macosx) - Bartender lets you organize your menu-bar apps by hiding them, rearranging them, or moving them to Bartender's Bar. You can display the full menu bar, set options to have menu-bar items show in the menu bar when they have updated, or have them always visible in Bartender's Bar. Version 4.2.12 Bug
 
@@ -1832,9 +1832,9 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-## PC-Software-Windows Software
-
 ### PC-Software-Windows Software
+
+#### PC-Software-Windows Software
 
 [resist.berlin - mondays 1700 - open end @ wildenbruchstr. 24, neukolln // signal NEW: +49 160 1403799 // say hello on signal or just come by!](https://resist.berlin) - cyberpunk and digital resistance
 
@@ -1844,7 +1844,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Windows Software
+#### PC-Software-Windows Software
 
 [Portal:Free and open-source software/Categories - Wikipedia](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - nan
 
@@ -1854,11 +1854,11 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Windows Software
+#### PC-Software-Windows Software
 
 ![](https://gitlab.com/uploads/-/system/project/avatar/10858056/logo.jpg)
 
-[Bram Wiepjes-baserow](https://gitlab.com/bramw/baserow) - Baserow is an open source no-code database and Airtable alternative. Create your own database without technical experience. Our user friendly no-code tool gives...
+[Bram Wiepjes-baserow](https://gitlab.com/bramw/baserow) - Baserow is an open source no-code database and Airtable alternative. Create your own database without technical experience. Our user friendly no-code tool gives…
 
 2022-01-18T04:38:25.964Z
 
@@ -1866,7 +1866,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Windows Software
+#### PC-Software-Windows Software
 
 [Office Tool Plus Website - Easy to Deploy Office](https://otp.landian.vip/en-us) - Office Tool Plus is a powerful tool for deploy Office, Visio and Project. By using Office Tool Plus, you can deploy Office easily.
 
@@ -1876,7 +1876,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Windows Software
+#### PC-Software-Windows Software
 
 [MediaElch](https://www.kvibes.de/mediaelch) - nan
 
@@ -1886,7 +1886,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Windows Software
+#### PC-Software-Windows Software
 
 ![](https://cdn.bunchapp.co/images/bunchicon-350@2x.png)
 
@@ -1898,7 +1898,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Windows Software
+#### PC-Software-Windows Software
 
 [Marta](https://marta.sh/?ref=producthunt) - nan
 
@@ -1908,7 +1908,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Windows Software
+#### PC-Software-Windows Software
 
 ![](https://img.stackshare.io/fe/private/stackshare-enterprise-community_2x.png)
 
@@ -1920,7 +1920,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Windows Software
+#### PC-Software-Windows Software
 
 [Latest entries](https://www.portablefreeware.com) - nan
 
@@ -1930,7 +1930,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Windows Software
+#### PC-Software-Windows Software
 
 ![](https://pastebin.com/i/facebook.png)
 
@@ -1942,7 +1942,7 @@ For more info or to use the web application, visit manipulist.com
 
 ---
 
-### PC-Software-Windows Software
+#### PC-Software-Windows Software
 
 [Home-MTP Drive](https://www.mtpdrive.com/index.html) - A drive letter mapping solution for MTP
 
@@ -1954,7 +1954,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software
+#### PC-Software-Windows Software
 
 ![](https://build-system.fman.io/static/public/img/qt-designer-windows.png)
 
@@ -1966,9 +1966,9 @@ devices in Microsoft Windows.
 
 ---
 
-## PC-Software-Windows Software-Customizing OS
-
 ### PC-Software-Windows Software-Customizing OS
+
+#### PC-Software-Windows Software-Customizing OS
 
 ![](http://cairodesktop.com/img/ss_cairo.jpg)
 
@@ -1980,9 +1980,9 @@ devices in Microsoft Windows.
 
 ---
 
-## PC-Software-Windows Software-Drivers
-
 ### PC-Software-Windows Software-Drivers
+
+#### PC-Software-Windows Software-Drivers
 
 [DriverHub](https://www.drvhub.net) - DriverHub automatically downloads and installs drivers for Windows 7, 8, and 10. It's absolutely free and secure.
 
@@ -1992,7 +1992,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Drivers
+#### PC-Software-Windows Software-Drivers
 
 [DriverOff.net](https://driveroff.net) - nan
 
@@ -2002,7 +2002,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Drivers
+#### PC-Software-Windows Software-Drivers
 
 ![](https://static.driverpack.io/pic/logo-og.png)
 
@@ -2014,7 +2014,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Drivers
+#### PC-Software-Windows Software-Drivers
 
 [DriversCollection.com](https://driverscollection.com) - nan
 
@@ -2024,7 +2024,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Drivers
+#### PC-Software-Windows Software-Drivers
 
 [Semantic](https://semantic.gs) - Drivers for direct download are uploaded daily and rated by our users. Get all the data for your required driver including models, availability and OS compatability.
 
@@ -2034,7 +2034,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Drivers
+#### PC-Software-Windows Software-Drivers
 
 [Station-drivers](https://www.station-drivers.com) - nan
 
@@ -2044,7 +2044,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Drivers
+#### PC-Software-Windows Software-Drivers
 
 [TousLesDrivers](https://www.touslesdrivers.com) - TousLesDrivers.com permet de telecharger gratuitement toutes les mises a jour necessaires au bon fonctionnement d'un PC. Les drivers, pilotes, BIOS, firmwares, utilitaires, logiciels et applications sont telechargeables rapidement et facilement grace au classement des fichiers par categories de materiel et par marques. Plus de 1500 fabricants informatiques sont references.
 
@@ -2054,9 +2054,9 @@ devices in Microsoft Windows.
 
 ---
 
-## PC-Software-Windows Software-Software (Free or Open Source)
-
 ### PC-Software-Windows Software-Software (Free or Open Source)
+
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [WinTools.Info - Usable Windows Tools](https://www.wintools.info) - nan
 
@@ -2066,7 +2066,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://en.freedownloadmanager.org/img/op_logo_n.png)
 
@@ -2078,7 +2078,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Filecroco](https://www.filecroco.com) - Download high quality free software for your Windows computer. Latest versions of must have software.
 
@@ -2088,7 +2088,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://static.malavida.com/global/imag/malavida_index_fb.jpg)
 
@@ -2100,7 +2100,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Soft32](https://www.soft32.com) - Soft32, a pioneer of downloads and reviews website, delivers up-to-date software, free downloads and reviews for Windows, Mac, iPhone, iPad and Android.
 
@@ -2110,7 +2110,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Softpedia](https://www.softpedia.com) - A library of over 1,000,000 free and free-to-try applications for Windows, Mac, Linux and Smartphones, Games and Drivers plus tech-focused news and reviews
 
@@ -2120,7 +2120,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Software Directory for Windows XP (32/64 bit) in English](https://allxpsoft.com) - Software Directory for Windows XP (32/64 bit). Utilities solve a huge range of actual problems: editing text, editing video, processing audio, viewing special formats, surfing the Internet, ensuring PC security.
 
@@ -2130,7 +2130,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Open Source @ IFTTT](http://ifttt.github.io/?ref=producthunt) - IFTTT runs on open source, and we've created a few projects of our own. Here are just a few of our favorites. Pull Requests gladly accepted!
 
@@ -2140,7 +2140,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](http://cdn.add0n.com/images/index-small.png)
 
@@ -2152,7 +2152,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://www.fosshub.com/media/svg/fosshub-logo-dark.svg)
 
@@ -2164,7 +2164,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Sourceforge](https://sourceforge.net) - Free, secure and fast downloads from the largest Open Source applications and software directory - SourceForge.net
 
@@ -2174,7 +2174,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Open Hub, the open source network](https://www.openhub.net) - nan
 
@@ -2184,7 +2184,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Free Download Windows Software And Games](https://www.download.hr) - Discover and download free Software, Apps and Games for Windows, Mac, Android, and iOS devices. Read unbiased tech articles and stay up to date with the latest on software, apps and games.
 
@@ -2194,7 +2194,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://www.majorgeeks.com/images/logos/majorgeeks.gif)
 
@@ -2206,7 +2206,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Download iBackup Viewer Pro 4.14.0 - SoftArchive](https://sanet.st/blogs/samura1-/ibackup_viewer_pro.2944746.html) - nan
 
@@ -2216,7 +2216,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Download Joyoshare UltFix 1.0.0.9 - SoftArchive](https://sanet.st/blogs/reliz/joyoshare_ultfix.2907031.html) - nan
 
@@ -2226,7 +2226,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [FC Portables](https://www.fcportables.com/software) - Portable Software for USB, Flash and Cloud Drives and Bootable ISO images for CD/DVD and USB devices.
 
@@ -2236,7 +2236,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [KubaDownload.com - download software hub, iOS jailbreak news](https://kubadownload.com) - Jailbreak blog with apps, tweaks, news, tutorials, and everything releated to iPhone. Download software hub for Windows, Linux, macOS, and iOS.
 
@@ -2246,7 +2246,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [App news and reviews, best software downloads and discovery - Softonic](https://en.softonic.com) - Softonic is the place to discover the best applications for your device, offering you reviews, news, articles and free downloads. Welcome to your app
 
@@ -2256,7 +2256,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Download Free Software, Apps and Games-SoftMozer.com](https://www.softmozer.com) - SoftMozer is the online platform to discover the best software apps and games for your device, offering you reviews, news, articles and free downloads.
 
@@ -2266,7 +2266,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://www.softwarevilla.com/Images/FB-share.png)
 
@@ -2278,7 +2278,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://static.filehorse.com/press/filehorse-site-screenshot.jpg)
 
@@ -2290,7 +2290,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://www.blackslate.io/assets/imgs/theme/logo.png)
 
@@ -2302,7 +2302,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Fossies - The Fresh Open Source Software Archive: Index of all software packages](https://fossies.org/all.html) - Fossies - The Fresh Open Source Software archive with special browsing features
 
@@ -2312,7 +2312,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - nan
 
@@ -2322,7 +2322,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://freesoff.com/uploads/default/original/2X/f/f810d7dde449a2a3c8eb2261094adf92c12c2c81.png)
 
@@ -2334,7 +2334,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://www.downloadcrew.com/whitelabels/www.downloadcrew.com/images/logo.png)
 
@@ -2346,7 +2346,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://karanpc.com/wp-content/uploads/2015/08/KPC-febiconn.png)
 
@@ -2358,7 +2358,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://www.lo4d.com/i/logo_256px_ob.png)
 
@@ -2370,7 +2370,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [List Of Freeware](https://listoffreeware.com) - This website lists best free software for different purposes. You can find here best free pdf readers, antivirus software, and lot more. Completely freeware.
 
@@ -2380,7 +2380,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://www.majorgeeks.com/images/logos/majorgeeks.gif)
 
@@ -2392,7 +2392,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [MenuMagic Information](http://www.agitatedstate.com/html/menumagic.php) - MenuMagic is the plug-in management tool specially designed to work with Cakewalk's Sonar DAW. Its powerful toolset enables you to analyze, fix issues and organize your plug-ins (VST, VST3, DX, 32-bit, 64-bit) into menus quickly and easily.
 
@@ -2402,7 +2402,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://www.mutaz.pro/img/mutaz.pro_logo_Big.png)
 
@@ -2414,7 +2414,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [Sites Like - Find and share similar websites on siteslike](https://www.siteslike.com) - nan
 
@@ -2424,7 +2424,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [SnapFiles freeware and shareware downloads and reviews, trusted for quality since 1997](https://www.snapfiles.com) - Download freeware and shareware programs, fully reviewed and rated by SnapFiles staff, and user reviews. Established in 1997
 
@@ -2434,7 +2434,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [TOP 100 Best software for Windows - download free](https://soft.mydiv.org/win/top100.html) - nan
 
@@ -2444,7 +2444,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [moreofit - Website Similarity Search Engine](http://www.moreofit.com) - nan
 
@@ -2454,7 +2454,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 ![](https://www.download.io/pictures/default/download.io.png)
 
@@ -2466,7 +2466,7 @@ devices in Microsoft Windows.
 
 ---
 
-### PC-Software-Windows Software-Software (Free or Open Source)
+#### PC-Software-Windows Software-Software (Free or Open Source)
 
 [AlternativeTo - Social Software Recommendations](http://alternativeto.net) - AlternativeTo lets you find apps and software for Windows, Mac, Linux, iPhone, iPad, Android, Android Tablets, Web Apps, Online, Windows Tablets and more by recommending alternatives to apps you already know.
 
@@ -2476,9 +2476,9 @@ devices in Microsoft Windows.
 
 ---
 
-## PC-Software-Windows Software-Windows
-
 ### PC-Software-Windows Software-Windows
+
+#### PC-Software-Windows Software-Windows
 
 [Torrent + Direct - Teamos Activator V.6 ( Windows & Office Activators )](https://www.teamos.xyz/threads/teamos-activator-v-6-windows-office-activators.59617) - Teamos Activator - helps you to activate the all Windows and all Office Products with more reliable way.
 
@@ -2500,7 +2500,7 @@ All Win 10
 
 Windows Server 2008
 
-Windows...
+Windows…
 
 2022-08-04T13:57:48.567Z
 
@@ -2508,7 +2508,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Download](https://hostsfileeditor.com) - Easily edit and manage the hosts file for Windows.
 
@@ -2518,7 +2518,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://opengraph.githubassets.com/3122c34c65a1614fa592bea283ca4f77b7278e5e77d8fcb27209bb3edb3b5cb9/adi1090x/rofi)
 
@@ -2530,7 +2530,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://opengraph.githubassets.com/e6a8b0ba1a23fc337121df2edc991a224aea48052e9af2c35dc1c65a150d5e2b/davatorium/rofi)
 
@@ -2542,7 +2542,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [workspacer](https://workspacer.org) - a tiling window manager for Windows 10
 
@@ -2552,7 +2552,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://files.community/branding/banner.png)
 
@@ -2564,7 +2564,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://opengraph.githubassets.com/175ddacbe3ba51551f9ac6491188f94cdbc8490952dc7245274dfb9ddf9b48e8/zodiacon/TotalRegistry)
 
@@ -2576,7 +2576,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://img.itch.zone/aW1nLzE1MzcyMjUuZ2lm/original/66XC8f.gif)
 
@@ -2588,7 +2588,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://www.mailstore.com/en/wp-content/uploads/sites/3/2022/02/opengraph-image-1200x630px-en-72dpi.jpg)
 
@@ -2600,9 +2600,9 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
-[Team OS : Your Only Destination To Custom OS !!](https://www.teamos-hkrg.com) - Get customized Operating System, Games, Softwares and much more...
+[Team OS : Your Only Destination To Custom OS !!](https://www.teamos-hkrg.com) - Get customized Operating System, Games, Softwares and much more…
 
 2021-11-19T18:07:54.000Z
 
@@ -2610,7 +2610,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://allinone.im/og-image.png)
 
@@ -2622,7 +2622,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://getstation.com/static/seo-c1e8b199df457a082c8e33f322fbaf7b.png)
 
@@ -2634,7 +2634,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://uploads-ssl.webflow.com/62cdb622f2fe306ced9c516f/63a42c04913e27deb30ca5d4_open-graph.png)
 
@@ -2646,7 +2646,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Tiat](https://tiat.app) - Cross-platform image browser.
 
@@ -2656,7 +2656,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [SwitchBlade - Where'd that window go?](https://www.switchbladeapp.com/?ref=producthunt) - nan
 
@@ -2666,7 +2666,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Beeftext](https://beeftext.org/?ref=producthunt) - Beeftext is an open-source text snippet management tool for Windows.
 
@@ -2676,7 +2676,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://images.edrawsoft.com/product-orgcharting.png)
 
@@ -2688,7 +2688,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Easy Screen OCR - The Best Screenshot OCR and Translator](https://easyscreenocr.com/?ref=producthunt) - Best Screen OCR software that enables you to extract text from screenshots and images on Windows-Mac-Online-iOS-Android. Support 100 OCR languages.
 
@@ -2698,7 +2698,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Save, Search, Organize and Preserve Your Important Messages - Secure Backup](https://keepster.co) - Texts so good they should be a book. Do more with your texts, chats and IM messages by making them into professionally printed books. Get started today!
 
@@ -2708,7 +2708,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [RocketClip - Increase your productivity](https://rocketclipapp.com/?ref=producthunt) - nan
 
@@ -2718,7 +2718,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://snatch.kasper.io/og-image.jpg?v=1.3)
 
@@ -2730,7 +2730,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://opengraph.githubassets.com/6b2a34c8b3ff6a3a6cb38123bd5c5a47c6b0f8f61cd2b270b2bf30a0d6c384f1/openhoangnc/taskbar-stats)
 
@@ -2742,7 +2742,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://d2vmv25q93x2cf.cloudfront.net/b3def080-424e-4a53-87b0-acb127a390b0/img/eden-photos-og.jpg)
 
@@ -2754,7 +2754,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Ninite - Install or Update Multiple Apps at Once](https://ninite.com) - The easiest, fastest way to update or install software. Ninite downloads and installs programs automatically in the background.
 
@@ -2764,7 +2764,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Free Software Downloads and Reviews - Filepuma.com](https://www.filepuma.com) - Fast downloads of the latest free software!
 
@@ -2774,7 +2774,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Applications Windows - SoftArchive](https://sanet.st/applications/filter?subcategory%5B%5D=windows) - nan
 
@@ -2784,7 +2784,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [New Software Downloads and Program Reviews-FileForum](https://fileforum.com/releases) - nan
 
@@ -2794,7 +2794,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://www.majorgeeks.com/images/logos/majorgeeks.gif)
 
@@ -2806,7 +2806,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://stc.utdstc.com/img/Uptodown-card-template-Facebook.png)
 
@@ -2818,7 +2818,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Applications Windows - SoftArchive](https://sanet.st/applications/filter/page-9?subcategory%5B0%5D=windows&tag%5B0%5D=System+Tools) - nan
 
@@ -2828,7 +2828,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [AskWoody](https://www.askwoody.com) - nan
 
@@ -2838,7 +2838,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [BAGAS31-Download Software Gratis](https://www.bagas31.info) - Download Software Gratis, Download Software dan Games terbaru Full Version, Download IDM Full Crack, Free Download Software.
 
@@ -2848,7 +2848,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Blog.simplix.info](https://blog.simplix.info) - nan
 
@@ -2858,7 +2858,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Compare Free Open Source Software](https://sourceforge.net/directory) - nan
 
@@ -2868,7 +2868,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [DiGiBoY](https://www.digiboy.ir) - nan
 
@@ -2878,7 +2878,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://www.fosshub.com/media/svg/fosshub-logo-dark.svg)
 
@@ -2890,7 +2890,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Free Software Downloads: Essentials Apps, Utilities & Tools for Windows - Softlay](https://www.softlay.com/downloads) - Fast and Secure Way To Download Free Software For Windows PC. Softlay Downloads is updated every day with dozens of apps covering multimedia, productivity, communication, security and gaming. Download safely while discovering alternative software through our expert reviews.
 
@@ -2900,7 +2900,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Home-NASA Software Catalog](https://software.nasa.gov) - nan
 
@@ -2910,7 +2910,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Mobile tools - ShareAppsCrack](https://shareappscrack.com/software/mobile-tools?token=18094013) - nan
 
@@ -2920,7 +2920,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://forums.mydigitallife.net/img/logo.og.png)
 
@@ -2932,7 +2932,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [New Windows Software Downloads and Program Reviews-FileForum](https://fileforum.com/browse/windows) - nan
 
@@ -2942,7 +2942,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [nsane.down - software as it should be](https://nsaneforums.com/nsane.down) - nan
 
@@ -2952,7 +2952,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://tb.rg-adguard.net/img/logo_meta.png)
 
@@ -2964,7 +2964,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [RealityRipple Software](https://realityripple.com) - PC Repair and Software Development by Andrew Sachen. Applications, Utilities, Mozilla Extensions, and themes, free and open source.
 
@@ -2974,11 +2974,11 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://static.osdn.net/OSDN_icon_125x125.png)
 
-[Software Map - OSDN](https://osdn.net/softwaremap/trove_list.php) - OSDN is a free-of-charge service for open source software developers. We offer Git/SVN/Mercurial/Bazaar/CVS repositories, mailing list, bug trafficking system, bulletin boards and forums, web si...
+[Software Map - OSDN](https://osdn.net/softwaremap/trove_list.php) - OSDN is a free-of-charge service for open source software developers. We offer Git/SVN/Mercurial/Bazaar/CVS repositories, mailing list, bug trafficking system, bulletin boards and forums, web si…
 
 2022-02-24T13:17:34.000Z
 
@@ -2986,7 +2986,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://tb.rg-adguard.net/img/logo_meta.png)
 
@@ -2998,7 +2998,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Utilities & Tools Software or Games For Windows PC NearFile](https://nearfile.com/category/utilities-tools) - Utilities & Tools Software or Games For Windows PC. Download all latest version of software or games from NearFile with maximum downloading speed.
 
@@ -3008,7 +3008,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [UUP dump](https://uupdump.net) - Download UUP files from Windows Update servers with ease. This project is not affiliated with Microsoft Corporation.
 
@@ -3018,7 +3018,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html) - nan
 
@@ -3028,7 +3028,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 [WinCentral](https://thewincentral.com) - WinCentral is your central source for Windows 10, Windows 11, Windows 12, Microsoft News, Leaks, Rumors, Tips-Tutorials, Apps & Deals.
 
@@ -3038,7 +3038,7 @@ Windows...
 
 ---
 
-### PC-Software-Windows Software-Windows
+#### PC-Software-Windows Software-Windows
 
 ![](https://www.windowsphoneinfo.com/styles/brivium/iodine/xenforo/logo_win.png)
 

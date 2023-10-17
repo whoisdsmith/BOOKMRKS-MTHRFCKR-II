@@ -1,6 +1,6 @@
-# Apps
-
 ## Apps
+
+### Apps
 
 [Play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro](https://www.play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) - Search files, videos, audios, eBooks, software and much more.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Apps
+### Apps
 
 [Play.google.com/store/apps/details?id=tm.alashow.datmusic&utm_source=play-redirect](https://www.play.google.com/store/apps/details?id=tm.alashow.datmusic) - datmusic - search, play and download high quality music!
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Apps
+### Apps
 
 [Google Custom Search App Stores Search Engine](https://cse.google.com/cse/publicurl?cx=006205189065513216365%3Aaqogom-kfne) - nan
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Apps
+### Apps
 
 ![](https://fnd.io/open-graph.png)
 

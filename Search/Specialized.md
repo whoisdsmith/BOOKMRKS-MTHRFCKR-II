@@ -1,6 +1,6 @@
-# Specialized
-
 ## Specialized
+
+### Specialized
 
 [MAC Address Lookup](https://mac.lc) - Revese search a mac address to find manufacturer information, and related devices.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [IACA Dark Web Investigation Support Provided by International Anti Crime Academy (IACA) The Netherlands](https://iaca-darkweb-tools.com) - nan
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Discovery-The National Archives](https://discovery.nationalarchives.gov.uk) - The National Archives is the UK government's official archive. Our main duties are to preserve Government records and to set standards in information management and re-use.
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [LeakIX](https://leakix.net) - nan
 
@@ -40,7 +40,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 ![](https://search.censys.io/static/img/censys.png)
 
@@ -52,7 +52,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Carrot2 search results clustering engine](https://search.carrot2.org/#/search/web) - Carrot2 organizes your search results into topics. With an instant overview of what's available, you will quickly find what you're looking for.
 
@@ -62,7 +62,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Home - ZoomEye really mapping,global leader of cyberspace mapping](https://www.zoomeye.org) - nan
 
@@ -72,7 +72,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [DorkSearch - Speed up your Dorking](https://dorksearch.com) - nan
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Indeed - CSE](https://cse.google.com/cse/publicurl?cx=012951739560700154499%3Awq3e6dpqvt4) - nan
 
@@ -92,7 +92,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [OCCRP - Organized Crime Corruption Database](https://data.occrp.org) - nan
 
@@ -102,7 +102,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Lumix Shoppy Search Engine](https://lumix.live) - Lumix is a search engine that is used to find digital products from thousands of digital stores on shoppy.gg.
 
@@ -112,7 +112,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Textise - Text-Only and Accessibility Tools](https://www.textise.net) - Textise is an Internet tool that can create a text only version of almost any web page. Great for accessibility, SEO and printing.
 
@@ -122,7 +122,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 ![](https://stork-search.net/og-banner.png)
 
@@ -134,7 +134,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Search Engine Forums - SEO Tools, Communities, Blogs, Podcasts and Conferences](https://www.searchengineforums.com) - Yessssss
 
@@ -144,7 +144,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Infinity Search - Home](https://infinitysearch.co) - A new and better way to search the web
 
@@ -154,7 +154,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 ![](https://duckduckgo.com/static-assets/favicons/DDG-icon_256x256.png)
 
@@ -166,7 +166,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 ![](https://xn--1-zfa.com/img/a1.jpg)
 
@@ -178,7 +178,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Google Dataset Search](https://toolbox.google.com/datasetsearch) - nan
 
@@ -188,7 +188,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Google Patent Search](https://www.google.com/webhp?tbm=pts) - nan
 
@@ -198,7 +198,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Mamont. Largest FTP Search Engine](https://www.mmnt.ru/int) - Mamont. Largest general purpose FTP Search Engine
 
@@ -208,7 +208,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 ![](https://opengraph.githubassets.com/6e74feea11b9686871100b931efab77d66d4a1d01abaeb8dcdbc08bfc47a2204/s-rah/onionscan)
 
@@ -220,7 +220,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Wayback Machine - Internet Archive](https://archive.org/web/web.php) - nan
 
@@ -230,7 +230,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [carrot2](https://search.carrot2.org) - Carrot2 organizes your search results into topics. With an instant overview of what's available, you will quickly find what you're looking for.
 
@@ -240,7 +240,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Athlinks](https://www.athlinks.com) - nan
 
@@ -250,7 +250,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [FindSounds](https://findsounds.com) - Search the web for free sounds and sound effects
 
@@ -260,7 +260,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Secret Search Engine Labs](https://www.secretsearchenginelabs.com) - nan
 
@@ -270,7 +270,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Research Guides: Think Tank Search: Think Tank Search](https://guides.library.harvard.edu/hks/think_tank_search) - A Google Custom Search of more than 1200 think tanks and research centers.
 
@@ -280,7 +280,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Wiby](https://wiby.me) - Wiby is a search engine for older style pages, lightweight and based on a subject of interest. Building a web more reminiscent of the early internet.
 
@@ -290,7 +290,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 ![](https://pastebin.com/i/facebook.png)
 
@@ -302,7 +302,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 [Indeed - CSE](https://cse.google.com/cse?cx=012951739560700154499%3Awq3e6dpqvt4) - nan
 
@@ -312,7 +312,7 @@
 
 ---
 
-## Specialized
+### Specialized
 
 ![](https://www.harmari.com/wp-content/uploads/2019/02/cropped-harmari512x512ico.png)
 

@@ -1,6 +1,6 @@
-# Reference Tools
-
 ## Reference Tools
+
+### Reference Tools
 
 [Free Magazines Online-English PDF Magazine Download](https://freemagazines.top) - Free magazines online. You may find the digital magazine for women and men, you want to download in PDF Format. Visit us for more daily UK, and US magazines.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Course Club - Download Paid Courses For Free](https://courseclub.me/?1=) - Download Free Courses Online of Phlearn, Pluralsight, Lynda, CBTNuggets etc. Everything is Full And Free For Download And Many More.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Amphetamines](https://www.researchrabbitapp.com/collection/public/467O1W1D6X) - By Dustin Smith
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Research Rabbit](https://researchrabbitapp.com/home) - The most powerful discovery app ever built for researchers!
 
@@ -40,7 +40,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://www.kialo.com/assets/frontend-buildtag-stable-994/static/img/kialo_sharing_preview.png)
 
@@ -52,7 +52,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://about.jstor.org/wp-content/uploads/2017/08/j_logo_widescreen_480.jpg)
 
@@ -64,7 +64,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://app.academiclabs.com/thumbnail.png)
 
@@ -76,7 +76,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [arxiv-sanity](https://arxiv-sanity-lite.com) - nan
 
@@ -86,7 +86,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://askwonder.com/assets/images/logo.blue.png)
 
@@ -98,7 +98,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://www.benchling.com/assets/images/benchling.com.png)
 
@@ -110,7 +110,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Home - ClinicalTrials.gov](https://clinicaltrials.gov) - nan
 
@@ -120,7 +120,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://uploads-ssl.webflow.com/60bb48b02eec7eadb6899f96/60c210806618b914e07b9a6e_og-image.jpg)
 
@@ -132,7 +132,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://www.dimensions.ai/wp-content/uploads/2019/07/social-media-card.png)
 
@@ -144,7 +144,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Find, organize and share scientific literature - QUOSA Scientific Literature-Elsevier Solutions](https://www.elsevier.com/solutions/quosa-scientific-literature) - QUOSA an end-to-end literature management tool for life science professionals with a centralized repository of scientific literature
 
@@ -154,7 +154,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://images.ctfassets.net/i01duvb6kq77/7q6wzSixWlUeOVchVeyn0D/2e6cc6c8adee7f29a116999fe590e70d/europeanmap_europeana__1_.png?w=1200&h=630&fit=fill)
 
@@ -166,7 +166,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [GrantForward Search Engine-Search for federal grants, foundation grants, and limited submission opportunities](https://www.grantforward.com/index) - nan
 
@@ -176,7 +176,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Grassroots Institue](https://journals.grassrootsinstitute.net/journal1-natural-resources/index.html) - nan
 
@@ -186,7 +186,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://a.mtstatic.com/@public/production/site_11811/1638394879-logo.png)
 
@@ -198,7 +198,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [GenBank Overview](https://ncbi.nlm.nih.gov/genbank) - nan
 
@@ -208,7 +208,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://www.nlm.nih.gov/images/NLMgeneric.jpg)
 
@@ -220,7 +220,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Ontosight](https://ontosight.ai) - nan
 
@@ -230,7 +230,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [eagle-i Open.Catalyst](https://open.catalyst.harvard.edu/products/eagle-i) - nan
 
@@ -240,7 +240,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Open Babel](https://openbabel.org/wiki/Main_Page) - nan
 
@@ -250,7 +250,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [The Paleobiology Database](https://paleobiodb.org/#/) - nan
 
@@ -260,7 +260,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [innosabi Insight - Questel](https://www.questel.com/innovation-management-software/innosabi-insight) - innosabi Insight INNOVATION INTELLIGENCE SOLUTION Business-oriented dashboards for innovators Request a demo Login Gain time to explore new markets and opportunities innosabi Insight is the first true innovation intelligence solution to provide a single source access to the latest trends, patents, startups, competitors, partners, technologies, and publications. Fully automated and continually updated.The unmatched User experience Read More innosabi Insight
 
@@ -270,7 +270,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://www.read.enago.com/~assets/images/enago-read-logo.png)
 
@@ -282,7 +282,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [ReFindit](https://refindit.org) - Find references in
 
@@ -292,7 +292,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [SHARE](https://www.share-research.org) - Building an open dataset of research output.
 
@@ -302,7 +302,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Unpaywall](https://unpaywall.org) - nan
 
@@ -312,7 +312,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://www.datocms-assets.com/29926/1667936507-logo-worldcat-3840x2160.png)
 
@@ -324,7 +324,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [WorldWideScience](https://worldwidescience.org) - WorldWideScience.org is a global science gateway accelerating scientific discovery and progress through a multilateral partnership to enable federated searching of national and international scientific databases.
 
@@ -334,7 +334,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [www.prepubmed.org](https://www.prepubmed.org) - nan
 
@@ -344,7 +344,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [xueshu.baidu.com](https://xueshu.baidu.com) - nan
 
@@ -354,7 +354,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Home :: SSRN](https://www.ssrn.com/index.cfm/en) - nan
 
@@ -364,7 +364,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://s0.wp.com/i/blank.jpg)
 
@@ -376,7 +376,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://sci-hub.41610.org/sci-hub-png?ver=2)
 
@@ -388,7 +388,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Browse by Subject - ALT Open Access Repository](https://repository.alt.ac.uk/view/subjects) - nan
 
@@ -398,7 +398,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://share.redd.it/preview/post/edwi9b)
 
@@ -410,7 +410,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [PsyArXiv Preprints](https://psyarxiv.com) - nan
 
@@ -420,7 +420,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Web of Science Master Journal List - WoS MJL by Clarivate](https://mjl.clarivate.com/home) - Try our new Master Journal List site, by the Web of Science Group, a Clarivate company.
 
@@ -430,7 +430,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Download Mendeley Reference Manager For Desktop macOS-Mendeley](https://www.mendeley.com/download-reference-manager/macOS) - nan
 
@@ -440,7 +440,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Search-Mendeley](https://www.mendeley.com/search) - nan
 
@@ -450,7 +450,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [DOI to Sci-Hub](https://greasyfork.org/en/scripts/412498-doi-to-sci-hub) - nan
 
@@ -460,11 +460,11 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://opengraph.githubassets.com/8ce0e3a89734799b89ac51160ada5ce2d2f6132f9970e6f98ccb831487e2516b/emptymalei/awesome-research)
 
-[emptymalei/awesome-research: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]   - GitHub - emptymalei...
+[emptymalei/awesome-research: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]   - GitHub - emptymalei…
 
 2022-09-14T09:20:33.009Z
 
@@ -472,7 +472,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [PDF search engine for free scientific publications - FreeFullPDF](https://freefullpdf.com/#gsc.tab=0) - Download over 80 million free science papers, patents, theses and posters
 
@@ -482,7 +482,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://catma.de/wp-content/uploads/2019/10/CATMA-girl-2019-catma-6.png)
 
@@ -494,7 +494,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://cloudbrowser.io/ogimage.png)
 
@@ -506,7 +506,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Litmaps](https://app.litmaps.com/sign-up) - Visualise, expand, and share your research expertise using an intuitive citation graph interface.
 
@@ -516,7 +516,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://www.usa.gov/images/facebook_share_thumbnail.png)
 
@@ -528,7 +528,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [RePEc: Research Papers in Economics](http://repec.org) - RePEc is a central index of economics research, including working papers, articles and software code
 
@@ -538,7 +538,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Libgen.fun](https://libgen.fun) - nan
 
@@ -548,7 +548,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://freelearninglist.org/freelearninglist.jpg)
 
@@ -560,7 +560,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [MERLOT](https://www.merlot.org/merlot/index.htm) - The MERLOT system provides access to curated online learning and support materials and content creation tools, led by an international community of educators, learners and researchers.
 
@@ -570,7 +570,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Welcome-Taguette](https://app.taguette.org) - Free and open source qualitative research tool
 
@@ -580,7 +580,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Bookfeed.io - An RSS Feed with New Releases from Your Favorite Authors](http://bookfeed.io) - nan
 
@@ -590,7 +590,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://s0.wp.com/i/blank.jpg)
 
@@ -602,7 +602,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://asc.pixelofink.com/static/AudiobookSpeedCalculator.jpg)
 
@@ -614,7 +614,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [The Comprehensive R Archive Network](https://cran.r-project.org) - nan
 
@@ -624,7 +624,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://discord.com/invite/undefined//discord.com/assets/652f40427e1f5186ad54836074898279.png)
 
@@ -636,7 +636,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://docdownload.net/wp-content/uploads/2022/11/x20-1-e1667754440544.jpg)
 
@@ -648,7 +648,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://docdownloader.com/public/img/logo-docdownloader-square.png)
 
@@ -660,7 +660,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [DOWNSCRIBD.COM - Free Scribd downloader](https://downscribd.com) - nan
 
@@ -670,7 +670,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [eBook DRM Removal - eBook Converter - Convert DRM ebook to PDF ePub AZW Word Format](https://ebook-converter.com) - nan
 
@@ -680,7 +680,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [FanFictionDownloader](https://fanfictiondownloader.net) - nan
 
@@ -690,7 +690,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [FicHub](https://fichub.net) - nan
 
@@ -700,7 +700,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://github.githubassets.com/images/modules/gists/gist-og-image.png)
 
@@ -712,7 +712,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://repository-images.githubusercontent.com/280670150/42be2200-d32c-11ea-8867-4797c2a75fdd)
 
@@ -724,7 +724,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://opengraph.githubassets.com/1437eda7540d196c4efb084d8a62bfc8e7ae261bbc67146e20d2c830a6bd9c3d/JimmXinu/FanFicFare)
 
@@ -736,7 +736,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://opengraph.githubassets.com/4e984a2a0f53c43446678b1f7851a99ce372f633d1b710ee0421f102af85ef27/kermitt2/grobid)
 
@@ -748,7 +748,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://opengraph.githubassets.com/f92a9b81c6724c7134d340f3c9f437279071c463f6035c05b3772d4ded3b78b2/lise-henry/crowbook)
 
@@ -760,7 +760,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://opengraph.githubassets.com/50ead3df5e955e7359b0a9ce49cb5191246e74913cb8c9d81cb04a8ab43fe2b4/MechTechnology/SmartStitch)
 
@@ -772,7 +772,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://opengraph.githubassets.com/0a86febe5ad2533ed8bfa8ab112d12401e023fd0e936d8f09658b9c1194fc3ca/NiklasGollenstede/epub-creator)
 
@@ -784,7 +784,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://opengraph.githubassets.com/3e83a6bdc584fbff8063220f94ad390f6de5219a6d2b67e8b5d57dc495ca7576/noDRM/DeDRM_tools)
 
@@ -796,7 +796,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://opengraph.githubassets.com/3bf6f418560d391a56507f10ac7363876f1f92014696b96cbff4a8c7fd4fbb97/Readarr/Readarr)
 
@@ -808,7 +808,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://opengraph.githubassets.com/05d74517516cd041c1b1fed48d24cc42a208241bc635aa33b4167523f5092d98/n0maj1o24/RemoveWatermark)
 
@@ -820,7 +820,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://gitlab.com/uploads/-/system/project/avatar/9317860/ll.png)
 
@@ -832,7 +832,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [downloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs) - nan
 
@@ -842,7 +842,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [How Long to Read - Search millions of books](https://howlongtoread.com) - nan
 
@@ -852,7 +852,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://opengraph.githubassets.com/dbc0ce426cfe412f3cb11b9ef9f69ec2e7e6aeb8a2dbda9f93f39a5f04caf6a7/ciromattia/kcc)
 
@@ -864,7 +864,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Libby](https://libbyapp.com) - nan
 
@@ -874,7 +874,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Readarr](https://readarr.com) - nan
 
@@ -884,7 +884,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://share.redd.it/preview/post/fm1xpw)
 
@@ -896,7 +896,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://share.redd.it/preview/post/kfv1c6)
 
@@ -908,7 +908,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://share.redd.it/preview/post/ofcqds)
 
@@ -920,7 +920,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [SCFULL.com - Download Scribd documents for free](https://scfull.com) - nan
 
@@ -930,7 +930,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Scribd Downloader - Download Scribd Documents For Free](https://scribddown.com) - nan
 
@@ -940,7 +940,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Sigil-Ebook](https://sigil-ebook.com) - nan
 
@@ -950,7 +950,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [convert web pages to Kindle (mobi), ePub, and PDF files. :: Txtpaper](https://txtpaper.com) - nan
 
@@ -960,7 +960,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [MobileRead Wiki - E-book conversion](https://wiki.mobileread.com/wiki/e-book_conversion) - nan
 
@@ -970,7 +970,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://www.fivefilters.org/wp-content/uploads/2020/04/social-share-frontpage.png)
 
@@ -982,7 +982,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 [Discover the Best eBooks, Audiobooks, Magazines, Sheet Music, and More-Scribd](https://www.scribd.com) - nan
 
@@ -992,7 +992,7 @@
 
 ---
 
-## Reference Tools
+### Reference Tools
 
 ![](https://ik.imagekit.io/ss4oxselbr/card_1_7o92zdPyQKSH.png)
 

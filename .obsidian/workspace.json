@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "AI/Apps.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AI/Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AI/Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AI/Apps.md"
               }
             }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "d0ffa0ca5719149c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1b8a30229138204",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,16 +169,18 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "2f71df54cbe07ae4",
+  "active": "cf9b40bfd9c1336a",
   "lastOpenFiles": [
+    "Tech/Mobile.md",
+    "Tech/PC.md",
+    "AI/Audio.md",
+    "AI/Apps.md",
+    "README.md",
     "WebDev/Finding SSL Certificates.md",
     "WebDev/Decentralized.md",
     "WebDev/Dashboards.md",
     "WebDev/Blog and CMS.md",
     "WebDev/Backlinks.md",
-    "WebDev/Activity Logging.md",
-    "AI/Audio.md",
-    "AI/Apps.md",
-    "README.md"
+    "WebDev/Activity Logging.md"
   ]
 }

@@ -1,7 +1,7 @@
-# Research
-## Learning
-
+## Research
 ### Learning
+
+#### Learning
 
 ![](https://ai.flashcardx.com/opengraph-image?1b580836740a20eb)
 
@@ -13,7 +13,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://aimafia.club/wp-content/uploads/2023/07/ai-mafia-ia-noticias-comunidad.jpeg)
 
@@ -25,7 +25,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://basmo.app/wp-content/uploads/2023/04/01-ai-chatbook-473x1024.webp)
 
@@ -37,7 +37,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://brain-buddy.com/wp-content/uploads/2023/04/grabOn-featured-logo.png)
 
@@ -49,7 +49,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [Chatprep AI](https://chatprep.net) - Chatprep: Your Personal Exam Coach - The App that Guides You to Success
 
@@ -59,7 +59,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://checkforai.com/static/public/linkpreview.png)
 
@@ -71,7 +71,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://lh3.googleusercontent.com/vSb231f-b9mU7R9W--_IXu4pzVEHWa9aNeT7QEaQ8Ho12sOfqwYG2WAV-n2RiJoTvRzHaRb6U5Q_x6ibzRXWWl6Vv-k=w128-h128-e365-rj-sc0x00ffffff)
 
@@ -83,7 +83,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://communitydata.uuki.live/social_cover/308/Xb8W8LoITvlX7g7RbbZTExilLWbuVP0I.png)
 
@@ -95,7 +95,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://courseai.co/courseai-co-logo-square.png)
 
@@ -107,7 +107,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [DeAP Learning Labs](https://deaplearning.com) - Boost AP US & World History skills with free AI-powered tutor chatbots.
 
@@ -117,7 +117,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://www.educatorlab.org/educator-lab-cover.jpg)
 
@@ -129,7 +129,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://explainlikeimfive.io/wp-content/uploads/2023/02/airjor_dan_an_orange_colored_forest_aerial_shot_white_backgroun_4508cd69-5a3c-41c8-aa87-cafd240af2df.png)
 
@@ -141,7 +141,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [GAJIX](https://gajix.com) - Personal AI Learning Assistant for all your educational needs
 
@@ -151,7 +151,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://imaginaition.ai/wp-content/uploads/2023/05/developer-header-for-google-scaled.jpg)
 
@@ -163,7 +163,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://languate.com/og.png)
 
@@ -175,7 +175,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://ik.imagekit.io/wjn5o3agi/litgradestextloog_FuVgt8Zxm?updatedAt=1692978341758)
 
@@ -187,7 +187,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [Mathly](https://mathly.webflow.io) - Smart Math Homework Helper with Customized Explanations
 
@@ -197,7 +197,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://cdn.openai.com/API/images/opengraph.png)
 
@@ -209,7 +209,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [Poe](https://poe.com) - Ask questions and get responses from Quora
 
@@ -219,7 +219,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://b5n4c7q6.rocketcdn.me/wp-content/uploads/2023/05/seo-thumb-fb.png)
 
@@ -231,7 +231,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://imagedelivery.net/1wpWmoOF0K-Y_NxLJO3e2w/ea661bee-c9db-4276-0455-75c36a8b9500/w=1680)
 
@@ -243,7 +243,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [Q-Chat](https://quizlet.com/labs/qchat) - Q-Chat is Quizlet's AI used to help make learning fun and easy with more than just flashcards.
 
@@ -253,7 +253,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [TreeMind](https://shutu.cn) - Enhance your learning and work efficiency with AI-generated mind maps
 
@@ -263,7 +263,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fa117f7b6393a1c79e27de25e2692c431.cdn.bubble.io%2Ff1666869695045x385019343109326700%2Ficonsoofy.png?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -275,7 +275,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [Speakable](https://speakableapp.com) - AI assistant for World Language & ESL teachers
 
@@ -285,7 +285,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [Studyable](https://studyable.app) - Study with an AI tutor
 
@@ -295,7 +295,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://teachermatic.com/wp-content/uploads/2023/03/logo-without-text-blue.png)
 
@@ -307,7 +307,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [The GodChat](https://thegodchat.com) - Your personal God AI assistant on WhatsApp
 
@@ -317,7 +317,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://framerusercontent.com/images/axmYj1LfikneppknRXlceJPOOEI.jpg)
 
@@ -329,7 +329,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [EVITA.ai](https://www.evita.ai) - EVITA is your personal singing teacher, voice nerd, and thespian, powered by AI
 
@@ -339,7 +339,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [QuizWizardGPT](https://www.quizwizardgpt.com) - Create perfect quizzes & lesson plans with AI
 
@@ -349,7 +349,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [Quriosity](https://www.quriosity.world/#/coursereq) - The first-ever AI-powered course creator for personalized learning
 
@@ -359,7 +359,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [Talkme.ai](https://www.talkme.ai) - Say goodbye to social anxiety and build your confidence. Practice your spoken English with ease and fun - TalkMe.ai
 
@@ -369,7 +369,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://tandem-gpt.vercel.app/meta.png)
 
@@ -381,7 +381,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://www.teachology.ai/teachology-social-header.png)
 
@@ -393,7 +393,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://www.trinka.ai/assets/images/Trinka.jpg)
 
@@ -405,7 +405,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://www.turnitin.com/img/themes/turnitin/img/default-turnitin-image.png?s=ea83de6244b33b609b2c7232765c38b3)
 
@@ -417,7 +417,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://tutorai.me//share/home.jpg)
 
@@ -429,7 +429,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://images.prismic.io/heydayxyz/bcbfbd5a-5d9f-4f8d-be25-5d7ef831b3dc_SocialShareImage.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50)
 
@@ -441,7 +441,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [fast.ai](https://keras.io) - Making neural nets uncool again
 
@@ -451,7 +451,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](http://static1.squarespace.com/static/62d695e96497c259aec5ce6c/t/62d695ed6497c259aec5cf54/1657019134497/color.png?format=1500w)
 
@@ -463,7 +463,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [Quazel](https://baseplate.ai) - Learn a language through natural conversation
 
@@ -473,7 +473,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 [Knewton](https://century.tech) - Achievement Within Reach
 
@@ -483,7 +483,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://cookaifood.com/bundles/project/images/cover.png)
 
@@ -495,7 +495,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://ivy.ai/logo_ivyai_vertical.png)
 
@@ -507,7 +507,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://kore-wordpress.s3.us-east-2.amazonaws.com/wp-content/uploads/2023/03/05000047/Kore-ai-Social-Share-Featured.jpg)
 
@@ -519,7 +519,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://beta.monic.ai/static/media/monic-original.a05c3c3e22b9792a6068.png)
 
@@ -531,7 +531,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://postwise.ai/img/header.png)
 
@@ -543,7 +543,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://talkpal.ai/wp-content/uploads/2023/03/TalkPal-AI-logos-1.jpeg)
 
@@ -555,7 +555,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://framerusercontent.com/images/9OzKOVfbBI6f83y2byA45d7xVGI.png)
 
@@ -567,7 +567,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://b5n4c7q6.rocketcdn.me/wp-content/uploads/2023/05/seo-thumb-fb.png)
 
@@ -579,7 +579,7 @@
 
 ---
 
-### Learning
+#### Learning
 
 ![](https://collegegrantwizard.com/src/client/static/image.png)
 
@@ -591,9 +591,9 @@
 
 ---
 
-## Research
-
 ### Research
+
+#### Research
 
 [YC Funding Assistant](https://app.sttabot.io/bot/yc-funding-assistant) - YC Funding Assistant to answer all your startup & funding related questions.
 
@@ -603,7 +603,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f2/ab/f6/f2abf66c-52e2-13bb-48ba-b8f3dff0e746/AppIcon-1x_U007epad-85-220.png/1200x630wa.png)
 
@@ -615,7 +615,7 @@
 
 ---
 
-### Research
+#### Research
 
 [Census GPT](https://censusgpt.com/SF) - Find Answers to Your Demographic Queries
 
@@ -625,7 +625,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://mnemonic.ai/wp-content/uploads/2019/09/FullColor_IconOnly_1024x1024_72dpi.jpg)
 
@@ -637,7 +637,7 @@
 
 ---
 
-### Research
+#### Research
 
 [PDF GPT](https://pdfgpt.io) - Tool that allows users to upload PDFs and get summaries and answers to their questions
 
@@ -647,7 +647,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://socratic.org/static/images/socratic_profile_with_name.png)
 
@@ -659,7 +659,7 @@
 
 ---
 
-### Research
+#### Research
 
 [UncensoredGreats](https://uncensoredgreats.com) - Talk to Esteemed Authors about their Collected Works
 
@@ -669,7 +669,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://uploads-ssl.webflow.com/5f102a848635195a643b1e08/5f6324b2908e96c6b2a075ce_fx.aifbpost.png)
 
@@ -681,7 +681,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://litmaps.com/site-seo.png)
 
@@ -693,7 +693,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://meetcody.ai/wp-content/uploads/2023/05/Warstwa-10.png)
 
@@ -705,7 +705,7 @@
 
 ---
 
-### Research
+#### Research
 
 [Namique](https://www.namique.xyz) - Namique is a free naming tool that helps users generate unique and creative brand names for their business.
 
@@ -715,7 +715,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://paperbrain.study/logo.png)
 
@@ -727,7 +727,7 @@
 
 ---
 
-### Research
+#### Research
 
 [Shaping Tomorrow](https://www.shapingtomorrow.com) - AI-driven horizon scanning and foresight service for strategic intelligence.
 
@@ -737,7 +737,7 @@
 
 ---
 
-### Research
+#### Research
 
 [Essense](https://quazel.com) - Product Research & Feedback Analysis
 
@@ -747,7 +747,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/thumbnail/6b5749ce-1b18-47a1-94ff-0d1c05a81a86/landscape_dsyntha_abstract_image_with_vibrant_neon_colours_4b5a7def-f5a5-4c0e-a9ad-a7370631d6c7.png)
 
@@ -759,7 +759,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://uploads-ssl.webflow.com/63d2d31c94264739ea496e71/63e44fa8270ef0fe11588e2e_open%20graph%20image.png)
 
@@ -771,7 +771,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://gapscout.com/wp-content/uploads/1970/01/Untitled-Design-14.png)
 
@@ -783,7 +783,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://cdn.staccato.ai/pub/images/staccato-share-sq.png)
 
@@ -795,7 +795,7 @@
 
 ---
 
-### Research
+#### Research
 
 [Rose](https://kaiber.ai) - Smarter machines for beautiful data.
 
@@ -805,7 +805,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://images.prismic.io/remini-marketing-website/f37c6090-0886-44ab-91c2-013d76085de4_OG%2BImage.png?auto=compress,format)
 
@@ -817,7 +817,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://cdn.carnegielearning.com/assets/teaser-images/default-share-1200x630.png)
 
@@ -829,7 +829,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://www.symanto.com/wp-content/uploads/BlogsSnippets/Symanto.jpg)
 
@@ -841,7 +841,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://tolygpt.com/solana-og.png)
 
@@ -853,7 +853,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://uploads-ssl.webflow.com/6127a84dfe068e153ef20572/641818c321beab75f7ea925e_open-graph-image-home.jpg)
 
@@ -865,7 +865,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://www.evolup.com/static/images/evolup/Evolup_OpenGraph-EN.png)
 
@@ -877,7 +877,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://storage.googleapis.com/titanium-diode-208122.appspot.com/OG%20Image.svg)
 
@@ -889,7 +889,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://assets.website-files.com/614380a47fdb8fcc8b720751/6189823dc4dea56f4043791f_open-graph.png)
 
@@ -901,7 +901,7 @@
 
 ---
 
-### Research
+#### Research
 
 [OpenRead](https://oxolo.com) - An AI-Powered platform that supercharges your research efficiency.
 
@@ -911,7 +911,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://pytorch.org/assets/images/pytorch-logo.png)
 
@@ -923,7 +923,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://keywordcatcher.com/wp-content/uploads/2023/07/main-dashbaord.png)
 
@@ -935,7 +935,7 @@
 
 ---
 
-### Research
+#### Research
 
 [you-tldr](https://ailabtools.com) - Get the TLDR of any YouTube Video in seconds
 
@@ -945,7 +945,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://cloud-1de12d.b-cdn.net/media/iW=1200&iH=630/859bf7021400f4d560cd6d80e505bada.png)
 
@@ -957,7 +957,7 @@
 
 ---
 
-### Research
+#### Research
 
 [Poe](https://poe.com/login?redirect_url=%2F%3Fref%3Daitoolkit.org) - Inquire and receive answers on Quora.
 
@@ -967,7 +967,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://i.ibb.co/zNGRG3g/Untitled-design-5.png)
 
@@ -979,7 +979,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://www.validatorai.com/img/social-media-v-logo.jpg)
 
@@ -991,7 +991,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://cdn.you.com/img/THUMBNAIL_002a.png)
 
@@ -1003,7 +1003,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://static.wixstatic.com/media/468ca4_83f385a6668a4d689637e688c891fe4a~mv2.png/v1/fill/w_2500,h_1406,al_c/468ca4_83f385a6668a4d689637e688c891fe4a~mv2.png)
 
@@ -1015,7 +1015,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://artifact.news/og_image.png)
 
@@ -1027,7 +1027,7 @@
 
 ---
 
-### Research
+#### Research
 
 [Vacay](https://usevacay.com/chatbot) - Assistant for Chatting about Vacation and Travel
 
@@ -1037,7 +1037,7 @@
 
 ---
 
-### Research
+#### Research
 
 [Stable Attribution](https://stableattribution.com) - Find the individuals or organizations responsible for producing AI-generated images and provide a link to their attribution.
 
@@ -1047,7 +1047,7 @@
 
 ---
 
-### Research
+#### Research
 
 [Valideo](https://valideo.xyz) - A platform for recommending Amazon products
 
@@ -1057,7 +1057,7 @@
 
 ---
 
-### Research
+#### Research
 
 [Spatial.ai](https://spatial.ai) - Anticipate and shape customer actions
 
@@ -1067,7 +1067,7 @@
 
 ---
 
-### Research
+#### Research
 
 [Percy Lab](https://dash.percylab.com/invites/8fOXyrIAng) - Using the Open AI api, Percy Lab has the ability to produce comprehensive texts as needed.
 
@@ -1077,7 +1077,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://www.teach-anything.com/og-image.png)
 
@@ -1089,7 +1089,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://readpilot.vercel.app/api/og)
 
@@ -1101,7 +1101,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://blog.feedly.com/wp-content/uploads/2020/03/Leo-feedly2-07@3x-1.png)
 
@@ -1113,7 +1113,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F308f133d6fb8d077f4d0ab584176455f.cdn.bubble.io%2Ff1673991650471x907829260206606500%2FURL%2520Preview%2520Image%2520%25E2%2580%2593%2520Meta%2520%25E2%2580%2593%2520Tagline.pngng?w=&h=&auto=compress&dpr=1&fit=max)
 
@@ -1125,7 +1125,7 @@
 
 ---
 
-### Research
+#### Research
 
 ![](https://framerusercontent.com/images/0oSa8NoaBK5tkhQWuxflenej9iw.png)
 
@@ -1137,7 +1137,7 @@
 
 ---
 
-### Research
+#### Research
 
 [AI-RnD](https://www.ai-rnd.com) - nan
 
