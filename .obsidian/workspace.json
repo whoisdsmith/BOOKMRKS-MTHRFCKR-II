@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3c95fb75e2217aec",
+        "id": "4cff6dbdcb90e906",
         "type": "tabs",
         "children": [
           {
-            "id": "cf9b40bfd9c1336a",
+            "id": "d8c1b7c4ae0cd25e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -131,25 +131,10 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "d0ffa0ca5719149c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d1b8a30229138204",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,18 +154,43 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "cf9b40bfd9c1336a",
+  "active": "d8c1b7c4ae0cd25e",
   "lastOpenFiles": [
-    "AI/Apps.md",
-    "Tech/Mobile.md",
-    "Tech/PC.md",
-    "AI/Audio.md",
     "README.md",
-    "WebDev/Finding SSL Certificates.md",
-    "WebDev/Decentralized.md",
-    "WebDev/Dashboards.md",
-    "WebDev/Blog and CMS.md",
-    "WebDev/Backlinks.md",
-    "WebDev/Activity Logging.md"
+    "README.md",
+    "Merged/AI.md",
+    "Merged/BMMF.md",
+    "Merged/WebDev.md",
+    "Merged/Tools.md",
+    "Merged/Tech.md",
+    "Merged/Social.md",
+    "Merged/Search.md",
+    "Merged/Reference.md",
+    "Merged/Piracy.md",
+    "Merged/Media.md",
+    "Merged/Dev.md",
+    "Merged/Design.md",
+    "Merged/Browser.md",
+    "Merged/WebDev-merged.md",
+    "Merged",
+    "Merged/Tools-merged.md",
+    "Merged/Tech-merged.md",
+    "Merged/Social-merged.md",
+    "Merged/Search-merged.md",
+    "Merged/Reference-merged.md",
+    "Programming/Programming-merged.md",
+    "Productivity/Productivity-merged.md",
+    "Merged/Piracy-merged.md",
+    "Merged/Media-merged.md",
+    "Merged/Dev-merged.md",
+    "New folder/WebDev",
+    "New folder/Tools",
+    "New folder/Tech",
+    "New folder/Social",
+    "New folder/Search",
+    "New folder/Reference",
+    "New folder/Programming",
+    "New folder/Productivity",
+    "New folder/Piracy"
   ]
 }

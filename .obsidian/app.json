@@ -2,5 +2,6 @@
   "newFileLocation": "current",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }
