@@ -1,6 +1,6 @@
-# Decentralized
-
 ## Decentralized
+
+
 
 ![](https://www.handshake.org/images/landing/logo-dark.svg)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Decentralized
+
 
 ![](https://filebase.com/social-logo.png)
 

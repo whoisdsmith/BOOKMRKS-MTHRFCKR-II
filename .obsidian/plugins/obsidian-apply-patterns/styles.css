@@ -1,0 +1,62 @@
+.import-export-div .setting-item {
+    border-top: none;
+}
+
+.pattern,
+.command {
+    border-top: 2px solid var(--interactive-accent);
+}
+
+.pattern:nth-last-child(2),
+.command:nth-last-child(2) {
+    border-bottom: 2px solid var(--interactive-accent);
+    margin-bottom: 1em;
+}
+
+.patterns .rule.disabled,
+.patterns .pattern .is-disabled,
+.patterns .rule .is-disabled,
+.commands .command .is-disabled {
+    opacity: 50%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.pattern.collapsed [aria-label="Expand"] {
+    color: var(--interactive-success);
+}
+
+.pattern.collapsed .pattern-rules,
+.pattern.collapsed .pattern-cursor {
+    display: none;
+}
+
+.pattern.primed div[aria-label="Delete pattern"],
+.rule.primed div[aria-label="Delete rule"],
+.command.primed div[aria-label="Delete command"] {
+    color: var(--text-error) !important;
+}
+
+.clear-settings-button.primed button {
+    background-color: var(--background-modifier-error) !important;
+    color: var(--text-error) !important;
+}
+
+.commands .bold {
+    color: var(--text-error);
+    font-size: 1.15em;
+}
+
+.invalid input[type='text'] {
+    background: rgb(255, 0, 0, 0.2) !important;
+}
+
+.validation-text {
+    color: var(--text-error) !important;
+    text-align: right;
+    display: block;
+    font-size: small;
+    font-style: italic;
+}

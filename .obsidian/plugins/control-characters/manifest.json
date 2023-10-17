@@ -1,0 +1,10 @@
+{
+	"id": "control-characters",
+	"name": "Control Characters",
+	"version": "0.3.0",
+	"minAppVersion": "0.15.0",
+	"description": "Show control/non-printing characters in edit mode",
+	"author": "Johannes Theiner",
+	"authorUrl": "https://github.com/joethei",
+	"isDesktopOnly": false
+}

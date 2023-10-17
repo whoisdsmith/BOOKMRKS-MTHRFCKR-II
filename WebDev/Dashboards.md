@@ -1,6 +1,6 @@
-# Dashboards
-
 ## Dashboards
+
+
 
 [Quick Admin Panel - CRUD Generator](https://quickadminpanel.com) - nan
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Dashboards
+
 
 ![](https://oguzhaninan.github.io/Stacer-Web/images/stacer.jpg)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Dashboards
+
 
 ![](https://opengraph.githubassets.com/5a463daf4ba6ed85855289a7af136d46c33ee2cf5702385bac31095a11b845ec/bastienwirtz/homer)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Dashboards
+
 
 ![](https://opengraph.githubassets.com/97ed1177dfdaeb1df23781223d65e92f5da62e1de3dc67bac8d1036625d92fcb/tomershvueli/homepage)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Dashboards
+
 
 ![](https://repository-images.githubusercontent.com/365565715/41e1c378-2d4a-4350-b432-b59abbc67c9f)
 
@@ -58,7 +58,7 @@
 
 ---
 
-## Dashboards
+
 
 ![](https://repository-images.githubusercontent.com/265541694/24ca7a80-9abc-11ea-9c1b-8efde5bbfa3d)
 
@@ -70,7 +70,7 @@
 
 ---
 
-## Dashboards
+
 
 ![](https://opengraph.githubassets.com/7628139bec00d5538b07822f66a6167c6a2bf9254b36cdb363069c275d3803a8/vuejs/vuepress)
 
@@ -78,33 +78,33 @@
 
 2022-11-01T15:30:36.000Z
 
-#static sites
+#staticsites
 
 ---
 
-## Dashboards-Dashboard Tools
+## Dashboard Tools
 
-### Dashboards-Dashboard Tools
+
 
 [Analyticsportfolio.com](https://analyticsportfolio.com) - nan
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 [Bilbeo.com](https://www.bilbeo.com) - nan
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 ![](https://chartio.com/images/og-image-vsql.png)
 
@@ -112,11 +112,11 @@
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 ![](https://www.clicdata.com/wp-content/uploads/2023/03/home-data-integration.jpg)
 
@@ -124,11 +124,11 @@
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 ![](https://www.cyfe.com/wp-content/uploads/2020/02/Cyfe-TV-Mode_image-min-1024x689.png)
 
@@ -136,11 +136,11 @@
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 ![](https://dasheroo.com/wp-content/uploads/2022/01/databox_image_1000.jpg)
 
@@ -148,11 +148,11 @@
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 ![](https://dashthis.com/media/5446/website_og-1.png)
 
@@ -160,11 +160,11 @@
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 ![](https://cdnwebsite.databox.com/wp-content/uploads/2019/04/23015412/OG_image.jpg)
 
@@ -172,11 +172,11 @@
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 ![](https://ptmindwebsite.s3-ap-northeast-1.amazonaws.com/2018/10/test.jpg)
 
@@ -184,11 +184,11 @@
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 ![](https://www.datapine.com/images/business-intelligence-dashboard-platform-datapine.png)
 
@@ -196,11 +196,11 @@
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 ![](https://www.geckoboard.com/uploads/geckoboard-social-thumb.jpg)
 
@@ -208,41 +208,41 @@
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 [HappyMetrix](https://www.happymetrix.com) - nan
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 [iDashboards](https://www.idashboards.com) - TruOI Operational Intelligence is a Franchise and Chain business tool for managing the performance gap. TruOI integrates and automates all your systems, data, locations, and people in real-time for operational success.
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 [InetSoft.com](https://www.inetsoft.com) - InetSoft is a leading business intelligence software vendor, providing big data analytics, dashboard reporting solutions and business reporting software.
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 ![](https://www.klipfolio.com/klipfolio-logo-share.png)
 
@@ -250,11 +250,11 @@
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 ![](https://www.scoro.com/wp-content/uploads/2023/06/Scoro-Quote_To_Cash_1200x627_2x.png)
 
@@ -262,11 +262,11 @@
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 ![](https://www.smartsheet.com/sites/default/files/2020-10/33845-lodestar-og-image.jpg)
 
@@ -274,11 +274,11 @@
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 ![](https://d3o6qwvnm3r65h.cloudfront.net/assets/img/meta/spider-strategies-meta-58.png)
 
@@ -286,18 +286,16 @@
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
 
-### Dashboards-Dashboard Tools
+
 
 [Targetdashboard.com](https://www.targetdashboard.com) - Easily build Powerful, Actionable KPI Dashboards in minutes. Quickly report on data from Excel, SQL databases or 3rd party apps. Affordable online application designed for Managers
 
 2022-10-03T05:06:20.000Z
 
-#dashboard tools
+#dashboardtools
 
 ---
-
-## Decentralized

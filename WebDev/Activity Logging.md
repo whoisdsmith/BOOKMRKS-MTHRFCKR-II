@@ -1,6 +1,6 @@
-# Activity Logging
-
 ## Activity Logging
+
+
 
 ![](https://www.libhunt.com/assets/logo/logo-og-ed809256db5b35139bc05c225c0616a376d0c37b00af28e0e797f1cacccdfa48.png)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Activity Logging
+
 
 ![](https://whatpulse.org/images/whatpulse-main-featured-image.jpg)
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Activity Logging
+
 
 [Heedy Heedy 0.4.1-git.1570 documentation](https://heedy.org) - nan
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Activity Logging
+
 
 [Dogsheep-dogsheep.github.io](https://dogsheep.github.io) - Tools for personal analytics using SQLite and Datasette
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Activity Logging
+
 
 [arbtt: the automatic, rule-based time tracker](http://arbtt.nomeata.de) - nan
 
@@ -54,4 +54,3 @@
 
 ---
 
-## Backlinks
