@@ -131,10 +131,25 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "fca86b8c2e028840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "328abaa1768386a4",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,9 +171,9 @@
   },
   "active": "d8c1b7c4ae0cd25e",
   "lastOpenFiles": [
-    "README.md",
-    "README.md",
     "Merged/AI.md",
+    "README.md",
+    "Merged/BMMFII.md",
     "Merged/BMMF.md",
     "Merged/WebDev.md",
     "Merged/Tools.md",
@@ -182,7 +197,6 @@
     "Productivity/Productivity-merged.md",
     "Merged/Piracy-merged.md",
     "Merged/Media-merged.md",
-    "Merged/Dev-merged.md",
     "New folder/WebDev",
     "New folder/Tools",
     "New folder/Tech",
