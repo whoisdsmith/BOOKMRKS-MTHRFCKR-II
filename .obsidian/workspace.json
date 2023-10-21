@@ -11,12 +11,8 @@
             "id": "d8c1b7c4ae0cd25e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI.md"
+                "file": "raindocs/Raindocs.md"
               }
             }
           }
@@ -133,11 +127,11 @@
         "currentTab": 3
       },
       {
-        "id": "fca86b8c2e028840",
+        "id": "b9922655d59bffb5",
         "type": "tabs",
         "children": [
           {
-            "id": "328abaa1768386a4",
+            "id": "6bc49a4a873dcffd",
             "type": "leaf",
             "state": {
               "type": "map-of-content",
@@ -171,32 +165,33 @@
   },
   "active": "2f71df54cbe07ae4",
   "lastOpenFiles": [
-    "README.md",
+    "raindocs/showcase.md",
+    "raindocs/Raindocs.md",
+    "raindocs/changelog.md",
+    "raindocs/import.md",
+    "raindocs/filters.md",
+    "raindocs/tags.md",
+    "raindocs/authenticated.md",
+    "raindocs/user.md",
+    "raindocs/highlights.md",
+    "raindocs/multiple.md",
+    "raindocs/single.md",
+    "raindocs/raindrops.md",
+    "raindocs/covers-icons.md",
+    "raindocs/sharing.md",
+    "raindocs/nested-structure.md",
+    "raindocs/methods.md",
+    "raindocs/collections.md",
+    "raindocs/calls.md",
+    "raindocs/token.md",
+    "raindocs/authentication.md",
+    "raindocs/terms.md",
+    "raindocs/README.md",
     "AI.md",
+    "README.md",
     "BMMFII.md",
     "BMMF.md",
-    "WebDev.md",
-    "Tools.md",
-    "Tech.md",
-    "Social.md",
-    "Search.md",
-    "Reference.md",
-    "Piracy.md",
-    "Media.md",
-    "Dev.md",
-    "Design.md",
-    "Browser.md",
-    "Merged/WebDev-merged.md",
     "Merged",
-    "Merged/Tools-merged.md",
-    "Merged/Tech-merged.md",
-    "Merged/Social-merged.md",
-    "Merged/Search-merged.md",
-    "Merged/Reference-merged.md",
-    "Programming/Programming-merged.md",
-    "Productivity/Productivity-merged.md",
-    "Merged/Piracy-merged.md",
-    "Merged/Media-merged.md",
     "New folder/WebDev",
     "New folder/Tools",
     "New folder/Tech",
