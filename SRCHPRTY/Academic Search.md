@@ -1,0 +1,22 @@
+## Academic Search
+
+- [Academia.edu - Share research](https://www.academia.edu/) - Academia.edu is a place to share and follow research.
+- [RefSeek - Academic Search Engine](http://www.academicindex.net/) - Academic search engine for students and researchers. Locates relevant academic search results from web pages, books, encyclopedias, and journals.
+- [AMiner](http://arnetminer.org/) - AMiner
+- [Timeout](https://www.base-search.net/) - Server took too long to respond.
+- [Directory of Open Access Journals – DOAJ](https://doaj.org/) - DOAJ is a unique and extensive index of diverse open access journals from around the world, driven by a growing community, committed to ensuring quality content is freely available online for everyone.
+- [ERIC - Education Resources Information Center](https://eric.ed.gov/) - ERIC is an online library of education research and information, sponsored by the Institute of Education Sciences (IES) of the U.S. Department of Education.
+- [Lexis® - Sign In | LexisNexis](http://lexisweb.com/) - LexisNexis users sign in here. Click here to login and begin conducting your legal research now.
+- [Google Scholar](http://scholar.google.de/) - Google Scholar provides a simple way to broadly search for scholarly literature. Search across a wide variety of disciplines and sources: articles, theses, books, abstracts and court opinions.
+- [Google Scholar](https://www.scholar.google.com/) - Google Scholar provides a simple way to broadly search for scholarly literature. Search across a wide variety of disciplines and sources: articles, theses, books, abstracts and court opinions.
+- [iSEEK - Education](https://education.iseek.com/iseek/home.page) - iSEEK.com - Target web information with ease.
+- [Copyscape Plagiarism Checker - Duplicate Content Detection Software](https://www.copyscape.com/) - No description
+- [JSTOR Home](https://www.jstor.org/) - JSTOR is a digital library of academic journals, books, and primary sources.
+- [RefSeek - Academic Search Engine](https://www.refseek.com/) - Academic search engine for students and researchers. Locates relevant academic search results from web pages, books, encyclopedias, and journals.
+- [Lumen](https://lumendatabase.org/) - No description
+- [Timeout](https://academic.microsoft.com/home) - Server took too long to respond.
+- [msearch.io - clinical search engine](https://msearch.io/) - Find treatment guidelines, comprehensive reviews, and medical journal articles from credible sources. msearch.io employs advanced analytics to display relevant results for the clinical setting.
+- [ResearchGate | Find and share research](https://www.researchgate.net/) - Access 160+ million publications and connect with 25+ million researchers. Join for free and gain visibility by uploading your research.
+- [Sci-Hub: knowledge must be free](https://sci-hub.ru/) - Sci-Hub website. Get free access to academic journals. Download research papers for free from ScienceDirect, IEEE, Wiley, Springer, Nature and others
+- [Scinapse | Academic search engine for paper](https://scinapse.io/) - Every research begins here. Find papers from over 170m papers in major STEM journals. Save time and never re-search.
+- [Semantic Scholar | AI-Powered Research Tool](https://www.semanticscholar.org/) - Semantic Scholar uses groundbreaking AI and engineering to understand the semantics of scientific literature to help Scholars discover relevant research.
