@@ -10,7 +10,11 @@ This is a MAJOR WIP!
 
 ---
 
-## Im using Raindrop.io for my Bookmarks Manager and currently trying to build a system that will sync my bookmarks to this repo, for now I am just going to post the links to all my collections until this is incorporated automatically.
+## Note
+
+Im using Raindrop.io for my Bookmarks Manager and currently trying to build a system that will sync my bookmarks to this repo, for now I am just going to post the links to all my collections until this is incorporated automatically.
+
+---
 
 ![](https://up.raindrop.io/collection/thumbs/386/340/40/4d817c90a18e46e0dfa0348c510b1d0d.png)
 
